@@ -92,8 +92,12 @@ The computations took about 1400 CPU hours in total, between 28 October and 3 No
 [`notes/cpu_time.md`](notes/cpu_time.md) for how this was measured).
 
 The complete certificates (about 360 GB, mostly matrices of the non-principality tests, exported modular symbol
-spaces and Krylov sequences) are not in this repository. The files `proof_manifest.json(.gz)` record their SHA256
-hashes, and they are available from the author on request.
+spaces and Krylov sequences) are not in this repository. They are deposited at Harvard Dataverse:
+
+> F. Najman, *Computational certificates for prime torsion in degrees 9–22*, Harvard Dataverse, 2026.
+> <https://doi.org/10.7910/DVN/5HHEY4>
+
+The files `proof_manifest.json(.gz)` record their SHA256 hashes.
 
 ## Notes
 
