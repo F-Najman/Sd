@@ -75,6 +75,9 @@ The scripts were run from the root of the original workspace, and most of them r
 `work/degreeNN -> ../degreeNN` and `work/audit1x -> ../audit1x`. The file `REPLAY.txt` in each of the folders
 `degree16`, …, `degree22` lists the commands in order.
 
+The computations took about 1400 CPU hours in total, between 28 October and 3 November 2026 (see
+[`notes/cpu_time.md`](notes/cpu_time.md) for how this was measured).
+
 The complete certificates (about 360 GB, mostly matrices of the non-principality tests, exported modular symbol
 spaces and Krylov sequences) are not in this repository. The files `proof_manifest.json(.gz)` record their SHA256
 hashes, and they are available from the author on request.
