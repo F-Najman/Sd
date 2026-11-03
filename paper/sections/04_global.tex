@@ -16,7 +16,7 @@ has rank $m$ modulo $\ell$, then $T_1e,\dots,T_me$ are linearly independent in $
 \end{lemma}
 
 \begin{proof}
-By \cite[Lemma 6.7]{DKSS} the entries of the matrix are the intersection numbers of $L_ne\in H_1(X_0(p),\Z)$ with the modular symbols $\{0,a/M\}$, so $L_1e,\dots,L_me$ are linearly independent in $H_1(X_0(p),\F_\ell)$. The $\Z$-span of $L_1,\dots,L_m$ is the same as that of $(T_2-3)T_1,\dots,(T_2-3)T_m$, and $(T_2-3)\T e\subseteq H_1(X_0(p),\Z)$ (see the proof of \cite[Corollary 6.6]{DKSS}). So if $\sum\lambda_nT_ne\in\ell\T e$ with $\lambda_n\in\Z$, then $\sum\lambda_n(T_2-3)T_ne\in\ell H_1(X_0(p),\Z)$, and hence all the $\lambda_n$ are divisible by $\ell$.
+By \cite[Lemma 6.7]{DKSS} the entries of the matrix are, up to sign, the intersection numbers of $L_ne\in H_1(X_0(p),\Z)$ with the modular symbols $\{0,a/M\}$, so $L_1e,\dots,L_me$ are linearly independent in $H_1(X_0(p),\F_\ell)$. The $\Z$-span of $L_1,\dots,L_m$ is the same as that of $(T_2-3)T_1,\dots,(T_2-3)T_m$, and $(T_2-3)\T e\subseteq H_1(X_0(p),\Z)$ (see the proofs of \cite[Corollaries 6.4 and 6.6]{DKSS}). So if $\sum\lambda_nT_ne\in\ell\T e$ with $\lambda_n\in\Z$, then $\sum\lambda_n(T_2-3)T_ne\in\ell H_1(X_0(p),\Z)$, and hence all the $\lambda_n$ are divisible by $\ell$.
 \end{proof}
 
 \begin{definition}
@@ -173,7 +173,7 @@ Let $9\leq d\leq 22$, and let $p<10^5$ be a prime which is neither one of the pr
 \end{proposition}
 
 \begin{proof}
-Let $p\in S_{new}(d')$ for some $d'\mid d$. If $p^2>\kappa d+1$, then by \Cref{prop:DS75} and \cite[Table 2]{DSt}, and as $(d,p)\neq(16,193)$, $p$ is one of $181$ (for $d=15$), $409$ and $1021$ (for $d=17$). We \gitlink{degree22/verify_prime_coverage.py}{check} this for all $p<10^5$, using that the possible exceptions b) of \Cref{prop:DS75} are in $S(d)$. For these three primes we have $(p-1)/(2\str(p))=d$, so \Cref{prop:DS75} c) gives a non-cuspidal rational point on $X_0(p)$, which does not exist by Mazur's theorem \cite{mazur78}.
+Let $p\in S_{new}(d')$ for some $d'\mid d$. If $p^2>\kappa d+1$, then by \Cref{prop:DS75} and \cite[Table 2]{DSt}, and as $(d,p)\neq(16,193)$, $p$ is one of $181$ (for $d=15$), $409$ and $1021$ (for $d=17$). We \gitlink{degree22/verify_prime_coverage.py}{check} this for all $p<10^5$, using that the possible exceptions b) of \Cref{prop:DS75} are in $S(d)$. For these three primes we have $(p-1)/(2\str(p))=d$, so \Cref{prop:DS75} c) gives a non-cuspidal rational point on $X_0(p)$, which does not exist by Mazur's theorem \cite[Theorem 1]{mazur78}.
 
 The remaining primes satisfy $p^2\leq \kappa d+1$, and as $(d,p)\notin\{(14,127),(16,127)\}$, they are either in \Cref{table:local} or in \Cref{table:medium}. For $(p,a,\ell,n)$ and $d$ as in \Cref{table:medium}, the assumptions of \Cref{prop:DS41} hold: $(\dm a-1)J_1(p)(\Q)$ is finite by \Cref{lem:finite} (the only strange $p$ in the table is $181$, and $\dm a$ is trivial on the characters of order $6$ modulo $181$), the gonality bound holds by \Cref{prop:gonality} a) (for $p\in\{163,173\}$ and $d=22$ we need its second bound), and the $2$-primary assumption holds by \Cref{lem:torsion} b) for $p\leq 157$ and by \Cref{lem:oddorder} for the larger $p$ with $\ell=2$. Hence the trace divisor $D$ of degree $d'$ is invariant under $\dm a$. As $p>67$, \Cref{lem:orbits} shows that the orbits of $\dm a$ on its support have length $\ord(a)$, which is listed in \Cref{table:medium} and does not divide $d'$. This is a contradiction.
 \end{proof}

@@ -18,7 +18,7 @@ If $d\geq 2g(X_1(p))$, then $p\in S(d)$. In particular $11,13,17\in S(d)$ for $d
 Let $c$ be a rational cusp of $X_1(p)$. As $d-1\geq 2g-1$, the Riemann-Roch theorem gives $\ell(dc)=\ell((d-1)c)+1$, so there is a function $f$ on $X_1(p)$ whose only pole is a pole of order $d$ at $c$. By Hilbert's irreducibility theorem, the fibre $f^{-1}(t)$ is a closed point of degree $d$ for infinitely many $t\in\Q$, and all but finitely many of these points are not cusps. As $X_1(p)$ is a fine moduli space, each of them gives an elliptic curve with a point of order $p$ over a number field of degree $d$. The second statement follows as $X_1(11)$, $X_1(13)$, $X_1(17)$ and $X_1(19)$ have genus $1$, $2$, $5$ and $7$.
 \end{proof}
 
-Most of our explicit examples are of the following form. Let $f\in\Q[t]$ be an irreducible polynomial of degree $d$, let $x$ be a root of $f$, put $K=\Q(x)$, and let $y\in K$ be such that $(x,y)$ is a point on Sutherland's model of $X_1(p)$ \cite{sutherland}. Put
+Most of our explicit examples are of the following form. Let $f\in\Q[t]$ be an irreducible polynomial of degree $d$, let $x$ be a root of $f$, put $K=\Q(x)$, and let $y\in K$ be such that $(x,y)$ is a point on Sutherland's model of $X_1(p)$ \cite{sutherlandX1}. Put
 $$r=\frac{x^2y-xy+y-1}{x^2y-x},\quad s=\frac{xy-y+1}{xy},\quad b=rs(r-1),\quad c=s(r-1).$$
 Then $P=(0,0)$ is a point of order $p$ on the elliptic curve
 $$E(b,c):\ Y^2+(1-c)XY-bY=X^3-bX^2$$
@@ -40,7 +40,7 @@ For $9\leq d\leq 22$, all the primes listed in \Cref{thm:main} belong to $S(d)$.
 \end{proposition}
 
 \begin{proof}
-By \Cref{lem:basechange}, the results for $d\leq 8$ listed in the introduction, \cite{NV} for $p\in\{17,19,23\}$ and $d=9$, and \Cref{lem:RR}, it is enough to give an example over a number field of degree $d$ for each of the pairs $(d,p)$ in \Cref{table:examples}. Here we also use \Cref{lem:basechange} for $d\in\{18,20,22\}$ with $d'=9,10,11$, respectively. For each of these pairs we give an explicit example as above, and we \gitlink{occurrences/README.md}{verify} that it has the required properties.
+By \Cref{lem:basechange}, the results for $d\leq 8$ listed in the introduction, \cite[Theorem 1.1]{NV} for $p\in\{17,19,23\}$ and $d=9$, and \Cref{lem:RR}, it is enough to give an example over a number field of degree $d$ for each of the pairs $(d,p)$ in \Cref{table:examples}. Here we also use \Cref{lem:basechange} for $d\in\{18,20,22\}$ with $d'=9,10,11$, respectively. For each of these pairs we give an explicit example as above, and we \gitlink{occurrences/README.md}{verify} that it has the required properties.
 \end{proof}
 
 \begin{table}[H]
