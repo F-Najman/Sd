@@ -1,5 +1,8 @@
 # CPU time and disk space of the computations (3 November 2026)
 
+Statement numbers refer to the paper as revised on 3 November 2026 after the review; the computations showing
+that characters are not strange are those of Lemma 4.12 (Lemma 4.11 in the earlier version).
+
 Method: `notes/cpu_time.py`, run on the original workspace
 `~/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work` on Mordell. Every job writes its own `.log` file,
 created when the job starts and last modified when it ends; the running time of a job is the difference of the two
@@ -8,7 +11,7 @@ driver processes that only launch and wait for other jobs are excluded. Jobs wit
 the machine was oversubscribed running times slightly exceed CPU times, so the totals are approximate.
 The computations ran between 28 October 2026 14:43 and 3 November 2026 01:10 (CET).
 
-| degrees | all jobs (h) | Lemma 4.11 (h) |
+| degrees | all jobs (h) | Lemma 4.12 (h) |
 |---|---|---|
 | d <= 11 | 24.0 | 3.7 |
 | d = 12 | 46.7 | 34.8 |
@@ -20,7 +23,7 @@ The computations ran between 28 October 2026 14:43 and 3 November 2026 01:10 (CE
 | d = 22 | 889.4 | 774.8 |
 | total | 1384.0 | 1126.2 |
 
-"Lemma 4.11" counts the per-character jobs in `large_orders/` and the top-level sequence checks
+"Lemma 4.12" counts the per-character jobs in `large_orders/` and the top-level sequence checks
 (`check_sequences*`, `verify_large*`, `large_*`). These totals include some exploratory and superseded runs that
 are not used in the proof, and they do not include the nonic computations in `degree09/` (the second check for d = 9).
 Cross-check: for d = 22 the run logs `run_characters*.log` record 5018 character jobs with a total of 675.8 hours,
@@ -30,7 +33,7 @@ not counting their independent verification.
 
 Sizes of the folders of the workspace (`du`, in GiB) on 3 November 2026:
 
-| folder | total | `large_orders/` (Lemma 4.11) | rest |
+| folder | total | `large_orders/` (Lemma 4.12) | rest |
 |---|---|---|---|
 | degree18 | 4.8 | - | 4.8 |
 | degree19 | 11.3 | 0.5 | 10.8 |
@@ -40,7 +43,7 @@ Sizes of the folders of the workspace (`du`, in GiB) on 3 November 2026:
 | whole workspace | 361.5 | | |
 
 The rest is mostly the non-principality matrices of the mod 2 sieve (the folders `fullNNN/`, 1-8 GiB per prime for
-d = 22) and the formal immersion data. `notes/disk_usage.py` measures the character jobs of Lemma 4.11. A job is a
+d = 22) and the formal immersion data. `notes/disk_usage.py` measures the character jobs of Lemma 4.12. A job is a
 pair (p, n), and its running time is computed from its logs as above:
 
     == work/degree20/large_orders: 1951 jobs, 290 primes, p up to 525313, 11.7 GB, 101.0 h
@@ -72,7 +75,7 @@ many new primes, and they are about twice as large. Hence:
 
 The CPU time grows faster. There would be about √2 · 2131 ≈ 3000 new jobs at p ≈ 4.2·10^6, each taking 1.25-2.5 h
 (18.8 min at p ≈ 2.1·10^6, times 4 to 8). That is 3750-7500 CPU hours, plus the smaller primes: several thousand CPU
-hours, 5-10 times the 722 h of the Lemma 4.11 jobs for d = 22.
+hours, 5-10 times the 722 h of the Lemma 4.12 jobs for d = 22.
 
 The disks of Mordell on 3 November 2026 are two SSDs of 894 GB each. `/home`, which holds the workspace, is 99% full
 (15 GB free), and `/` has 768 GB free.
