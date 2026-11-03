@@ -5,57 +5,72 @@ Throughout the paper $p\geq 5$ is a prime. The modular curve $X_1(p)$ parametriz
 \subsection{Diamond and Hecke operators}
 For $a\in(\torz p)^\times$ we write $\dm a$ for the automorphism $(E,P)\mapsto(E,aP)$ of $X_1(p)$. It depends only on the class of $a$ in
 $$\Delta(p):=(\torz p)^\times/\{\pm1\},$$
-which is a cyclic group of order $(p-1)/2$, and for $h\in\Delta(p)$ we denote by $\ord(h)$ its order in $\Delta(p)$. We identify $h\in\Delta(p)$ with the corresponding diamond operator, and for a subgroup $H\subseteq\Delta(p)$ we write $X_H=X_1(p)/H$. For a prime $q\neq p$ we denote by $T_q$ the Hecke correspondence
+which is a cyclic group of order $(p-1)/2$, and for $h\in\Delta(p)$ we denote by $\ord(h)$ its order in $\Delta(p)$. We identify $h\in\Delta(p)$ with the corresponding diamond operator. For a subgroup $H\subseteq\Delta(p)$ we write $X_H=X_1(p)/H$ and $J_H$ for its Jacobian, so that $X_H=X_1(p)$ if $H$ is trivial. If $X_H$ has positive genus, then it has good reduction at every prime $q\neq p$, and the quotient map $X_1(p)\to X_H$ extends to a finite morphism of the smooth models over $\Z_{(q)}$ \cite[Corollary 4.10]{LL}. For a prime $q\neq p$ we denote by $T_q$ the Hecke correspondence
 $$T_q(E,P)=\sum_{C}(E/C,P\bmod C),$$
 the sum running over the $q+1$ subgroups $C\subseteq E$ of order $q$, and we put
-$$A_q=T_q-1-q\dm q.$$
-Diamond and Hecke operators act on divisors on $X_1(p)$, on $J_1(p)$, and, by reduction, on divisors on $X_1(p)_{\F_2}$ when $q$ is odd.
+$$A_q=T_q-1-q\dm q,\qquad B_q=T_q-\dm q-q.$$
+Diamond and Hecke operators act on divisors on $X_1(p)$ and $X_H$, on $J_1(p)$ and $J_H$, and, by reduction, on divisors on $X_1(p)_{\F_2}$ when $q$ is odd.
 
-The curve $X_1(p)$ has $(p-1)/2$ cusps defined over $\Q$, which we call the \textit{rational cusps}, and $(p-1)/2$ cusps defined over $\Q(\zeta_p)^+$, the maximal real subfield of $\Q(\zeta_p)$. The group $\Delta(p)$ acts simply transitively on each of these two sets. The rational cusps reduce to the $\F_2$-rational cusps of $X_1(p)_{\F_2}$, and the other cusps reduce to closed points of degree $\ord(2)$, which we call the \textit{non-rational cusps}.
+The curve $X_1(p)$ has $(p-1)/2$ cusps defined over $\Q$, which we call the \textit{rational cusps}, and $(p-1)/2$ cusps defined over $\Q(\zeta_p)^+$, the maximal real subfield of $\Q(\zeta_p)$. The group $\Delta(p)$ acts simply transitively on each of these two sets. The rational cusps reduce to the $\F_2$-rational cusps of $X_1(p)_{\F_2}$, and the other cusps reduce to closed points of degree $\ord(2)$, which we call the \textit{non-rational cusps}. We call the images of the rational cusps on $X_H$ the rational cusps of $X_H$. We fix a rational cusp $c_0$ of $X_1(p)$, and we denote its image on $X_H$ also by $c_0$.
 
-\subsection{The trace divisor}
+\subsection{The trace divisor}\label{sec:trace}
 Let $K$ be a number field of degree $d$ and $E/K$ an elliptic curve with a point $P\in E(K)$ of order $p$. Then $x=(E,P)$ is a non-cuspidal point of $X_1(p)$ defined over $K$, and we call
 $$D=\sum_{\sigma:K\hookrightarrow\Qbar}\sigma(x)$$
-the \textit{trace divisor} of $(E,P)$. It is an effective divisor of degree $d$ defined over $\Q$, its support contains no cusps, $\Gal(\Qbar/\Q)$ acts transitively on its support, and all the points in its support have the same multiplicity $d/n$, where $n=[\Q(x):\Q]$ divides $d$. In particular $p\in S(d)$ if and only if such a divisor exists. If $p\notin S(d')$ for every proper divisor $d'$ of $d$, then $n=d$ and $D$ is a closed point of degree $d$.
+the \textit{trace divisor} of $(E,P)$, or of a point of order $p$ over a number field of degree $d$. It is an effective divisor of degree $d$ defined over $\Q$, its support contains no cusps, $\Gal(\Qbar/\Q)$ acts transitively on its support, and all the points in its support have the same multiplicity $d/n$, where $n=[\Q(x):\Q]$ divides $d$. In particular $p\in S(d)$ if and only if such a divisor exists. If $p\notin S(d')$ for every proper divisor $d'$ of $d$, then $n=d$ and $D$ is a closed point of degree $d$.
+
+For a trace divisor $D$ we write
+$$\overline D=Z+C',$$
+where $C'$ is supported on the $\F_2$-rational cusps of $X_1(p)_{\F_2}$ and $Z$ has none of them in its support ($Z$ may contain non-rational cusps). We denote by $C$ the rational cuspidal divisor lifting $C'$, and put $c=\deg C$. For a subgroup $H\subseteq\Delta(p)$ we say that \textit{$D$ is a pullback from $X_H$} if $D=\pi^*D'$, where $\pi:X_1(p)\to X_H$ is the quotient map and $D'$ is an effective divisor on $X_H$, defined over $\Q$, with no cusps in its support.
+
+We will need the following theorem of Silverberg \cite{silverberg}, in the form stated in \cite[Section 1]{PY}.
+
+\begin{lemma}[Silverberg]\label{lem:silverberg}
+Let $F$ be a number field and $E/F$ an elliptic curve with complex multiplication by an order $\mathcal O$ in an imaginary quadratic field $k$. If $E(F)$ has a point of order $p$, then $p-1\leq\delta\cdot\#\mathcal O^\times\cdot[F:\Q]$, where $\delta=1/2$ if $k\subseteq F$ and $\delta=1$ otherwise.
+\end{lemma}
 
 \begin{lemma}\label{lem:CM}
 Let $x=(E,P)$ be a non-cuspidal point of $X_1(p)$ of degree $n$ which is fixed by a non-trivial element of $\Delta(p)$. Then $n$ is even, and either $j(E)=1728$ and $n\geq(p-1)/2$, or $j(E)=0$ and $n\geq(p-1)/3$.
 \end{lemma}
 
 \begin{proof}
-As $X_1(p)$ is a fine moduli space, we can take $E$ and $P$ to be defined over $F=\Q(x)$. If $\dm a\neq 1$ fixes $x$, there is an automorphism $\alpha\neq\pm1$ of $E$ with $\alpha(P)=aP$. It is unique, as an automorphism $\beta\neq1$ fixes no point of order $p$ ($\beta-1$ has degree at most $4$), so $\alpha$ is defined over $F$. Hence $j(E)\in\{0,1728\}$, and $\alpha$ acts on the invariant differential by a root of unity $\zeta\in F$ of order $3$, $4$ or $6$, so the field $k=\Q(\zeta)$ of complex multiplication of $E$ is contained in $F$, and $n$ is even. By a theorem of Silverberg \cite{silverberg} (see \cite[Section 1]{PY} for the statement we use), as $k\subseteq F$ and $E(F)$ has a point of order $p$, we have $p-1\leq\tfrac12\mu n$, where $\mu=\#\Aut(E)$ is $4$ if $j(E)=1728$ and $6$ if $j(E)=0$.
+As $X_1(p)$ is a fine moduli space, we can take $E$ and $P$ to be defined over $F=\Q(x)$. If $\dm a\neq 1$ fixes $x$, there is an automorphism $\alpha\neq\pm1$ of $E$ with $\alpha(P)=aP$. It is unique, as an automorphism $\beta\neq1$ fixes no point of order $p$ ($\beta-1$ has degree at most $4$), so $\alpha$ is defined over $F$. Hence $j(E)\in\{0,1728\}$, and $\alpha$ acts on the invariant differential by a root of unity $\zeta\in F$ of order $3$, $4$ or $6$, so the field $k=\Q(\zeta)$ of complex multiplication of $E$ is contained in $F$, and $n$ is even. By \Cref{lem:silverberg}, $p-1\leq\tfrac12\mu n$, where $\mu=\#\Aut(E)$ is $4$ if $j(E)=1728$ and $6$ if $j(E)=0$.
 \end{proof}
 
 \begin{lemma}\label{lem:orbits}
-Let $D$ be the trace divisor of $(E,P)$, let $n=[\Q(x):\Q]$ be as above, and let $h\in\Delta(p)$ be such that $hD=D$. Then the orbits of the group generated by $h$ on the (geometric) support of $D$ all have the same length $m$, and $m$ divides $n$. If $n$ is odd or $n<(p-1)/3$, then $m=\ord(h)$.
+Let $K$ be a number field of degree $d$, let $E/K$ be an elliptic curve with a point $P$ of order $p$, let $D$ be the trace divisor of $(E,P)$, and let $n=[\Q(x):\Q]$ for $x=(E,P)$. Let $H\subseteq\Delta(p)$ be a subgroup such that $hD=D$ for all $h\in H$.
+\begin{itemize}
+\item[a)] The orbits of $H$ on the (geometric) support of $D$ all have the same length $m$, and $m$ divides $n$.
+\item[b)] If $n$ is odd or $n<(p-1)/3$, then $H$ acts freely on the support of $D$, so $m=\#H$, and $D$ is a pullback from $X_H$.
+\end{itemize}
 \end{lemma}
 
 \begin{proof}
-As $h$ is defined over $\Q$, $\Gal(\Qbar/\Q)$ permutes the orbits of $\dm h$, and as it acts transitively on the $n$ points of the support of $D$, all the orbits have the same length $m$, and $m\mid n$. The last statement follows from \Cref{lem:CM}.
+As the elements of $H$ are defined over $\Q$, $\Gal(\Qbar/\Q)$ permutes the orbits of $H$, and as it acts transitively on the $n$ points of the support of $D$, all the orbits have the same length $m$, and $m\mid n$. Under the assumption of b), no point of the support of $D$ is fixed by a non-trivial element of $H$ by \Cref{lem:CM}. So each orbit is a fibre of the quotient map $\pi:X_1(p)\to X_H$, which is unramified there, and as all the points of the support of $D$ have the same multiplicity, $D=\pi^*D'$ for the effective divisor $D'=\pi_*D/\#H$ on $X_H$, which is defined over $\Q$ and has no cusps in its support.
 \end{proof}
 
-By the proof of \Cref{lem:CM}, the stabilizer in $\Delta(p)$ of a non-cuspidal point has order dividing $2$ or $3$, so in general $m\in\{\ord(h),\ord(h)/2,\ord(h)/3\}$. Note that for $p>67$ and $n\leq 22$ we always have $n<(p-1)/3$.
+By the proof of \Cref{lem:CM}, the stabilizer in $\Delta(p)$ of a non-cuspidal point has order dividing $2$ or $3$, so in general $m\in\{\#H,\#H/2,\#H/3\}$. Note that for $p>67$ and $n\leq 22$ we always have $n<(p-1)/3$.
 
 \subsection{Finiteness of Mordell-Weil groups}
 Recall from \cite[Definition 5.1]{DSt} that a non-trivial even Dirichlet character $\chi$ modulo $p$ is \textit{strange} if there is a newform $f$ of weight $2$ and level $p$ with character $\chi$ such that $L(f,1)=0$, that $p$ is \textit{strange} if there is a strange character modulo $p$, and that $\str(p)$ is the order of the group generated by the strange characters modulo $p$. The strange characters modulo $p<10^5$ are listed in \cite[Proposition 5.2 and Table 2]{DSt}. The strange primes below $200$ are $61$, $97$, $101$, $181$ and $193$, and their strange characters have orders $6$, $12$, $10$, $6$ and $12$, respectively.
 
 \begin{lemma}\label{lem:finite}
-Let $\alpha\in\Z[\Delta(p)]$ be such that $\chi(\alpha)=0$ for the trivial character $\chi$ and for all the strange characters $\chi$ modulo $p$. Then $\alpha J_1(p)(\Q)$ is finite. In particular, if $p$ is not strange, then $(h-1)J_1(p)(\Q)$ is finite for every $h\in\Delta(p)$. If $p\in\{41,47,59,71\}$, then $J_1(p)(\Q)$ is finite.
+Let $H\subseteq\Delta(p)$ be a subgroup, and let $\alpha\in\Z[\Delta(p)]$ be such that $\chi(\alpha)=0$ for the trivial character $\chi$ and for all the strange characters $\chi$ modulo $p$ which are trivial on $H$. Then $\alpha J_H(\Q)$ is finite. The same holds for every endomorphism $\alpha$ of $J_H$ in the Hecke algebra which kills the abelian subvarieties of $J_H$ attached to the newforms of weight $2$ and level $p$ with trivial or strange character. In particular, if $p$ is not strange, then $(h-1)J_H(\Q)$ is finite for every $h\in\Delta(p)$. If $p\in\{41,47,59,71\}$, then $J_1(p)(\Q)$ is finite.
 \end{lemma}
 
 \begin{proof}
-Up to isogeny over $\Q$, $J_1(p)$ is the product of the abelian varieties $A_f$ attached to the Galois orbits of newforms $f$ of weight $2$ and level $p$, and $\Delta(p)$ acts on $A_f$ through the character of $f$. Hence $\alpha J_1(p)$ is contained in the sum of the $A_f$ for which the character of $f$ is non-trivial and not strange. These have $L(f,1)\neq0$, so $A_f(\Q)$ is finite by Kato's theorem \cite[Corollary 14.3]{kato}. The last statement is \cite[Proposition 3.1]{DKSS}.
+Up to isogeny over $\Q$, $J_H$ is the product of the abelian varieties $A_f$ attached to the Galois orbits of newforms $f$ of weight $2$ and level $p$ whose character is trivial on $H$, and $\Delta(p)$ acts on $A_f$ through the character of $f$. Hence $\alpha J_H$ is contained in the sum of the $A_f$ for which the character of $f$ is non-trivial and not strange. These have $L(f,1)\neq0$, so $A_f(\Q)$ is finite by Kato's theorem \cite[Corollary 14.3]{kato}. The last statement is \cite[Proposition 3.1]{DKSS}.
 \end{proof}
 
 \begin{lemma}\label{lem:torsion}
 \begin{itemize}
 \item[a)] Let $A/\Q$ be an abelian variety with good reduction at a prime $\ell$. If $\ell$ is odd, then reduction modulo $\ell$ is injective on $A(\Q)_\tor$. If $\ell=2$, then the kernel of reduction modulo $2$ on $A(\Q)_\tor$ is killed by $2$.
-\item[b)] For an odd prime $q\neq p$, the operator $A_q$ kills $J_1(p)(\Q)_\tor$, and $A_qc=0$ as a divisor for every rational cusp $c$. If $p\leq 157$, then $A_2$ kills $J_1(p)(\Q)_\tor$ as well.
+\item[b)] Let $H\subseteq\Delta(p)$ be a subgroup. For an odd prime $q\neq p$, the operator $A_q$ kills $J_H(\Q)_\tor$. If $p\leq 157$ and $\#H$ is odd, then $A_2$ kills $J_H(\Q)_\tor$ as well.
+\item[c)] Let $H\subseteq\Delta(p)$ be a subgroup and $q\neq p$ a prime. Then $A_qc=0$ for every rational cusp $c$ of $X_H$, and $B_qc=0$ for every other cusp $c$ of $X_H$, as divisors. In particular $B_qA_q$ kills every cuspidal divisor on $X_H$.
 \end{itemize}
 \end{lemma}
 
 \begin{proof}
-Part a) is \cite[Appendix]{katz}. On $X_1(p)_{\F_q}$ we have $T_q=\Frob_q+q\dm q\Frob_q^{-1}$ (the Eichler-Shimura relation), so $A_q$ kills $J_1(p)(\F_q)$, and as $J_1(p)(\Q)_\tor$ injects into $J_1(p)(\F_q)$ for odd $q$ by a), $A_q$ kills $J_1(p)(\Q)_\tor$. The action of $T_q$ on the cusps is computed with Tate curves, see \cite[Proposition 2.1]{DSt}. Note that the modular interpretation used in \cite{DSt} differs from ours by the Atkin-Lehner involution, which transforms $T_q-\dm q-q$ into $A_q$ (see the discussion after \cite[Lemma 8.6]{DKSS}). For $q=2$ the same argument shows that $A_2$ kills the odd part of $J_1(p)(\Q)_\tor$, and for $p\leq157$ the $2$-primary part of $J_1(p)(\Q)_\tor$ is generated by differences of rational cusps \cite[Remark 4.4]{DSt}, so it is killed by $A_2$ as well.
+Part a) is \cite[Appendix]{katz}. The action of $T_q$ on the cusps of $X_1(p)$ is computed with Tate curves, see \cite[Proposition 2.1]{DSt}: we have $T_qc=c+q\dm qc$ for a rational cusp $c$ and $T_qc=\dm qc+qc$ for the other cusps, and these formulas descend to $X_H$, which proves c). Note that the modular interpretation used in \cite{DSt} differs from ours by the Atkin-Lehner involution, which transforms $T_q-\dm q-q$ into $A_q$ (see the discussion after \cite[Lemma 8.6]{DKSS}). On $X_H$ modulo $q$ we have $T_q=\Frob_q+q\dm q\Frob_q^{-1}$ (the Eichler-Shimura relation), so $A_q$ kills $J_H(\F_q)$, and as $J_H(\Q)_\tor$ injects into $J_H(\F_q)$ for odd $q$ by a), $A_q$ kills $J_H(\Q)_\tor$. For $q=2$ the same argument shows that $A_2$ kills the odd part of $J_H(\Q)_\tor$. If $p\leq157$, the $2$-primary part of $J_1(p)(\Q)_\tor$ is generated by differences of rational cusps \cite[Remark 4.4]{DSt}, so it is killed by $A_2$ by c). If moreover $\#H$ is odd, then the pullback $J_H\to J_1(p)$ is injective on the $2$-primary part of $J_H(\Q)_\tor$, as its composition with the pushforward is multiplication by $\#H$, and it commutes with $A_2$, so $A_2$ kills the $2$-primary part of $J_H(\Q)_\tor$ as well.
 \end{proof}
 
 \subsection{Gonality}
@@ -71,10 +86,10 @@ If a curve $X$ over $\Q$ has good reduction at a prime $\ell$, then $\gon_\Q X\g
 \begin{proof}
 The first statement of a) is \cite[Theorem 3.3]{DSt}. The second follows in the same way from \cite[Theorem 0.1]{abramovich} and the Selberg eigenvalue conjecture for $\Gamma_1(N)$ with $N\leq 880$, proved by Booker, Lee and Strömbergsson \cite[Theorem 1.1]{BLS}. The first two statements of b) are \cite[Table 1]{DvH} and \cite[Theorem D]{varivoda}.
 
-The curve $X_1(53)_{\F_2}$ has $26$ rational points, the reductions of the rational cusps, and no closed points of degree between $2$ and $8$. Let $f$ be a function of degree $e\leq 19$ on $X_1(53)_{\F_2}$. One of the fibres of $f$ above the three points of $\PP^1(\F_2)$ contains at least $9$ rational points, and after composing $f$ with an automorphism of $\PP^1$ we can assume that this is the fibre above $\infty$. Its non-rational part then has degree at most $10$, so it is $0$, a closed point of degree $9$, or a closed point of degree $10$. Hence the divisor of poles of $f$ is bounded by $C+E$, where $C$ is the sum of all the rational points and $E$ is either an effective divisor of degree $10$ supported on the rational points, or the sum of a rational point and a closed point of degree $9$, or a closed point of degree $10$. Using the action of $\Delta(53)$ we \gitlink{degree16/gonality53_rat.py}{compute} that $\ell(C+E)=1$ in the first case, and \gitlink{degree16/gonality53_nonrat.py}{also} in the other two, so $f$ does not exist. Hence $\gon_\Q X_1(53)\geq\gon_{\F_2}X_1(53)\geq20$.
+The curve $X_1(53)_{\F_2}$ has $26$ rational points, the reductions of the rational cusps, and no closed points of degree between $2$ and $8$. Let $f$ be a function of degree $e\leq 19$ on $X_1(53)_{\F_2}$. One of the fibres of $f$ above the three points of $\PP^1(\F_2)$ contains at least $9$ rational points, and after composing $f$ with an automorphism of $\PP^1$ we can assume that this is the fibre above $\infty$. Its non-rational part then has degree at most $10$, so it is $0$, a closed point of degree $9$, or a closed point of degree $10$. Hence the divisor of poles of $f$ is bounded by $C_{53}+E$, where $C_{53}$ is the sum of all the rational points and $E$ is either an effective divisor of degree $10$ supported on the rational points, or the sum of a rational point and a closed point of degree $9$, or a closed point of degree $10$. Using the action of $\Delta(53)$ we \gitlink{degree16/gonality53_rat.py}{compute} that $\ell(C_{53}+E)=1$ in the first case, and \gitlink{degree16/gonality53_nonrat.py}{also} in the other two, so $f$ does not exist. Hence $\gon_\Q X_1(53)\geq\gon_{\F_2}X_1(53)\geq20$.
 \end{proof}
 
-\subsection{Two simple lemmas}
+\subsection{Stabilizers}
 The following is trivial.
 
 \begin{lemma}\label{lem:closed}
@@ -83,25 +98,35 @@ Let $X$ be a curve over a field $F$, and let $D_1$ and $D_2$ be effective diviso
 
 We will often use the following lemma, which is a variant of the argument of \cite[Proposition 4.1]{DSt}.
 
-\begin{lemma}\label{lem:stab}
-Let $D$ be the trace divisor of a point of order $p$ over a number field of degree $d$, and write $\overline D=Z+C'$, where $C'$ is supported on the $\F_2$-rational cusps and $Z$ has no such points in its support. Let $C$ be the rational cuspidal divisor lifting $C'$, and let $c=\deg C$. Let $h\in\Delta(p)$ be such that $(h-1)J_1(p)(\Q)$ is finite and $hZ=Z$, and put $y=[h(D-C)-(D-C)]\in J_1(p)(\Q)$.
+\begin{lemma}\label{lem:stabgen}
+Let $X$ be a curve over $\Q$ with good reduction at $2$, let $J$ be its Jacobian, and let $s$ be an automorphism of $X$ defined over $\Q$, of order $m$, such that $(s-1)J(\Q)$ is finite. Let $D$ and $C$ be effective divisors on $X$, defined over $\Q$, of degrees $e$ and $c$, such that $s(\overline D-\overline C)=\overline D-\overline C$, and put $y=[s(D-C)-(D-C)]\in J(\Q)$.
 \begin{itemize}
 \item[a)] Then $2y=0$, and $y=0$ if one of the following holds:
 \begin{itemize}
-\item[i)] reduction modulo $2$ is injective on $J_1(p)(\Q)_\tor$, for example if $J_1(p)(\Q)[2]=0$,
-\item[ii)] $\ord(h)$ is odd and $h$ acts trivially on $J_1(p)(\Q)[2]$,
-\item[iii)] $\ord(h)$ is odd and there is an endomorphism $\beta$ of $J_1(p)$ which kills $J_1(p)(\Q)_\tor$ and restricts to an isogeny of odd degree on the abelian subvariety $(h-1)J_1(p)$.
+\item[i)] reduction modulo $2$ is injective on $J(\Q)_\tor$, for example if $J(\Q)[2]=0$,
+\item[ii)] $m$ is odd and $s$ acts trivially on $J(\Q)[2]$,
+\item[iii)] $m$ is odd and there is an endomorphism $\beta$ of $J$ which kills $J(\Q)_\tor$ and restricts to an isogeny of odd degree on the abelian subvariety $(s-1)J$.
 \end{itemize}
-\item[b)] If $y=0$ and $\gon_\Q X_1(p)>d+c$, or if $\gon_\Q X_1(p)>2(d+c)$, then $hD=D$ and $hC=C$. In particular $\ord(h)$ divides $c$.
+\item[b)] If $y=0$ and $\gon_\Q X>e+c$, or if $\gon_\Q X>2(e+c)$, then $sD+C=D+sC$.
 \end{itemize}
 \end{lemma}
 
 \begin{proof}
-Let $m=\ord(h)$, put $Z_0=D-C$ and $N=1+h+\dots+h^{m-1}$. Note that $Z_0$ need not have degree $0$, but $mZ_0-NZ_0$ does, and
-$$my=(h-1)[mZ_0-NZ_0],$$
-so $y$ is torsion. The reduction of $y$ is the class of $hZ-Z=0$, so $2y=0$ by \Cref{lem:torsion} a), and in case i) $y=0$. In case ii) we have $Ny=my$, and $Ny=[NhZ_0-NZ_0]=0$, so $my=0$, and as $m$ is odd, $y=0$. In case iii), as $m$ is odd and $2y=0$, we have $y=my=(m-N)y$, and as $m-N$ is divisible by $h-1$ in $\Z[h]$, $y$ lies in $B=(h-1)J_1(p)$. Since $\beta(y)=0$ and $\beta$ has odd degree on $B$, it follows that $y=0$.
+Put $Z_0=D-C$ and $N=1+s+\dots+s^{m-1}$. Note that $Z_0$ need not have degree $0$, but $mZ_0-NZ_0$ does, and
+$$my=(s-1)[mZ_0-NZ_0],$$
+so $y$ is torsion. The reduction of $y$ is the class of $s(\overline D-\overline C)-(\overline D-\overline C)=0$, so $2y=0$ by \Cref{lem:torsion} a), and in case i) $y=0$. In case ii) we have $Ny=my$, and $Ny=[NsZ_0-NZ_0]=0$, so $my=0$, and as $m$ is odd, $y=0$. In case iii), as $m$ is odd and $2y=0$, we have $y=my=(m-N)y$, and as $m-N$ is divisible by $s-1$ in $\Z[s]$, $y$ lies in $B=(s-1)J$. Since $\beta(y)=0$ and $\beta$ has odd degree on $B$, it follows that $y=0$.
 
-If $y=0$, then $hD+C\sim D+hC$, and if $2y=0$, then $2hD+2C\sim 2D+2hC$. These divisors are defined over $\Q$, so under the assumptions of b) \Cref{lem:closed} shows that $hD+C=D+hC$. As $D$ has no cusps in its support, $hD=D$ and $hC=C$. Finally, $\Delta(p)$ acts freely on the rational cusps, so $C$ is a sum of orbits of length $m$.
+If $y=0$, then $sD+C\sim D+sC$, and if $2y=0$, then $2sD+2C\sim 2D+2sC$. These divisors are effective and defined over $\Q$, so under the assumptions of b) \Cref{lem:closed} shows that $sD+C=D+sC$.
+\end{proof}
+
+For trace divisors we use \Cref{lem:stabgen} in the following form.
+
+\begin{lemma}\label{lem:stab}
+Let $D$ be the trace divisor of a point of order $p$ over a number field of degree $d$. Let $h\in\Delta(p)$ be such that $(h-1)J_1(p)(\Q)$ is finite and $hZ=Z$, and put $y=[h(D-C)-(D-C)]\in J_1(p)(\Q)$. Then $2y=0$, and $y=0$ if one of the conditions i), ii) and iii) of \Cref{lem:stabgen} holds for $X=X_1(p)$ and $s=h$. If $y=0$ and $\gon_\Q X_1(p)>d+c$, or if $\gon_\Q X_1(p)>2(d+c)$, then $hD=D$ and $hC=C$. In particular $\ord(h)$ divides $c$.
+\end{lemma}
+
+\begin{proof}
+As $\overline D-\overline C=Z$ is fixed by $h$, \Cref{lem:stabgen} applies with $X=X_1(p)$, $s=h$ and $e=d$, and under the assumptions on the gonality it gives $hD+C=D+hC$. As $D$ has no cusps in its support, $hD=D$ and $hC=C$. Finally, $\Delta(p)$ acts freely on the rational cusps, so $C$ is a sum of orbits of length $\ord(h)$.
 \end{proof}
 
 \subsection{Non-principal divisors}
@@ -120,26 +145,46 @@ Suppose $B=\ddiv(g)$. Then $G=F/g$ is a non-zero section of $\mathcal L$ vanishi
 We apply the lemma with $\mathcal L=\mathcal M=K_X$ or $2K_X$, where the multiplication maps $R_i\times R_j\to R_{i+j}$ are computed from the $q$-expansions of a basis of the weight $2$ cusp forms, with enough coefficients to determine all the products. To evaluate sections at the points of $V$ we use local parameters at these points, which we obtain by deforming the corresponding elliptic curve and lifting its point of order $p$ by Hensel's lemma, together with the modular units of Sutherland \cite{sutherland} (see \cite[Section 2]{DvH}), whose linear relations with the canonical forms we verify to a precision beyond their degree bounds.
 
 \subsection{Formal immersions}
-We will use the formal immersion criterion in the following two forms. Let $X$ be a smooth curve over $\Z_{(2)}$ (for us, $X_1(p)$ or $X_H$), $J$ its Jacobian, $t$ an endomorphism of $J$, and for $d\geq1$ let
-$$f:X^{(d)}\to J,\qquad E\mapsto t[E-dc_0],$$
-where $c_0$ is a rational cusp. Let $\overline x\in X^{(d)}(\F_2)$. The cotangent map of $f$ at $\overline x$ is the restriction of $t^*H^0(J_{\F_2},\Omega^1)=t^*H^0(X_{\F_2},\Omega^1)$ to the divisor $\overline x$, and $f$ is a \textit{formal immersion} at $\overline x$ if this cotangent map is surjective, i.e.\ if the restriction map
-$$t^*H^0(X_{\F_2},\Omega^1)\to H^0(X_{\F_2},\Omega^1\otimes\mathcal O_{\overline x})$$
-is surjective. At a sum $\overline x=\sum_k d_kc_k$ of rational cusps, with $c_k=h_kc_0$ for distinct $h_k\in\Delta(p)$, this means that the vectors of the first $d_k$ coefficients of the $q$-expansions of the forms in $t^*H^0(X_{\F_2},\Omega^1)$ at the cusps $c_k$ span $\F_2^{d}$, which is equivalent to the linear independence of the Hecke operators $t\, h_kT_j$, $1\leq j\leq d_k$, modulo $2$ \cite[Proposition 5.3]{DKSS}.
+Let $X$ be $X_1(p)$ or $X_H$ for a subgroup $H\subseteq\Delta(p)$ such that $X_H$ has positive genus, considered as a smooth curve over $\Z_{(2)}$, and let $J$ be its Jacobian. For a tuple $t=(t_1,\dots,t_\nu)$ of endomorphisms of $J$, viewed as a homomorphism $t:J\to J^\nu$, and for $d\geq1$ let
+$$f_{t,d}:X^{(d)}\to J^\nu,\qquad E\mapsto t[E-dc_0].$$
+Let $\overline x\in X^{(d)}(\F_2)$. The cotangent map of $f_{t,d}$ at $\overline x$ is the restriction of the space $\sum_it_i^*H^0(J_{\F_2},\Omega^1)\subseteq H^0(X_{\F_2},\Omega^1)$ to the divisor $\overline x$, and $f_{t,d}$ is a \textit{formal immersion} at $\overline x$ if this cotangent map is surjective, i.e.\ if the restriction map
+$$\sum_it_i^*H^0(J_{\F_2},\Omega^1)\to H^0(X_{\F_2},\Omega^1\otimes\mathcal O_{\overline x})$$
+is surjective. At a sum $\overline x=\sum_k d_kc_k$ of rational cusps, with $c_k=h_kc_0$ for elements $h_k\in\Delta(p)$ which are distinct (modulo $H$ if $X=X_H$), this means that the vectors of the first $d_k$ coefficients of the $q$-expansions of the forms in $\sum_it_i^*H^0(J_{\F_2},\Omega^1)$ at the cusps $c_k$ span $\F_2^{d}$, which is equivalent to the linear independence modulo $2$ of the tuples $(t_ih_kT_j)_{1\leq i\leq\nu}$, $1\leq j\leq d_k$ \cite[Proposition 5.3]{DKSS}.
 
-\begin{lemma}[{\cite[Corollaries 4.3 and 4.4, Lemma 8.2]{DKSS}}]\label{lem:fi}
-Suppose that $t(J(\Q))$ is finite and that reduction modulo $2$ is injective on it (for example, $t(J(\Q))=0$), and that $f$ is a formal immersion at $\overline x\in X^{(d)}(\F_2)$. If $D_1,D_2\in X^{(d)}(\Q)$ both reduce to $\overline x$, then $D_1=D_2$.
+\begin{lemma}\label{lem:fi}
+Let $X$ be $X_1(p)$ or $X_H$ for a subgroup $H\subseteq\Delta(p)$ such that $X_H$ has positive genus, let $J$ be its Jacobian, let $t$ be a tuple of endomorphisms of $J$, let $d\geq1$, and suppose that $f=f_{t,d}$ is a formal immersion at $\overline x\in X^{(d)}(\F_2)$.
+\begin{itemize}
+\item[a)] Let $W$ be the ring of integers of a finite unramified extension of $\Q_2$. If $D_1,D_2\in X^{(d)}(W)$ both reduce to $\overline x$ and $f(D_1)=f(D_2)$, then $D_1=D_2$.
+\item[b)] Suppose that $t(J(\Q))$ is finite and that reduction modulo $2$ is injective on it (for example, $t(J(\Q))=0$). If $D_1,D_2\in X^{(d)}(\Q)$ both reduce to $\overline x$, then $D_1=D_2$.
+\end{itemize}
 \end{lemma}
 
-Typically $t=\alpha A_q$, where $\alpha\in\Z[\Delta(p)]$ has $\alpha J_1(p)(\Q)$ finite (\Cref{lem:finite}) and $q$ is an odd prime. Then $t(J_1(p)(\Q))=0$ by \Cref{lem:torsion}. If $\overline x$ is a sum of rational cusps, $D_2$ is its rational lift, and \Cref{lem:fi} shows that no trace divisor reduces to $\overline x$. If $\overline x$ is the reduction of a known effective divisor $D_2$ which is not a trace divisor (for example the sum of a point of smaller degree and a rational cusp), it again shows that no trace divisor reduces to $\overline x$. Note that if $f$ is a formal immersion at $\overline x$, then it is a formal immersion at every effective $\overline x'\leq\overline x$, so a computation in degree $d$ covers all the cuspidal reductions in smaller degrees: pad a divisor of degree $d'<d$ by adding $d-d'$ to one of its multiplicities.
+\begin{proof}
+Part a) is \cite[Lemma 4.2]{DKSS}. In b) the points $f(D_1),f(D_2)\in t(J(\Q))$ have the same reduction, so they are equal, and b) follows from a) (see \cite[Corollaries 4.3 and 4.4, Lemma 8.2]{DKSS}).
+\end{proof}
+
+Typically $t=\alpha A_q$, where $\alpha\in\Z[\Delta(p)]$ has $\alpha J_H(\Q)$ finite (\Cref{lem:finite}) and $q$ is an odd prime. Then $t(J_H(\Q))=0$ by \Cref{lem:torsion} b). If $\overline x$ is a sum of rational cusps, $D_2$ is its rational lift, and \Cref{lem:fi} b) shows that no trace divisor reduces to $\overline x$. If $\overline x$ is the reduction of a known effective divisor $D_2$ which is not a trace divisor (for example the sum of a point of smaller degree and a rational cusp), it again shows that no trace divisor reduces to $\overline x$. Note that if $f$ is a formal immersion at $\overline x$, then it is a formal immersion at every effective $\overline x'\leq\overline x$, so a computation in degree $d$ covers all the cuspidal reductions in smaller degrees: pad a divisor of degree $d'<d$ by adding $d-d'$ to one of its multiplicities.
 
 When $f$ is constant on a family of divisors through $\overline x$, for example on a family of pullbacks from a quotient of $X$, it cannot be a formal immersion at $\overline x$, and we use the following relative version, which is an integral form of the relative symmetric Chabauty method of Siksek \cite{siksek}.
 
 \begin{lemma}\label{lem:relative}
-Let $S$ be a smooth scheme of relative dimension $d$ over $\Z_2$, let $\overline x\in S(\F_2)$, and let $L\subseteq\widehat S_{\overline x}$ be a smooth closed formal subscheme of relative dimension $r$ of the formal completion of $S$ at $\overline x$. Let $\Phi:S\to A$ be a morphism to a smooth group scheme over $\Z_2$ with $\Phi(L)=0$, and suppose that the kernel of the tangent map of $\Phi_{\F_2}$ at $\overline x$ is the tangent space of $L_{\F_2}$. Then every $D\in S(\Z_2)$ reducing to $\overline x$ with $\Phi(D)=0$ lies on $L$.
+Let $W$ be the ring of integers of a finite unramified extension of $\Q_2$, with residue field $k$. Let $S$ be a smooth scheme of relative dimension $d$ over $W$, let $\overline x\in S(k)$, and let $L\subseteq\widehat S_{\overline x}$ be a smooth closed formal subscheme of relative dimension $r$ of the formal completion of $S$ at $\overline x$. Let $\Phi:S\to A$ be a morphism to a smooth group scheme over $W$ with $\Phi(L)=0$, and suppose that the kernel of the tangent map of $\Phi_k$ at $\overline x$ is the tangent space of $L_k$. Then every $D\in S(W)$ reducing to $\overline x$ with $\Phi(D)=0$ lies on $L$.
 \end{lemma}
 
 \begin{proof}
 Choose formal coordinates $u_1,\dots,u_r,v_1,\dots,v_{d-r}$ at $\overline x$ such that $L$ is given by $v=0$, and functions $g_1,\dots,g_{d-r}$ on $A$ vanishing at $0$ such that the differentials of the $\Phi^*g_i$ at $\overline x$ are linearly independent, which is possible by the assumption on the tangent map. As the $\Phi^*g_i$ vanish on $L$, we can write $\Phi^*g_i=\sum_jm_{ij}v_j$, and the matrix $(m_{ij})$ is invertible at $\overline x$, hence invertible over the completed local ring. So the common zero locus of the $\Phi^*g_i$ is $L$.
 \end{proof}
 
-We apply \Cref{lem:relative} to $S=X^{(d)}$ and $\Phi=f$ with $t$ as above, and with $L$ of the form $L=R+\pi^*Y^{(r)}$, where $\pi:X\to Y=X/H$ is the quotient by a subgroup $H\subseteq\Delta(p)$ and $R$ is a fixed effective divisor, typically a non-zero rational cuspidal divisor. Here $L$ is smooth when $H$ acts freely on the support of $\overline x-\overline R$, or more generally when the quotient map is tamely ramified there. If $t$ also kills $\pi^*J_Y$ (for example if $t=(h-1)A_q$ with $h\in H$), then $f$ vanishes on $L$. If the rank condition holds, a trace divisor reducing to $\overline x$ lies on $L$, so it contains $R$, which is impossible if $R$ contains a cusp. In some cases $R$ also contains the unique lifts of the points of $\overline x$ that are fixed by a subgroup of order $3$ of $\Delta(p)$.
+For divisors on $X_1(p)$ and its quotients we use \Cref{lem:relative} in the following form.
+
+\begin{lemma}\label{lem:relD}
+Let $X$ be $X_1(p)$ or $X_H$ for a subgroup $H\subseteq\Delta(p)$ such that $X_H$ has positive genus, let $J$ be its Jacobian, let $t$ be a tuple of endomorphisms of $J$ such that $t(J(\Q))$ is finite and reduction modulo $2$ is injective on it, let $d\geq1$, and let $f=f_{t,d}$. Let $W$ be the ring of integers of a finite unramified extension of $\Q_2$, with residue field $k$, let $\overline x\in X^{(d)}(k)$, and let $L$ be a smooth closed formal subscheme of the formal completion of $X^{(d)}_W$ at $\overline x$ on which $f$ vanishes. If the kernel of the tangent map of $f_k$ at $\overline x$ is the tangent space of $L_k$ (we then say that the \textit{rank condition} holds), then every $D\in X^{(d)}(\Q)$ reducing to $\overline x$ lies on $L$.
+\end{lemma}
+
+\begin{proof}
+The point $f(D)\in t(J(\Q))$ reduces to $f(\overline x)=0$, as $\overline x$ lies on $L$. Hence $f(D)=0$, and \Cref{lem:relative} applies with $S=X^{(d)}_W$ and $\Phi=f$.
+\end{proof}
+
+We apply \Cref{lem:relD} with $L=R+\pi^*Y^{(r)}$ near $\overline x$, where $\pi:X\to Y$ is the quotient by a subgroup $H'$ of $\Delta(p)$ and $R$ is a fixed effective divisor defined over $W$, typically a non-zero rational cuspidal divisor. Here $L$ is smooth when $H'$ acts freely on the support of $\overline x-\overline R$, or more generally when the quotient map is tamely ramified there. If $t$ kills $\pi^*J_Y$, then $f$ is constant on $L$, so it vanishes on $L$ as soon as $t[R+\pi^*E_0-dc_0]=0$ for one point $E_0$ of $Y^{(r)}$. For example, if $t=(h-1)A_q$ with $h\in H'$ and $R$ is a rational cuspidal divisor, then $t$ kills $\pi^*J_Y$, and
+$$t[R+\pi^*E_0-dc_0]=A_q[(h-1)R-d(h-1)c_0]=0$$
+by \Cref{lem:torsion} c). If the rank condition holds, a trace divisor reducing to $\overline x$ lies on $L$, so it contains $R$, which is impossible if $R$ contains a cusp. In some cases $R$ also contains the unique lifts of the points of $\overline x$ that are fixed by a subgroup of order $3$ of $\Delta(p)$.

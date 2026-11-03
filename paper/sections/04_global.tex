@@ -1,16 +1,16 @@
 \section{Reduction to finitely many primes}\label{sec:global}
 
-In this section we show that for each $9\leq d\leq 22$ it is enough to rule out the primes in \Cref{table:local} below. Throughout, $C=2^{19}/325$. Note that \Cref{prop:gonality} a) says that $\gon_\Q X_1(p)\geq 8(p^2-1)/C$.
+In this section we show that for each $9\leq d\leq 22$ it is enough to rule out the primes in \Cref{table:local} below. We put $\kappa=2^{19}/325$, so that \Cref{prop:gonality} a) says that $\gon_\Q X_1(p)\geq 8(p^2-1)/\kappa$.
 
 \subsection{Oesterl\'e's bound and a version at the prime \texorpdfstring{$2$}{2}}\label{sec:dyadic}
 Let $\T\subseteq\operatorname{End}J_0(p)$ be the Hecke algebra generated over $\Z$ by the Hecke operators $T_n$, let $e\in H_1(X_0(p),\Q)$ be the winding element, i.e.\ the class of the path from $0$ to $i\infty$, let $I=\Ann_\T(e)$, and let
 $$\pi:J_0(p)\to A=J_0(p)/IJ_0(p)$$
 be the winding quotient. The group $A(\Q)$ is finite \cite[Theorem 2.2]{DKSS}. Following \cite[Definition 6.5]{DKSS} we put
 $$T_n'=\sum_{m\mid n}\mu(n/m)T_m,\qquad L_n=T'_{2n}-2T_n'.$$
-For an odd integer $M\geq3$ let $\varepsilon_M(a)=0$ if the representative of $a\in(\torz M)^\times$ in $\{1,\dots,M-1\}$ is less than $M/2$, and $\varepsilon_M(a)=1$ otherwise.
+For an odd prime $M$ let $\varepsilon_M(a)=0$ if the representative of $a\in(\torz M)^\times$ in $\{1,\dots,M-1\}$ is less than $M/2$, and $\varepsilon_M(a)=1$ otherwise.
 
 \begin{lemma}\label{lem:intersection}
-Let $m\geq 1$, let $\ell$ be a prime, let $M\geq 3$ be odd, let $p>2mM$ be a prime, and let $u$ be such that $pu\equiv1\pmod M$. If the $m\times\varphi(M)$ matrix
+Let $m\geq 1$, let $\ell$ be a prime, let $M>m$ be an odd prime, let $p>2mM$ be a prime, and let $u$ be such that $pu\equiv1\pmod M$. If the $m\times(M-1)$ matrix
 $$\bigl(\varepsilon_M(na)-\varepsilon_M(nu/a)\bigr)_{1\leq n\leq m,\ a\in(\torz M)^\times}$$
 has rank $m$ modulo $\ell$, then $T_1e,\dots,T_me$ are linearly independent in $\T e/\ell\T e$.
 \end{lemma}
@@ -31,28 +31,33 @@ Let $\ell\neq p$ be primes, let $K$ be a number field of degree $d$, let $E/K$ b
 Let $v$ be a prime of $K$ above $\ell$, with residue field $\F_{\ell^f}$. If $E$ had good reduction at $v$, then $P$ would reduce to a point of order $p$, so $E$ has bad reduction at $v$. The prime to $\ell$ torsion of $E(K_v)$ injects into the group of components when the reduction is additive, so as this group has order at most $4$, the reduction is multiplicative. If $P$ reduces to the identity component, then $p$ divides $\ell^f-1$ or $\ell^f+1$, so $f=d$, $v$ is the only prime above $\ell$, and over the unramified extension of $K_v$ over which $E$ is a Tate curve, $\dm P$ is the canonical subgroup $\mu_p$, so $(E,\dm P)$ reduces to the cusp $\infty$ at $v$. Otherwise $\dm P\neq\mu_p$, and $(E,\dm P)$ reduces to the cusp $0$ at $v$. Hence either all the points in the support of $D_0$ reduce to $0$, or there is just one prime above $\ell$ and they all reduce to $\infty$.
 \end{proof}
 
-The following proposition for odd $\ell$ is the argument of Oesterl\'e \cite[Section 6]{DKSS} (see also \cite[Theorem 4.18]{parentformal}). For $\ell=2$ it is new. The extra factor $2$ in $m=2d$ compensates for the two ways in which reduction modulo $2$ behaves worse than reduction modulo an odd prime: the kernel of reduction on rational torsion is only killed by $2$, and the cotangent lattice of the N\'eron model of $A$ may have index $2^r$ in its saturation.
+The following proposition for odd $\ell$ is the argument of Oesterl\'e \cite[Section 6]{DKSS} (see also \cite[Theorem 4.18]{parentformal}). For $\ell=2$ it is new. The extra factor $2$ in $m=2d$ compensates for the two ways in which reduction modulo $2$ behaves worse than reduction modulo an odd prime: the kernel of reduction on rational torsion is only killed by $2$, and the cotangent lattice of the N\'eron model of $A$ may have index $2^r$ in its saturation. The second point is dealt with in the following lemma.
+
+\begin{lemma}\label{lem:dyadic}
+Let $m\geq1$, and let $p$ be a prime such that $T_1e,\dots,T_me$ are linearly independent in $\T e/2\T e$. Let $A_{\Z_2}$ be the N\'eron model of $A$ over $\Z_2$, let
+$$f_m:X_0(p)^{(m)}\to A,\qquad D\mapsto\pi[D-m\infty],$$
+and let $s_1,\dots,s_m$ be the elementary symmetric functions in the $q$-parameter at $\infty$, which are formal coordinates on $X_0(p)^{(m)}_{\Z_2}$ at $m\infty$. Then there are formal functions $g_1,\dots,g_m$ on $A_{\Z_2}$ at $0$, vanishing at $0$, such that
+$$f_m^*g_i=2s_i+Q_i(s_1,\dots,s_m),\qquad Q_i\in(s_1,\dots,s_m)^2.$$
+\end{lemma}
+
+\begin{proof}
+Let $S=H^0(X_0(p)_{\Z_2},\Omega^1)$, $M=S[I]$, and $L=\pi^*H^0(A_{\Z_2},\Omega^1)\subseteq M$. We first show that $2M\subseteq L$. This follows from a theorem of Raynaud \cite[Appendix A, Theorem A.1]{AU}, applied to the exact sequence $0\to IJ_0(p)\to J_0(p)\to A\to 0$ of abelian varieties with good reduction over $\Q_2$, whose ramification index is $1=2-1$: the cokernel of the map of tangent spaces of the N\'eron models over $\Z_2$ is killed by $2$ (compare \cite[Section 4.4]{ARS}). Dually, $L$ has index killed by $2$ in its saturation, which is $M$.
+
+The pairing $\T\otimes\Z_2\times S\to\Z_2$, $(t,\omega)\mapsto a_1(t\omega)$, is perfect (see \cite[Lemma 2.1]{AU}), so $M\simeq\operatorname{Hom}(\T/I\otimes\Z_2,\Z_2)$. As $\T e\simeq\T/I$, our assumption implies that the map $M\to\Z_2^m$, $\omega\mapsto(a_1(\omega),\dots,a_m(\omega))$, is surjective, where $\omega=\sum a_n(\omega)q^{n-1}dq$ is the $q$-expansion at $\infty$.
+
+The cotangent map of $f_m$ at $m\infty$ is $\omega\mapsto(a_1(\pi^*\omega),-a_2(\pi^*\omega),\dots,(-1)^{m-1}a_m(\pi^*\omega))$ \cite[Section 4.12]{parentformal}, so by the two previous paragraphs its image contains $2\Z_2^m$. Hence there are $g_1,\dots,g_m$ as required.
+\end{proof}
 
 \begin{proposition}\label{prop:dyadic}
 Let $\ell$ be a prime, $d\geq1$, and put $m=d$ if $\ell$ is odd and $m=2d$ if $\ell=2$. Let $p\neq\ell$ be a prime such that $T_1e,\dots,T_me$ are linearly independent in $\T e/\ell\T e$. If $p\in S(d)$, then $p$ is $\ell$-admissible for $d$.
 \end{proposition}
 
 \begin{proof}
-Suppose the opposite. By \Cref{lem:onecusp}, after applying the Atkin-Lehner involution if necessary, there is a non-cuspidal effective divisor $D_0$ of degree $d$ on $X_0(p)$, defined over $\Q$, with $\overline{D_0}=d\infty$. For $k\geq1$ consider the map
-$$f_k:X_0(p)^{(k)}\to A,\qquad D\mapsto\pi[D-k\infty].$$
-The point $f_d(D_0)\in A(\Q)$ is torsion and it reduces to $f_d(d\infty)=0$.
+Suppose the opposite. By \Cref{lem:onecusp}, after applying the Atkin-Lehner involution if necessary, there is a non-cuspidal effective divisor $D_0$ of degree $d$ on $X_0(p)$, defined over $\Q$, with $\overline{D_0}=d\infty$. For $k\geq1$ let $f_k:X_0(p)^{(k)}\to A$, $D\mapsto\pi[D-k\infty]$. The point $f_d(D_0)\in A(\Q)$ is torsion and it reduces to $f_d(d\infty)=0$.
 
 Suppose first that $\ell$ is odd. Then $f_d(D_0)=0$ by \Cref{lem:torsion} a), and $f_d$ is a formal immersion at $d\infty$ modulo $\ell$ by \cite[Theorem 4.18]{parentformal} (see \cite[Proposition 6.3]{DKSS}), so $D_0=d\infty$ by \cite[Lemma 4.2]{DKSS}, which is a contradiction.
 
-Suppose now that $\ell=2$. Then $2f_d(D_0)=f_{2d}(2D_0)=0$ by \Cref{lem:torsion} a). We use the following four facts.
-\begin{itemize}
-\item[a)] Let $S=H^0(X_0(p)_{\Z_2},\Omega^1)$, $M=S[I]$, and let $L=\pi^*H^0(A_{\Z_2},\Omega^1)\subseteq M$, where $A_{\Z_2}$ is the N\'eron model of $A$. Then $2M\subseteq L$. This follows from a theorem of Raynaud \cite[Appendix A, Theorem A.1]{AU}, applied to the exact sequence $0\to IJ_0(p)\to J_0(p)\to A\to 0$ of abelian varieties with good reduction over $\Q_2$, whose ramification index is $1=2-1$: the cokernel of the map of tangent spaces of the N\'eron models over $\Z_2$ is killed by $2$ (compare \cite[Section 4.4]{ARS}). Dually, $L$ has index killed by $2$ in its saturation, which is $M$.
-\item[b)] The pairing $\T\otimes\Z_2\times S\to\Z_2$, $(t,\omega)\mapsto a_1(t\omega)$, is perfect (see \cite[Lemma 2.1]{AU}), so $M\simeq\operatorname{Hom}(\T/I\otimes\Z_2,\Z_2)$. As $\T e\simeq\T/I$, our assumption implies that the map $M\to\Z_2^m$, $\omega\mapsto(a_1(\omega),\dots,a_m(\omega))$, is surjective, where $\omega=\sum a_n(\omega)q^{n-1}dq$ is the $q$-expansion at $\infty$.
-\item[c)] Let $s_1,\dots,s_m$ be the elementary symmetric functions in the $q$-parameter at $\infty$, which are formal coordinates on $X_0(p)^{(m)}_{\Z_2}$ at $m\infty$. The cotangent map of $f_m$ at $m\infty$ is $\omega\mapsto(a_1(\pi^*\omega),-a_2(\pi^*\omega),\dots,(-1)^{m-1}a_m(\pi^*\omega))$ \cite[Section 4.12]{parentformal}, so by a) and b) its image contains $2\Z_2^m$. Hence there are formal functions $g_1,\dots,g_m$ on $A_{\Z_2}$ at $0$, vanishing at $0$, such that
-$$f_m^*g_i=2s_i+Q_i(s_1,\dots,s_m),\qquad Q_i\in(s_1,\dots,s_m)^2.$$
-\item[d)] As $\overline{D_0}=d\infty$, the polynomial $E_{D_0}(t)=\prod_j(1-q_jt)$, where the $q_j$ are the values of $q$ at the points of $D_0$, has coefficients in $\Z_2$ and is congruent to $1$ modulo $2$. Hence $E_{2D_0}(t)=E_{D_0}(t)^2\equiv1\pmod 4$, i.e.\ all the coordinates $s_i(2D_0)$ are in $4\Z_2$.
-\end{itemize}
-As $D_0\neq d\infty$, not all $s_i(2D_0)$ are $0$. Let $k\geq2$ be the minimum of their valuations, attained at $s_i$. Then $2s_i(2D_0)$ has valuation $k+1$, while $Q_i(s(2D_0))$ has valuation at least $2k>k+1$. Hence $g_i(f_m(2D_0))\neq0$, which contradicts $f_m(2D_0)=f_{2d}(2D_0)=0$.
+Suppose now that $\ell=2$, so $m=2d$. Then $2f_d(D_0)=f_m(2D_0)=0$ by \Cref{lem:torsion} a). As $\overline{D_0}=d\infty$, the polynomial $E_{D_0}(t)=\prod_j(1-q_jt)$, where the $q_j$ are the values of $q$ at the points of $D_0$, has coefficients in $\Z_2$ and is congruent to $1$ modulo $2$. Hence $E_{2D_0}(t)=E_{D_0}(t)^2\equiv1\pmod 4$, i.e.\ all the coordinates $s_i(2D_0)$ are in $4\Z_2$, and as $D_0\neq d\infty$, not all of them are $0$. Let $k\geq2$ be the minimum of their valuations, attained at $s_i$, and let $g_i$ be as in \Cref{lem:dyadic}. Then $2s_i(2D_0)$ has valuation $k+1$, while $Q_i(s(2D_0))$ has valuation at least $2k>k+1$. Hence $g_i(f_m(2D_0))\neq0$, which contradicts $f_m(2D_0)=0$.
 \end{proof}
 
 \begin{remark}
@@ -100,7 +105,7 @@ We will use the following two results of Derickx and Stoll, which we state in ou
 \begin{proposition}[{\cite[Corollary 7.5]{DSt}}]\label{prop:DS75}
 Let $d\geq1$ and $p\in S_{new}(d)$. Then one of the following holds:
 \begin{itemize}
-\item[a)] $p^2\leq Cd+1$,
+\item[a)] $p^2\leq \kappa d+1$,
 \item[b)] $d$ is even and $p\in\{2d+1,3d+1\}$,
 \item[c)] $(p-1)/(2\str(p))$ divides $d$, and the image of the point on $X_H$, where $H\subseteq\Delta(p)$ is the subgroup of order $(p-1)/(2\str(p))$, has degree $2\str(p)d/(p-1)$.
 \end{itemize}
@@ -125,7 +130,7 @@ We will apply this lemma with $\beta=A_3$, or a combination of several $A_q$ wit
 \subsection{Primes above \texorpdfstring{$10^5$}{100000}}\label{sec:large}
 
 \begin{lemma}\label{lem:screen}
-Let $p$ be a prime with $p^2>Cd+1$ and $p\notin\{2d'+1,3d'+1\}$ for all $d'\mid d$, let $m=(p-1)/2$, and let $r$ be a prime with $v_r(m)>v_r(d)$. If no even character modulo $p$ whose order $n$ satisfies $v_r(n)\geq v_r(m)-v_r(d)$ is strange, then $p\notin S(d)$.
+Let $p$ be a prime with $p^2>\kappa d+1$ and $p\notin\{2d'+1,3d'+1\}$ for all $d'\mid d$, let $m=(p-1)/2$, and let $r$ be a prime with $v_r(m)>v_r(d)$. If no even character modulo $p$ whose order $n$ satisfies $v_r(n)\geq v_r(m)-v_r(d)$ is strange, then $p\notin S(d)$.
 \end{lemma}
 
 \begin{proof}
@@ -142,34 +147,35 @@ Let $\chi$ be a non-trivial even character modulo $p$ of order $n$, and let $q\n
 The space $V$ and the action of $T_2$ are the reductions of their analogues over the ring of integers of $\Q(\chi)$ localized at a prime above $q$, so the corresponding vectors in characteristic $0$ are linearly independent as well. Hence $e'$ generates the cuspidal part as a module over the Hecke algebra, so its projection to the eigenspace of every newform $f$ with character $\chi$ is non-zero. This projection is a non-zero multiple of $L(f,1)$, so $L(f,1)\neq0$. The characters of order $n$ are Galois conjugate.
 \end{proof}
 
-In practice we take a random linear functional $\lambda$ on $V_0$ and check that the sequence $\lambda(T_2^ie')$, $0\leq i<2k$, has linear complexity $k$, i.e.\ that it does not satisfy a linear recurrence of length less than $k$, which implies the assumption of \Cref{lem:nonstrange}. We certify the linear complexity by a rational function $A/C$ with $C(0)=1$, $\deg C\leq k$, $\deg A<k$, $\max(\deg C,\deg A+1)=k$, $\gcd(A,C)=1$, and $C\cdot\sum_i\lambda(T_2^ie')x^i\equiv A\pmod{x^{2k}}$. For $p$ up to $2.1\cdot10^6$ the dimension $k$ is close to $p/12$, so these are large sparse computations, for which we wrote our own implementation (see \Cref{sec:computations}).
+In practice we take a random linear functional $\lambda$ on $V_0$ and check that the sequence $\lambda(T_2^ie')$, $0\leq i<2k$, has linear complexity $k$, i.e.\ that it does not satisfy a linear recurrence of length less than $k$, which implies the assumption of \Cref{lem:nonstrange}. We certify the linear complexity by a rational function $\phi/\psi$ with $\psi(0)=1$, $\deg\psi\leq k$, $\deg\phi<k$, $\max(\deg\psi,\deg\phi+1)=k$, $\gcd(\phi,\psi)=1$, and $\psi\cdot\sum_i\lambda(T_2^ie')x^i\equiv\phi\pmod{x^{2k}}$. For $p$ up to $2.1\cdot10^6$ the dimension $k$ is close to $p/12$, so these are large sparse computations, for which we wrote our own implementation (see \Cref{sec:computations}).
 
 \begin{proposition}\label{prop:large}
 Let $9\leq d\leq 22$ and $p>10^5$. Then $p\notin S(d)$.
 \end{proposition}
 
 \begin{proof}
-For $d\leq 10$ this follows from Oesterl\'e's bound, and for $13\leq d\leq 17$ from \Cref{cor:bound}. For the other $d$, let $p$ be one of the $N(d)$ primes of \Cref{cor:bound}. For each of them we choose $r$ as in \Cref{lem:screen} and show, using \Cref{lem:nonstrange}, that no character of the required orders is strange. This requires $73$, $656$, $615$, $1147$, $3020$, $5289$ and $10065$ character orders for $d=11,12,18,19,20,21,22$, respectively, many of which are shared between the degrees (\gitlink{audit11/large_order.m}{$d=11$}, \gitlink{degree12/large_order.m}{$d=12$}, \gitlink{degree18/large_order.m}{$d=18$}, \gitlink{degree22/verify_large.py}{$d\geq19$}). The result follows from \Cref{lem:screen}.
+For $d\leq 10$ this follows from Oesterl\'e's bound, and for $13\leq d\leq 17$ from \Cref{cor:bound}. For the other $d$, let $p$ be one of the $N(d)$ primes of \Cref{cor:bound}. For each of them we choose $r$ as in \Cref{lem:screen} and show, using \Cref{lem:nonstrange}, that no character of the required orders is strange. This requires $73$, $656$, $615$, $1147$, $3020$, $5289$ and $10065$ character orders for $d=11,12,18,19,20,21,22$, respectively, many of which are shared between the degrees (\gitlink{audit11/large_order.m}{$d=11$}, \gitlink{degree12/large_order.m}{$d=12$}, \gitlink{degree18/large_order.m}{$d=18$}, \gitlink{degree22/verify_large_simd.py}{$d\geq19$}). The result follows from \Cref{lem:screen}.
 \end{proof}
 
 \subsection{Primes below \texorpdfstring{$10^5$}{100000}}\label{sec:medium}
+For three primes above $157$ we check the $2$-primary assumption of \Cref{prop:DS41} as follows.
+
+\begin{lemma}\label{lem:oddorder}
+Let $(p,a)$ be one of $(163,8)$, $(167,2)$ and $(181,64)$. Then $(\dm a-1)J_1(p)(\Q)$ is finite and has odd order.
+\end{lemma}
+
+\begin{proof}
+The group is finite by \Cref{lem:finite}, as $163$ and $167$ are not strange, and $\dm{64}$ is trivial on the characters of order $6$ modulo $181$, which are the strange ones. For $p\in\{163,167\}$ we \gitlink{degree19/odd_anti163_character_norms.m}{compute} (\gitlink{degree20/anti167.m}{$p=167$}) that $A_3$ restricts to an isogeny of odd degree on $(\dm a-1)J_1(p)$, so \Cref{lem:oddiso} applies with $\beta=A_3$. For $p=181$ the operator $A_3$ has even degree on some components, and we use instead $\beta=EA_{11}+(45-E)A_3$, where $u=\dm2^2$ (of order $45$) and $E=5N_{u^5}-N_u$, $N_g$ denoting the sum of the powers of $g$. On the components of $H_1(X_1(181),\Q)$ belonging to characters of order $5$ and $10$, $E$ acts as $45$, and on the other components of $(\dm{64}-1)J_1(181)$ it acts as $0$. We \gitlink{degree21/anti181.m}{compute} that $A_{11}$, respectively $A_3$, has odd determinant on these components, so \Cref{lem:oddiso} applies.
+\end{proof}
 
 \begin{proposition}\label{prop:medium}
-Let $9\leq d\leq 22$, and let $p<10^5$ be a prime which is neither one of the primes listed for $d$ in \Cref{thm:main} nor one of the primes listed for $d$ in \Cref{table:local}. Then $p\notin S(d)$.
+Let $9\leq d\leq 22$, and let $p<10^5$ be a prime which is neither one of the primes listed for $d$ in \Cref{thm:main} nor one of the primes listed for $d$ in \Cref{table:local}, and such that $(d,p)\notin\{(14,127),(16,127),(16,193)\}$. Then $p\notin S(d)$.
 \end{proposition}
 
 \begin{proof}
-Let $p\in S_{new}(d')$ for some $d'\mid d$. If $p^2>Cd+1$, then by \Cref{prop:DS75} and \cite[Table 2]{DSt}, $p$ is one of $181$ (for $d=15$), $193$ (for $d=16$), or $409$ and $1021$ (for $d=17$). We \gitlink{degree22/verify_prime_coverage.py}{check} this for all $p<10^5$, using that the possible exceptions b) of \Cref{prop:DS75} are in $S(d)$. For $p\in\{181,409,1021\}$ we have $(p-1)/(2\str(p))=d$, so \Cref{prop:DS75} c) gives a non-cuspidal rational point on $X_0(p)$, which does not exist by Mazur's theorem \cite{mazur78}. The prime $193$ is dealt with below.
+Let $p\in S_{new}(d')$ for some $d'\mid d$. If $p^2>\kappa d+1$, then by \Cref{prop:DS75} and \cite[Table 2]{DSt}, and as $(d,p)\neq(16,193)$, $p$ is one of $181$ (for $d=15$), $409$ and $1021$ (for $d=17$). We \gitlink{degree22/verify_prime_coverage.py}{check} this for all $p<10^5$, using that the possible exceptions b) of \Cref{prop:DS75} are in $S(d)$. For these three primes we have $(p-1)/(2\str(p))=d$, so \Cref{prop:DS75} c) gives a non-cuspidal rational point on $X_0(p)$, which does not exist by Mazur's theorem \cite{mazur78}.
 
-The remaining primes satisfy $p^2\leq Cd+1$, and they are either in \Cref{table:local}, or in \Cref{table:medium}, or one of the primes treated below. For $(p,a,\ell,n)$ and $d$ as in \Cref{table:medium}, the assumptions of \Cref{prop:DS41} hold: $(\dm a-1)J_1(p)(\Q)$ is finite by \Cref{lem:finite} (the only strange $p$ in the table is $181$, and $a$ is trivial on the characters of order $6$ modulo $181$), the gonality bound holds by \Cref{prop:gonality} a), and the $2$-primary assumption holds by \Cref{lem:torsion} b) for $p\leq 157$ and by \Cref{lem:oddiso} for the larger $p$ with $\ell=2$ (see below). Hence the trace divisor $D$ is invariant under $\dm a$. As $p>67$, \Cref{lem:orbits} shows that the orbits of $\dm a$ on its support have length $\ord(a)$, which is listed in \Cref{table:medium} and does not divide $d'$. This is a contradiction.
-
-For $p\in\{163,167,173\}$ and $\ell=2$ we \gitlink{degree19/odd_anti163_character_norms.m}{compute} (\gitlink{degree20/anti167.m}{$p=167$}, \gitlink{degree22/anti173.m}{$p=173$}) that $A_3$ restricts to an isogeny of odd degree on $(\dm a-1)J_1(p)$, so \Cref{lem:oddiso} applies. For $p=181$ the operator $A_3$ has even degree on some components, and we use instead $\beta=E A_{11}+(45-E)A_3$, where $u=\dm2^2$ (of order $45$) and $E=5N_{u^5}-N_u$, $N_g$ denoting the sum of the powers of $g$. On the components of $H_1(X_1(181),\Q)$ belonging to characters of order $5$ and $10$, $E$ acts as $45$, and on the other components of $(\dm a-1)J_1(181)$ it acts as $0$. We \gitlink{degree21/anti181.m}{compute} that $A_{11}$, respectively $A_3$, has odd determinant on these components, so $\beta$ is as in \Cref{lem:oddiso}.
-
-It remains to deal with $p=127$ for $d\in\{14,16\}$ and with $p=193$ for $d=16$.
-
-Let $p=127$, so $\ord(\dm2)=7$. For $d=16$, \Cref{prop:gonality} a) gives $\gon_\Q X_1(127)\geq84>5\cdot16$, so \Cref{prop:DS41} with $(a,\ell,n)=(2,2,5)$ applies, and $D$ is $\dm2$-invariant, which is impossible as $7\nmid 16$. For $d=14$, \Cref{prop:DS41} still applies, so $D$ is $\dm2$-invariant, and by \Cref{lem:orbits} $D=\pi^*D'$ for an effective divisor $D'$ of degree $2$ on $Y=X_1(127)/\dm 2$, defined over $\Q$, with no cusps in its support. We \gitlink{degree14/quotient127.m}{compute} that $X_1(127)_{\F_2}$ has $48$ supersingular closed points of degree $14$, each fixed by $\dm2$, and these map to $48$ distinct closed points of degree $2$ on $Y_{\F_2}$. Hence $\#Y(\F_4)\geq96$ and $\gon_\Q Y\geq\gon_{\F_4}Y\geq 96/5$, so $\gon_\Q Y\geq20$. The image of $\dm 3$ in $\Delta(127)/\dm2$ has order $9$, and \Cref{prop:DS41} on $Y$ with $(a,\ell,n)=(3,3,7)$ and $7\cdot2<20$ shows that $D'$ is a sum of $\dm3$-orbits. These have length $9$ or $3$, which is a contradiction.
-
-Let $p=193$ and $d=16$. Then $\str(193)=12$, so by \Cref{prop:DS75} the image of the point on $Y=X_H$, where $H$ has order $8$, is a rational point (if $d'=8$), which is impossible by Mazur's theorem, or a non-cuspidal point $y$ of degree $2$ (if $d'=16$). If $y$ had non-cuspidal reduction modulo $2$, then a point above it on $X_1(193)_{\F_2}$ would have degree at most $16$ and $j$-invariant in $\F_4$, and we \gitlink{degree16/census193.m}{compute} that there are no such points. The non-rational cusps of $Y_{\F_2}$ have degree $6$, so the trace divisor of $y$ reduces to a sum of two rational cusps of $Y$. We \gitlink{degree16/quotient193.m}{compute} an element $\alpha$ of the Hecke algebra of $J_Y$ with $\alpha J_Y(\Q)$ finite, and check that the map $Y^{(2)}\to J_Y$ given by $t=\alpha A_3$ is a formal immersion at all these divisors, which contradicts \Cref{lem:fi}.
+The remaining primes satisfy $p^2\leq \kappa d+1$, and as $(d,p)\notin\{(14,127),(16,127)\}$, they are either in \Cref{table:local} or in \Cref{table:medium}. For $(p,a,\ell,n)$ and $d$ as in \Cref{table:medium}, the assumptions of \Cref{prop:DS41} hold: $(\dm a-1)J_1(p)(\Q)$ is finite by \Cref{lem:finite} (the only strange $p$ in the table is $181$, and $\dm a$ is trivial on the characters of order $6$ modulo $181$), the gonality bound holds by \Cref{prop:gonality} a) (for $p\in\{163,173\}$ and $d=22$ we need its second bound), and the $2$-primary assumption holds by \Cref{lem:torsion} b) for $p\leq 157$ and by \Cref{lem:oddorder} for the larger $p$ with $\ell=2$. Hence the trace divisor $D$ of degree $d'$ is invariant under $\dm a$. As $p>67$, \Cref{lem:orbits} shows that the orbits of $\dm a$ on its support have length $\ord(a)$, which is listed in \Cref{table:medium} and does not divide $d'$. This is a contradiction.
 \end{proof}
 
 \begin{table}[H]
@@ -191,11 +197,10 @@ $151$ & $6$ & $2$ & $6$ & $15$ & $75$\\
 $151$ & $2$ & $2$ & $5$ & $16$--$22$ & $15$\\
 $157$ & $2$ & $2$ & $5$ & $16$--$22$ & $26$\\
 $163$ & $3$ & $3$ & $7$ & $17,18$ & $81$\\
-$163$ & $8$ & $2$ & $6$ & $19$--$21$ & $27$\\
+$163$ & $8$ & $2$ & $6$ & $19$--$22$ & $27$\\
 $167$ & $3$ & $3$ & $7$ & $18,19$ & $83$\\
 $167$ & $2$ & $2$ & $5$ & $20$--$22$ & $83$\\
-$173$ & $3$ & $3$ & $7$ & $19$--$21$ & $86$\\
-$173$ & $4$ & $2$ & $6$ & $22$ & $43$\\
+$173$ & $3$ & $3$ & $7$ & $19$--$22$ & $86$\\
 $179$ & $3$ & $3$ & $7$ & $20$--$22$ & $89$\\
 $181$ & $64$ & $2$ & $6$ & $21,22$ & $15$\\
 \bottomrule
@@ -204,6 +209,30 @@ $181$ & $64$ & $2$ & $6$ & $21,22$ & $15$\\
 \caption{The applications of \Cref{prop:DS41}. Here $\ord(a)$ is the order of $a$ in $\Delta(p)$.}
 \label{table:medium}
 \end{table}
+
+\begin{lemma}\label{lem:gon127}
+Let $Y=X_1(127)/\dm2$, where $\dm2$ has order $7$. Then $\gon_\Q Y\geq20$.
+\end{lemma}
+
+\begin{proof}
+We \gitlink{degree14/quotient127.m}{compute} that $X_1(127)_{\F_2}$ has $48$ supersingular closed points of degree $14$, each fixed by $\dm2$, and that they map to $48$ distinct closed points of degree $2$ on $Y_{\F_2}$. Hence $\#Y(\F_4)\geq96$, so $\gon_{\F_4}Y\geq96/5$, and $\gon_\Q Y\geq\gon_{\F_2}Y\geq\gon_{\F_4}Y\geq20$.
+\end{proof}
+
+\begin{proposition}\label{prop:127medium}
+We have $127\notin S(14)$ and $127\notin S(16)$.
+\end{proposition}
+
+\begin{proof}
+Let $d\in\{14,16\}$, and suppose that $127\in S(d)$. As $127\notin S(d')$ for $d'\leq 8$, there is a trace divisor $D$ of a point of order $127$ over a number field of degree $d$ which is a closed point of degree $d$. Note that $\ord(\dm2)=7$, that $127$ is not strange, and that $\gon_\Q X_1(127)\geq84>5d$ by \Cref{prop:gonality} a). So \Cref{prop:DS41} with $(a,\ell,n)=(2,2,5)$ applies (the $2$-primary assumption holds by \Cref{lem:torsion} b)), and $D$ is $\dm2$-invariant. By \Cref{lem:orbits} its support consists of orbits of length $7$, so $d=14$, and $D$ is a pullback from $Y=X_1(127)/\dm 2$, of an effective divisor $D'$ of degree $2$. The image of $\dm 3$ in $\Delta(127)/\dm2$ has order $9$, $(\dm3-1)J_Y(\Q)$ is finite by \Cref{lem:finite}, and $\gon_\Q Y\geq20>7\cdot2$ by \Cref{lem:gon127}, so \Cref{prop:DS41} on $Y$ with $(a,\ell,n)=(3,3,7)$ shows that $D'$ is a sum of $\dm3$-orbits. These have length $9$ or $3$, which is a contradiction.
+\end{proof}
+
+\begin{proposition}\label{prop:193}
+We have $193\notin S(16)$.
+\end{proposition}
+
+\begin{proof}
+Suppose the opposite. As $193\notin S(d')$ for $d'\leq 8$, we have $193\in S_{new}(16)$. As $\str(193)=12$ \cite[Table 2]{DSt}, \Cref{prop:DS75} shows that the image of the point on $Y=X_H$, where $H\subseteq\Delta(193)$ is the subgroup of order $8$, is a non-cuspidal point $y$ of degree $2$. If $y$ had non-cuspidal reduction modulo $2$, then a point above it on $X_1(193)_{\F_2}$ would have degree at most $16$ and $j$-invariant in $\F_4$, and we \gitlink{degree16/census193.m}{compute} that there are no such points. The non-rational cusps of $Y_{\F_2}$ have degree $6$, so the trace divisor of $y$ reduces to a sum of two rational cusps of $Y$. We \gitlink{degree16/quotient193.m}{compute} an element $\alpha$ of the Hecke algebra of $J_Y$ with $\alpha J_Y(\Q)$ finite, and check that $f_{t,2}$ with $t=\alpha A_3$ is a formal immersion at all these divisors. As $t(J_Y(\Q))=0$ by \Cref{lem:torsion} b), \Cref{lem:fi} b) shows that the trace divisor of $y$ is a rational cuspidal divisor, which is a contradiction.
+\end{proof}
 
 \begin{table}[H]
 \centering
@@ -224,10 +253,10 @@ $18$ & $47,53,\dots,113,127,131$\\
 $19$ & $47,53,\dots,113,127,131,137$\\
 $20$ & $53,59,67,71,\dots,113,127,131,137,139$\\
 $21$ & $53,59,61,67,\dots,113,127,131,137,139$\\
-$22$ & $59,61,71,73,\dots,113,127,131,137,139,163$\\
+$22$ & $59,61,71,73,\dots,113,127,131,137,139$\\
 \bottomrule
 \end{tabular}
 \medskip
-\caption{The primes that remain after \Cref{prop:large,prop:medium}. Here $53,\dots,113$ denotes all the primes from $53$ to $113$.}
+\caption{The primes that remain after \Cref{prop:large,prop:medium,prop:127medium,prop:193}. Here $53,\dots,113$ denotes all the primes from $53$ to $113$.}
 \label{table:local}
 \end{table}

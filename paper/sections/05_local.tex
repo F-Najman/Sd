@@ -1,8 +1,6 @@
 \section{The local method at the prime \texorpdfstring{$2$}{2}}\label{sec:local}
 
-In this section and the next we deal with the pairs $(d,p)$ of \Cref{table:local}. We follow \cite[Section 8]{DKSS}, and we reduce the trace divisor modulo $2$. Throughout, $(d,p)$ is one of these pairs, $D$ is the trace divisor of a point of order $p$ over a number field of degree $d$, and we write
-$$\overline D=Z+C',$$
-where $C'$ is supported on the $\F_2$-rational cusps of $X_1(p)_{\F_2}$ and $Z$ has no such points in its support. Let $C$ be the rational cuspidal divisor lifting $C'$, and $c=\deg C$.
+For the pairs $(d,p)$ of \Cref{table:local} we follow \cite[Section 8]{DKSS} and reduce the trace divisor $D$ modulo $2$, writing $\overline D=Z+C'$ as in \Cref{sec:trace}.
 
 \subsection{The census}\label{sec:census}
 For each $f\leq d$ we \gitlink{degree22/census_sources.m}{enumerate} all elliptic curves $E$ over $\F_{2^f}$ up to isomorphism, and for each of them all the points of order $p$ of $E(\F_{2^f})$ up to the action of $\Aut(E)$ (all the cyclic subgroups of order $p$ when $E[p]\subseteq E(\F_{2^f})$). This gives all the non-cuspidal closed points of $X_1(p)_{\F_2}$ of degree at most $d$, together with the action of $\Delta(p)$ on them. For $d\geq 20$ we \gitlink{degree22/verify_census_counts.py}{check} the number of these points independently, using class numbers for the ordinary points and the description of the supersingular ones by quaternions.
@@ -34,26 +32,30 @@ $137$ & $SS_{17}$ & \\
 \label{table:nonordinary}
 \end{table}
 
-For each $(d,p)$ we \gitlink{degree22/make_support_inventory.py}{enumerate} all the possible types of $\overline D$, and for each type all the possible $Z$ up to the action of $\Delta(p)$, which we may use as $\Delta(p)$ commutes with reduction and with all the operators we apply. For $d=22$ there are $514$ types at the $18$ primes, and we checked the list by a second, independent enumeration.
+For each $(d,p)$ we \gitlink{degree22/make_support_inventory.py}{enumerate} all the possible types of $\overline D$, and for each type all the possible $Z$ up to the action of $\Delta(p)$, which we may use as $\Delta(p)$ commutes with reduction and with all the operators we apply. For $d=22$ there are $501$ types at the $17$ primes, and we checked the list by a second, independent enumeration.
 
 \subsection{Reductions supported on the rational cusps}
-Suppose that $Z=0$. We use \Cref{lem:fi} on $X_1(p)$ or on an intermediate curve $X_H$, with $t=\alpha A_q$ for an element $\alpha$ of the Hecke algebra with $\alpha J_H(\Q)$ finite and an odd prime $q$, or with a product of such maps, and we \gitlink{degree22/check_fi.py}{check} the criterion of \cite[Proposition 5.3]{DKSS} for all the multiplicity vectors $(d_k)$ of total degree $d$. Using the action of $\Delta(p)$ we may assume that $d_0=\max_kd_k$. When the number of vectors is too large, we instead compute all the linear relations modulo $2$ between the vectors of $q$-expansion coefficients and check that each of them involves more than $d$ coefficients in total.
+If $Z=0$, we use \Cref{lem:fi} b) on $X_1(p)$ or on an intermediate curve $X_H$, with $t=\alpha A_q$ for an element $\alpha$ of the Hecke algebra with $\alpha J_H(\Q)$ finite and an odd prime $q$, or with a tuple of such maps, and we \gitlink{degree22/check_fi.py}{check} the criterion of \cite[Proposition 5.3]{DKSS} for all the multiplicity vectors $(d_k)$ of total degree $d$. Using the action of $\Delta(p)$ we may assume that $d_0=\max_kd_k$. When the number of vectors is too large, we instead compute all the linear relations modulo $2$ between the vectors of $q$-expansion coefficients and check that each of them involves more than $d$ coefficients in total.
 
 \begin{proposition}\label{prop:cusps}
-For all the pairs $(d,p)$ in \Cref{table:local} except $p=53$ with $d\geq 19$, $p=101$ with $d\geq 20$, $p=103$ with $d\geq17$ and $p=131$ with $d\geq18$, the map of \Cref{lem:fi} is a formal immersion at every sum of rational cusps of degree $d$. In particular $Z\neq0$.
+Let $(d,p)$ be a pair in \Cref{table:local} other than $p=53$ with $d\geq 19$, $p=101$ with $d\geq 20$, $p=103$ with $d\geq17$ and $p=131$ with $d\geq18$. Then for a suitable subgroup $H\subseteq\Delta(p)$ and a suitable tuple $t$ as above, $f_{t,d}$ is a formal immersion at every sum of rational cusps of degree $d$ on $X_H$. In particular, if $D$ is the trace divisor of a point of order $p$ over a number field of degree $d$, then $Z\neq0$.
 \end{proposition}
 
-The data of these computations (the subgroups $H$, the maps $t$, and the numbers of vectors) are in the files \path{formal_immersion.json} in the repository. In several cases (for example at $p=71$ and $p=127$ for $d\geq21$) the computation on the intermediate curve we first tried fails, and we work on $X_1(p)$ itself. The four exceptional cases are treated in \Cref{sec:exceptions}.
+\begin{proof}
+The subgroups $H$, the maps $t$ and the numbers of multiplicity vectors are in the files \path{formal_immersion.json} in the repository. In several cases (for example at $p=71$ and $p=127$ for $d\geq21$) the computation on the intermediate curve we first tried fails, and we work on $X_1(p)$ itself. If $Z=0$, then the image of $D$ on $X_H$ is equal to the rational cuspidal divisor with the same reduction by \Cref{lem:fi} b), which is impossible as $D$ has no cusps in its support.
+\end{proof}
+
+The four exceptional cases are treated in \Cref{prop:cusps2}.
 
 \subsection{The Hecke obstruction}
 For $Z\neq0$ we use the following form of \cite[Lemma 8.6]{DKSS}.
 
 \begin{lemma}\label{lem:hecke}
-Let $\alpha\in\Z[\Delta(p)]$ be such that $\alpha J_1(p)(\Q)$ is finite, and let $q\neq p$ be an odd prime. Then the divisor $\alpha A_qZ$ on $X_1(p)_{\F_2}$ is principal.
+Let $D$ be the trace divisor of a point of order $p$ over a number field of degree $d$, let $\alpha\in\Z[\Delta(p)]$ be such that $\alpha J_1(p)(\Q)$ is finite, and let $q\neq p$ be an odd prime. Then the divisor $\alpha A_qZ$ on $X_1(p)_{\F_2}$ is principal.
 \end{lemma}
 
 \begin{proof}
-The class $\alpha[D-dc_0]$ is torsion, so $A_q\alpha[D-dc_0]=0$ by \Cref{lem:torsion} b), and hence its reduction $[\alpha A_q(Z+C'-dc_0)]$ is $0$. As $\alpha$ maps rational cusps to sums of rational cusps, and $A_q$ kills each rational cusp, $\alpha A_q(C'-dc_0)=0$ as a divisor.
+The class $\alpha[D-dc_0]$ is torsion, so $A_q\alpha[D-dc_0]=0$ by \Cref{lem:torsion} b), and hence its reduction $[\alpha A_q(Z+C'-dc_0)]$ is $0$. As $\alpha$ maps rational cusps to sums of rational cusps, and $A_q$ kills each rational cusp by \Cref{lem:torsion} c), $\alpha A_q(C'-dc_0)=0$ as a divisor.
 \end{proof}
 
 We use $\alpha$ as in \Cref{table:alpha}, which have $\alpha J_1(p)(\Q)$ finite by \Cref{lem:finite}, and almost always $q=3$. To compute $A_3Z$ we use the $3$-isogenies of the elliptic curves representing the points of $Z$, and we show that $\alpha A_3Z$ is not principal using \Cref{lem:mult} with $\mathcal L=\mathcal M=K$, or $2K$ when the degree of the divisor is too large (at $p\leq 53$, and at $61$, $67$ and $97$ for some $d$). If a part $Z_1$ of $Z$ is invariant under a subgroup $H\subseteq\Delta(p)$, we replace $\alpha$ by $(h-1)\alpha$ with $h\in H$, which kills $Z_1$. For example, at $p=41$ we use $\alpha=\dm a^2-1$, where $\dm a$ generates $\Delta(41)$, for $Z=SS_5+O_k$, as $\dm a^2$ fixes both closed points of degree $5$.
@@ -77,14 +79,14 @@ other $p$ & $\sigma-1$\\
 \end{table}
 
 \begin{proposition}\label{prop:sieve}
-Let $(d,p)$ be a pair from \Cref{table:local}. Then $Z$ is one of the divisors listed for $p$ in \Cref{table:exceptions}.
+Let $(d,p)$ be a pair from \Cref{table:local}, and let $D$ be the trace divisor of a point of order $p$ over a number field of degree $d$. Then $Z$ is one of the divisors listed for $p$ in \Cref{table:exceptions}.
 \end{proposition}
 
 \begin{proof}
-By \Cref{prop:cusps}, $Z\neq0$ (apart from the four exceptional cases, which are listed in the table). For all the other possibilities for $Z$ given by the census, we \gitlink{degree22/full_sieve.py}{compute} that $\alpha A_3Z$ (or, in a few cases, $\alpha A_5Z$ or $\alpha A_7Z$) is not principal (\gitlink{degree22/pair_sieve.py}{pairs and triples}, \gitlink{degree20/mixed_sieve.py}{mixed supports}), which contradicts \Cref{lem:hecke}. Each of these computations depends only on $Z$, so a computation made for one $d$ applies to all larger $d$ as well. For example, at $p=43$, if $Z=C$ is one of the three non-rational cusps, then up to sign and a diamond operator $(\dm 3-1)A_3Z$ is $2(2\dm3C-\dm9C-C)$, and we \gitlink{degree13/cusp43.m}{compute} that this divisor is not principal, which excludes $Z=NC_7$ in all degrees.
+By \Cref{prop:cusps}, $Z\neq0$, apart from the four exceptional cases of \Cref{prop:cusps2}, which are listed in the table. For all the other possibilities for $Z$ given by the census, we \gitlink{degree22/full_sieve.py}{compute} that $\alpha A_3Z$ (or, in a few cases, $\alpha A_5Z$ or $\alpha A_7Z$) is not principal (\gitlink{degree22/pair_sieve.py}{pairs and triples}, \gitlink{degree20/mixed_sieve.py}{mixed supports}, \gitlink{degree22/generic113_mixed_sieve.py}{mixed supports at $113$ for $d=22$}), which contradicts \Cref{lem:hecke}. Each of these computations depends only on $Z$, so a computation made for one $d$ applies to all larger $d$ as well. For example, at $p=43$, if $Z$ is one of the three non-rational cusps, then up to sign and a diamond operator $(\dm 3-1)A_3Z$ is $2(2\dm3Z-\dm9Z-Z)$, and we \gitlink{degree13/cusp43.m}{compute} that this divisor is not principal, which excludes $Z=NC_7$ in all degrees.
 \end{proof}
 
-These computations involve a very large number of divisors, on curves of genus up to $1027$. For example, for $d=22$ alone there are $76185$ new orbits under $\Delta(p)$ of ordinary closed points of degree $22$. Note that the test cannot succeed if $Z$ is the reduction of a divisor $D_1$ defined over $\Q$, for example of a point of smaller degree on $X_1(p)$ plus some rational cusps. In fact, some of the ordinary points in \Cref{table:exceptions} are reductions of points of degree $10$, $12$ and $14$ on $X_1(37)$, $X_1(41)$ and $X_1(43)$, and the others have a large stabilizer in $\Delta(p)$.
+These computations involve a very large number of divisors, on curves of genus up to $737$. For example, for $d=22$ alone there are $71224$ new orbits under $\Delta(p)$ of ordinary closed points of degree $22$. Note that the test cannot succeed if $Z$ is the reduction of a divisor $D_1$ defined over $\Q$, for example of a point of smaller degree on $X_1(p)$ plus some rational cusps. In fact, some of the ordinary points in \Cref{table:exceptions} are reductions of points of degree $10$, $12$ and $14$ on $X_1(37)$, $X_1(41)$ and $X_1(43)$, and the others have a large stabilizer in $\Delta(p)$.
 
 \begin{table}[H]
 \centering
