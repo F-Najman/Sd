@@ -1,0 +1,7 @@
+{
+  "status": "STOPPED_OWN_PARTIAL_WORKER_BEFORE_REPLAY",
+  "old_pid": 3842264,
+  "old_source_sha256": "bd3252ecb4204dcf08e303f1afd832e1f92243e08a3668680cbf0f0a397f2a82",
+  "old_log_sha256": "fe51d759cdfa77a9360ea57a361dc5018d8c3318fed4ad28fa9a9ea85ccaefe8",
+  "change": "Precompute A*Z and B*Z once instead of repeating each matrix-vector product in every convolution term; verify all24 jet coefficients unchanged."
+}

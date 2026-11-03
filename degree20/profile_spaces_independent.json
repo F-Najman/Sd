@@ -1,0 +1,132 @@
+{
+  "status": "PASS",
+  "degree": 20,
+  "results": [
+    {
+      "case": "relative53",
+      "status": "PASS",
+      "profiles": 1,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "full_cusps53",
+      "status": "PASS",
+      "profiles": 63926,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative73",
+      "status": "PASS",
+      "profiles": 284,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative73_nc",
+      "status": "PASS",
+      "profiles": 4,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative113",
+      "status": "PASS",
+      "profiles": 224,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative97_sharp",
+      "status": "PASS",
+      "profiles": 2,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "full_cusps101_sharp",
+      "status": "PASS",
+      "profiles": 197,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative109",
+      "status": "PASS",
+      "profiles": 3,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative113_ordinary",
+      "status": "PASS",
+      "profiles": 392,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI59",
+      "status": "PASS",
+      "profiles": 6469,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI79",
+      "status": "PASS",
+      "profiles": 2300,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI83",
+      "status": "PASS",
+      "profiles": 2541,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI103",
+      "status": "PASS",
+      "profiles": 441,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI107",
+      "status": "PASS",
+      "profiles": 4239,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI109",
+      "status": "PASS",
+      "profiles": 4400,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI113",
+      "status": "PASS",
+      "profiles": 4731,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI127",
+      "status": "PASS",
+      "profiles": 671,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI131",
+      "status": "PASS",
+      "profiles": 259,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI137",
+      "status": "PASS",
+      "profiles": 6969,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI139",
+      "status": "PASS",
+      "profiles": 7175,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "ss73_double",
+      "status": "PASS",
+      "profiles": 12,
+      "entire_relation_spaces": true
+    }
+  ]
+}

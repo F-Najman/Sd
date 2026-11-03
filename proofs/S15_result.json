@@ -1,0 +1,90 @@
+{
+  "status": "PROVED_WITH_COMPUTER_ASSISTANCE",
+  "degree": 15,
+  "S": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31,
+    37,
+    43
+  ],
+  "proved_lower_bound": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31,
+    37,
+    43
+  ],
+  "proved_upper_bound": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31,
+    37,
+    43
+  ],
+  "unresolved_primes": [],
+  "dyadic_bound": 33131,
+  "coefficient_rank": 30,
+  "dyadic_M": 157,
+  "audited_primes": 3551,
+  "resolved_primes": 3551,
+  "published_exclusions": 3521,
+  "complete_local_exclusions": 17,
+  "ordinary_source_orbits": 2175,
+  "ordinary_nonprincipal": 2173,
+  "new_7plus8_pair_orbits": 254,
+  "borrowed_7plus7_pair_orbits": 137,
+  "mixed_obstructions": 14,
+  "independent_matrix_ranks": 2578,
+  "prime61_certificate": "../work/degree15/quotient61/independent_checks.json",
+  "prime61_argument": "A hypothetical point descends to an irreducible cubic divisor on the genus-8 quotient. Torsion reduction and rational gonality >=4 force invariance under its involution, requiring three fixed points although Riemann-Hurwitz gives only two.",
+  "proof": {
+    "text": "S15_proof.txt",
+    "pdf": "S15_proof.pdf",
+    "pages": 9,
+    "txt_sha256": "bd671ca73c78da89a6f5b4d262c473d36368633bd3381897e9bd46f326508291"
+  },
+  "prime61_proof": {
+    "text": "S15_61_exclusion.txt",
+    "pdf": "S15_61_exclusion.pdf",
+    "pages": 4,
+    "txt_sha256": "c12c6a837d0672fcf237c95d773a8599b199bb29d6f5f1d38982a5f189af2d15"
+  },
+  "coverage_ledger": "../work/degree15/final_coverage.json",
+  "level97_correction": {
+    "degree": 15,
+    "status": "PASS",
+    "ordinary97_orbits": 89,
+    "corrected_operators": [
+      "sigma^12-1",
+      "(sigma-1)*Phi12(sigma)"
+    ],
+    "certificate_sha256": "e2d3cbef1fe508c22d9c957f0834fb0064ef9163aa0753ff0d8a1f9e95f0edab",
+    "subset_of_independently_verified_degree17_certificate": true,
+    "note": "S97_correction.pdf"
+  }
+}

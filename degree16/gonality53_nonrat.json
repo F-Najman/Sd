@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "nonrational_configurations": {
+    "9": 78,
+    "10": 130
+  },
+  "rational_cusp_base_rank": 26,
+  "gonality_lower_bound": 20,
+  "excess_degree": 10
+}

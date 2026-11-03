@@ -1,0 +1,51 @@
+S21_RELATIVE_PROFILE relative53 0 0 5 43 PASS 0.0
+S21_RELATIVE_CASE_FINISHED relative53 PASS 26
+S21_RELATIVE_PROFILE full_cusps53 0 0 6 40 PASS 0.0
+S21_RELATIVE_PROFILE full_cusps53 0 10000 0 None PASS 7.5
+S21_RELATIVE_PROFILE full_cusps53 0 20000 0 None PASS 14.2
+S21_RELATIVE_PROFILE full_cusps53 0 30000 0 None PASS 19.6
+S21_RELATIVE_PROFILE full_cusps53 0 40000 0 None PASS 26.5
+S21_RELATIVE_PROFILE full_cusps53 0 50000 0 None PASS 32.7
+S21_RELATIVE_PROFILE full_cusps53 0 60000 0 None PASS 39.3
+S21_RELATIVE_PROFILE full_cusps53 0 70000 0 None PASS 45.3
+S21_RELATIVE_CASE_FINISHED full_cusps53 PASS 78626
+S21_RELATIVE_PROFILE relative61 0 0 0 None PASS 0.0
+S21_RELATIVE_CASE_FINISHED relative61 PASS 1
+S21_RELATIVE_PROFILE relative61_ss20 0 0 0 None PASS 0.0
+S21_RELATIVE_CASE_FINISHED relative61_ss20 PASS 1
+S21_RELATIVE_PROFILE relative73 0 0 8 66 PASS 0.0
+S21_RELATIVE_PROFILE relative73 1 0 8 66 PASS 0.4
+S21_RELATIVE_PROFILE relative73 2 0 8 66 PASS 0.7
+S21_RELATIVE_PROFILE relative73 3 0 8 66 PASS 1.1
+S21_RELATIVE_CASE_FINISHED relative73 PASS 284
+S21_RELATIVE_PROFILE relative73_nc 0 0 8 66 PASS 0.0
+S21_RELATIVE_PROFILE relative73_nc 1 0 8 66 PASS 0.4
+S21_RELATIVE_PROFILE relative73_nc 2 0 8 66 PASS 0.8
+S21_RELATIVE_PROFILE relative73_nc 3 0 8 66 PASS 1.2
+S21_RELATIVE_CASE_FINISHED relative73_nc PASS 144
+S21_RELATIVE_PROFILE relative109 0 0 0 None PASS 0.1
+S21_RELATIVE_PROFILE relative109 1 0 0 None PASS 0.4
+S21_RELATIVE_PROFILE relative109 2 0 0 None PASS 0.7
+S21_RELATIVE_CASE_FINISHED relative109 PASS 162
+S21_RELATIVE_PROFILE relative113_ordinary 0 0 0 None PASS 0.1
+S21_RELATIVE_PROFILE relative113_ordinary 1 0 0 None PASS 0.6
+S21_RELATIVE_PROFILE relative113_ordinary 2 0 0 None PASS 0.9
+S21_RELATIVE_PROFILE relative113_ordinary 3 0 0 None PASS 1.2
+S21_RELATIVE_PROFILE relative113_ordinary 4 0 0 None PASS 1.5
+S21_RELATIVE_PROFILE relative113_ordinary 5 0 0 None PASS 1.8
+S21_RELATIVE_PROFILE relative113_ordinary 6 0 0 None PASS 2.1
+S21_RELATIVE_CASE_FINISHED relative113_ordinary PASS 392
+Traceback (most recent call last):
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/check_relative_all.py", line 15, in <module>
+    cols=[[B.red(sum(JC[k][i][j]<<i for i in range(len(mat))))for j in range(c)]for k in range(m)]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/check_relative_all.py", line 15, in <listcomp>
+    cols=[[B.red(sum(JC[k][i][j]<<i for i in range(len(mat))))for j in range(c)]for k in range(m)]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/check_relative_all.py", line 15, in <listcomp>
+    cols=[[B.red(sum(JC[k][i][j]<<i for i in range(len(mat))))for j in range(c)]for k in range(m)]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/check_relative_all.py", line 15, in <genexpr>
+    cols=[[B.red(sum(JC[k][i][j]<<i for i in range(len(mat))))for j in range(c)]for k in range(m)]
+                     ~~~~~~~~^^^
+IndexError: list index out of range

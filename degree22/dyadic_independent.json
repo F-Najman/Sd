@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "degree": 22,
+  "matrix_classes": 228,
+  "rank": 44,
+  "M": 229,
+  "cutoff": 20152,
+  "supersingular_orders": [
+    {
+      "degree": 22,
+      "orders": [
+        4190209,
+        4192257,
+        4194305,
+        4196353,
+        4198401
+      ],
+      "all_native_curves_independently_counted": true
+    }
+  ]
+}

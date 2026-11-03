@@ -1,0 +1,475 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 7 /Kids [ 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R ] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 3409 >>
+stream
+BT /F1 8 Tf 48 808 Td (S\(12\) = Primes\(37\) union {43} | computer-assisted proof | 29 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+(S\(12\): A COMPUTER-ASSISTED DETERMINATION) Tj T*
+() Tj T*
+(Theorem:) Tj T*
+( S\(12\) = {2,3,5,7,11,13,17,19,23,29,31,37,43}.) Tj T*
+() Tj T*
+(All computational obligations below have completed. The 656 required) Tj T*
+(character orders, including the 53 reused audited certificates, have) Tj T*
+(coprime Pade certificates verified in exact finite-field arithmetic.) Tj T*
+(The final coverage check accounts for all 44045 primes up to 532900.) Tj T*
+(The new local computations cover degree 12 and include levels 107) Tj T*
+(and 109. Earlier audited results are identified explicitly.) Tj T*
+() Tj T*
+(1. OCCURRENCE AND REDUCTION TO DEGREE-12 POINTS) Tj T*
+() Tj T*
+(The published sextic classification gives S\(6\)={2,3,5,7,11,13,17,19,37}.) Tj T*
+(A quadratic extension of a sextic field gives a field of exact degree) Tj T*
+(12 and preserves its torsion points. For 23,29,31, the script) Tj T*
+(verify_small_witnesses.m constructs degree-12 number fields, proves) Tj T*
+(their defining polynomials irreducible, and checks nonzero points of) Tj T*
+(the indicated prime order on nonsingular elliptic curves. The exact) Tj T*
+(coefficients are recorded in small_witnesses.json.) Tj T*
+() Tj T*
+(For 31 the specialization is obtained from the degree-12 function) Tj T*
+( \(x^2*y-x*y^2+y-1\)/\(\(x-y\)*x^2*y\)) Tj T*
+(on X_1\(31\), given by Derickx--van Hoeij, Section 2.2. An explicit) Tj T*
+(irreducible degree-12 fiber and its elliptic curve are checked; the) Tj T*
+(occurrence argument does not rely solely on Hilbert irreducibility.) Tj T*
+() Tj T*
+(For 43, let a be a root of) Tj T*
+( f=t^12-t^11-5t^10+6t^9+9t^8-16t^7-3t^6+19t^5) Tj T*
+(       -3t^4-12t^3+t^2+4t+1,) Tj T*
+(and put x=a and) Tj T*
+( y=\(35a^11-65a^10-107a^9+314a^8-34a^7-580a^6) Tj T*
+(       +601a^5+156a^4-552a^3+219a^2+136a-81\)/43.) Tj T*
+(Set r=\(x^2*y-x*y+y-1\)/\(x^2*y-x\), s=\(x*y-y+1\)/\(x*y\),) Tj T*
+(b=r*s*\(r-1\), c=s*\(r-1\). Then on) Tj T*
+( Y^2+\(1-c\)XY-bY=X^3-bX^2) Tj T*
+(the point \(0,0\) has order 43. occurrence43.m verifies irreducibility,) Tj T*
+(nonsingularity, and the point order exactly. This is a van Hoeij) Tj T*
+(low-degree-place entry; its j-invariant has degree 4.) Tj T*
+() Tj T*
+(Conversely, a prime dividing E\(K\)_tors occurs as the order of a point) Tj T*
+(by Cauchy's theorem. For p>37 and [K:Q]=12 the corresponding closed) Tj T*
+(point on X_1\(p\) has degree dividing 12. The known classifications in) Tj T*
+(degrees 1,2,3,4,6 exclude every proper divisor. Thus its degree is 12.) Tj T*
+(Write D for its irreducible rational trace divisor. This is precisely) Tj T*
+(the S_new\(12\) condition in Derickx--Stoll, Definition 7.1.) Tj T*
+() Tj T*
+(2. GLOBAL PRIME BOUNDS) Tj T*
+() Tj T*
+(Oesterle's effective bound, as proved in DKSS, gives) Tj T*
+( p <= \(3^\(12/2\)+1\)^2 = 532900.) Tj T*
+(The published Derickx--Stoll strange-character Table 2 is used only) Tj T*
+(for p<100000. It is not extrapolated.) Tj T*
+() Tj T*
+(For 149<=p<100000, Corollary 7.5 excludes all 9558 primes: its) Tj T*
+(small-prime alternative fails since p^2>\(2^19/325\)*12+1, its CM) Tj T*
+(alternatives would give p=25 or 37, and its remaining alternative) Tj T*
+(requires \(p-1\)/\(2*str\(p\)\) to divide 12. No table entry or non-strange) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (1 / 7) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3900 >>
+stream
+BT /F1 8 Tf 48 808 Td (S\(12\) = Primes\(37\) union {43} | computer-assisted proof | 29 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+(prime in this interval satisfies that divisibility. The complete) Tj T*
+(integer checks are in published_prime_bound.json.) Tj T*
+() Tj T*
+(For p=113,127,131,137,139 the prime is non-strange, and) Tj T*
+( gon_Q\(X_1\(p\)\) >= 325*\(p^2-1\)/65536 > 60.) Tj T*
+(Derickx--Stoll Proposition 4.1, with diamond <2>, ell=2, n=5,) Tj T*
+(applies; Remark 4.4 supplies its rational 2-primary torsion hypothesis.) Tj T*
+(It makes D a union of diamond <2> orbits. The orders in the diamond) Tj T*
+(group are respectively 14,7,65,34,69. None of these orders, or their) Tj T*
+(possible integral halves or thirds, divides 12. This is impossible) Tj T*
+(for the irreducible divisor D.) Tj T*
+() Tj T*
+(For 100000<p<=532900 we use only odd-characteristic winding-quotient) Tj T*
+(formal immersion. Let e be the X_0\(p\) winding element and put) Tj T*
+( T'_n=sum_{m|n} mu\(n/m\)T_m, L_n=T'_\(2n\)-2T'_n.) Tj T*
+(The integral spans of L_1,...,L_12 and \(T_2-3\)T_1,...,\(T_2-3\)T_12) Tj T*
+(coincide. DKSS's intersection formula, for odd M, p>24M and pu=1) Tj T*
+(modulo M, is) Tj T*
+( L_n e . {0,a/M}=epsilon_M\(na\)-epsilon_M\(nu/a\), 1<=n<=12.) Tj T*
+(Here epsilon_M is the indicator of the upper half of the nonzero) Tj T*
+(residues. We verify rank 12 for every unit u, using) Tj T*
+( ell=3,M=61 \(60 matrices\), ell=5,M=59 \(58 matrices\), and) Tj T*
+( ell=7,M=59 \(58 matrices\).) Tj T*
+(As \(T_2-3\)Te lies in integral homology, these are integral independence) Tj T*
+(certificates for Parent's odd-characteristic formal immersion criterion) Tj T*
+(at 12 times the relevant rational cusp. Rational torsion on the) Tj T*
+(winding quotient injects under reduction at these odd primes.) Tj T*
+() Tj T*
+(Consequently, at every ell in {3,5,7}, for at least one residue degree) Tj T*
+(1<=f<=12, either the Hasse interval for ell^f contains a multiple of p,) Tj T*
+(or p divides ell^f-1 or ell^f+1. Otherwise prime torsion cannot be in) Tj T*
+(good or toric reduction, additive reduction cannot support p>100000,) Tj T*
+(and all relevant modular points specialize to the common cusp type) Tj T*
+(on X_0\(p\), contradicting formal immersion. An Atkin--Lehner involution) Tj T*
+(interchanges the two cusp conventions if necessary.) Tj T*
+() Tj T*
+(We sharpen the Hasse test when the trace is divisible by ell. Such) Tj T*
+(an elliptic curve is supersingular. For ell=3,5 the only supersingular) Tj T*
+(j is 0, and for ell=7 it is 1728. These statements follow directly) Tj T*
+(from the Hasse invariant: the relevant coefficients are a2 for a) Tj T*
+(characteristic-3 equation y^2=x^3+a2*x^2+a4*x+a6, 2A for) Tj T*
+(y^2=x^3+A*x+B in characteristic 5, and 3B in characteristic 7.) Tj T*
+(ss_orders.m enumerates all twists of these curves over each relevant) Tj T*
+(finite field. No other group order is accepted for a supersingular) Tj T*
+(trace. A condition retained by this filter need not be sufficient;) Tj T*
+(only necessity is used.) Tj T*
+() Tj T*
+(Of the 34453 primes in this interval, these tests exclude 34361 and) Tj T*
+(leave 92. For each survivor let m=\(p-1\)/2. We choose a prime r with) Tj T*
+(a=v_r\(m\)>b=v_r\(12\), and test every even character whose order is a) Tj T*
+(multiple of r^\(a-b\). There are 656 required tests: 53 are reused from) Tj T*
+(the independently audited degree-11 computation and 603 are new.) Tj T*
+(The selections and all divisors to be tested are explicit in) Tj T*
+(large_selected_orders.json.) Tj T*
+() Tj T*
+(For a tested character chi, over an exact auxiliary prime field, we) Tj T*
+(form the plus modular-symbol space and the winding element. The) Tj T*
+(auxiliary prime q is greater than p and is 1 modulo p-1; both) Tj T*
+(conditions are checked. In particular q does not divide 6\(p-1\).) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (2 / 7) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3639 >>
+stream
+BT /F1 8 Tf 48 808 Td (S\(12\) = Primes\(37\) union {43} | computer-assisted proof | 29 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+(The character and plus projectors are therefore defined integrally) Tj T*
+(at q on torsion-free relative homology. The finite-field computation) Tj T*
+(is reduction of this integral model, so the rank-lifting argument) Tj T*
+(below applies without a torsion or change-of-lattice assumption.) Tj T*
+(The) Tj T*
+(operator \(T_2-2chi\(2\)-1\)\(T_2-chi\(2\)-2\) removes the Eisenstein parts.) Tj T*
+(If the resulting winding vector generates a Hecke module of the) Tj T*
+(full cuspidal dimension, chi is non-strange. A scalar Krylov sequence) Tj T*
+(of length twice that dimension with full linear complexity proves) Tj T*
+(this rank statement. Reduction of integral modular-symbol matrices) Tj T*
+(cannot increase rank, so this proves non-strangeness in) Tj T*
+(characteristic zero. Galois conjugacy covers every character of the) Tj T*
+(same order. Random choices only search for a certificate.) Tj T*
+() Tj T*
+(The implementation either computes the sequence in Magma, or exports) Tj T*
+(the same exact sparse Hecke matrix and evaluates the sequence in C++.) Tj T*
+(The latter implementation checks 64 terms against Magma for each) Tj T*
+(export. An entire sequence at p=176797 was also checked against its) Tj T*
+(native Magma counterpart. The optional compact exporter stores the) Tj T*
+(same Manin quotient map in dense/sparse blocks and constructs Hecke) Tj T*
+(rows directly from Magma's Heilbronn action. It changes neither) Tj T*
+(relations nor basis. Its entire Hecke matrix was compared with the) Tj T*
+(standard Magma matrix for characters of orders 2 and 29466.) Tj T*
+(Every arithmetic accumulator has an) Tj T*
+(explicit overflow bound. Magma computes Berlekamp--Massey; Sage) Tj T*
+(independently constructs a coprime Pade certificate by polynomial) Tj T*
+(Euclid and verifies its congruence, degrees and gcd. This proves) Tj T*
+(minimal complexity without trusting Berlekamp--Massey alone.) Tj T*
+() Tj T*
+(All these tests pass. Consequently, v_r\(str\(p\)\)<a-b, hence) Tj T*
+(v_r\(m/str\(p\)\)>b. Thus m/str\(p\) cannot divide 12. Corollary 7.5) Tj T*
+(excludes these 92 primes.) Tj T*
+() Tj T*
+(3. RATIONAL-CUSP REDUCTIONS AT 2) Tj T*
+() Tj T*
+(The remaining levels are) Tj T*
+( 41,47,53,59,61,67,71,73,79,83,89,97,101,103,107,109.) Tj T*
+(The level 43 is already an occurrence.) Tj T*
+() Tj T*
+(We use the endomorphism version of the DKSS formal immersion) Tj T*
+(criterion, on intermediate Jacobians. The maps are actual integral) Tj T*
+(endomorphisms with finite rational image, composed with) Tj T*
+(t_q=T_q-<q>-q for odd q, in DKSS's mu-level convention. This factor) Tj T*
+(kills rational torsion, hence) Tj T*
+(the full maps annihilate the rational Jacobian group. For geometric) Tj T*
+(point-level correspondences in Section 4, the Fricke-conjugate) Tj T*
+(factor is instead T_q-1-q<q>; DKSS explicitly explains this change) Tj T*
+(of modular interpretation. This avoids) Tj T*
+(an assertion about an optimal winding quotient's cotangent lattice) Tj T*
+(at 2. For 107 and 109 one can take \(<r>-1\)t_3 directly: both primes) Tj T*
+(are non-strange, so \(<r>-1\)J_1\(p\)\(Q\) is finite.) Tj T*
+() Tj T*
+(The selected diamond indices, and normalized multiplicity tuples) Tj T*
+(covered, are) Tj T*
+( 41:20,11543033; 47:23,40569972; 53:13,296084;) Tj T*
+( 59:29,349638322; 61:15,961110; 67:11,79461;) Tj T*
+( 71:5,419; 73:12,156334; 79:13,296084;) Tj T*
+( 83:41,10495087090; 89:11,79461; 97:4,127;) Tj T*
+( 101:5,419; 103:17,2784103;) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (3 / 7) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3796 >>
+stream
+BT /F1 8 Tf 48 808 Td (S\(12\) = Primes\(37\) union {43} | computer-assisted proof | 29 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+( 107:53,152538845733; 109:54,186230004617.) Tj T*
+() Tj T*
+(At 41,61,67 and 73 several endomorphism maps are combined. Every) Tj T*
+(tuple has total 12 and is normalized by a diamond translate so that) Tj T*
+(its first entry is maximal; every other entry is at most 6. The) Tj T*
+(corresponding Hecke/diamond operator prefixes are independent mod 2.) Tj T*
+(Where the binary relation space is small, all its nonzero elements) Tj T*
+(are enumerated instead: a relation with required first prefix m0) Tj T*
+(and other required prefixes m_i can occur in a normalized tuple) Tj T*
+(of degree 12 if and only if max\(m0,m_i\)+sum_i m_i<=12. Every relation) Tj T*
+(has larger cost. Otherwise all normalized tuples are tested by the) Tj T*
+(C++ prefix checker. An independent dynamic program checks their) Tj T*
+(number. Compressing the operator rows is exact: every original row) Tj T*
+(is reconstructed from its compressed coordinates.) Tj T*
+() Tj T*
+(The tests with smaller indices 6 at 73 and 4 at 89 fail in degree) Tj T*
+(12. They are not certificates. The successful maps use indices) Tj T*
+(12 and 11, respectively. The selected files are recorded in the) Tj T*
+(final ledger and formal_immersion_final.json.) Tj T*
+() Tj T*
+(4. ALL ORDINARY REDUCTIONS) Tj T*
+() Tj T*
+(The complete census over F_\(2^d\), 1<=d<=12, enumerates every) Tj T*
+(j-invariant up to Frobenius, every twist, and every rational p-torsion) Tj T*
+(line. The group order is checked not to be divisible by p^2.) Tj T*
+(Sutherland coordinates identify geometric points modulo their) Tj T*
+(elliptic-curve automorphisms; a Frobenius-invariant key identifies) Tj T*
+(closed points. Diamond translates cover every point in an orbit.) Tj T*
+(All ordinary cases consist of one closed point P and rational cusps.) Tj T*
+(The census also records the supersingular cases treated below.) Tj T*
+() Tj T*
+(Let sigma denote the inverse geometric point diamond associated to) Tj T*
+(the recorded primitive root. Use the integral endomorphisms) Tj T*
+( alpha=1 for 41,47,59,71;) Tj T*
+( alpha=sigma^6-1 for 61;) Tj T*
+( alpha=\(sigma-1\)\(sigma^4-sigma^2+1\) for 97;) Tj T*
+( alpha=\(sigma-1\)\(sigma^5+1\) for 101;) Tj T*
+( alpha=sigma-1 otherwise.) Tj T*
+(Their rational images are finite: the rank-zero cases and the) Tj T*
+(strange-character Table 2 justify these choices. The operator A_3) Tj T*
+(kills rational torsion and actual rational-cusp divisors. Thus any) Tj T*
+(ordinary closed point occurring in the reduction would have) Tj T*
+(alpha*A_3\(P\) principal, irrespective of its rational-cusp complement.) Tj T*
+() Tj T*
+(The canonical-space construction uses all newforms, not only the) Tj T*
+(rank-zero quotient. Saturation of their truncated integral q-series) Tj T*
+(gives the full Z_2 lattice: if a missing integral differential) Tj T*
+(existed, a minimal power of 2 and the vanishing bound for canonical) Tj T*
+(sections would contradict the independence of the reduced basis.) Tj T*
+(Here precision minus 1 exceeds 2g-2. Fricke transport identifies the) Tj T*
+(Tate point on E\(q^p\) with u=q with the cusp-form expansion on E\(q\).) Tj T*
+(The Sutherland-unit relations are global, because their verified) Tj T*
+(zero orders exceed 2g-2 plus the entire pole degree. The old unit) Tj T*
+(pole bounds were independently audited; the new 107 and 109 bounds) Tj T*
+(are checked at every Tate cusp and are \(150,157\), \(156,163\).) Tj T*
+(The geometric diamond convention is certified by the unit relations) Tj T*
+(at a translated Tate point. It is not inferred from matrix order.) Tj T*
+() Tj T*
+(Ordinary local jets use a6 as parameter in) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (4 / 7) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3822 >>
+stream
+BT /F1 8 Tf 48 808 Td (S\(12\) = Primes\(37\) union {43} | computer-assisted proof | 29 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+(y^2+xy=x^3+a2*x^2+a6. Since j=1/a6 this is a uniformizer. The curve) Tj T*
+(and p-division derivatives used in Hensel lifting are checked to be) Tj T*
+(units. Actual 3-isogenies, residue degrees and trace multiplicities) Tj T*
+(give the Hecke targets. Full canonical coordinates identify shared) Tj T*
+(support and permit all cancellations before applying conditions.) Tj T*
+() Tj T*
+(For completeness, the nonprincipality certificate is the following) Tj T*
+(elementary necessary condition. Write alpha*A_3\(P\)=U-V with disjoint) Tj T*
+(effective U,V. Let R=H^0\(K^s\), with s=2 at 41,47,53 and s=1 otherwise.) Tj T*
+(Its dimension exceeds deg U. Choose nonzero F in R\(-U\). If U-V=div\(g\),) Tj T*
+(then S=F/g is a nonzero section of R\(-V\), and) Tj T*
+( H*S belongs to F*R for every H in R\(-U\).) Tj T*
+(These are homogeneous linear conditions on S. A full-rank condition) Tj T*
+(matrix rules out such S, and therefore rules out principality.) Tj T*
+(Multiplication tensors are reconstructed from q-products beyond) Tj T*
+(the relevant vanishing/Sturm bounds and every product is verified.) Tj T*
+(Evaluations and multiplicities use actual jets of the closed points.) Tj T*
+(The displayed F and chosen H sections are retained with each matrix.) Tj T*
+() Tj T*
+(There are 298 ordinary source orbits, all excluded. The counts at) Tj T*
+(the levels in increasing order are) Tj T*
+(45,27,26,27,21,24,20,11,10,25,13,9,12,14,7,7.) Tj T*
+(Every final obstruction matrix was also checked for full rank using) Tj T*
+(Sage's independent finite-field linear algebra.) Tj T*
+() Tj T*
+(5. SUPERSINGULAR AND NONRATIONAL-CUSP REDUCTIONS) Tj T*
+() Tj T*
+(The only relevant supersingular degrees are) Tj T*
+( 41: two degree-5 points;) Tj T*
+( 73: four degree-6 points in one diamond orbit;) Tj T*
+( 109: degree-9 and degree-12 diamond orbits of size 3.) Tj T*
+(The only nonrational cusp degrees at most 12 are 10 at 41, 9 at 73,) Tj T*
+(and 11 at 89. These are the orders of 2 in the diamond group.) Tj T*
+(The census and these degrees also show there are no mixed supports) Tj T*
+(omitted from the following list.) Tj T*
+() Tj T*
+(At 41, the independently audited native function-field certificates) Tj T*
+(show A_3\(P\) nonprincipal for a degree-5 point and A_3\(P+Q\)) Tj T*
+(nonprincipal for both unordered pairs up to diamond symmetry,) Tj T*
+(including P=Q. They apply with rational-cusp complements of degrees) Tj T*
+(7 and 2. The degree-10 nonrational-cusp divisor is also excluded:) Tj T*
+(A_3 of either such cusp is twice their difference, proved) Tj T*
+(nonprincipal. Its rational-cusp complement has degree 2.) Tj T*
+() Tj T*
+(We spell out the stabilizer lifting argument, including its degree) Tj T*
+(issue. Suppose h has order m, \(h-1\)J\(Q\) is finite, and the nonrational) Tj T*
+(part P of the reduction of D is fixed by h. Lift the rational-cusp) Tj T*
+(complement to a rational cusp divisor C and set Z=D-C. Its degree) Tj T*
+(need not be zero. Nevertheless y=[hZ-Z] is a degree-zero class, and) Tj T*
+( m*y=\(h-1\)[mZ-\(1+h+...+h^\(m-1\)\)Z].) Tj T*
+(The class in brackets has degree zero, so the right side is torsion.) Tj T*
+(Thus y is torsion. It reduces to zero. Good reduction at 2 implies) Tj T*
+(2y=0. If m is odd and h acts trivially on J\(Q\)[2], the identity) Tj T*
+(\(1+h+...+h^\(m-1\)\)y=0 also gives my=0, hence y=0.) Tj T*
+() Tj T*
+(If y=0, and gon_Q\(X\)>12+deg C, the principal divisor) Tj T*
+(hD+C-D-hC must be zero. If only 2y=0 is known, it suffices that) Tj T*
+(gon_Q\(X\)>2*\(12+deg C\). The cuspidal and noncuspidal supports are) Tj T*
+(disjoint, so hD=D and hC=C separately. The rational cusps form a free) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (5 / 7) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3755 >>
+stream
+BT /F1 8 Tf 48 808 Td (S\(12\) = Primes\(37\) union {43} | computer-assisted proof | 29 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+(diamond orbit; consequently m divides deg C whenever C is nonempty.) Tj T*
+() Tj T*
+(At 73 use h=<2>, of order 9. The independently audited integral) Tj T*
+(homology computation on the actual J_1\(73\), rather than an isogenous) Tj T*
+(factor, proves that h acts trivially on J_1\(73\)\(Q\)[2]. The gonality) Tj T*
+(bound is greater than 26. A supersingular degree-6 point plus six) Tj T*
+(rational cusps would require 9|6; a nonrational degree-9 cusp plus) Tj T*
+(three rational cusps would require 9|3. Both fail. If the reduction) Tj T*
+(is a sum of two degree-6 supersingular points, h fixes D itself.) Tj T*
+() Tj T*
+(At 109 use h=<23>, of order 18 in the diamond group. The fresh) Tj T*
+(stabilizer calculation proves it fixes the degree-9 and degree-12) Tj T*
+(closed source points. Commutativity with every diamond translate) Tj T*
+(extends this check to their entire orbits, as it does at 73.) Tj T*
+(Non-strangeness makes \(h-1\)J\(Q\) finite. The) Tj T*
+(gonality lower bound is greater than 58. For the degree-9 point) Tj T*
+(plus three rational cusps, the doubled-divisor bound is 30 and) Tj T*
+(would require 18|3. For a degree-12 supersingular reduction it is) Tj T*
+(24 and forces hD=D without any rational 2-torsion assumption.) Tj T*
+() Tj T*
+(In the remaining hD=D cases at 73 and 109, a geometric diamond orbit) Tj T*
+(has length respectively 9,9,3 and 18,9,6 \(generic, j=1728, j=0\).) Tj T*
+(All orbits in an irreducible rational D have the same length. Only) Tj T*
+(the j=0 shortened orbit can divide 12. Its p-subgroup is stable) Tj T*
+(under the CM automorphism, so the underlying X_0\(p\) point has the) Tj T*
+(CM field Q\(sqrt\(-3\)\) as its field of definition. As in the proof of) Tj T*
+(Derickx--Stoll Corollary 7.3, the degree of its point on X_1\(p\) is) Tj T*
+(\(p-1\)/3, respectively 24 and 36. Neither is 12.) Tj T*
+() Tj T*
+(At 89 a degree-11 nonrational cusp plus one rational cusp is fixed) Tj T*
+(in its nonrational part by h=<2>, of order 11. The rational image) Tj T*
+(of h-1 is finite. The gonality bound exceeds 39, so even the doubled) Tj T*
+(divisor, of positive degree at most 26, must vanish. This would) Tj T*
+(require 11|1, which is impossible.) Tj T*
+() Tj T*
+(These cases exhaust every reduction at 2, and complete the local) Tj T*
+(exclusions once combined with the rational-cusp and ordinary tests.) Tj T*
+() Tj T*
+(6. STATUS AND REPRODUCIBILITY) Tj T*
+() Tj T*
+(All 603 new character tests and their Sage Pade checks passed. The) Tj T*
+(53 reused audited character certificates were rechecked as well.) Tj T*
+(The final disjoint coverage verifier accepts every prime up to) Tj T*
+(532900. Its result, the complete per-prime ledger, the local) Tj T*
+(matrices, and all generation and checking scripts are supplied.) Tj T*
+(Failed smaller-quotient experiments are not proof inputs.) Tj T*
+() Tj T*
+(The portable packet includes the relevant mdmagma library, the) Tj T*
+(borrowed exact certificates, and instructions for checking stored) Tj T*
+(certificates or regenerating them in Magma V2.30-1 and Sage.) Tj T*
+() Tj T*
+(Primary references:) Tj T*
+(Derickx--Stoll, Prime order torsion on elliptic curves over number) Tj T*
+(fields, Part I: Asymptotics, arXiv:2505.14109, especially Proposition) Tj T*
+(4.1, Remark 4.4, Table 2 and Corollaries 7.3 and 7.5.) Tj T*
+(Derickx--Kamienny--Stein--Stoll, Torsion points on elliptic curves) Tj T*
+(over number fields of small degree, arXiv:1707.00364.) Tj T*
+(Derickx--van Hoeij, Gonality of the modular curve X_1\(N\),) Tj T*
+(J. Algebra 417 \(2014\), 52--71, arXiv:1307.5719.) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (6 / 7) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 328 >>
+stream
+BT /F1 8 Tf 48 808 Td (S\(12\) = Primes\(37\) union {43} | computer-assisted proof | 29 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+(Parent, Bornes effectives pour la torsion des courbes elliptiques) Tj T*
+(sur les corps de nombres, J. reine angew. Math. 506 \(1999\), 85--116.) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (7 / 7) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000157 00000 n 
+0000000225 00000 n 
+0000003685 00000 n 
+0000003811 00000 n 
+0000007762 00000 n 
+0000007888 00000 n 
+0000011578 00000 n 
+0000011704 00000 n 
+0000015552 00000 n 
+0000015680 00000 n 
+0000019554 00000 n 
+0000019682 00000 n 
+0000023489 00000 n 
+0000023617 00000 n 
+0000023996 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+24124
+%%EOF

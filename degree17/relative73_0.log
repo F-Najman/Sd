@@ -1,0 +1,12 @@
+prefix=1 count=183579396
+prefix=2 count=617774696
+prefix=3 count=733221951
+prefix=4 count=755681841
+prefix=5 count=759520186
+prefix=6 count=760095943
+prefix=7 count=760169758
+prefix=8 count=760177528
+prefix=9 count=760178158
+prefix=10 count=760178193
+prefix=11 count=760178194
+S17_RELATIVE_PREFIX_CHECK checked=760178194 status=PASS seconds=75.0066

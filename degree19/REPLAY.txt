@@ -1,0 +1,100 @@
+S(19) CERTIFICATE REPLAY
+
+Run commands from
+ /home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a
+Magma2.30-1 and the installed Sage Python environment were used. Scripts
+read the frozen local inputs by their recorded paths. The parent degree18
+manifest and the new manifest identify the exact sources and witnesses.
+
+Verification of the retained proof inputs:
+ python3 work/degree19/verify_manifest.py
+ python3 work/degree19/verify_inherited.py
+ magma -b work/degree19/verify_small_occurrences.m
+ magma -b work/degree19/verify_occurrences.m
+ magma -b work/degree19/bound_ss.m
+ python3 work/degree19/verify_auxiliary.py
+ python3 work/degree19/verify_jet_inverse_replay.py
+ python3 work/degree19/verify_record_compaction.py
+ python3 work/degree19/verify_fi_matrices.py
+ python3 work/degree19/verify_cusps53_intrinsic.py
+ python3 work/degree19/verify_relative73_relations.py
+ python3 work/degree19/verify_relative73_nc_intrinsic.py
+ python3 work/degree19/verify_relative127_intrinsic.py
+ python3 work/degree19/verify_relative_cusps_intrinsic.py
+ python3 work/degree19/verify_anti163_norms.py
+ python3 work/degree19/verify_ranks.py
+ python3 work/degree19/verify_large.py
+ python3 work/degree19/verify_coverage.py
+
+The last command proves coverage of every prime through525313 and every
+local support type, rather than inferring completeness from selected
+successful examples. It requires completed global character coverage.
+
+To replay the complete cusp pattern calculations:
+ python3 work/degree19/check_fi47_fast.py
+ python3 work/degree19/check_fi59_fast.py
+ python3 work/degree19/check_fi.py 61 67 71 73
+ python3 work/degree19/check_fi_profiles.py 79 83 89 97 101 103 107 109 113 127 131 137
+ python3 work/degree19/check_relative.py
+ python3 work/degree19/check_relative73_relations.py
+ python3 work/degree19/check_relative127.py
+ python3 work/degree19/check_cusps53.py
+The independently rebuilt53 matrices and all20444 lifted ranks are
+checked by verify_cusps53_intrinsic.py. The original quotient test has
+seven exceptional patterns; it is not itself a successful exclusion.
+The final argument uses their full-curve repair. The two other deficient
+absolute tests, at103 and131, use the stated relative quotient tests.
+
+Actual stabilizer calculations:
+ magma -b work/degree19/stabilizers.m
+ magma -b work/degree19/stabilizers127.m
+ magma -b work/degree19/stabilizer137_ordinary.m
+The last command covers the new degree17 ordinary exception at137.
+
+To regenerate the compact global certificate at163:
+ magma -b work/degree19/odd_anti163_character_norms.m
+ python3 work/degree19/verify_anti163_norms.py
+It uses full sign-zero homology on the character components of orders
+9,27,81, not an assumption about a rational2-torsion lattice of an
+isogenous Jacobian. The larger two-sign calculation is retained as an
+additional check, but the compact norm proof is sufficient.
+
+The ordinary full_sieve.py, pair_sieve.py, pair_low137.py and
+mixed_sieve.py reconstruct multiplication tensors, jet conditions and
+principal-divisor obstruction matrices from the frozen models and actual
+points. All matrix ranks can be checked using Sage alone. full_sieve.py
+uses a lock and a completed-certificate cache. To force regeneration,
+copy the model and point inputs into an isolated directory and omit the
+existing sieve.json and matrices.json.gz for that run. The raw Magma
+coefficient lists are compacted only in memory; the original files remain
+unchanged. Do not apply that one-pass compaction to an already compacted
+record representation.
+
+Native jets can be regenerated from the retained models and census using
+stage2_chunk.m with Start and End from new_ordinary_jobs.json. The fast
+solver uses one exact inverse and checks all original point and jet
+equations; its full source/target replay is in
+jet_inverse_replay_verified.json. Original solvers are archived in
+original_jet_solvers. A newly chosen canonical basis requires regeneration
+of its associated point and jet coordinates as well.
+
+Each fresh large-character certificate has metadata, exact sequence,
+independent coprime Pade data, and native export/C++/Berlekamp--Massey logs.
+For a chosen p and order n, regenerate the sparse action and sequence with
+ magma -b P:=p OrderToTest:=n SparseOut:=/tmp/s19_sparse.txt work/degree19/export_large_sparse.m
+ work/degree19/krylov /tmp/s19_sparse.txt /tmp/s19_raw.m
+ magma -b Raw:=/tmp/s19_raw.m Final:=/tmp/s19_sequence.m work/degree19/finish_cpp.m
+Substitute numerical p,n. The seed is fixed in the exporter. The original
+sparse action is identified by its SHA256 hash and is reproducible from
+the exact native Heilbronn action. The C++ implementation asserts its
+integer overflow bound and checks64 native scalar terms. The independent
+Pade identities prove full sequence complexity. verify_large.py checks
+all1147 required orders, including the unchanged inherited logs and the
+complete chosen divisor families.
+
+Resource limits preserved a minimum of two idle host cores for concurrent
+Phi(10) work. The final character scheduler combines the six main and two
+completed special slots, with at most eight total active stages and two
+native exports. In-flight processes were adopted rather than discarded;
+character_worker_adoption files record this bookkeeping. This has no
+bearing on the mathematical rank and Pade certificates.

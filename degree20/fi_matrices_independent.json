@@ -1,0 +1,117 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "N": 59,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 300,
+      "compressed_rank": 117,
+      "rank_cap6": 117
+    },
+    {
+      "N": 67,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 120,
+      "compressed_rank": 42,
+      "rank_cap6": 42
+    },
+    {
+      "N": 71,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 80,
+      "compressed_rank": 36,
+      "rank_cap6": 36
+    },
+    {
+      "N": 73,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 130,
+      "compressed_rank": 50,
+      "rank_cap6": 50
+    },
+    {
+      "N": 79,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 400,
+      "compressed_rank": 216,
+      "rank_cap6": 216
+    },
+    {
+      "N": 83,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 420,
+      "compressed_rank": 246,
+      "rank_cap6": 246
+    },
+    {
+      "N": 89,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 120,
+      "compressed_rank": 64,
+      "rank_cap6": 64
+    },
+    {
+      "N": 97,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 90,
+      "compressed_rank": 45,
+      "rank_cap6": 45
+    },
+    {
+      "N": 103,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 180,
+      "compressed_rank": 112,
+      "rank_cap6": 109
+    },
+    {
+      "N": 107,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 540,
+      "compressed_rank": 416,
+      "rank_cap6": 326
+    },
+    {
+      "N": 109,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 550,
+      "compressed_rank": 430,
+      "rank_cap6": 331
+    },
+    {
+      "N": 113,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 570,
+      "compressed_rank": 459,
+      "rank_cap6": 341
+    },
+    {
+      "N": 127,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 220,
+      "compressed_rank": 178,
+      "rank_cap6": 134
+    },
+    {
+      "N": 131,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 140,
+      "compressed_rank": 120,
+      "rank_cap6": 86
+    },
+    {
+      "N": 137,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 690,
+      "compressed_rank": 678,
+      "rank_cap6": 416
+    },
+    {
+      "N": 139,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 700,
+      "compressed_rank": 690,
+      "rank_cap6": 422
+    }
+  ]
+}

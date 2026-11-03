@@ -1,0 +1,107 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "p": 59,
+      "old_sources": 7227,
+      "new_ordinary_sources": 6561,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 61,
+      "old_sources": 6969,
+      "new_ordinary_sources": 6390,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 71,
+      "old_sources": 5996,
+      "new_ordinary_sources": 5455,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 73,
+      "old_sources": 5906,
+      "new_ordinary_sources": 5268,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 79,
+      "old_sources": 5397,
+      "new_ordinary_sources": 4844,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 83,
+      "old_sources": 5107,
+      "new_ordinary_sources": 4686,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 89,
+      "old_sources": 4762,
+      "new_ordinary_sources": 4354,
+      "new_supersingular_sources": 5
+    },
+    {
+      "p": 97,
+      "old_sources": 4429,
+      "new_ordinary_sources": 3975,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 101,
+      "old_sources": 4203,
+      "new_ordinary_sources": 3834,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 103,
+      "old_sources": 4177,
+      "new_ordinary_sources": 3753,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 107,
+      "old_sources": 3939,
+      "new_ordinary_sources": 3558,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 109,
+      "old_sources": 3886,
+      "new_ordinary_sources": 3551,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 113,
+      "old_sources": 3777,
+      "new_ordinary_sources": 3413,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 127,
+      "old_sources": 3324,
+      "new_ordinary_sources": 3031,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 131,
+      "old_sources": 3257,
+      "new_ordinary_sources": 2924,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 137,
+      "old_sources": 3224,
+      "new_ordinary_sources": 2820,
+      "new_supersingular_sources": 0
+    },
+    {
+      "p": 139,
+      "old_sources": 2993,
+      "new_ordinary_sources": 2807,
+      "new_supersingular_sources": 0
+    }
+  ]
+}

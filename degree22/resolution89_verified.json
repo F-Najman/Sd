@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "N": 89,
+  "degree": 22,
+  "odd_anti_H11_isogeny_reused": true,
+  "gonality_upstairs_lower_bound": "160875/4096",
+  "NC11_or_NC11_doubled": "H11 invariance, descent to Sym2(Y), all36 cusp disks formally immersed",
+  "SS22_sources": {
+    "4763": "independent T3 principal-divisor obstruction",
+    "4764": "independent T5 obstruction (T7 also passes)",
+    "4765": "independent T5 obstruction (T7 also passes)",
+    "4766": "H11 descent then residual involution, doubled degree4 < quotient gonality8",
+    "4767": "H11 descent then residual involution, doubled degree4 < quotient gonality8"
+  },
+  "residual_involution_fixed_points_all_degree": 4,
+  "free_invariant_pair_descends_to": "rational noncuspidal point of a quotient mapping to X0(89); excluded by Mazur Theorem1",
+  "Mazur_pdf_sha256": "f3da9ef0d3d184225c4799951897be7b90d8b25050c5d508b69aeff70fd2ead3"
+}

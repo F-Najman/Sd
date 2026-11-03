@@ -1,0 +1,11 @@
+S21_FREE_CHECKPOINT_CHILDREN_REMAINING 9
+S21_FREE_CHECKPOINT_CHILDREN_REMAINING 9
+S21_FREE_CHECKPOINT_CHILDREN_REMAINING 6
+S21_FREE_CHECKPOINT_CHILDREN_REMAINING 4
+S21_FREE_CHECKPOINT_CHILDREN_REMAINING 0
+S21_FREE_ENGINE_HANDOFF_SAFE
+Traceback (most recent call last):
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/handoff_free.py", line 26, in <module>
+    assert r.returncode==0;print('S21_FREE_BATCH_FINISHED',flush=True)
+           ^^^^^^^^^^^^^^^
+AssertionError

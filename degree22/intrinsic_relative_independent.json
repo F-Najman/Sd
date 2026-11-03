@@ -1,0 +1,86 @@
+{
+  "status": "PASS",
+  "degree": 22,
+  "results": [
+    {
+      "case": "relative61",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 4,
+      "base_degree": 15,
+      "base_rank": 12,
+      "translates": 1,
+      "cusp_blocks": 30
+    },
+    {
+      "case": "relative61_ss20",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 4,
+      "base_degree": 20,
+      "base_rank": 16,
+      "translates": 1,
+      "cusp_blocks": 30
+    },
+    {
+      "case": "relative73",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 3,
+      "base_degree": 6,
+      "base_rank": 6,
+      "translates": 4,
+      "cusp_blocks": 36
+    },
+    {
+      "case": "relative73_nc",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 3,
+      "base_degree": 9,
+      "base_rank": 8,
+      "translates": 4,
+      "cusp_blocks": 36
+    },
+    {
+      "case": "relative97_sharp",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 6,
+      "base_degree": 16,
+      "base_rank": 16,
+      "translates": 2,
+      "cusp_blocks": 48
+    },
+    {
+      "case": "full_cusps101_sharp",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 6,
+      "base_degree": 0,
+      "base_rank": 0,
+      "translates": 0,
+      "cusp_blocks": 50
+    },
+    {
+      "case": "relative109",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 2,
+      "base_degree": 9,
+      "base_rank": 8,
+      "translates": 3,
+      "cusp_blocks": 54
+    },
+    {
+      "case": "relative113_ordinary",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 2,
+      "base_degree": 8,
+      "base_rank": 7,
+      "translates": 7,
+      "cusp_blocks": 56
+    }
+  ]
+}

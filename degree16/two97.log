@@ -1,0 +1,3 @@
+RATIONAL_TWO_START N=97 Qs=[ 3, 5, 7, 11 ] sign=0 exact_JOne=true
+RATIONAL_TWO_JONE N=97 dimension=345 time=13.070
+RATIONAL_TWO_HOMOLOGY N=97 rank=690 time=13.070

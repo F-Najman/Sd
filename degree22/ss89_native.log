@@ -1,0 +1,8 @@
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/full89/units_data.m"
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/sources89.m"
+AUDIT_ACTUAL_HECKE_JETS_SOURCE N=89 source=4763 degree=22 orbit=4 target_degrees=[ 22, 22, 22, 22 ] weights=[ 1, 1, 1, 1 ] elapsed=2.550
+AUDIT_ACTUAL_HECKE_JETS_SOURCE N=89 source=4764 degree=22 orbit=4 target_degrees=[ 22, 22, 22, 22 ] weights=[ 1, 1, 1, 1 ] elapsed=3.880
+AUDIT_ACTUAL_HECKE_JETS_SOURCE N=89 source=4765 degree=22 orbit=4 target_degrees=[ 22, 22, 22, 22 ] weights=[ 1, 1, 1, 1 ] elapsed=5.790
+AUDIT_ACTUAL_HECKE_JETS_SOURCE N=89 source=4766 degree=22 orbit=2 target_degrees=[ 22, 22, 22, 22 ] weights=[ 1, 1, 1, 1 ] elapsed=7.620
+AUDIT_ACTUAL_HECKE_JETS_SOURCE N=89 source=4767 degree=22 orbit=1 target_degrees=[ 22, 22, 22, 22 ] weights=[ 1, 1, 1, 1 ] elapsed=9.460
+AUDIT_ACTUAL_HECKE_JETS_COMPLETE N=89 sources=5 elapsed=9.550

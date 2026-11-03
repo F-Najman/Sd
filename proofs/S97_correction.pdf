@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [ 5 0 R ] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 2430 >>
+stream
+BT /F1 8 Tf 48 808 Td (Correction: ordinary level97 certificates | 29 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+(CORRECTION TO THE LEVEL97 CERTIFICATES IN THE S\(15\) AND S\(16\) PROOFS) Tj T*
+(29 October 2026) Tj T*
+() Tj T*
+(The earlier code used) Tj T*
+(             alpha=sigma^6-sigma^4-sigma^2+1,) Tj T*
+(where sigma is the primitive diamond at97. This polynomial equals) Tj T*
+(\(sigma^2-1\)*\(sigma^4-1\) and does not vanish at a primitive12th root.) Tj T*
+(It therefore did not supply the finite-rational-image statement asserted) Tj T*
+(in the proof. The narrative factorization involving Phi_12 did not) Tj T*
+(match those code coefficients.) Tj T*
+() Tj T*
+(The corrected computation uses alpha=sigma^12-1 and, on the three) Tj T*
+(closed orbits of size24 in degrees10/14, \(sigma-1\)*Phi12\(sigma\). Both) Tj T*
+(annihilate the) Tj T*
+(trivial character and every strange character at97, since the only) Tj T*
+(strange character order is12 \(Derickx--Stoll, Table2\). Consequently) Tj T*
+(each operator has finite image on J_1\(97\)\(Q\), and composing with the good-prime) Tj T*
+(torsion annihilator at3 kills J_1\(97\)\(Q\).) Tj T*
+() Tj T*
+(All359 ordinary residue orbits through degree17 have been recomputed) Tj T*
+(with these valid operators. Every resulting principal-divisor) Tj T*
+(obstruction has full rank, independently checked in Sage. Restricting) Tj T*
+(to degree<=15 gives89 matrices; restricting to degree<=16 gives176.) Tj T*
+(Their modular-form basis and source metadata agree exactly with the) Tj T*
+(earlier models. The earlier stored level97 matrices, code and proof) Tj T*
+(PDFs have been replaced accordingly, and both complete coverage checks) Tj T*
+(pass again with no unresolved primes.) Tj T*
+() Tj T*
+(The results S\(15\)=Primes\(43\) and S\(16\)=Primes\(37\) are unchanged. The) Tj T*
+(computations through S\(14\) used a valid level97 polynomial and are not) Tj T*
+(affected by this error. The separate supersingular level97 arguments) Tj T*
+(in degree16 are also unaffected.) Tj T*
+() Tj T*
+(Authoritative files:) Tj T*
+( work/degree17/full97/sieve.json) Tj T*
+( work/degree17/full97/matrices.json.gz) Tj T*
+( work/degree17/independent_rank_checks.json) Tj T*
+( work/degree17/level97_correction_verified.json) Tj T*
+( work/degree15/verify_coverage_after97_correction.log) Tj T*
+( work/degree16/verify_coverage_after97_correction.log) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (1 / 1) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000185 00000 n 
+0000002666 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2792
+%%EOF

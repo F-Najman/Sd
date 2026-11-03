@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "degree": 22,
+  "N": 113,
+  "O8_plus_NC14": {
+    "rank": 21,
+    "family_dimension": 1,
+    "ordinary_block_rank": 7,
+    "NC_block_rank": 14,
+    "all_entries_independently_rebuilt": true,
+    "ordinary_H8_geometric_orbit": 8,
+    "ordinary_closed_orbit": 7,
+    "NC_closed_orbit": 4,
+    "all_relative_positions": true,
+    "zero_family": "H8 ordinary pullback plus a fixed degree14 cuspidal divisor; contradicts noncuspidal support"
+  },
+  "O8_plus_two_SS7": {
+    "SS_pair_relative_positions": [
+      0,
+      1,
+      2
+    ],
+    "principal_obstruction_matrices": 3,
+    "independent_rank": 477,
+    "annihilator": "(D^7-1)A3",
+    "ordinary_H8_block_zero_as_divisor": true
+  },
+  "NC_data_sha256": "01cb0283228d91f095a954291a033ca1e5a39e7ea5ab27f290926bd652326864",
+  "SS7_closed_points_independently_complete": 4,
+  "SS7_unordered_pair_offsets_complete": [
+    0,
+    1,
+    2
+  ],
+  "SS113_independent_jet_certificate_sha256": "2d3dca2eeaee4fbe73469f1664c9186f3923c5c462bb624c4828d80f5921b1b4",
+  "SS_pair_matrix_archive_sha256": "1d82923f5beb18cdbe8754b81f792f13a93df4cf11b350f798b4fba1290a3a95"
+}

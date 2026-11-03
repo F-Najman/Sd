@@ -1,0 +1,11 @@
+{
+  "p": 53,
+  "family_dimension": 1,
+  "expected_rank": 16,
+  "patterns_checked": 23751,
+  "ranks": {
+    "16": 23751
+  },
+  "failures": [],
+  "status": "PASS"
+}

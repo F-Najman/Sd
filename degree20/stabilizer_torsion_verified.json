@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "fresh_actual_lattice_and_odd_degree_checks": [
+    {
+      "p": 73,
+      "status": "PASS",
+      "actual_JOne": true,
+      "full_integral_homology_rank": 374,
+      "rational_2torsion_upper_dimension": 6,
+      "diamond2_trivial_on_upper_bound": true
+    },
+    {
+      "p": 89,
+      "status": "PASS",
+      "Betti_sign": 1,
+      "anti_dimension": 260,
+      "odd_determinant": "6985804707317520647256261443844910378883647114865045431579860369503560485564225698348026604417430982645114063643034005727472087481"
+    },
+    {
+      "p": 89,
+      "status": "PASS",
+      "Betti_sign": -1,
+      "anti_dimension": 260,
+      "odd_determinant": "6985804707317520647256261443844910378883647114865045431579860369503560485564225698348026604417430982645114063643034005727472087481"
+    }
+  ]
+}

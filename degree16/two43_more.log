@@ -1,0 +1,24 @@
+RATIONAL_TWO_START N=43 Qs=[ 3, 5, 7, 11, 13, 17, 19, 23, 29 ] sign=0 exact_JOne=true
+RATIONAL_TWO_JONE N=43 dimension=57 time=0.530
+RATIONAL_TWO_HOMOLOGY N=43 rank=114 time=0.530
+RATIONAL_TWO_DIAMOND N=43 dimension=114 time=3.430
+RATIONAL_TWO_HECKE_START N=43 q=3 time=3.440
+RATIONAL_TWO_KERNEL N=43 q=3 kernel_dimension=18 diamond_difference_rank=4 time=3.490
+RATIONAL_TWO_HECKE_START N=43 q=5 time=3.500
+RATIONAL_TWO_KERNEL N=43 q=5 kernel_dimension=6 diamond_difference_rank=4 time=3.560
+RATIONAL_TWO_HECKE_START N=43 q=7 time=3.560
+RATIONAL_TWO_KERNEL N=43 q=7 kernel_dimension=6 diamond_difference_rank=4 time=3.620
+RATIONAL_TWO_HECKE_START N=43 q=11 time=3.620
+RATIONAL_TWO_KERNEL N=43 q=11 kernel_dimension=4 diamond_difference_rank=4 time=3.690
+RATIONAL_TWO_HECKE_START N=43 q=13 time=3.690
+RATIONAL_TWO_KERNEL N=43 q=13 kernel_dimension=4 diamond_difference_rank=4 time=3.770
+RATIONAL_TWO_HECKE_START N=43 q=17 time=3.770
+RATIONAL_TWO_KERNEL N=43 q=17 kernel_dimension=4 diamond_difference_rank=4 time=3.840
+RATIONAL_TWO_HECKE_START N=43 q=19 time=3.840
+RATIONAL_TWO_KERNEL N=43 q=19 kernel_dimension=4 diamond_difference_rank=4 time=3.910
+RATIONAL_TWO_HECKE_START N=43 q=23 time=3.910
+RATIONAL_TWO_KERNEL N=43 q=23 kernel_dimension=4 diamond_difference_rank=4 time=3.990
+RATIONAL_TWO_HECKE_START N=43 q=29 time=3.990
+RATIONAL_TWO_KERNEL N=43 q=29 kernel_dimension=4 diamond_difference_rank=4 time=4.060
+NONIC_ODD_DIAMOND_NORM N=43 a=37 power=7 order=3 verified=false
+RATIONAL_TWO_DONE N=43 kernel_dimension=4 diamond_trivial=false time=4.060

@@ -1,0 +1,3327 @@
+{
+  "status": "ALL_SUPPORT_TYPES_HAVE_AN_IDENTIFIED_ARGUMENT",
+  "cases": [
+    {
+      "p": 47,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "SS",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "relative order13 pullback, five fixed cusps"
+    },
+    {
+      "p": 59,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 11,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 11,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "SS",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "relative order5 pullback of cubic divisor, three fixed cusps"
+    },
+    {
+      "p": 67,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 11,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 11,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 11,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "mixed Hecke obstruction: new73O12,113O11,127O11; otherwise inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "mixed Hecke obstruction: new73O12,113O11,127O11; otherwise inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "mixed Hecke obstruction: new73O12,113O11,127O11; otherwise inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "mixed Hecke obstruction: new73O12,113O11,127O11; otherwise inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "mixed Hecke obstruction: new73O12,113O11,127O11; otherwise inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 12,
+      "planned_or_verified_argument": "relative fixed supersingular locus plus twelve cusp directions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "actual rational2-torsion control;order9 invariance;noninvariant cusp complement or quadratic quotient and CM exclusions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "actual rational2-torsion control;order9 invariance;noninvariant cusp complement or quadratic quotient and CM exclusions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "actual rational2-torsion control;order9 invariance;noninvariant cusp complement or quadratic quotient and CM exclusions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "actual rational2-torsion control;order9 invariance;noninvariant cusp complement or quadratic quotient and CM exclusions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "NC",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "relative order9 pullback plus nine cusp directions; quadratic quotient if residual fixed divisor=0"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "NC",
+          9
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "actual rational2-torsion control;order9 invariance;noninvariant cusp complement or quadratic quotient and CM exclusions"
+    },
+    {
+      "p": 79,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 83,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "NC",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "order11 invariance via odd-degree anti-Jacobian annihilator"
+    },
+    {
+      "p": 97,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "SS",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "order4 invariance and CM1728 exclusion"
+    },
+    {
+      "p": 101,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 103,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 107,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 109,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "order18 invariance, rational point on quotient maps toX0(109), CM branch exclusions"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ],
+        [
+          "SS",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "order18 invariance, rational point on quotient maps toX0(109), CM branch exclusions"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "order18 invariance, rational point on quotient maps toX0(109), CM branch exclusions"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "NC",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "order18 invariance, rational point on quotient maps toX0(109), CM branch exclusions"
+    },
+    {
+      "p": 113,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "inherited pair obstruction, with the order8 stabilizer argument for the exceptional repeated O8 case"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "involution, parity at supersingular fixed points, and CM exclusion"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "mixed Hecke obstruction: new73O12,113O11,127O11; otherwise inherited"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 11,
+      "planned_or_verified_argument": "order14 invariance;orbit lengths7 or14 do not divide18"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "order14 invariance;orbit lengths7 or14 do not divide18"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "NC",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "order14 invariance;orbit lengths7 or14 do not divide18"
+    },
+    {
+      "p": 127,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "mixed Hecke obstruction: new73O12,113O11,127O11; otherwise inherited"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary pair: inherited if total<=17, new if total=18;127 exceptional9+9 descends to quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "two-quotient relative immersion with two fixed cusps"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "mixed Hecke obstruction: new73O12,113O11,127O11; otherwise inherited"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "mixed Hecke obstruction: new73O12,113O11,127O11; otherwise inherited"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "SS",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "order7 invariance;7 does not divide18"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 11,
+      "planned_or_verified_argument": "order7 invariance;7 does not divide18"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "order7 invariance;7 does not divide18"
+    },
+    {
+      "p": 131,
+      "support": [],
+      "rational_cusp_complement": 18,
+      "planned_or_verified_argument": "cuspidal formal immersion, relative at103 and131"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "new ordinary pairs of totals16,17,18, with cusp complements"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "new ordinary pairs of totals16,17,18, with cusp complements"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "new ordinary pairs of totals16,17,18, with cusp complements"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "new ordinary pairs of totals16,17,18, with cusp complements"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "planned_or_verified_argument": "ordinary obstruction;113 exceptional8 by order8;127 exceptional9 by quadratic quotient"
+    }
+  ]
+}

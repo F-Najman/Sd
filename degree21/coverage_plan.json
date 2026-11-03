@@ -1,0 +1,5992 @@
+{
+  "status": "EXHAUSTIVE_PLAN_PENDING_CERTIFICATES",
+  "degree": 21,
+  "prime_count": 82136,
+  "support_types": 477,
+  "support": [
+    {
+      "p": 53,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "full canonical cusp immersion"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "SS",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "H13 pullback relative immersion and fixed C8"
+    },
+    {
+      "p": 59,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new unordered ordinary triples, Burnside-complete diamond orbits"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new unordered ordinary triples, Burnside-complete diamond orbits"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "SS",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "free H5 pullback relative immersion and nonzero fixed cusp remainder"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "SS",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "free H5 pullback relative immersion and nonzero fixed cusp remainder"
+    },
+    {
+      "p": 67,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new unordered ordinary triples, Burnside-complete diamond orbits"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "full canonical cusp immersion"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new unordered ordinary triples, Burnside-complete diamond orbits"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new unordered ordinary triples, Burnside-complete diamond orbits"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited mixed pair delta2 obstruction, all19 relative positions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          14
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          15
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 mixed obstruction; new O12 andO15 certificates, lower degrees inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 15,
+      "argument": "tame H3-fixed lifts, H9 relative cusp fibers, fixed nonzero remainder"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "double tame H3-fixed lifts, all10 unordered positions; full C9 fiber handled by real-diamond lemma"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "H9 stabilizer using actual rational2-torsion control, 9 does not divide21"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "H9 stabilizer using actual rational2-torsion control, 9 does not divide21"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "SS6 plusNC9 relative immersion, all16 relative positions, fixed C6"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "H9 stabilizer using actual rational2-torsion control, 9 does not divide21"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "free H9 pullback and relative cusp fibers with fixed nonzero remainder"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "NC",
+          9
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "H9 stabilizer using actual rational2-torsion control, 9 does not divide21"
+    },
+    {
+      "p": 79,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "NC",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "NC",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "H11 stabilizer using inherited odd-degree anti-Jacobian isogeny"
+    },
+    {
+      "p": 97,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "SS",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "sharper finite Hecke maps and tame H3-fixed-lift relative immersion, C5"
+    },
+    {
+      "p": 101,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "full canonical cusp immersion"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion with quotient relative fibers"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 107,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "free H9 pullback relative immersion, C12"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ],
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "even H18 stabilizer and real-diamond lemma"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ],
+        [
+          "SS",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "even H18 stabilizer and real-diamond lemma"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "new direct supersingular T3 principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "NC",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "even H18 stabilizer and real-diamond lemma"
+    },
+    {
+      "p": 113,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary obstruction; exceptional free H8 pullback relative immersion with C13"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary pair obstruction; exceptional even H8 stabilizer and real-diamond lemma"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "even H2 stabilizer and real-diamond lemma"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          14
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "new direct supersingular T3 principal-divisor obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "even H14 stabilizer and real-diamond lemma"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ],
+        [
+          "SS",
+          7
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "even H14 stabilizer and real-diamond lemma"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ],
+        [
+          "NC",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "even H14 stabilizer and real-diamond lemma"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "NC",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "even H14 stabilizer and real-diamond lemma"
+    },
+    {
+      "p": 127,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "full canonical cusp immersion"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary obstruction; exceptional H9 stabilizer, 9 does not divide21"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "two-pullback relative immersion; full 315-column relation code, minimum weight7"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          14
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 mixed obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "SS",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "T3 sources20,21; T5 sources22,25; T7 source24; source23 H7 quotient relative immersion, all27 disks"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "SS",
+          14
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "direct SS14 plusNC7 T3 obstruction, all48 relative positions"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "H7 descent to degree3 on genus88 quotient, all1140 cusp configurations"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "H7 descent to degree3 on genus88 quotient, all1140 cusp configurations"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ],
+        [
+          "NC",
+          7
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "H7 descent to degree3 on genus88 quotient, all1140 cusp configurations"
+    },
+    {
+      "p": 131,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion with quotient relative fibers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary obstruction; exceptional H17 stabilizer"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "SS",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "even H34 stabilizer and real-diamond lemma"
+    },
+    {
+      "p": 139,
+      "support": [],
+      "cusp_complement": 21,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions, inherited below total21 (61 below20)"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction, including all new degree21 sources and61 degree20"
+    }
+  ]
+}

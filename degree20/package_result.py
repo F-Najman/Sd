@@ -1,0 +1,26 @@
+from pathlib import Path
+import json,hashlib,textwrap,re
+W=Path(__file__).resolve().parent;O=W.parents[1]/'outputs';a=json.loads((W/'final_coverage.json').read_text());assert a['status']=='PROVED_WITH_COMPUTER_ASSISTANCE'and not a['unresolved_primes'];assert json.loads((W/'large_verified.json').read_text())['status']=='PASS';assert json.loads((W/'independent_sequence_results.json').read_text())['status']=='PASS'
+s=(W/'PROOF.txt').read_text();body=s[s.index('1. EXISTENCE'):]
+intro='''S(20): DYADIC REDUCTION AND RELATIVE FORMAL IMMERSIONS
+30 October 2026
+
+Theorem. For elliptic curves over number fields of exact degree 20,
+ S(20) = {2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,61}.
+This is a computer-assisted proof. Every local exclusion, selected
+character family, independent rank and Pade check, and the complete
+prime and support coverage ledger has passed without an unresolved case.
+
+'''
+s=intro+body
+s=s.replace('No claim of a\ncompleted upper bound is made until this ledger passes without an\nunresolved case.','The ledger has passed for all 43465 primes in the finite range and all\n370 local support types. This proves the theorem.')
+s=s.replace('All degree 20 ordinary sources at inherited levels and every ordinary\nsource at 139 receive new jet and principal-divisor tests.','All 22403 degree 20 ordinary sources at inherited levels and ordinary\nsources at 139 receive new jet and principal-divisor tests. Together\nwith the matched inherited sources these cover 45391 ordinary orbits.')
+s=s.replace('are retained and independently ranked in Sage.','are retained and independently ranked in Sage. There are 37905 new\nfull-rank obstruction matrices, all independently verified.')
+assert not re.search(r'\b(draft|pending|proposed)\b',s,re.I);s.encode('ascii');(W/'PROOF.txt').write_text(s)
+t=(W.parent/'degree17/finalize_result.py').read_text();fn=t[t.index('def save_proof'):t.index('proof=save_proof')].replace('29 October 2026','30 October 2026');scope={'Path':Path,'textwrap':textwrap,'hashlib':hashlib,'O':O};exec(fn,scope);proof=scope['save_proof'](W/'PROOF.txt','S20_proof','S(20): complete determination')
+result={k:v for k,v in a.items()if k!='cases'};result.update({'proof':proof,'coverage_ledger':'../work/degree20/final_coverage.json','support_coverage':'../work/degree20/support_coverage.json','certificate_manifest':'../work/degree20/proof_manifest.json','certificate_replay':'../work/degree20/REPLAY.txt'})
+for name in ['S20_result.json','S20_status.json']:(O/name).write_text(json.dumps(result,indent=2)+'\n')
+index={'status':'PROVED_WITH_COMPUTER_ASSISTANCE','degree':20,'S':a['S'],'proof':proof,'replay':'../work/degree20/REPLAY.txt','manifest':'../work/degree20/proof_manifest.json','prime_coverage':'../work/degree20/final_coverage.json','local_support_coverage':'../work/degree20/support_coverage.json','ordinary_orbits':45391,'new_independent_obstruction_matrices':37905,'character_orders':3020,'new_character_orders':1951,'inherited_character_orders':1069,'large_primes':444,'dyadic_M':229,'dyadic_rank':40,'dyadic_threshold':18320,'relative_profiles_independently_checked':105240,'relative_map_certificates':['../work/degree20/'+z for z in ['intrinsic_relative_independent.json','profile_spaces_independent.json','relative127_verified.json','relative_cusps_intrinsic_verified.json','sharp_finite_verified.json','ss73_double_verified.json']],'finite_image_checks':['../work/degree20/rankzero_verified.json','../work/degree20/finite_FI_verified.json','../work/degree20/finite_FI_inheritance_verified.json','../work/degree20/annihilator_characters_verified.json','../work/degree20/stabilizer_torsion_verified.json'],'independent_point_counts':'../work/degree20/census_counts_independent.json','independent_dyadic_bound':'../work/degree20/dyadic_independent.json','global151_163_167':['../work/degree20/global_extra_verified.json','../work/degree20/anti163_norms_verified.json'],'independent_ranks':['../work/degree20/independent_rank_checks.json','../work/degree20/extra_rank_checks.json'],'character_coverage':'../work/degree20/large_verified.json','graph_algorithm_and_validation':['../work/degree20/optimization/graph_full_replay_verified.json','../work/degree20/optimization/fast_graph_implementation_verified.json','../work/degree20/optimization/verify_graph.py'],'inherited_manifest_check':'../work/degree20/inherited_manifest_verified.json','unused_experiments':['SS97 direct nonprincipality rank344/345','raw101 index5 cusp map','raw53 quotient map','fast-remainder CPP experiment (validated but unused by main batch)']}
+(O/'S20_certificate_index.json').write_text(json.dumps(index,indent=2)+'\n')
+r=(W/'REPLAY.txt').read_text().replace('Degree 20 replay instructions (work in progress until final coverage passes)','Degree 20 replay instructions (completed proof)').replace('Final packaging and manifest commands will be added after completion.','Final packaging and manifest commands:\n python3 work/degree20/package_result.py\n python3 work/degree20/build_manifest.py\n python3 work/degree20/verify_manifest.py\nAll character, Pade, local, prime and support coverage checks have passed.');(W/'REPLAY.txt').write_text(r)
+print('S20_COMPLETE_RESULT_SAVED',proof['pages'],'proof pages; S=',a['S'],flush=True)

@@ -1,0 +1,82 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "N": 59,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 330,
+      "compressed_rank": 117,
+      "rank_cap6": 117
+    },
+    {
+      "N": 73,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 143,
+      "compressed_rank": 50,
+      "rank_cap6": 50
+    },
+    {
+      "N": 79,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 440,
+      "compressed_rank": 216,
+      "rank_cap6": 216
+    },
+    {
+      "N": 83,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 462,
+      "compressed_rank": 246,
+      "rank_cap6": 246
+    },
+    {
+      "N": 103,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 198,
+      "compressed_rank": 112,
+      "rank_cap6": 111
+    },
+    {
+      "N": 107,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 594,
+      "compressed_rank": 416,
+      "rank_cap6": 328
+    },
+    {
+      "N": 109,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 605,
+      "compressed_rank": 430,
+      "rank_cap6": 333
+    },
+    {
+      "N": 113,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 627,
+      "compressed_rank": 459,
+      "rank_cap6": 343
+    },
+    {
+      "N": 131,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 154,
+      "compressed_rank": 120,
+      "rank_cap6": 88
+    },
+    {
+      "N": 137,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 759,
+      "compressed_rank": 703,
+      "rank_cap6": 418
+    },
+    {
+      "N": 139,
+      "status": "PASS",
+      "all_raw_rows_reconstructed": 770,
+      "compressed_rank": 726,
+      "rank_cap6": 424
+    }
+  ]
+}

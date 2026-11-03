@@ -1,0 +1,37 @@
+{
+  "status": "ALL_CHILDREN_DRAINED",
+  "old_parent": 3603759,
+  "children": [
+    {
+      "pid": 3838562,
+      "cmdline": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "Start:=2752",
+        "End:=2759",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/full131/stage2_chunk.m"
+      ]
+    },
+    {
+      "pid": 3839199,
+      "cmdline": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "Start:=2757",
+        "End:=2764",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/full127/stage2_chunk.m"
+      ]
+    },
+    {
+      "pid": 3839335,
+      "cmdline": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "Start:=2758",
+        "End:=2765",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/full137/stage2_chunk.m"
+      ]
+    }
+  ],
+  "new_workers": 8
+}

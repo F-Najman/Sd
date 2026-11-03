@@ -1,0 +1,179 @@
+{
+  "status": "PASS",
+  "records": 200500,
+  "direct_cap6": [
+    {
+      "p": 73,
+      "cap6_tuples": 19172639,
+      "all_high_partition_counts_complete": true,
+      "triple7_matrices_independently_ranked": 165
+    }
+  ],
+  "method": "Sage integer partitions with independent placement of multiplicity groups; set equality after removing producer duplicates",
+  "results": [
+    {
+      "case": "relative61_o20",
+      "records": 6,
+      "unique_profiles_per_translate": 1,
+      "translates": 6,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps61_sharp",
+      "records": 31060,
+      "unique_profiles_per_translate": 20098,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps89",
+      "records": 5677,
+      "unique_profiles_per_translate": 5677,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps97_sharp",
+      "records": 6769,
+      "unique_profiles_per_translate": 6769,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps71",
+      "records": 49420,
+      "unique_profiles_per_translate": 31468,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps127",
+      "records": 11719,
+      "unique_profiles_per_translate": 11719,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "relative61",
+      "records": 1,
+      "unique_profiles_per_translate": 1,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "relative61_ss20",
+      "records": 1,
+      "unique_profiles_per_translate": 1,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "relative73",
+      "records": 424,
+      "unique_profiles_per_translate": 106,
+      "translates": 4,
+      "status": "PASS"
+    },
+    {
+      "case": "relative73_nc",
+      "records": 144,
+      "unique_profiles_per_translate": 36,
+      "translates": 4,
+      "status": "PASS"
+    },
+    {
+      "case": "relative109",
+      "records": 162,
+      "unique_profiles_per_translate": 54,
+      "translates": 3,
+      "status": "PASS"
+    },
+    {
+      "case": "relative113_ordinary",
+      "records": 777,
+      "unique_profiles_per_translate": 111,
+      "translates": 7,
+      "status": "PASS"
+    },
+    {
+      "case": "relative97_sharp",
+      "records": 2,
+      "unique_profiles_per_translate": 1,
+      "translates": 2,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps101_sharp",
+      "records": 1422,
+      "unique_profiles_per_translate": 1422,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "FI59",
+      "records": 28043,
+      "unique_profiles": 18215,
+      "status": "PASS"
+    },
+    {
+      "case": "FI79",
+      "records": 4447,
+      "unique_profiles": 4447,
+      "status": "PASS"
+    },
+    {
+      "case": "FI83",
+      "records": 4921,
+      "unique_profiles": 4921,
+      "status": "PASS"
+    },
+    {
+      "case": "FI103",
+      "records": 817,
+      "unique_profiles": 817,
+      "status": "PASS"
+    },
+    {
+      "case": "FI107",
+      "records": 8269,
+      "unique_profiles": 8269,
+      "status": "PASS"
+    },
+    {
+      "case": "FI109",
+      "records": 8587,
+      "unique_profiles": 8587,
+      "status": "PASS"
+    },
+    {
+      "case": "FI113",
+      "records": 9241,
+      "unique_profiles": 9241,
+      "status": "PASS"
+    },
+    {
+      "case": "FI131",
+      "records": 469,
+      "unique_profiles": 469,
+      "status": "PASS"
+    },
+    {
+      "case": "FI137",
+      "records": 13669,
+      "unique_profiles": 13669,
+      "status": "PASS"
+    },
+    {
+      "case": "FI139",
+      "records": 14077,
+      "unique_profiles": 14077,
+      "status": "PASS"
+    },
+    {
+      "case": "relative73_multiple",
+      "records": 376,
+      "all_positions_complete": true,
+      "status": "PASS"
+    }
+  ]
+}

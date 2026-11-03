@@ -1,0 +1,5 @@
+Loading "work/degree22/full61/units_data.m"
+Loading "work/degree22/sources61.m"
+S22_RELATIVE_SS_CANONICAL p=61 degree=20 relation_rank=125 expected=125 elapsed=1.470
+S22_RELATIVE_SS_RANK p=61 translate=0 rank=16
+S22_RELATIVE_SS_COTANGENT_EXPORT_COMPLETE p=61 operators=4 elapsed=3.010

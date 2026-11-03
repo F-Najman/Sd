@@ -1,0 +1,16 @@
+from pathlib import Path
+import json,gzip,time
+from sage.all import matrix,GF
+W=Path(__file__).resolve().parent;out=[]
+for n in[47,53,59,61,67,71,73,79,83,89,97,101,103,107,109,113]:
+ H=W/f'full{n}'
+ while not(H/'sieve.json').exists():time.sleep(1)
+ a=json.load(open(H/'sieve.json'))
+ for kind in['','pair_','mixed_']:
+  p=H/(kind+'matrices.json.gz')
+  if not p.exists():continue
+  ms=json.load(gzip.open(p,'rt'))
+  for v in ms:
+   rows=[int(z,16)for z in v['rows']];A=matrix(GF(2),[[z>>j&1 for j in range(v['columns'])]for z in rows]);assert A.rank()==a['dimension']
+  out.append({'N':n,'kind':kind or'ordinary','matrices':len(ms),'rank':a['dimension'],'status':'PASS'});print(out[-1],flush=True)
+(W/'independent_rank_checks.json').write_text(json.dumps({'status':'PASS','results':out},indent=2)+'\n')

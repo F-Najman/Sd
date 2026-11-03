@@ -1,0 +1,2 @@
+S19_LOCAL_COVERAGE_VERIFIED {'status': 'PASS', 'degree': 19, 'local_levels': [47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137], 'support_types': 344, 'ordinary_source_orbits': 27519, 'new_ordinary_sources': 13495, 'new_ordinary_nonprincipal': 13494, 'new_pairs': 7495, 'new_low137_pairs': 369, 'new_mixed': 34, 'new_independent_matrices': 21392, 'exceptions': ['inherited113O8 order8', 'inherited127O9 order9', 'new137O17 order17'], 'global163': True}
+S19_PRIME_LEDGER_COMPLETE_PENDING_CHARACTERS 43465 primes; unresolved 47

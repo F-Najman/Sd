@@ -1,0 +1,7 @@
+DECIC_PREFIX_CHECK level=53 degree=6 rank=66 checked=76256 status=PASS seconds=0.00152407
+prefix=1 count=53130
+prefix=2 count=72980
+prefix=3 count=75905
+prefix=4 count=76230
+prefix=5 count=76255
+prefix=6 count=76256

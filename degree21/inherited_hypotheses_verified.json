@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "parent_manifest_files": 37906,
+  "finite_FI_polynomials": [
+    [
+      61,
+      2
+    ],
+    [
+      61,
+      3
+    ],
+    [
+      61,
+      5
+    ],
+    [
+      67,
+      2
+    ],
+    [
+      67,
+      3
+    ],
+    [
+      67,
+      5
+    ],
+    [
+      73,
+      2
+    ],
+    [
+      73,
+      3
+    ],
+    [
+      73,
+      5
+    ],
+    [
+      79,
+      2
+    ],
+    [
+      83,
+      2
+    ],
+    [
+      89,
+      2
+    ],
+    [
+      97,
+      5
+    ],
+    [
+      103,
+      2
+    ]
+  ],
+  "ordinary_characters": [
+    {
+      "p": 53,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 59,
+      "ordinary_annihilator": "1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 61,
+      "ordinary_annihilator": "x^6 - 1",
+      "positive_character_orders": [
+        6
+      ],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 67,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 71,
+      "ordinary_annihilator": "1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 73,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 79,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 83,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 89,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 97,
+      "ordinary_annihilator": "x^7 - x^6 + x - 1",
+      "positive_character_orders": [
+        12
+      ],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 101,
+      "ordinary_annihilator": "x^6 - x^5 + x - 1",
+      "positive_character_orders": [
+        10
+      ],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 103,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 107,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 109,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 113,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 127,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 131,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 137,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    },
+    {
+      "p": 139,
+      "ordinary_annihilator": "x - 1",
+      "positive_character_orders": [],
+      "model_identical_to_proved_parent": true
+    }
+  ],
+  "new_181_positive_order": 6,
+  "global_163_167_reused": true,
+  "actual_torsion_73_89_reused": true,
+  "sharp_97_101_reused": true,
+  "q2_cuspidal_2primary_proved_range_all_local_levels_le157": true
+}

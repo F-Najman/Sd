@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "N": 113,
+  "degree": 22,
+  "ordinary8_source_orbits": [
+    [
+      2,
+      7
+    ],
+    [
+      3,
+      28
+    ]
+  ],
+  "generic_ordinary_closed_orbit_independently_rebuilt": 28,
+  "independent_closed_ordinary8_count": 35,
+  "SS7_closed_points": 4,
+  "NC14_closed_points": 4,
+  "generic_stabilizer_acts_trivially_on_both_closed_orbits": true,
+  "NC_relative_positions": 4,
+  "unordered_SS_pair_positions": 10,
+  "cases": 14,
+  "matrices": 14,
+  "independent_rank": 477,
+  "annihilator": "(D-1)A3",
+  "cusp_formula": "T3(C)=3*C+delta3(C); A3(C)=2*C-2*delta3(C)",
+  "matrix_archive_sha256": "61bc7684161c1458d7200455db45a7b75788f9338d21825b7743a608e783000d",
+  "sieve_sha256": "b3aed94d17282d500916890a177da81f2818f4fe67fd6bf142b3d122d0e95cf0",
+  "native_input_sha256": {
+    "full113/small_hecke_jets.m": "99ed1864db0d937db41be2a24580582014fa2bdd0c150cc9e0a82cd947293547",
+    "ss_pair113/hecke_jets.m": "9dd1f3586e9e58868193889ee8532449bf2c7d1ae986d4586f8e6d33cf7bcb93",
+    "nc113_jets.m": "8b9c6d61fbdf7ab614b0f7bd73f05c88c862f1514fc8e3a2e26e1e8c81966d7e"
+  },
+  "NC_independent_certificate_sha256": "f56e269607e97d0d043aa29ab3663df68cc44f15352b2333553dc1a11ba8db91",
+  "producer_source_sha256": "fc02d86291a583d27f6c6b4aa3ce3e80ab45378529d4ff4c86a0b811aebd20dc",
+  "verifier_source_sha256": "3473705fdd0294bc716e4c297fa3582196c2b1b69b22a35aa8086c82b07904a1"
+}

@@ -1,0 +1,4885 @@
+{
+  "status": "COMPLETE_CENSUS_INVENTORY_INDEPENDENT_COUNTS_MATCH",
+  "degree": 20,
+  "levels": [
+    {
+      "p": 53,
+      "types": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ],
+        [
+          "SS",
+          13
+        ]
+      ],
+      "supersingular_orbits": [
+        [
+          13,
+          1
+        ]
+      ],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "SS",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        }
+      ]
+    },
+    {
+      "p": 59,
+      "types": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ]
+      ],
+      "supersingular_orbits": [],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ]
+          ],
+          "cusp_complement": 13
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              7
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 12
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        }
+      ]
+    },
+    {
+      "p": 67,
+      "types": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ]
+      ],
+      "supersingular_orbits": [],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ]
+          ],
+          "cusp_complement": 13
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              7
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 12
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        }
+      ]
+    },
+    {
+      "p": 71,
+      "types": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ]
+      ],
+      "supersingular_orbits": [],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ]
+          ],
+          "cusp_complement": 13
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              7
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 12
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        }
+      ]
+    },
+    {
+      "p": 73,
+      "types": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          18
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "supersingular_orbits": [
+        [
+          6,
+          4
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          18,
+          4
+        ],
+        [
+          18,
+          4
+        ]
+      ],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ]
+          ],
+          "cusp_complement": 13
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              7
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              7
+            ],
+            [
+              "SS",
+              6
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "SS",
+              6
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "SS",
+              6
+            ],
+            [
+              "SS",
+              6
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              7
+            ],
+            [
+              "NC",
+              9
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "SS",
+              6
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "NC",
+              9
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ],
+            [
+              "SS",
+              6
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ],
+            [
+              "NC",
+              9
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ],
+            [
+              "SS",
+              6
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ],
+            [
+              "SS",
+              6
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ],
+            [
+              "SS",
+              6
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "SS",
+              6
+            ]
+          ],
+          "cusp_complement": 14
+        },
+        {
+          "support": [
+            [
+              "SS",
+              6
+            ],
+            [
+              "SS",
+              6
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "SS",
+              6
+            ],
+            [
+              "SS",
+              6
+            ],
+            [
+              "SS",
+              6
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "SS",
+              6
+            ],
+            [
+              "NC",
+              9
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "SS",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "NC",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "NC",
+              9
+            ],
+            [
+              "NC",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        }
+      ]
+    },
+    {
+      "p": 79,
+      "types": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ]
+      ],
+      "supersingular_orbits": [],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        }
+      ]
+    },
+    {
+      "p": 83,
+      "types": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ]
+      ],
+      "supersingular_orbits": [],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        }
+      ]
+    },
+    {
+      "p": 89,
+      "types": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ],
+        [
+          "NC",
+          11
+        ]
+      ],
+      "supersingular_orbits": [],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "NC",
+              11
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "NC",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        }
+      ]
+    },
+    {
+      "p": 97,
+      "types": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ],
+        [
+          "SS",
+          16
+        ]
+      ],
+      "supersingular_orbits": [
+        [
+          16,
+          2
+        ]
+      ],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "SS",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        }
+      ]
+    },
+    {
+      "p": 101,
+      "types": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ]
+      ],
+      "supersingular_orbits": [],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        }
+      ]
+    },
+    {
+      "p": 103,
+      "types": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ]
+      ],
+      "supersingular_orbits": [],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        }
+      ]
+    },
+    {
+      "p": 107,
+      "types": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ]
+      ],
+      "supersingular_orbits": [],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        }
+      ]
+    },
+    {
+      "p": 109,
+      "types": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ],
+        [
+          "SS",
+          9
+        ],
+        [
+          "SS",
+          12
+        ],
+        [
+          "NC",
+          18
+        ]
+      ],
+      "supersingular_orbits": [
+        [
+          9,
+          3
+        ],
+        [
+          12,
+          3
+        ]
+      ],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ],
+            [
+              "SS",
+              9
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "SS",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "SS",
+              9
+            ],
+            [
+              "SS",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "SS",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "NC",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        }
+      ]
+    },
+    {
+      "p": 113,
+      "types": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ],
+        [
+          "SS",
+          7
+        ],
+        [
+          "NC",
+          14
+        ]
+      ],
+      "supersingular_orbits": [
+        [
+          7,
+          4
+        ]
+      ],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 12
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "SS",
+              7
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ],
+            [
+              "SS",
+              7
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ],
+            [
+              "SS",
+              7
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ],
+            [
+              "SS",
+              7
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "SS",
+              7
+            ]
+          ],
+          "cusp_complement": 13
+        },
+        {
+          "support": [
+            [
+              "SS",
+              7
+            ],
+            [
+              "SS",
+              7
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "NC",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        }
+      ]
+    },
+    {
+      "p": 127,
+      "types": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ],
+        [
+          "SS",
+          14
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "supersingular_orbits": [
+        [
+          14,
+          3
+        ],
+        [
+          14,
+          9
+        ],
+        [
+          14,
+          9
+        ],
+        [
+          14,
+          9
+        ],
+        [
+          14,
+          9
+        ],
+        [
+          14,
+          9
+        ]
+      ],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 12
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "NC",
+              7
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "NC",
+              7
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "NC",
+              7
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ],
+            [
+              "NC",
+              7
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ],
+            [
+              "NC",
+              7
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ],
+            [
+              "NC",
+              7
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "SS",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "NC",
+              7
+            ]
+          ],
+          "cusp_complement": 13
+        },
+        {
+          "support": [
+            [
+              "NC",
+              7
+            ],
+            [
+              "NC",
+              7
+            ]
+          ],
+          "cusp_complement": 6
+        }
+      ]
+    },
+    {
+      "p": 131,
+      "types": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ]
+      ],
+      "supersingular_orbits": [],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 12
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 10
+        },
+        {
+          "support": [
+            [
+              "O",
+              10
+            ],
+            [
+              "O",
+              10
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              11
+            ]
+          ],
+          "cusp_complement": 9
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        }
+      ]
+    },
+    {
+      "p": 137,
+      "types": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ],
+        [
+          "SS",
+          17
+        ]
+      ],
+      "supersingular_orbits": [
+        [
+          17,
+          2
+        ]
+      ],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 12
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "SS",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        }
+      ]
+    },
+    {
+      "p": 139,
+      "types": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ],
+        [
+          "O",
+          13
+        ],
+        [
+          "O",
+          14
+        ],
+        [
+          "O",
+          15
+        ],
+        [
+          "O",
+          16
+        ],
+        [
+          "O",
+          17
+        ],
+        [
+          "O",
+          18
+        ],
+        [
+          "O",
+          19
+        ],
+        [
+          "O",
+          20
+        ]
+      ],
+      "supersingular_orbits": [],
+      "cases": [
+        {
+          "support": [],
+          "cusp_complement": 20
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 12
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              8
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              8
+            ],
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 0
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 11
+        },
+        {
+          "support": [
+            [
+              "O",
+              9
+            ],
+            [
+              "O",
+              9
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              12
+            ]
+          ],
+          "cusp_complement": 8
+        },
+        {
+          "support": [
+            [
+              "O",
+              13
+            ]
+          ],
+          "cusp_complement": 7
+        },
+        {
+          "support": [
+            [
+              "O",
+              14
+            ]
+          ],
+          "cusp_complement": 6
+        },
+        {
+          "support": [
+            [
+              "O",
+              15
+            ]
+          ],
+          "cusp_complement": 5
+        },
+        {
+          "support": [
+            [
+              "O",
+              16
+            ]
+          ],
+          "cusp_complement": 4
+        },
+        {
+          "support": [
+            [
+              "O",
+              17
+            ]
+          ],
+          "cusp_complement": 3
+        },
+        {
+          "support": [
+            [
+              "O",
+              18
+            ]
+          ],
+          "cusp_complement": 2
+        },
+        {
+          "support": [
+            [
+              "O",
+              19
+            ]
+          ],
+          "cusp_complement": 1
+        },
+        {
+          "support": [
+            [
+              "O",
+              20
+            ]
+          ],
+          "cusp_complement": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "status": "PASS",
+  "exact_J0_matrix_checks": [
+    {
+      "p": 53,
+      "index": 13,
+      "hecke_index": 2,
+      "J0_genus": 4,
+      "winding_rank": 3,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 61,
+      "index": 15,
+      "hecke_index": 2,
+      "J0_genus": 4,
+      "winding_rank": 3,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 61,
+      "index": 15,
+      "hecke_index": 3,
+      "J0_genus": 4,
+      "winding_rank": 3,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 61,
+      "index": 15,
+      "hecke_index": 5,
+      "J0_genus": 4,
+      "winding_rank": 3,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 67,
+      "index": 11,
+      "hecke_index": 2,
+      "J0_genus": 5,
+      "winding_rank": 3,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 67,
+      "index": 11,
+      "hecke_index": 3,
+      "J0_genus": 5,
+      "winding_rank": 3,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 67,
+      "index": 11,
+      "hecke_index": 5,
+      "J0_genus": 5,
+      "winding_rank": 3,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 73,
+      "index": 12,
+      "hecke_index": 2,
+      "J0_genus": 5,
+      "winding_rank": 3,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 73,
+      "index": 12,
+      "hecke_index": 3,
+      "J0_genus": 5,
+      "winding_rank": 3,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 73,
+      "index": 12,
+      "hecke_index": 5,
+      "J0_genus": 5,
+      "winding_rank": 3,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 79,
+      "index": 39,
+      "hecke_index": 2,
+      "J0_genus": 6,
+      "winding_rank": 5,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 83,
+      "index": 41,
+      "hecke_index": 2,
+      "J0_genus": 7,
+      "winding_rank": 6,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 89,
+      "index": 11,
+      "hecke_index": 2,
+      "J0_genus": 7,
+      "winding_rank": 6,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 97,
+      "index": 8,
+      "hecke_index": 5,
+      "J0_genus": 7,
+      "winding_rank": 4,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 101,
+      "index": 5,
+      "hecke_index": 2,
+      "J0_genus": 8,
+      "winding_rank": 7,
+      "polynomial_image_in_winding_space": true
+    },
+    {
+      "p": 103,
+      "index": 17,
+      "hecke_index": 2,
+      "J0_genus": 8,
+      "winding_rank": 6,
+      "polynomial_image_in_winding_space": true
+    }
+  ],
+  "active_quotient_polynomials": 11,
+  "all_nontrivial_positive_rank_characters_absent_from_active_quotients": true,
+  "method": "correct dual-period T2 winding action; exact polynomial-image containment; proved strange-character table"
+}

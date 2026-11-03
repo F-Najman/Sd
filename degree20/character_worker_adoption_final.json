@@ -1,0 +1,7 @@
+{
+  "status": "ADOPTED",
+  "workers": [],
+  "worker_limit": 16,
+  "export_limit": 2,
+  "cpp_limit": 16
+}

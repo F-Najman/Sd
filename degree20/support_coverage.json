@@ -1,0 +1,4502 @@
+{
+  "status": "PASS",
+  "degree": 20,
+  "cases": [
+    {
+      "p": 53,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "full-curve relative cusp immersion"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "SS",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "relative H13 pullback plus fixed C7"
+    },
+    {
+      "p": 59,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new mixed pair obstruction, 19 relative positions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "mixed delta2 obstruction (added divisor is delta2 invariant)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "mixed delta2 obstruction (added divisor is delta2 invariant)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "mixed delta2 obstruction (added divisor is delta2 invariant)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "mixed delta2 obstruction (added divisor is delta2 invariant)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "mixed delta2 obstruction (added divisor is delta2 invariant)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "mixed delta2 obstruction (added divisor is delta2 invariant)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "mixed delta2 obstruction (added divisor is delta2 invariant)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "mixed delta2 obstruction (added divisor is delta2 invariant)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "mixed delta2 obstruction (added divisor is delta2 invariant)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          14
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "mixed delta2 obstruction (added divisor is delta2 invariant)"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "tame fixed lifts and relative H9 cusp fibers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "double tame fixed lifts, all 12 normalized translates"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "H9 stabilizer and actual rational 2-torsion control"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "H9 stabilizer and actual rational 2-torsion control"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "H9 stabilizer and actual rational 2-torsion control"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "free H9 pullback and relative cusp fibers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "NC",
+          9
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "H9 stabilizer and actual rational 2-torsion control"
+    },
+    {
+      "p": 79,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "NC",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new mixed delta2 obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "NC",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "H11 stabilizer and odd-degree anti-Jacobian annihilator"
+    },
+    {
+      "p": 97,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "SS",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "sharper Hecke maps and tame H3 fixed-lift relative immersion"
+    },
+    {
+      "p": 101,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "sharper full-curve cusp immersion"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 103,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion plus quotient relative fibers"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 107,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new mixed delta2 obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "free H9 pullback relative immersion"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ],
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "H18 stabilizer"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "H18 stabilizer"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "NC",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "H18 stabilizer"
+    },
+    {
+      "p": 113,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary obstruction; exceptional free H8 pullback relative immersion"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstructions; exceptional H8 invariance and CM exclusion"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "involution invariance, CM exclusion, and even specialization multiplicities"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "mixed delta2 obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "mixed delta2 obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "mixed delta2 obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "free H7 pullback relative immersion"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "H14 stabilizer"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "NC",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "H14 stabilizer"
+    },
+    {
+      "p": 127,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "mixed delta2 obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary obstruction; exceptional H9 stabilizer"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "two-pullback relative immersion, 720720 cusp patterns"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "mixed delta2 obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "mixed delta2 obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "mixed delta2 obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "mixed delta2 obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "SS",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "H7 stabilizer"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "H7 stabilizer"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "H7 stabilizer"
+    },
+    {
+      "p": 131,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion plus quotient relative fibers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 137,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary obstruction; exceptional H17 stabilizer"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "SS",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "H34 stabilizer"
+    },
+    {
+      "p": 139,
+      "support": [],
+      "cusp_complement": 20,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary principal-divisor obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary principal-divisor obstruction"
+    }
+  ]
+}

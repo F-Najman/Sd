@@ -1,0 +1,295 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=28mm]{geometry}
+\usepackage{amsmath,amssymb,amsthm,hyperref}
+\hypersetup{colorlinks=true,urlcolor=blue,citecolor=blue,linkcolor=blue}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{remark}\newtheorem{remark}[theorem]{Remark}
+\newcommand{\Q}{\mathbb Q}\newcommand{\Z}{\mathbb Z}
+\newcommand{\F}{\mathbb F}\newcommand{\T}{\mathbb T}
+\newcommand{\ee}{\mathbf e}
+\DeclareMathOperator{\Cot}{Cot}\DeclareMathOperator{\Lie}{Lie}
+\DeclareMathOperator{\Ann}{Ann}\DeclareMathOperator{\Hom}{Hom}
+\DeclareMathOperator{\Tr}{Tr}
+\title{A dyadic bound for torsion primes}
+\author{}
+\date{27 October 2026}
+\begin{document}
+\maketitle
+\begin{abstract}
+We prove the bound
+$p\leq\max\{(2^{d/2}+1)^2,65(4d)^6\}$ for prime-order torsion on
+elliptic curves over number fields of degree $d\geq3$.
+In particular, $p\leq(2^{d/2}+1)^2$ for every $d\geq53$.
+The argument combines Parent's modular-symbol estimate with Raynaud's
+bound on the failure of exactness of cotangent lattices at $2$.
+Doubling a trace divisor moves it into a residue neighbourhood modulo $4$,
+where the resulting map has a unique zero.
+\end{abstract}
+
+Let $S(d)$ be the set of primes occurring as orders of rational points
+on elliptic curves over number fields of degree $d$.
+Oesterl\'e's bound is
+$p\leq(3^{d/2}+1)^2$ for $p\in S(d)$; see \cite[Section~6]{DKSS}.
+We prove the following statement.
+
+\begin{theorem}\label{thm:main}
+Let $d\geq3$, let $K/\Q$ have degree $d$, and let $E/K$ be an elliptic
+curve with a $K$-rational point of prime order $p$. Then
+\[
+ p\leq\max\bigl\{(2^{d/2}+1)^2,\;65(4d)^6\bigr\}.
+\]
+Consequently, for every $d\geq53$, every prime divisor of
+$\#E(K)_{\rm tors}$ satisfies
+\[
+ p\leq(2^{d/2}+1)^2.
+\]
+\end{theorem}
+
+We first record the local observations needed in the proof.
+All cotangent spaces below are relative to the indicated base ring.
+
+\begin{lemma}\label{lem:local}
+Let $f$ be a morphism between smooth $\Z_2$-schemes, let $x_0$ and $y_0$
+be sections with $f(x_0)=y_0$, and choose coordinates
+$x_1,\ldots,x_m$ for the formal neighbourhood of $x_0$.
+Suppose that the cotangent image of $f$ at this section contains
+$2\Z_2^m$. Then the only point with all $x_i\in4\Z_2$ mapping to
+$y_0$ is $x_0$.
+\end{lemma}
+\begin{proof}
+Choose integral formal functions on the target, vanishing at $y_0$,
+whose pullbacks are
+\[
+ G_i(x)=2x_i+Q_i(x),\qquad 1\leq i\leq m,
+\]
+where each $Q_i$ belongs to $(x_1,\ldots,x_m)^2\Z_2[[x_1,\ldots,x_m]]$.
+Suppose that $x\ne0$ and put $k=\min_i v_2(x_i)\geq2$.
+For an index attaining this minimum, the linear term of $G_i(x)$ has
+valuation $k+1$, whereas $Q_i(x)$ has valuation at least $2k>k+1$.
+Hence $G_i(x)\ne0$.
+\end{proof}
+
+\begin{lemma}\label{lem:double}
+Let $X/\Z_2$ be a smooth curve with a section $c$, and let
+$D\in X^{(d)}(\Z_2)$ reduce to $dc$ modulo $2$.
+Then $2D\in X^{(2d)}(\Z_2)$ agrees with $2dc$ modulo $4$ in the
+formal neighbourhood of $2dc$.
+\end{lemma}
+\begin{proof}
+Choose a parameter $q$ along $c$. At $dc$, the elementary symmetric
+functions of the local parameters give coordinates on $X^{(d)}$.
+Encode their values by
+\[
+ E_D(t)=\prod_{j=1}^d(1-q_jt)=1+2B(t),\qquad B(t)\in\Z_2[t].
+\]
+This expression is defined over $\Z_2$ even when the individual $q_j$
+are defined over ramified extensions or occur with repetitions.
+The corresponding polynomial for the doubled divisor is
+\[
+ E_{2D}(t)=E_D(t)^2=1+4\bigl(B(t)+B(t)^2\bigr).
+\]
+Thus every nonconstant elementary symmetric coordinate of $2D$ is
+divisible by $4$.
+\end{proof}
+
+For an abelian scheme $A/\Z_2$, the torsion in the kernel of
+$A(\Q_2)\to A(\F_2)$ is killed by $2$.
+Indeed, multiplication by $2$ sends the formal neighbourhood
+with coordinates in $2\Z_2$ into the neighbourhood with coordinates
+in $4\Z_2$. The latter is torsion free, either by the formal logarithm
+or the usual valuation argument for the multiplication series.
+We use this fact for the winding quotient.
+
+Let $p$ be an odd prime, put $J=J_0(p)$, and let $\T$ be the integral
+Hecke algebra acting on $J$. Let $\ee$ be the winding element and put
+\[
+ I=\Ann_{\T}(\ee),\qquad A=J/IJ,\qquad \pi:J\longrightarrow A.
+\]
+The ideal $I$ is saturated and $\pi$ has connected kernel.
+The winding quotient $A(\Q)$ is finite; see
+\cite[Section~3.8]{Parent}.
+Since $p$ is odd, all these abelian varieties have good reduction at $2$.
+Write
+\[
+ S=H^0(X_0(p)_{\Z_2},\Omega^1),\qquad
+ M=S[I],\qquad L=\pi^*\Cot_0(A_{\Z_2})\subseteq S.
+\]
+
+\begin{lemma}\label{lem:lattice}
+There are inclusions
+\[
+ 2M\subseteq L\subseteq M.
+\]
+Moreover, the coefficient pairing gives an identification
+\[
+ M=\Hom_{\Z_2}\bigl((\T/I)\otimes\Z_2,\Z_2\bigr),
+ \qquad f\longmapsto\bigl(T_n\longmapsto a_n(f)\bigr).
+\]
+\end{lemma}
+\begin{proof}
+Put $B=\ker\pi$. Raynaud's theorem
+\cite[Appendix~A, Theorem~A.1]{AU}, applied to the exact sequence
+$0\to B\to J\to A\to0$ over $\Q_2$, gives
+\[
+ 0\longrightarrow\Lie B_{\Z_2}\longrightarrow\Lie J_{\Z_2}
+ \longrightarrow\Lie A_{\Z_2}\longrightarrow(\Z/2\Z)^r
+ \longrightarrow0
+\]
+for some $r$. Here the ramification index is $1=2-1$, and the middle
+term has good reduction. Dualizing shows that the saturation of $L$
+in $S$ contains $L$ with quotient killed by $2$; compare
+\cite[Section~4.4, proof of Theorem~3.10]{ARS}.
+The $\Q_2$-span of this saturation is the subspace annihilated
+by $I$. Hence its integral lattice is $M$, proving the inclusions.
+
+The integral coefficient pairing between $\T\otimes\Z_2$ and $S$
+is perfect by \cite[Lemma~2.1]{AU} and the integral
+$q$-expansion identification at primes not dividing the level.
+The submodule annihilated by $I$ is consequently the dual of
+$(\T/I)\otimes\Z_2$. No Gorenstein hypothesis is needed.
+\end{proof}
+
+We next use the part of Parent's argument which concerns modular symbols.
+For $m\geq3$, his combinatorial estimate implies that
+\[
+ T_i\{0,\infty\},\qquad 1\leq i\leq2m,
+\]
+are linearly independent in relative homology with coefficients in any
+field whenever $p>65(2m)^6$; see \cite[Proposition~1.9]{Parent}.
+The corresponding result is Proposition~1.7 in the 1996 preprint.
+The following passage to winding symbols also works in characteristic $2$.
+
+\begin{lemma}\label{lem:jets}
+If $m\geq3$ and $p>65(2m)^6$, then the map
+\[
+ M\longrightarrow\Z_2^m,\qquad
+ f\longmapsto(a_1(f),\ldots,a_m(f))
+\]
+is surjective.
+Consequently, the cotangent image at $m\infty$ of
+\[
+ f_m:X_0(p)^{(m)}\longrightarrow A,\qquad
+ D\longmapsto\pi[D-m\infty],
+\]
+contains $2\Z_2^m$.
+\end{lemma}
+\begin{proof}
+We show that $T_1\ee,\ldots,T_m\ee$ are independent modulo $2\T\ee$.
+Put $\gamma=\{0,\infty\}$ and $h=T_2-3$.
+Both cusps are multiplied by $3$ under $T_2$, so $h\gamma$ lies in
+integral absolute homology. The period definition of the winding element
+gives $h\gamma=h\ee$.
+In particular, $h\T\ee$ lies in integral absolute homology.
+
+Suppose that
+\[
+ \sum_{i=1}^m\epsilon_iT_i\ee\in2\T\ee,
+ \qquad \epsilon_i\in\{0,1\},
+\]
+and let $k$ be the largest index with $\epsilon_k=1$.
+Multiplication by $h$ gives a dependence modulo $2$ between
+$T_i\gamma$ for $1\leq i\leq2k$, whose coefficient at $T_{2k}\gamma$
+is $1$. Indeed,
+\[
+ (T_2-3)T_i=T_{2i}+2T_{i/2}-3T_i,
+\]
+where $T_{i/2}=0$ for odd $i$.
+This contradicts Parent's estimate. This argument takes place in integral
+homology and uses no division by $2$.
+
+Since $\T\ee\simeq\T/I$, independence modulo $2$ makes the submodule
+generated by the first $m$ operators primitive over $\Z_2$.
+Dualizing and applying Lemma~\ref{lem:lattice} proves the coefficient
+surjectivity for $M$.
+The cotangent map of $f_m$ in elementary symmetric coordinates is
+\[
+ \omega\longmapsto
+ \bigl(a_1(\pi^*\omega),-a_2(\pi^*\omega),\ldots,
+ (-1)^{m-1}a_m(\pi^*\omega)\bigr);
+\]
+see \cite[Section~4.12]{Parent}.
+The inclusion $2M\subseteq L$ proves the last assertion.
+\end{proof}
+
+\begin{proof}[Proof of Theorem~\ref{thm:main}]
+Suppose that $p$ exceeds both terms in the maximum, and let
+$P\in E(K)$ have order $p$.
+At a place above $2$ with residue degree $f\leq d$, good reduction
+would imply
+\[
+ p\leq\#\widetilde E(\F_{2^f})\leq(2^{f/2}+1)^2
+ \leq(2^{d/2}+1)^2.
+\]
+Additive reduction is impossible since its odd torsion has order at most $3$.
+Nonsplit multiplicative reduction is also impossible: its odd torsion
+injects into a torus of order $2^f+1$.
+Thus $E$ has split multiplicative reduction at every place above $2$.
+The reduction of $P$ has order $p$ in the component group, since
+$p>2^f-1$.
+
+Let $x\in X_0(p)(K)$ be the image of $(E,\langle P\rangle)$ followed
+by the Atkin--Lehner involution. The component-group assertion says
+that $x$ specializes to $\infty$ at every place above $2$.
+Hence
+\[
+ D=\Tr_{K/\Q}(x)\in X_0(p)^{(d)}(\Q)
+\]
+reduces to $d\infty$ modulo $2$. This statement allows repeated
+points when $x$ is defined over a proper subfield of $K$.
+
+The point $f_d(D)\in A(\Q)$ is torsion and reduces to zero at $2$.
+The reduction-kernel observation therefore gives
+\[
+ 2f_d(D)=0,\qquad f_{2d}(2D)=0.
+\]
+By Lemma~\ref{lem:double}, $2D$ lies in the residue neighbourhood
+of $2d\infty$ modulo $4$.
+Put $m=2d$. Our assumption $p>65(4d)^6=65(2m)^6$ and
+Lemma~\ref{lem:jets} allow us to apply Lemma~\ref{lem:local} to $f_m$.
+It follows that $2D=2d\infty$, contradicting the noncuspidal support of $D$.
+
+Finally,
+\[
+ 65(4\cdot53)^6=5901039506984960<9007199254740992=2^{53}.
+\]
+The ratio $2^d/d^6$ is increasing for integers $d\geq53$, since
+$2(53/54)^6>1$ and $d/(d+1)$ is increasing.
+Thus $65(4d)^6<2^d<(2^{d/2}+1)^2$ for every $d\geq53$.
+\end{proof}
+
+\begin{remark}
+The theorem bounds torsion primes. It does not assert the same bound
+for the cardinality of the full torsion group or for arbitrary prime powers.
+The proof uses the exponent-two reduction-kernel statement and Raynaud's
+exponent-two cotangent defect. It does not require a uniform formal
+immersion theorem modulo $2$, nor a uniform rank assertion for $J_0(p)$.
+\end{remark}
+
+\begin{thebibliography}{9}
+\bibitem{AU}
+A. Abbes and E. Ullmo,
+\emph{\`A propos de la conjecture de Manin pour les courbes elliptiques modulaires},
+Compositio Math. \textbf{103} (1996), 269--286.
+\url{https://www.numdam.org/item/CM_1996__103_3_269_0/}.
+
+\bibitem{ARS}
+A. Agashe, K. Ribet and W. A. Stein,
+\emph{The Manin constant},
+Pure Appl. Math. Q. \textbf{2} (2006), 617--636.
+\url{https://wstein.org/papers/ars-manin/html/node12.html}.
+
+\bibitem{DKSS}
+M. Derickx, S. Kamienny, W. Stein and M. Stoll,
+\emph{Torsion points on elliptic curves over number fields of small degree},
+Algebra Number Theory \textbf{17} (2023), 267--308.
+\url{https://arxiv.org/abs/1707.00364}.
+
+\bibitem{Parent}
+P. Parent,
+\emph{Bornes effectives pour la torsion des courbes elliptiques sur les corps de nombres},
+J. Reine Angew. Math. \textbf{506} (1999), 85--116.
+Preprint: \url{https://arxiv.org/abs/alg-geom/9611022}.
+\end{thebibliography}
+\end{document}

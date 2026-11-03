@@ -1,0 +1,29 @@
+{
+  "status": "PROVED_WITH_COMPUTER_ASSISTANCE",
+  "degree": 13,
+  "S13": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31,
+    37
+  ],
+  "dyadic_bound": 8374,
+  "coefficient_rank": 26,
+  "dyadic_M": 157,
+  "covered_primes": 1048,
+  "published_exclusions": 1018,
+  "local_exclusions": 18,
+  "ordinary_source_orbits": 665,
+  "ordinary_nonprincipal_orbits": 663,
+  "known_degree12_orbit_at43": "excluded by known lift and formal immersion",
+  "ordinary_degree8_orbit_at113": "excluded by order-8 diamond stabilizer",
+  "proof": "S13_proof.txt"
+}

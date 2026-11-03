@@ -1,0 +1,26 @@
+{
+  "status": "PROVED_WITH_COMPUTER_ASSISTANCE",
+  "S12": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31,
+    37,
+    43
+  ],
+  "covered_primes": 44045,
+  "oesterle_bound": 532900,
+  "character_orders_verified": 656,
+  "new_character_orders": 603,
+  "reused_audited_character_orders": 53,
+  "ordinary_source_orbits": 298,
+  "formal_immersion": "PASS",
+  "proof": "S12_proof.txt"
+}

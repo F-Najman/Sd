@@ -1,0 +1,2 @@
+S16_QUOTIENT193_FINITE genus=177 winding_rank=159 polynomial=x^16 + 7*x^15 + 4*x^14 - 75*x^13 - 155*x^12 + 230*x^11 + 884*x^10 + 36*x^9 - 2007*x^8 - 1179*x^7 + 1932*x^6 + 1595*x^5 - 767*x^4 - 694*x^3 + 57*x^2 + 87*x + 9 elapsed=1.220
+S16_QUOTIENT193_FINITE_COMPLETE

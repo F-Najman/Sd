@@ -1,0 +1,9493 @@
+{
+  "status": "PASS",
+  "degree": 14,
+  "cap": 16641,
+  "M": 157,
+  "coefficient_rank": 28,
+  "excluded": [
+    {
+      "p": 131,
+      "reason": "Proposition 4.1",
+      "strangeness": 1
+    },
+    {
+      "p": 137,
+      "reason": "Proposition 4.1",
+      "strangeness": 1
+    },
+    {
+      "p": 139,
+      "reason": "Proposition 4.1",
+      "strangeness": 1
+    },
+    {
+      "p": 149,
+      "reason": "Proposition 4.1",
+      "strangeness": 1
+    },
+    {
+      "p": 151,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 157,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 163,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 167,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 173,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 179,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 181,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 191,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 193,
+      "reason": "Corollary 7.5",
+      "strangeness": 12
+    },
+    {
+      "p": 197,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 199,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 211,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 223,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 227,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 229,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 233,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 239,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 241,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 251,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 257,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 263,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 269,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 271,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 277,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 281,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 283,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 293,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 307,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 311,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 313,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 317,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 331,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 337,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 347,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 349,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 353,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 359,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 367,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 373,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 379,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 383,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 389,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 397,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 401,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 409,
+      "reason": "Corollary 7.5",
+      "strangeness": 12
+    },
+    {
+      "p": 419,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 421,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 431,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 433,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 439,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 443,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 449,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 457,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 461,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 463,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 467,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 479,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 487,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 491,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 499,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 503,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 509,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 521,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 523,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 541,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 547,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 557,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 563,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 569,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 571,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 577,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 587,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 593,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 599,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 601,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 607,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 613,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 617,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 619,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 631,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 641,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 643,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 647,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 653,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 659,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 661,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 673,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 677,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 683,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 691,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 701,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 709,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 719,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 727,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 733,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 739,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 743,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 751,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 757,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 761,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 769,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 773,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 787,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 797,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 809,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 811,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 821,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 823,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 827,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 829,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 839,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 853,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 857,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 859,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 863,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 877,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 881,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 883,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 887,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 907,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 911,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 919,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 929,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 937,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 941,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 947,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 953,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 967,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 971,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 977,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 983,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 991,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 997,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1009,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1013,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1019,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1021,
+      "reason": "Corollary 7.5",
+      "strangeness": 30
+    },
+    {
+      "p": 1031,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1033,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1039,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1049,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1051,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1061,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1063,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1069,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1087,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1091,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1093,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1097,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1103,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1109,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1117,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1123,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1129,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1151,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1153,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1163,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1171,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1181,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1187,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1193,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1201,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1213,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1217,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1223,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1229,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1231,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1237,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1249,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1259,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1277,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1279,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1283,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1289,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1291,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1297,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1301,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1303,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1307,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1319,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1321,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1327,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1361,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1367,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1373,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1381,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1399,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1409,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1423,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1427,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1429,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1433,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1439,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1447,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1451,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1453,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1459,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1471,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1481,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1483,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1487,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1489,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1493,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1499,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1511,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1523,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1531,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1543,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1549,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1553,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1559,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1567,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1571,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1579,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1583,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1597,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1601,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1607,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1609,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1613,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1619,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1621,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1627,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1637,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1657,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1663,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1667,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1669,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1693,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1697,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1699,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1709,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1721,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1723,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1733,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1741,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1747,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1753,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1759,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1777,
+      "reason": "Corollary 7.5",
+      "strangeness": 3
+    },
+    {
+      "p": 1783,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1787,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1789,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1801,
+      "reason": "Corollary 7.5",
+      "strangeness": 5
+    },
+    {
+      "p": 1811,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1823,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1831,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1847,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1861,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 1867,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1871,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1873,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1877,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1879,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1889,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1901,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1907,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1913,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1931,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1933,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1949,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1951,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1973,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1979,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1987,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1993,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1997,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 1999,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2003,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2011,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2017,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2027,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2029,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2039,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2053,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2063,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2069,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2081,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2083,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2087,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2089,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2099,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2111,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2113,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2129,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2131,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2137,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2141,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2143,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2153,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2161,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2179,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2203,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2207,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2213,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2221,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2237,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2239,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2243,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2251,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2267,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2269,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2273,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2281,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2287,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2293,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2297,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2309,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2311,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2333,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2339,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2341,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2347,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2351,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2357,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2371,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2377,
+      "reason": "Corollary 7.5",
+      "strangeness": 12
+    },
+    {
+      "p": 2381,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2383,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2389,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2393,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2399,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2411,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2417,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2423,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2437,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2441,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2447,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2459,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2467,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2473,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2477,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2503,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2521,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2531,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2539,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2543,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2549,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2551,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2557,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2579,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2591,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2593,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2609,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2617,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2621,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2633,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2647,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2657,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2659,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2663,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2671,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2677,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2683,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2687,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2689,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2693,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2699,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2707,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2711,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2713,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2719,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2729,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2731,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2741,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2749,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2753,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2767,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2777,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2789,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2791,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2797,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2801,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2803,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2819,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2833,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2837,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2843,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2851,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2857,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2861,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2879,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2887,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2897,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2903,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2909,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2917,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 2927,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2939,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2953,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2957,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2963,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2969,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2971,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 2999,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3001,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3011,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3019,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3023,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3037,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3041,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3049,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3061,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3067,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3079,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3083,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3089,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3109,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3119,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3121,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3137,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3163,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3167,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3169,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3181,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3187,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3191,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3203,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3209,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3217,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3221,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3229,
+      "reason": "Corollary 7.5",
+      "strangeness": 3
+    },
+    {
+      "p": 3251,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3253,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3257,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3259,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3271,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3299,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3301,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3307,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3313,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3319,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3323,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3329,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3331,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3343,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3347,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3359,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3361,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3371,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3373,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3389,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3391,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3407,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3413,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3433,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3449,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3457,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3461,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3463,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3467,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3469,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3491,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3499,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3511,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3517,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3527,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3529,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3533,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3539,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3541,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3547,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3557,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3559,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3571,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3581,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3583,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3593,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3607,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3613,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3617,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3623,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3631,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3637,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3643,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3659,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3671,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3673,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3677,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3691,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3697,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3701,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3709,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3719,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3727,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3733,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3739,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3761,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3767,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3769,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3779,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3793,
+      "reason": "Corollary 7.5",
+      "strangeness": 12
+    },
+    {
+      "p": 3797,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3803,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3821,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3823,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3833,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3847,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3851,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3853,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3863,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3877,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3881,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3889,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3907,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3911,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3917,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3919,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3923,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3929,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3931,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3943,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3947,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3967,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 3989,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4001,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4003,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4007,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4013,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4019,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4021,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4027,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4049,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4051,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4057,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4073,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4079,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4091,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4093,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4099,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4111,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4127,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4129,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4133,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4139,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4153,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4157,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4159,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4177,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4201,
+      "reason": "Corollary 7.5",
+      "strangeness": 3
+    },
+    {
+      "p": 4211,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4217,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4219,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4229,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4231,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4241,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4243,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4253,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4259,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4261,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4271,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4273,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4283,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4289,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4297,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4327,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4337,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4339,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4349,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4357,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4363,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4373,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4391,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4397,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4409,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4421,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4423,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4441,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4447,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4451,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4457,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4463,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4481,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4483,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4493,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4507,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4513,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4517,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4519,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4523,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4547,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4549,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4561,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4567,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4583,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4591,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4597,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4603,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4621,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4637,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4639,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4643,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4649,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4651,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4657,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4663,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4673,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4679,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4691,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4703,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4721,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4723,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4729,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4733,
+      "reason": "Corollary 7.5",
+      "strangeness": 7
+    },
+    {
+      "p": 4751,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4759,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4783,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4787,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4789,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4793,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4799,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4801,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4813,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4817,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4831,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4861,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4871,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4877,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4889,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4903,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4909,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4919,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4931,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4933,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4937,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4943,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4951,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4957,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4967,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4969,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4973,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4987,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4993,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 4999,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5003,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5009,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5011,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5021,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5023,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5039,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5051,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5059,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5077,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5081,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5087,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5099,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5101,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5107,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5113,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5119,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5147,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5153,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5167,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5171,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5179,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5189,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5197,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5209,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5227,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5231,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5233,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5237,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5261,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5273,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5279,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5281,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5297,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5303,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5309,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5323,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5333,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5347,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5351,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5381,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5387,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5393,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5399,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5407,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5413,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5417,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5419,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5431,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5437,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5441,
+      "reason": "Corollary 7.5",
+      "strangeness": 10
+    },
+    {
+      "p": 5443,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5449,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5471,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5477,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5479,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5483,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5501,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5503,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5507,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5519,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5521,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5527,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5531,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5557,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5563,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5569,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5573,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5581,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5591,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5623,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5639,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5641,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5647,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5651,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5653,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5657,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5659,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5669,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5683,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5689,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5693,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5701,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5711,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5717,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5737,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5741,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5743,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5749,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5779,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5783,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5791,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5801,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5807,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5813,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5821,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 5827,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5839,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5843,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5849,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5851,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5857,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5861,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5867,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5869,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5879,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5881,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5897,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5903,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5923,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5927,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5939,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5953,
+      "reason": "Corollary 7.5",
+      "strangeness": 3
+    },
+    {
+      "p": 5981,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 5987,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6007,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6011,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6029,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6037,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6043,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6047,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6053,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6067,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6073,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6079,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6089,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6091,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6101,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6113,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6121,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6131,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6133,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 6143,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6151,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6163,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6173,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6197,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6199,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6203,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6211,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6217,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6221,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6229,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6247,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6257,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6263,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6269,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6271,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6277,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6287,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6299,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6301,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6311,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6317,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6323,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6329,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6337,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6343,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6353,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6359,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6361,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6367,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6373,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6379,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6389,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6397,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6421,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6427,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6449,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6451,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6469,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6473,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6481,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6491,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6521,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6529,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6547,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6551,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6553,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6563,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6569,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6571,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6577,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6581,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6599,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6607,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6619,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6637,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6653,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6659,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6661,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6673,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6679,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6689,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6691,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6701,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6703,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6709,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6719,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6733,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6737,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6761,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6763,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6779,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6781,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 6791,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6793,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6803,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6823,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6827,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6829,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6833,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6841,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6857,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6863,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6869,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6871,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6883,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6899,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6907,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6911,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6917,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6947,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6949,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6959,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6961,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6967,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6971,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6977,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6983,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6991,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 6997,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7001,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7013,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7019,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7027,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7039,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7043,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7057,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7069,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7079,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7103,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7109,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7121,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7127,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7129,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7151,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7159,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7177,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7187,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7193,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7207,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7211,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7213,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7219,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7229,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7237,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7243,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7247,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7253,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7283,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7297,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7307,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7309,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7321,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7331,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7333,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7349,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7351,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7369,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7393,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7411,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7417,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7433,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7451,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7457,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7459,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7477,
+      "reason": "Corollary 7.5",
+      "strangeness": 14
+    },
+    {
+      "p": 7481,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7487,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7489,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7499,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7507,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7517,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7523,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7529,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7537,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7541,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7547,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7549,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7559,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7561,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7573,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7577,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7583,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7589,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7591,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7603,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7607,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7621,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7639,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7643,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7649,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7669,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7673,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7681,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7687,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7691,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7699,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7703,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7717,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7723,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7727,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7741,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7753,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7757,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7759,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7789,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7793,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7817,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7823,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7829,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7841,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7853,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7867,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7873,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7877,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7879,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7883,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7901,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7907,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7919,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7927,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7933,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7937,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7949,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7951,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7963,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 7993,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8009,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8011,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8017,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8039,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8053,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8059,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8069,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8081,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8087,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8089,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8093,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8101,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8111,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8117,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8123,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8147,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8161,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8167,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8171,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8179,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8191,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8209,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8219,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8221,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8231,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8233,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8237,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8243,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8263,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8269,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8273,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8287,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8291,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8293,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8297,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8311,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8317,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8329,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8353,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8363,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8369,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8377,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8387,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8389,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8419,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8423,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8429,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8431,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8443,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8447,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8461,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8467,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8501,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8513,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8521,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8527,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8537,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8539,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8543,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8563,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8573,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8581,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8597,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8599,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8609,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8623,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8627,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8629,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8641,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8647,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8663,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8669,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8677,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8681,
+      "reason": "Corollary 7.5",
+      "strangeness": 10
+    },
+    {
+      "p": 8689,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8693,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8699,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8707,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8713,
+      "reason": "Corollary 7.5",
+      "strangeness": 12
+    },
+    {
+      "p": 8719,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8731,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8737,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8741,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8747,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8753,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8761,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8779,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8783,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8803,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8807,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8819,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8821,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8831,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8837,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8839,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8849,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8861,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8863,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8867,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8887,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8893,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8923,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8929,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8933,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8941,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8951,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8963,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8969,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8971,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 8999,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9001,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9007,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9011,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9013,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9029,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9041,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9043,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9049,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9059,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9067,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9091,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9103,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9109,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9127,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9133,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9137,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9151,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9157,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9161,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9173,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9181,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9187,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9199,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9203,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9209,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9221,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9227,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9239,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9241,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9257,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9277,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9281,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9283,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9293,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9311,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9319,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9323,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9337,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9341,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9343,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9349,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9371,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9377,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9391,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9397,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9403,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9413,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9419,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9421,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9431,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9433,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9437,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9439,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9461,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9463,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9467,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9473,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9479,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9491,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9497,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9511,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9521,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9533,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9539,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9547,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9551,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9587,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9601,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9613,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9619,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9623,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9629,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9631,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9643,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9649,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9661,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9677,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9679,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9689,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9697,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9719,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9721,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9733,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9739,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9743,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9749,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9767,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9769,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9781,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9787,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9791,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9803,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9811,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9817,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9829,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9833,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9839,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9851,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9857,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9859,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9871,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9883,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9887,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9901,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9907,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9923,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9929,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9931,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9941,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9949,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9967,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 9973,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10007,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10009,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10037,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10039,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10061,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10067,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10069,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10079,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10091,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10093,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 10099,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10103,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10111,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10133,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10139,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10141,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10151,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10159,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10163,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10169,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10177,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10181,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10193,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10211,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10223,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10243,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10247,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10253,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10259,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10267,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10271,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10273,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10289,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10301,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10303,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10313,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10321,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10331,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10333,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10337,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10343,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10357,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10369,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10391,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10399,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10427,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10429,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10433,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10453,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10457,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10459,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10463,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10477,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10487,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10499,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10501,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10513,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10529,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10531,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10559,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10567,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10589,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10597,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10601,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10607,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10613,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10627,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10631,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10639,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10651,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10657,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10663,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10667,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10687,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10691,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10709,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10711,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10723,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10729,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10733,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10739,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10753,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10771,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10781,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10789,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10799,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10831,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10837,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10847,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10853,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10859,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10861,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10867,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10883,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10889,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10891,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10903,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10909,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10937,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10939,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10949,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10957,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10973,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10979,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10987,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 10993,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11003,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11027,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11047,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11057,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11059,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11069,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11071,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11083,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11087,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11093,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11113,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11117,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11119,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11131,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11149,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11159,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11161,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11171,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11173,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11177,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11197,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11213,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11239,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11243,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11251,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11257,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11261,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11273,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11279,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11287,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11299,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11311,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11317,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11321,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11329,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11351,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11353,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11369,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11383,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11393,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11399,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11411,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11423,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11437,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11443,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11447,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11467,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11471,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11483,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11489,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11491,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11497,
+      "reason": "Corollary 7.5",
+      "strangeness": 3
+    },
+    {
+      "p": 11503,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11519,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11527,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11549,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11551,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11579,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11587,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11593,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11597,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11617,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11621,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11633,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11657,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11677,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11681,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11689,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11699,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11701,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11717,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11719,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11731,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11743,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11777,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11779,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11783,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11789,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11801,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11807,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11813,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11821,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11827,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11831,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11833,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11839,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11863,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11867,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11887,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11897,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11903,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11909,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11923,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11927,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11933,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11939,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11941,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11953,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11959,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11969,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11971,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11981,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 11987,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12007,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12011,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12037,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12041,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12043,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12049,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12071,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12073,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12097,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12101,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12107,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12109,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12113,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12119,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12143,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12149,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12157,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12161,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12163,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12197,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12203,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12211,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12227,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12239,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12241,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12251,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12253,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12263,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12269,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12277,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12281,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12289,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12301,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12323,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12329,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12343,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12347,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12373,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12377,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12379,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12391,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12401,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12409,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12413,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12421,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12433,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12437,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12451,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12457,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12473,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12479,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12487,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12491,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12497,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12503,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12511,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12517,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12527,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12539,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12541,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12547,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12553,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12569,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12577,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12583,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12589,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12601,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12611,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12613,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12619,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12637,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12641,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12647,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12653,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12659,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12671,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12689,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12697,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12703,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12713,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12721,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12739,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12743,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12757,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12763,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12781,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12791,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12799,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12809,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12821,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12823,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12829,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12841,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12853,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12889,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12893,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12899,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12907,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12911,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12917,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12919,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12923,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12941,
+      "reason": "Corollary 7.5",
+      "strangeness": 10
+    },
+    {
+      "p": 12953,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12959,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12967,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12973,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12979,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 12983,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13001,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13003,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13007,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13009,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13033,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13037,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13043,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13049,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13063,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13093,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13099,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13103,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13109,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13121,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13127,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13147,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13151,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13159,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13163,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13171,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13177,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13183,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13187,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13217,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13219,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13229,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13241,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13249,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13259,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13267,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13291,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13297,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13309,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13313,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13327,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13331,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13337,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13339,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13367,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13381,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13397,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13399,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13411,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13417,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13421,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13441,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13451,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13457,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13463,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13469,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13477,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13487,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13499,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13513,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13523,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13537,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13553,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13567,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13577,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13591,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13597,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13613,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13619,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13627,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13633,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13649,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13669,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13679,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13681,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13687,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13691,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13693,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13697,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13709,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13711,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13721,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13723,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13729,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13751,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13757,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13759,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13763,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13781,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13789,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13799,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13807,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13829,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13831,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13841,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13859,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13873,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13877,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13879,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13883,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13901,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13903,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13907,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13913,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13921,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13931,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13933,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13963,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13967,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13997,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 13999,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14009,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14011,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14029,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14033,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14051,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14057,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14071,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14081,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14083,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14087,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14107,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14143,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14149,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14153,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14159,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14173,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14177,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14197,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14207,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14221,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14243,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14249,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14251,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14281,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14293,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14303,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14321,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14323,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14327,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14341,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14347,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14369,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14387,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14389,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14401,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14407,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14411,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14419,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14423,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14431,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14437,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14447,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14449,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14461,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14479,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14489,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14503,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14519,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14533,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 14537,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14543,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14549,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14551,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14557,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14561,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14563,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14591,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14593,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14621,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14627,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14629,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14633,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14639,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14653,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14657,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14669,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14683,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14699,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14713,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14717,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14723,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14731,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14737,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14741,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14747,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14753,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14759,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14767,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14771,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14779,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14783,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14797,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14813,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14821,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14827,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14831,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14843,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14851,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14867,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14869,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14879,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14887,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14891,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14897,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14923,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14929,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14939,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14947,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14951,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14957,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14969,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 14983,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15013,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15017,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15031,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15053,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15061,
+      "reason": "Corollary 7.5",
+      "strangeness": 6
+    },
+    {
+      "p": 15073,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15077,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15083,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15091,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15101,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15107,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15121,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15131,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15137,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15139,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15149,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15161,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15173,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15187,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15193,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15199,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15217,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15227,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15233,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15241,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15259,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15263,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15269,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15271,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15277,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15287,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15289,
+      "reason": "Corollary 7.5",
+      "strangeness": 12
+    },
+    {
+      "p": 15299,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15307,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15313,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15319,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15329,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15331,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15349,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15359,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15361,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15373,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15377,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15383,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15391,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15401,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15413,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15427,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15439,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15443,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15451,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15461,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15467,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15473,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15493,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15497,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15511,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15527,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15541,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15551,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15559,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15569,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15581,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15583,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15601,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15607,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15619,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15629,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15641,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15643,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15647,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15649,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15661,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15667,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15671,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15679,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15683,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15727,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15731,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15733,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15737,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15739,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15749,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15761,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15767,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15773,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15787,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15791,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15797,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15803,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15809,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15817,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15823,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15859,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15877,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15881,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15887,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15889,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15901,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15907,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15913,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15919,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15923,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15937,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15959,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15971,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15973,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 15991,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16001,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16007,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16033,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16057,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16061,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16063,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16067,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16069,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16073,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16087,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16091,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16097,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16103,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16111,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16127,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16139,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16141,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16183,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16187,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16189,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16193,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16217,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16223,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16229,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16231,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16249,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16253,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16267,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16273,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16301,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16319,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16333,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16339,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16349,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16361,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16363,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16369,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16381,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16411,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16417,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16421,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16427,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16433,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16447,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16451,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16453,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16477,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16481,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16487,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16493,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16519,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16529,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16547,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16553,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16561,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16567,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16573,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16603,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16607,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16619,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16631,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    },
+    {
+      "p": 16633,
+      "reason": "Corollary 7.5",
+      "strangeness": 1
+    }
+  ],
+  "local_levels": [
+    47,
+    53,
+    59,
+    61,
+    67,
+    71,
+    73,
+    79,
+    83,
+    89,
+    97,
+    101,
+    103,
+    107,
+    109,
+    113,
+    127
+  ]
+}

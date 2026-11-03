@@ -1,0 +1,6580 @@
+{
+  "status": "STRUCTURAL_COVERAGE_COMPLETE",
+  "degree": 22,
+  "support_types": 514,
+  "odd_degree_real_diamond_lemma_used": false,
+  "records": [
+    {
+      "p": 59,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 15,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary7 triples"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary triples, complete diamond orbit enumeration"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 15,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary7 triples"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary triples, complete diamond orbit enumeration"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          15
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited ordinary7 (D6-1)A3 obstruction; SS15 fixed by H5 as divisor"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "H5 ordinary pullback relative immersion plus fixed cusp remainder2"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "SS",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "H5 pullback relative immersion, nonzero cusp remainder modulo5"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "SS",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "H5 pullback relative immersion, nonzero cusp remainder modulo5"
+    },
+    {
+      "p": 71,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 15,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary7 triples"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary triples, complete diamond orbit enumeration"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 15,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary7 triples"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair delta2 obstruction; SS block fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          14
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          15
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          16
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 ordinary obstruction; every SS6 andNC9 block is fixed as divisor"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 16,
+      "argument": "tame H3-fixed lift plus relative cusp fibers, fixed remainder"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "double tame H3-fixed lift, all10 positions and cusp10 profiles"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "H9 invariance using actual rational2-torsion control; orbit lengths9 or3 do not divide22"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "H9 invariance using actual rational2-torsion control; orbit lengths9 or3 do not divide22"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "SS6 plusNC9 relative immersion, all16 positions and cusp7 profiles"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "H9 invariance using actual rational2-torsion control; orbit lengths9 or3 do not divide22"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "H9 pullback relative immersion, fixed cusp remainder"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "NC",
+          9
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "H9 invariance using actual rational2-torsion control; orbit lengths9 or3 do not divide22"
+    },
+    {
+      "p": 79,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "NC",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "delta2 ordinary obstruction, NC11 term fixed"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 ordinary obstruction, NC11 term fixed"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "NC",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 ordinary obstruction, NC11 term fixed"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "SS",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new H11 quotient Sym2 argument, all cusp andSS22 disks resolved"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "NC",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "new H11 quotient Sym2 argument, all cusp andSS22 disks resolved"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "NC",
+          11
+        ],
+        [
+          "NC",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new H11 quotient Sym2 argument, all cusp andSS22 disks resolved"
+    },
+    {
+      "p": 97,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "SS",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "sharper relative maps; tame H3-fixed lifts and cusp6, mixed stabilizer excludes full cusp fibers"
+    },
+    {
+      "p": 101,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "odd quotient cusp immersion plus intrinsic relative ranks21"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "delta2 ordinary obstruction, SS9 term fixed"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 ordinary obstruction, SS9 term fixed"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 ordinary obstruction, SS9 term fixed"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "H9 pullback relative immersion and fixed cusp remainder4"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ],
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "H18 invariance, geometric orbit lengths18,9,6 do not divide22"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ],
+        [
+          "SS",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "H18 invariance, geometric orbit lengths18,9,6 do not divide22"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited direct SS12 T3 obstruction"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "NC",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "H18 invariance, geometric orbit lengths18,9,6 do not divide22"
+    },
+    {
+      "p": 113,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "H8 ordinary pullback relative immersion plus fixed cusp remainder"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary-pair obstructions except the H8 pair; H8 invariance gives orbit lengths8 or4, neither dividing22"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "forced H2 invariance of rational cusp complement of odd degree7, impossible"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "SS",
+          7
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "generic O8 orbit: all10 combined A3 pair obstructions; exceptional H8 orbit: all3 SS-pair obstructions"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "NC",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "generic O8 orbit: all4 combined NC14 A3 obstructions; exceptional H8 orbit: relative immersion rank21 with fixed cusp14"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "delta2 ordinary obstruction; SS7 term fixed"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "delta2 ordinary obstruction; SS7 term fixed"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "delta2 ordinary obstruction; SS7 term fixed"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          14
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 ordinary obstruction; SS7 term fixed"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          15
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 ordinary obstruction; SS7 term fixed"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 15,
+      "argument": "inherited direct SS7 T3 obstruction"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "H14 invariance, orbit lengths14 or7 do not divide22"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ],
+        [
+          "SS",
+          7
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "H14 invariance, orbit lengths14 or7 do not divide22"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ],
+        [
+          "NC",
+          14
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "H14 invariance, orbit lengths14 or7 do not divide22"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "NC",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "H14 invariance, orbit lengths14 or7 do not divide22"
+    },
+    {
+      "p": 127,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "SS",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 ordinary obstruction; all NC7 andSS14 blocks fixed"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "delta2 ordinary obstruction; all NC7 andSS14 blocks fixed"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "NC",
+          7
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 ordinary obstruction; all NC7 andSS14 blocks fixed"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "H9 invariance, no geometric orbit length divides22"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "H9 invariance; geometric orbit lengths9 or3 do not divide22"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "two-pullback relative immersion, rank20 and fixed cusp6"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "delta2 ordinary obstruction; all NC7 andSS14 blocks fixed"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "delta2 ordinary obstruction; all NC7 andSS14 blocks fixed"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "delta2 ordinary obstruction; all NC7 andSS14 blocks fixed"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "delta2 ordinary obstruction; all NC7 andSS14 blocks fixed"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          14
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "delta2 ordinary obstruction; all NC7 andSS14 blocks fixed"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          15
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "delta2 ordinary obstruction; all NC7 andSS14 blocks fixed"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "SS",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "H7 invariance; action free and7 does not divide22"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "SS",
+          14
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "H7 invariance; action free and7 does not divide22"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 15,
+      "argument": "H7 invariance; action free and7 does not divide22"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "H7 invariance; action free and7 does not divide22"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ],
+        [
+          "NC",
+          7
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "H7 invariance; action free and7 does not divide22"
+    },
+    {
+      "p": 131,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "odd quotient cusp immersion plus intrinsic relative ranks21"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "H17 invariance,17 does not divide22"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "SS",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "H34 invariance, orbit lengths34 or17 do not divide22"
+    },
+    {
+      "p": 139,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "absolute cusp immersion"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 14,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary pair obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary pair obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited ordinary obstruction"
+    },
+    {
+      "p": 139,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new degree22 ordinary obstruction"
+    },
+    {
+      "p": 163,
+      "support": [],
+      "cusp_complement": 22,
+      "argument": "anti_H27 cusp immersion, minimum relation degree27>22"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "new ordinary principal-divisor obstruction on fresh genus1027 model"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "new level163 ordinary pair obstruction, all relative positions"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "new ordinary principal-divisor obstruction on fresh genus1027 model"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "new ordinary principal-divisor obstruction on fresh genus1027 model"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "new ordinary principal-divisor obstruction on fresh genus1027 model"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "new ordinary principal-divisor obstruction on fresh genus1027 model"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "new ordinary principal-divisor obstruction on fresh genus1027 model"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "new ordinary principal-divisor obstruction on fresh genus1027 model"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "new ordinary principal-divisor obstruction on fresh genus1027 model"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          20
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "new ordinary principal-divisor obstruction on fresh genus1027 model"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          21
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "new ordinary principal-divisor obstruction on fresh genus1027 model"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          22
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "new ordinary principal-divisor obstruction on fresh genus1027 model"
+    }
+  ]
+}

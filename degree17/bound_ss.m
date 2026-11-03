@@ -1,0 +1,1 @@
+SetQuitOnError(true);SetColumns(0);F:=GF(2^17);cs:=Sort([Integers()!#E:E in Twists(EllipticCurveFromjInvariant(F!0))]);assert cs eq [130561,131073,131585];for n in cs do assert &and[p[1] le 66049:p in Factorization(n)];end for;print "S17_SUPERSINGULAR_BOUND_PASS",cs;quit;

@@ -1,0 +1,64 @@
+\section{Points of prime order over number fields of degree \texorpdfstring{$9\leq d\leq 22$}{9 to 22}}\label{sec:lower}
+
+In this section we show that the primes listed in \Cref{thm:main} belong to $S(d)$.
+
+\begin{lemma}\label{lem:basechange}
+If $d'$ divides $d$, then $S(d')\subseteq S(d)$.
+\end{lemma}
+
+\begin{proof}
+Let $K'$ be a number field of degree $d'$ and $E/K'$ an elliptic curve with a point of order $p$. Let $\ell$ be a prime which is unramified in $K'$, and $\alpha$ a root of $x^{d/d'}-\ell$. This polynomial is Eisenstein at every prime of $K'$ above $\ell$, so $K=K'(\alpha)$ has degree $d$, and $E(K)$ has a point of order $p$.
+\end{proof}
+
+\begin{lemma}\label{lem:RR}
+If $d\geq 2g(X_1(p))$, then $p\in S(d)$. In particular $11,13,17\in S(d)$ for $d\geq 10$, and $19\in S(d)$ for $d\geq 14$.
+\end{lemma}
+
+\begin{proof}
+Let $c$ be a rational cusp of $X_1(p)$. As $d-1\geq 2g-1$, the Riemann-Roch theorem gives $\ell(dc)=\ell((d-1)c)+1$, so there is a function $f$ on $X_1(p)$ whose only pole is a pole of order $d$ at $c$. By Hilbert's irreducibility theorem, the fibre $f^{-1}(t)$ is a closed point of degree $d$ for infinitely many $t\in\Q$, and all but finitely many of these points are not cusps. As $X_1(p)$ is a fine moduli space, each of them gives an elliptic curve with a point of order $p$ over a number field of degree $d$. The second statement follows as $X_1(11)$, $X_1(13)$, $X_1(17)$ and $X_1(19)$ have genus $1$, $2$, $5$ and $7$.
+\end{proof}
+
+Most of our explicit examples are of the following form. Let $f\in\Q[t]$ be an irreducible polynomial of degree $d$, let $x$ be a root of $f$, put $K=\Q(x)$, and let $y\in K$ be such that $(x,y)$ is a point on Sutherland's model of $X_1(p)$ \cite{sutherland}. Put
+$$r=\frac{x^2y-xy+y-1}{x^2y-x},\quad s=\frac{xy-y+1}{xy},\quad b=rs(r-1),\quad c=s(r-1).$$
+Then $P=(0,0)$ is a point of order $p$ on the elliptic curve
+$$E(b,c):\ Y^2+(1-c)XY-bY=X^3-bX^2$$
+over $K$. For each example we check directly that $f$ is irreducible, that $E(b,c)$ is non-singular and that $pP=0$, so we do not need to know where the examples came from. Most of these examples come from the tables of low degree points on $X_1(p)$ of van Hoeij \cite{vanHoeij}, or from specializations of functions of degree $d$ on $X_1(p)$. For example, for $p=43$ and $d=12$ we can take
+\begin{align*}
+f&=t^{12}-t^{11}-5t^{10}+6t^9+9t^8-16t^7-3t^6+19t^5-3t^4-12t^3+t^2+4t+1,\\
+43y&=35x^{11}-65x^{10}-107x^9+314x^8-34x^7-580x^6+601x^5\\
+&\quad+156x^4-552x^3+219x^2+136x-81,
+\end{align*}
+and for $p=37$ and $d=10$ we can take
+\begin{align*}
+f&=t^{10}-5t^8+3t^7+10t^6-8t^5-7t^4+9t^3-3t+1,\\
+y&=2x^9+x^8-10x^7+x^6+23x^5-6x^4-22x^3+11x^2+9x-5.
+\end{align*}
+Here $j(E)$ has degree $4$ in the first example and degree $10$ in the second. The few examples that are not of this form are similar. For instance, for $(d,p)=(22,67)$ we use a point of order $67$ on a twist of $y^2=x^3+1$ over a field of degree $22$, which comes from a point with complex multiplication.
+
+\begin{proposition}\label{prop:lower}
+For $9\leq d\leq 22$, all the primes listed in \Cref{thm:main} belong to $S(d)$.
+\end{proposition}
+
+\begin{proof}
+By \Cref{lem:basechange}, the results for $d\leq 8$ listed in the introduction, \cite{NV} for $p\in\{17,19,23\}$ and $d=9$, and \Cref{lem:RR}, it is enough to give an example over a number field of degree $d$ for each of the pairs $(d,p)$ in \Cref{table:examples}. Here we also use \Cref{lem:basechange} for $d\in\{18,20,22\}$ with $d'=9,10,11$, respectively. For each of these pairs we give an explicit example as above, and we \gitlink{occurrences/README.md}{verify} that it has the required properties.
+\end{proof}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{rl@{\qquad}rl}
+\toprule
+$d$ & $p$ & $d$ & $p$\\
+\midrule
+$9$ & $29,31$ & $16$ & $29,31,37$\\
+$10$ & $23,29,31,37$ & $17$ & $23,29,31,37,41,43$\\
+$11$ & $19,23,29,31$ & $18$ & $41,43$\\
+$12$ & $23,29,31,43$ & $19$ & $23,29,31,37,41,43$\\
+$13$ & $19,23,29,31,37$ & $20$ & $41,43,47,61$\\
+$14$ & $29,31,37,41,43$ & $21$ & $29,31,37,41,43,47$\\
+$15$ & $23,29,31,37,43$ & $22$ & $37,41,43,47,53,67$\\
+\bottomrule
+\end{tabular}
+\medskip
+\caption{The pairs $(d,p)$ for which we give an explicit point of order $p$ over a number field of degree $d$.}
+\label{table:examples}
+\end{table}

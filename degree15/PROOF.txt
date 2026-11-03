@@ -1,0 +1,494 @@
+S(15): COMPLETE DETERMINATION WITH EXACT COMPUTER ASSISTANCE
+29 October 2026
+
+Theorem. For arbitrary elliptic curves over number fields of exact
+ degree15,
+                 S(15)={2,3,5,7,11,13,17,19,23,29,31,37,43}.
+The last candidate61 is excluded by the genus-8 quotient argument in
+Section8. All primes through the dyadic bound33131 are accounted for.
+
+1. OCCURRENCE AND THE DEGREE CONDITION
+
+The published classification S(5)=Primes(19) gives all primes through19:
+extend a quintic field by a cubic extension. The resulting field has
+exact degree15 and retains the torsion point.
+
+For each p=23,29,31,37,43, occurrences.json records a degree15 irreducible
+polynomial f, and functions x=a,y=g(a)/h(a), with f(a)=0. Set
+ r=(x^2*y-x*y+y-1)/(x^2*y-x), s=(x*y-y+1)/(x*y),
+ b=r*s*(r-1), c=s*(r-1).
+Then E=[1-c,-b,-b,0,0], P=(0,0), supplies an occurrence.
+verify_occurrences.m checks irreducibility over Q, nonsingularity,
+P nonzero and p*P=0. These are exact degree15 number fields.
+The examples at37 and43 come from van Hoeij's low-degree-place table;
+the other three are explicitly verified specializations.
+
+For exclusion, any prime dividing E(K)_tors is the order of a K-rational
+point. Its noncuspidal point on X_1(p) has degree dividing15. For p>37,
+proper divisors1,3,5 are excluded by the known classifications over Q,
+cubic fields and quintic fields. Thus it has exact degree15. Write D
+for its irreducible rational trace divisor on X_1(p).
+
+2. THE DYADIC GLOBAL BOUND
+
+We use the previously established dyadic doubling argument, including
+the cotangent-lattice defect. Its complete statement and references
+are included in prior_dyadic_theorem/asymptotic_prime_bound.tex.
+For J=J_0(p), integral Hecke algebra T, winding element e and
+I=Ann_T(e), let A=J/IJ be the optimal winding quotient. Then A(Q)
+is finite. If
+ M=H^0(X_0(p)_(Z_2),Omega^1)[I], L=pi^*Cot(A_(Z_2)),
+Raynaud's theorem gives 2M subset L subset M. Equality is not assumed.
+
+Use m=30=2*15 coefficients and M0=157. Write
+ T'_n=sum_(a|n) mu(n/a)T_a, L_n=T'_(2n)-2*T'_n.
+The spans of L_1,...,L_30 and (T_2-3)T_1,...,(T_2-3)T_30 coincide.
+For p>2*m*M0=9420 and p*u=1 modulo157, the DKSS intersection formula
+for L_n e against {0,a/157} is
+ epsilon(na)-epsilon(nu/a), 1<=n<=30, 1<=a<=156,
+where epsilon indicates the upper half of the nonzero residues mod157.
+For each of the156 values u, the resulting30 by156 matrix has rank30
+modulo2. The independent Sage checker rebuilds all entries and ranks.
+
+These intersection matrices prove surjectivity of the first30
+coefficient map on M. Thus the cotangent image of the Abel map
+ X_0(p)^(30) -> A
+at30*infinity contains2*Z_2^30. The local lattice lemma in the cited
+prior theorem then proves injectivity in the formal neighbourhood
+modulo4: a nonzero minimum-valuation coordinate of valuation k>=2
+has a linear term of valuation k+1<2k.
+
+If a degree15 divisor reduces to15*c modulo2, its elementary symmetric
+polynomial is1+2B(t). Doubling the divisor squares that polynomial,
+giving1+4(B+B^2), so the double agrees with30*c modulo4. The torsion
+reduction kernel of an abelian scheme over Z_2 is killed by2.
+Consequently a rational degree15 divisor with entirely cuspidal
+reduction of the indicated type is impossible on the winding quotient.
+
+If p>(2^(15/2)+1)^2, reduction of E at every place above2 cannot be good,
+by Hasse. Additive reduction cannot support this prime torsion. The
+nonsplit multiplicative and multiplicative identity-component bounds
+also fail. The point therefore lies in the component group in split
+multiplicative reduction. After Atkin--Lehner on X_0(p), its trace
+reduces to15*infinity. The preceding doubled-divisor argument excludes
+it. Since floor((2^(15/2)+1)^2)=33131 and9420<33131, we obtain
+                             p<=33131.
+Using30 coefficients, rather than15, is essential here.
+
+3. PUBLISHED EXCLUSIONS
+
+We apply Derickx--Stoll, arXiv:2505.14109v1, Table2, Proposition4.1,
+Remark4.4 and Corollary7.5, only within their stated range p<100000.
+With C=2^19/325, Corollary7.5 says that for p in S_new(15), either
+p^2<=15*C+1, or (p-1)/(2*str(p)) divides15 and there is a
+noncuspidal point of the specified degree on the str(p)-fold cover
+of X_0(p). Its two CM alternatives require even degree and do not apply.
+The exact arithmetic ledger checks this at every prime up to33131.
+
+For a non-strange prime, (h-1)J_1(p)(Q) is finite for every diamond h.
+Proposition4.1 with ell=2,a=2,n=5 excludes further primes when the
+bound325*(p^2-1)/65536 exceeds75 and no possible shortened diamond
+orbit length divides15. Remark4.4 supplies the rational2-torsion
+hypothesis for these levels.
+
+At151, take a generator of the full diamond group, of order75,
+and n=6. The gonality bound exceeds90=6*15. Its noncuspidal orbits
+in characteristic zero have length75, or25 at j=0; neither fits in
+an effective divisor of degree15. There is no order2 shortening of
+an odd-order group. This excludes151.
+
+At181, str(181)=6 and Corollary7.5 requires a noncuspidal rational
+point on the degree6 intermediate cover of X_0(181). Its image would
+be a rational noncuspidal point on X_0(181), contrary to Mazur's
+prime-isogeny theorem. This excludes181.
+
+Apart from the occurrence43, the levels left for local analysis are
+ 41,47,53,59,61,67,71,73,79,83,89,97,101,103,107,109,113.
+
+4. CUSPIDAL REDUCTIONS AND FINITE-IMAGE CERTIFICATES
+
+At these17 levels, actual integral endomorphisms with finite rational
+image are composed with an odd-prime torsion annihilator
+ T_q-<q>-q in the mu-level convention. The resulting maps kill the
+whole rational Jacobian group. Fricke transports the formal-immersion
+criterion to the geometric point-level rational cusps.
+
+The chosen intermediate-curve diamond indices are
+ 41:20,47:23,53:13,59:29,61:15,67:11,71:5,73:12,79:39,
+ 83:41,89:11,97:8,101:5,103:17,107:53,109:54,113:56.
+All normalized cusp multiplicity patterns of degree15 pass. The core
+uses15 rows at the first cusp and6 at each other cusp. The only
+patterns requiring a seventh row at another cusp are8+7 and7+7+1;
+all relative choices of cusps are checked separately. The core is
+verified by complete prefix enumeration or by spanning relation bases
+and a complete binary search through their relation space. Independent
+dynamic-programming counts check every prefix enumeration. Sage
+independently verifies the full matrices, exceptional patterns and
+relation bases. All17 selected certificates pass.
+
+The finite-image claims do not rely on a winding-vector computation
+in an incompatible basis. The exported successful polynomials are
+fixed explicitly in finite_FI_polynomials.m. At61,97,101, the selected
+indices are respectively not divisible by6,12,10, so the intermediate
+Jacobians contain no nontrivial strange character. All positive-rank
+factors of these and of the other non-strange intermediate Jacobians
+therefore lie in their trivial-character part.
+
+verify_finite_FI_final.m verifies all16 selected nontrivial polynomial
+inclusions on the small Gamma_0 spaces. A projected winding row
+transforms by TRANSPOSE(DualHeckeOperator), which is the correct
+period-coordinate action. The span of its T_2-powers is a subspace
+of the winding module. For each selected polynomial the script proves
+that its operator image is contained in this span. Independent Sage
+rational linear algebra checks the inclusions again. At41,47,59,71
+the whole Jacobian has rank zero; at107,109,113 a diamond difference
+kills all positive-rank factors. Thus the claimed finite images are
+justified independently of the heuristic initially used to choose them.
+
+5. FINITE-FIELD CENSUS AND ORDINARY REDUCTIONS
+
+The census enumerates all j-invariants and twists over F_(2^d) for
+1<=d<=15. It enumerates every cyclic p-subgroup when the rational
+p-torsion has rank2, rather than assuming it is always cyclic.
+Tate coordinates determine the exact closed-point degree and full
+closed diamond orbit. Frobenius-invariant keys remove duplications.
+It finds2175 ordinary source orbits at the17 levels.
+
+The relevant supersingular types (degree, closed diamond orbit size) are
+ 41:(5,2);53:(13,1);61:(15,1);73:(6,4);
+ 109:(9,3),(12,3);113:(7,4).
+The nonrational cusp degrees that fit are
+ 41:10,73:9,89:11,113:14.
+
+In the geometric convention delta_a(E,P)=(E,aP), put
+                       A3=T_3-1-3*delta_3.
+It kills rational torsion and each rational cusp divisor. For ordinary
+supports we use alpha*A3, with finite-image alpha as follows:
+ 41,47,59,71: alpha=1;
+ 61: alpha=sigma^6-1;
+ 97: alpha=sigma^12-1, with (sigma-1)*Phi12(sigma) on the three degree10/14 closed orbits of size24;
+ 101: alpha=(sigma-1)*(sigma^5+1);
+ all other levels: alpha=sigma-1.
+Here sigma is the recorded primitive diamond, with the inverse point
+convention specified in the input. Character orders are unchanged by
+inversion. At97 the four-term polynomial above kills character orders1
+and12 and keeps the support small enough for the canonical sections.
+
+For a degree-zero effective difference U-V that would have to be
+principal, choose R=H^0(K^2) at41,47,53 and R=H^0(K) elsewhere.
+The calculation constructs actual Hecke targets and local canonical
+jets from elliptic curves and torsion points. Old jets are reused only
+after a unique exact matching against the fresh census. Tensor products
+of sections are verified by q-expansions beyond the applicable Sturm
+bound. At109 and113 the variable precision is sufficient for the
+universal degree120 support bound; requested multiplicities are checked.
+
+If div(f)=U-V, then for any F,H in R(-U), the section S=F/f lies in
+R(-V) and H*S is divisible by F in the product section space. Thus the
+homogeneous linear conditions on S have a nonzero solution. A full-rank
+matrix proves nonprincipality. This implication holds even if the
+chosen F also vanishes at some negative support points.
+
+There are2173 independently verified full-rank ordinary matrices.
+The only ordinary exceptions are
+ 41: degree14, orbit10;
+ 113: degree8, orbit7.
+The former is treated in Section6; the latter by a stabilizer in Section7.
+
+Two ordinary points can occur only with degrees7+7 or7+8. All137
+7+7 orbit configurations from the degree14 computation remain excluded
+with an extra rational cusp. All254 new7+8 configurations pass:
+ 59:58,61:90,67:66,71:40.
+The only mixed supersingular/ordinary possibilities are
+ 41:5+8,5+9,5+10;73:6+7;113:7+8.
+Using (sigma^2-1)A3 at41 gives13 full-rank matrices; using
+(sigma^4-1)A3 at73 gives one. These operators kill the corresponding
+supersingular contributions and all rational cusp contributions.
+The113 mixed case is treated in Section7.
+Sage independently checks all2578 ordinary, pair and mixed matrices,
+including the137 borrowed7+7 matrices.
+
+6. THE EXCEPTIONAL LEVEL41 CONFIGURATIONS
+
+There are two supersingular degree5 points, interchanged by diamonds.
+The previously independently audited native Magma certificates exclude
+one such point, both possibilities for a pair (including repetition),
+and a nonrational degree10 cusp. They remain valid with any rational
+cusp complement, because A3 kills that complement.
+
+exceptional41.m adds the two triple types3P and2P+Q. Both A3 images
+are nonprincipal. It also excludes a degree10 nonrational cusp plus
+either degree5 supersingular point: delta_3 swaps the two nonrational
+cusps, so the image is2(C1-C2)+A3(P). Both native tests pass.
+These cover all new purely supersingular/cuspidal configurations.
+
+The surviving ordinary degree14 orbit consists of reductions of known
+characteristic-zero degree14 points on X_1(41). lift41_charzero.m checks
+an exact irreducible number-field example; known41_lifting.m directly
+matches its Tate coordinates to the finite-field source. Diamonds supply
+a characteristic-zero lift for every closed point in the orbit.
+
+For this degree14 divisor plus each of the20 rational cusps, the joint
+cotangent matrices of the actual q=3,5,7 torsion-annihilating maps have
+rank15. Sage independently checks all20 matrices. Formal immersion
+makes a degree15 rational divisor with this reduction equal to the
+known reducible lift B14+c. That contradicts irreducibility of D.
+This resolves the degree14 ordinary exception at41.
+
+7. STABILIZER EXCLUSIONS
+
+We use the following elementary lemma. Suppose h fixes the nonrational
+part of the reduction of D, and C is the rational cusp lift of the
+remaining part, of degree c. If (h-1)J(Q) is finite, then
+ y=[h(D-C)-(D-C)] is rational torsion reducing to zero, so2y=0.
+If y=0 and gon_Q(X)>15+c, or merely2y=0 and gon_Q(X)>2*(15+c),
+there can be no nonconstant rational function with that divisor.
+Consequently hD=D and hC=C. Diamonds act freely on rational cusps,
+so the order of h must divide c.
+
+For an odd-order h acting trivially on J(Q)[2], the norm relation
+(1+h+...+h^(r-1))y=0 gives y=0. The actual JOne homology certificates
+show J_1(53)(Q)[2]=0, and diamond2 acts trivially on J_1(73)(Q)[2].
+Their integral lattices are those of JOne, not an isogenous substitute.
+
+At53 the sole supersingular degree13 point has complement c=2 and is
+fixed by the order13 diamond4. We prove gon_Q(X_1(53))>=18, which
+exceeds17. Hence13 would divide2, a contradiction. For the gonality
+bound, the curve has26 rational points and no other places through
+degree8. If a function has degree<=17, one of its three F_2 fibres
+contains at least9 distinct rational points. Move that fibre to infinity.
+All its poles must then be rational, and their divisor is bounded by
+C_all+E, where E has degree8. Exact canonical evaluation gives rank26
+at C_all and8 additional independent conditions for every normalized E.
+All1,143,531 configurations are checked, against an independent count.
+Riemann--Roch gives l(C_all+E)=1, excluding the function.
+
+At73 use the order9 diamond2 and gonality>26. The complements for
+one supersingular point, two supersingular points, and one nonrational
+cusp are respectively9,3,6. The latter two fail9|c. For the first,
+hD=D forces every geometric h-orbit in the irreducible degree15 divisor
+to have length3, since9 does not divide15. This forces j=0 and a
+nontrivial order3 elliptic automorphism preserving the p-line. It is
+defined over the residue field: its nontrivial conjugate sends the
+nonzero p-point to a different scalar multiple. Thus that degree15
+field contains Q(sqrt(-3)), impossible. The same argument excludes a
+supersingular degree6 point plus a degree9 nonrational cusp (c=0).
+
+The remaining stabilizer comparisons use the doubled bound:
+ level, support degree, c, diamond, order, required gonality bound
+ 89,  nonrational cusp11,4,2,11, >38;
+ 109, supersingular9,6,23,18, >42;
+ 109, supersingular12,3,23,18, >36;
+ 113, ordinary8 orbit7,7,40,8, >44;
+ 113, supersingular7,8,2,14, >46;
+ 113, two supersingular7,1,2,14, >32;
+ 113, nonrational cusp14,1,2,14, >32.
+In each case325*(p^2-1)/65536 exceeds the required number, and the
+listed order does not divide c. Exact Tate-coordinate computations
+verify every asserted closed-point stabilizer, and diamonds commute
+with their translates.
+
+For113 the mixed degree7 supersingular plus degree8 ordinary case has
+c=0. The unique diamond involution, represented by98=3^28 mod113,
+fixes both closed points, for both ordinary orbits7 and28. Gonality>30
+forces hD=D. An involution permuting an irreducible odd-degree divisor
+must fix each point, since all its orbit lengths are equal. A nontrivial
+diamond involution can fix a characteristic-zero noncuspidal point only
+at j=1728, with the p-line preserved by the order4 automorphism. The
+same conjugation argument forces Q(i) into the degree15 field, impossible.
+
+These arguments and Section6 cover all supersingular and nonrational
+cusp configurations at levels other than61.
+
+8. EXCLUDING61 BY THE GENUS-8 QUOTIENT
+
+The rational-cusp cases and all149 single ordinary source orbits at61
+pass. All16 degree7+7 pair configurations with a rational cusp and all90
+degree7+8 configurations also pass. The only remaining reduction for
+an irreducible degree15 divisor D on X=X_1(61) is the unique
+supersingular closed point P15 of degree15, whose closed diamond orbit
+has size1. This section excludes that reduction.
+
+Write delta_a for (E,P) -> (E,aP), and put
+ Delta=(Z/61Z)^*/{+1,-1},
+ H5=<delta_3>=<delta_2^6>, H15=<delta_4>,
+ Y=X/H5, Z=X/H15, C=X_0(61).
+The successive degrees in X -> Y -> Z -> C are5,3,2. Their genera are
+respectively126,26,8,4. Let s be the involution of Z induced by delta_2.
+Thus Z/<s>=C. All curves, maps and diamond actions are defined over Q.
+The new scripts and logs are in work/degree15/quotient61; a separate
+proof with replay instructions is provided there in PROOF61.txt.
+
+8.1. EXACT JACOBIAN AND REDUCTION CERTIFICATES
+
+The following properties are verified by the supplied calculations:
+ (i)  (delta_3-1)J_X(Q) is finite;
+ (ii) (s-1)J_Z(Q) is finite;
+ (iii) J_X(Q)[2]=0;
+ (iv) delta_2 and delta_3 fix P15 as a closed divisor.
+
+For (i) and (ii), finite_diamonds.m works in the sign+ cuspidal modular
+symbol spaces of dimensions126 and8. In projected period coordinates,
+the Hecke action is the transpose of DualHeckeOperator. The script
+checks compatibility with the ambient Hecke action through the exact
+projection matrix; it does not identify matrices in different bases.
+It recovers D2=(T2^2-T4)/2 and uses the projected winding vector e.
+The rows e*T2^k, 0<=k<g, span spaces of dimensions123 and7. The images
+of D2^6-1 and D2-1, respectively of dimensions100 and4, lie in these
+winding spaces. This is checked by rational matrix ranks. The winding
+rank-zero theorem therefore gives (i) and (ii). Inverting the diamond
+convention changes neither the relevant kernels nor their images.
+
+For (iii), two61_data.m contains integral matrices on the actual
+sign0 Betti homology lattice of JOne(61), of rank252. For q=3,5,7,
+the matrices A_q=T_q-1-q*<q> annihilate rational2-torsion, by good
+reduction and Eichler--Shimura. Their common kernel modulo2 has
+dimension0. This calculation uses the actual Jacobian lattice, not a
+Jacobian that is merely isogenous to it. The generating script is
+work/audit11/rational_two.m; the original log is work/degree15/two61.log.
+
+For (iv), verify_reduction.m reconstructs the actual elliptic curve
+and61-point representing P15. Its Tate coordinates have degree15.
+On these coordinates delta_2, delta_3 and delta_4 act as Frobenius to
+the powers2,12 and4, respectively. In particular H15 acts transitively
+on the15 geometric points of P15, so P15 maps to a rational point on
+the special fibre of Z. The weaker assertion (iv) suffices below.
+
+All these computations are exact. verify_sage.py independently checks
+the exported rational inclusions, common mod2 kernel, genera and the
+quadric calculation used in Section8.3. independent_checks.json records
+PASS. This independent linear-algebra check is not a separate agent audit.
+
+The curve X has good reduction at2, and H5,H15 have odd order. Their
+tame quotients Y,Z therefore have good reduction at2, with the quotient
+maps and diamond actions extending over Z_2. The map f:X -> Z has
+degree15. Since f_* f^*=[15], its pullback is injective on2-torsion.
+It follows from (iii) that J_Z(Q)[2]=0 as well.
+
+For an abelian scheme over Z_2, the torsion in the kernel of reduction
+on Q_2-points is killed by2: doubling carries this kernel into the
+modulo4 formal subgroup, on which the formal logarithm is injective.
+Consequently rational torsion reduction is injective on both J_X and
+J_Z. No assertion of injectivity on all rational points is needed.
+
+8.2. DESCENT TO AN IRREDUCIBLE CUBIC DIVISOR ON Z
+
+Suppose such a D exists. Choose a rational cusp c on X, and put
+ h=delta_3. Then
+ [hD-D]=(h-1)[D-15c]+15[hc-c]
+is rational torsion, by (i) and Manin--Drinfeld. It reduces to zero,
+by (iv). Hence [hD-D]=0. A nonzero principal divisor hD-D would give
+a rational function over Q of degree at most15. This is impossible,
+since gon_Q(X)>=325*(61^2-1)/65536>15. Thus hD=D as divisors.
+
+The order5 group H5 acts freely on characteristic-zero noncuspidal
+points of X: a diamond stabilizer there can only have order dividing
+2 or3, from the extra elliptic automorphisms. Therefore D is the
+pullback of an irreducible cubic divisor D_Y on Y. Its image D_Z on Z
+has degree1 or3. Degree1 would give a rational noncuspidal point on
+X_0(61), forbidden by Mazur's rational prime-isogeny theorem. Thus
+D_Z is irreducible of degree3, and f_*D=5D_Z.
+
+Reduction commutes with f and the diamonds. Since delta_2 fixes P15,
+we obtain 5*(s red(D_Z)-red(D_Z))=0 in the divisor group of the special
+fibre of Z. That group is torsion-free, so red(D_Z) is s-invariant.
+(The transitive H15 action above also gives red(D_Z)=3S for one
+rational point S.) Choose a rational cusp c_Z of Z. Then
+ [sD_Z-D_Z]=(s-1)[D_Z-3c_Z]+3[sc_Z-c_Z]
+is rational torsion by (ii) and Manin--Drinfeld on the quotient.
+It reduces to zero, hence [sD_Z-D_Z]=0 by injectivity of torsion
+reduction on J_Z.
+
+8.3. THE RATIONAL GONALITY OF Z IS AT LEAST4
+
+First C=X_0(61) has no Q-map to P^1 of degree at most3. An exact
+smooth canonical model, returned by Magma's SmallModularCurve(61),
+is a complete intersection of degrees2 and3 in P^3. Its quadric is
+ Q=x2^2-x1*x3+x1*x4+x3*x4.
+Its symmetric Gram matrix has rank4 and determinant -1/4. Adjunction
+identifies O(1) with the canonical sheaf, so C is nonhyperelliptic.
+A rational degree3 pencil would give a rational ruling of this quadric:
+the canonical spans of the general fibres are lines contained in Q.
+But the nonsquare discriminant means the two rulings are exchanged
+over Q(i), and neither is defined over Q. This excludes a Q-map of
+degree3. Genus4 excludes degree1. This also agrees with the published
+classification: Hasegawa--Shimura, Trigonal modular curves, and
+Jeon, Modular curves with infinitely many cubic points, Theorem2.3.
+The latter is available at https://doi.org/10.1016/j.jnt.2020.09.006 .
+Here rational gonality is essential; C is trigonal over Q(i).
+
+Suppose Z had a Q-map u:Z -> P^1 of degree d=2 or3. Since g(Z)=8
+exceeds (d-1)^2, its degree-d pencil is unique, by the
+Castelnuovo--Severi inequality. For these prime degrees, two distinct
+pencils give a birational map to a bidegree(d,d) curve in P^1 x P^1,
+which would have genus at most(d-1)^2.
+
+Thus u s=alpha u for alpha in PGL_2(Q), with alpha^2=1. If alpha=1,
+u factors through C. This is impossible for d=3 by parity, and for
+d=2 because it would give a degree1 map C -> P^1. If alpha is a
+nontrivial involution, pass to quotients to obtain a Q-map
+C -> P^1/<alpha> of degree d. The quotient of P^1 is rational over Q
+(for example by Luroth's theorem), so this contradicts the preceding
+paragraph. Degree1 is excluded by genus. Therefore gon_Q(Z)>=4.
+
+8.4. THE CONTRADICTION
+
+The principal divisor sD_Z-D_Z has positive part of degree at most3.
+The gonality bound from Section8.3 forces it to be zero. Thus sD_Z=D_Z.
+The three distinct geometric points of D_Z form one Galois orbit, and
+s commutes with Galois. All its orbits on those three points have the
+same length. Since the length divides2 and must divide3, it is1.
+All three points are fixed by s.
+
+Riemann--Hurwitz for the double cover Z -> C gives exactly
+       (2*g(Z)-2)-2*(2*g(C)-2)=14-12=2
+geometric fixed points of s in characteristic zero. Three fixed points
+are impossible. This excludes the last reduction at61 and proves
+61 is not in S(15).
+
+9. CHECKING AND SCOPE
+
+verify_auxiliary.py independently checks the156 dyadic matrices, all17
+formal-immersion levels and relation bases, the20 known41 cotangent
+matrices, the gonality53 matrix, the actual rational2-torsion upper
+bounds, and the16 finite-image inclusions. verify_ranks.py independently
+checks2578 principal-divisor obstruction matrices. verify_coverage.py
+checks all prime and local-case ledgers, including the new exclusion
+of61. quotient61/verify_sage.py independently checks the two new
+finite-image inclusions, the rational2-torsion bound, the four genera,
+and the nonsquare canonical-quadric discriminant. The new Magma
+checks also verify the exact finite-field diamond actions.
+
+The final ledger has status PROVED_WITH_COMPUTER_ASSISTANCE. It
+accounts for all3551 primes through33131, with17 complete local
+exclusions and no unresolved primes. The lower and upper sets agree.
+
+No separate agent audit of this S(15) argument is claimed. The matrix
+checks described above were repeated with independent Sage arithmetic.
+The new quotient argument closes the previously identified gap at61.
+
+References supplied with the packet:
+DKSS, Torsion points on elliptic curves over number fields of small degree,
+arXiv:1707.00364, especially the rank-zero primes, rational-torsion
+annihilators, formal-immersion criterion and Hecke intersection formula.
+Derickx--Stoll, Prime order torsion on elliptic curves over number fields,
+Part I: Asymptotics, arXiv:2505.14109v1, Table2, Proposition4.1,
+Remark4.4, Corollary7.5 and the gonality bound.
+The prior dyadic theorem and van Hoeij's explicit occurrence data.
+
+Additional reference for Section8:
+Y. Hasegawa and M. Shimura, Trigonal modular curves, Acta Arithmetica88
+(1999); D. Jeon, Modular curves with infinitely many cubic points,
+Journal of Number Theory219 (2021),344-355, Theorem2.3,
+https://doi.org/10.1016/j.jnt.2020.09.006 .
+
+CORRECTION TO THE ORDINARY LEVEL97 CERTIFICATES (29 October 2026)
+
+The original code polynomial sigma^6-sigma^4-sigma^2+1 does not
+annihilate the strange order12 character. It has been replaced by
+sigma^12-1 and, on the three closed orbits of size24 in degrees10/14,
+(sigma-1)*Phi12(sigma). All ordinary level97 residue orbits through degree17 have
+been recomputed with the corrected map and independently checked in
+Sage. The relevant lower-degree matrices here are exact subsets of
+that universal certificate. The other level97 arguments are unchanged.
+See outputs/S97_correction.pdf and work/degree17/full97/sieve.json.

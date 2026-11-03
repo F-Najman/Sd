@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "N": 73,
+      "status": "PASS",
+      "degree": 22,
+      "rows_cap6": 88,
+      "rank_cap6": 50,
+      "kernel_dimension": 38,
+      "exceptional_counts": {
+        "7+7+rest8": 267410,
+        "8+7+rest7": 125840,
+        "8+8+rest6": 55055,
+        "9+7+rest6": 55055,
+        "9+8+rest5": 22022,
+        "9+9+rest4": 7865,
+        "10+7+rest5": 22022,
+        "10+8+rest4": 7865,
+        "10+9+rest3": 2420,
+        "10+10+rest2": 605,
+        "11+7+rest4": 7865,
+        "11+8+rest3": 2420,
+        "11+9+rest2": 605,
+        "11+10+rest1": 110,
+        "11+11+rest0": 11,
+        "12+7+rest3": 2420,
+        "12+8+rest2": 605,
+        "12+9+rest1": 110,
+        "12+10+rest0": 11,
+        "13+7+rest2": 605,
+        "13+8+rest1": 110,
+        "13+9+rest0": 11,
+        "14+7+rest1": 110,
+        "14+8+rest0": 11,
+        "15+7+rest0": 11
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 19172639,
+      "detail": "19168271\nprefix=17 count=19171274\nprefix=18 count=19172275\nprefix=19 count=19172561\nprefix=20 count=19172627\nprefix=21 count=19172638\nprefix=22 count=19172639\nDECIC_PREFIX_CHECK level=73 degree=22 rank=50 checked=19172639 status=PASS seconds=2.08406\n"
+    }
+  ]
+}

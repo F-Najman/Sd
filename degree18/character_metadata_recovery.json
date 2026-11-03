@@ -1,0 +1,166 @@
+{
+  "status": "PASS",
+  "recovered": 16,
+  "records": [
+    {
+      "p": 130981,
+      "order": 177,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "c81262157d62fa6eddae75ec3661377bd404178d24909e6ed88104fd625c584f"
+    },
+    {
+      "p": 130981,
+      "order": 295,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "4d67fc477b2cb44e80ebfc32e6fbe1c1990e1eccd00676c1644ad41db9749233"
+    },
+    {
+      "p": 130981,
+      "order": 354,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "196f0e5a993dcebe4af8fd025d44edbab0a752055597a05ed1636ca6e9d496d4"
+    },
+    {
+      "p": 130981,
+      "order": 590,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "0a561cf5b505435cf0b8ff117304fe665c5c1f2e87280bed6b78806ac909fc62"
+    },
+    {
+      "p": 130981,
+      "order": 885,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "9053b6d85710fdb7c60251ff6be94aab12f86d87f4bdcfae29ccc5b41bc688eb"
+    },
+    {
+      "p": 130981,
+      "order": 1770,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "7bc16c6d2a1942768e6cc9a4e5fed25cb5bc7bd5c6f94625da494ddabc534853"
+    },
+    {
+      "p": 130981,
+      "order": 2183,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "a47b4f74b2ecbc7f45b4ec13b7cab7182b94855abdf07738bb287234d5208aa8"
+    },
+    {
+      "p": 130981,
+      "order": 4366,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "952132a4d844703b98ed75f364ed291000cf9be3e778bdb602bde5af2d33be0d"
+    },
+    {
+      "p": 130981,
+      "order": 6549,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "404b895bd6d8d36c6b48f63216d988cf636d0a62a401e65d82e19782eb1176dc"
+    },
+    {
+      "p": 130981,
+      "order": 10915,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "0e52a0d6aa43c6a6b1fbbdeba40b00ac8deaee5ba459c80347b23f59ff76fd49"
+    },
+    {
+      "p": 130981,
+      "order": 13098,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "1cbecf8152f2eddfb7119fa4b5347489d04a91ea982d0c511b28fba5ef004fdd"
+    },
+    {
+      "p": 130981,
+      "order": 21830,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "cbb5364dff3d56c4bb50caf2c369751a46d930e3c60ce33c9f5aa21e1fa5a983"
+    },
+    {
+      "p": 130981,
+      "order": 32745,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "cfe64c3da9118bd539e2014f575f4422aa5a9c6d6a9043b1de06c65004dd15c7"
+    },
+    {
+      "p": 130981,
+      "order": 65490,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "ec7f4f9df5ccc2a1c1ea3dc6f325f43d0462cc82b7b0f888d942db52cc4031cd"
+    },
+    {
+      "p": 130987,
+      "order": 21831,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "e88587d386650b403b0a57eaca8877a96b50e352bc0b29ff8aaa3c6938af7d86"
+    },
+    {
+      "p": 130987,
+      "order": 65493,
+      "status": "PASS",
+      "exit_code": null,
+      "exit_code_observed": false,
+      "bookkeeping_reconstructed_from_completed_log": true,
+      "reason": "The external resource handoff interrupted the launcher after the completed exact character assertion; the original successful calculation log is retained.",
+      "log_sha256": "9ad5a51df4f39ae3fda992fc2ebc54eb6e313c91cecd5b21bc0173dda178695f"
+    }
+  ]
+}

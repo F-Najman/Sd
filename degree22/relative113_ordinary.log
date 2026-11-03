@@ -1,0 +1,11 @@
+Loading "work/degree22/full113/units_data.m"
+Loading "work/degree22/sources113.m"
+S22_RELATIVE_SS_CANONICAL p=113 degree=8 relation_rank=476 expected=476 elapsed=1.310
+S22_RELATIVE_SS_RANK p=113 translate=0 rank=7
+S22_RELATIVE_SS_RANK p=113 translate=1 rank=7
+S22_RELATIVE_SS_RANK p=113 translate=2 rank=7
+S22_RELATIVE_SS_RANK p=113 translate=3 rank=7
+S22_RELATIVE_SS_RANK p=113 translate=4 rank=7
+S22_RELATIVE_SS_RANK p=113 translate=5 rank=7
+S22_RELATIVE_SS_RANK p=113 translate=6 rank=7
+S22_RELATIVE_SS_COTANGENT_EXPORT_COMPLETE p=113 operators=2 elapsed=68.140

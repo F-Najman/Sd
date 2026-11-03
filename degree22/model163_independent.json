@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "N": 163,
+  "genus": 1027,
+  "degree": 22,
+  "rational_cusp_valuations": 81,
+  "nonrational_cusp_geometric_values": 162,
+  "pole_bounds": [
+    348,
+    364
+  ],
+  "all_unit_relations_rebuilt": true,
+  "diamond_Tate_action_rebuilt": true,
+  "cusp_profiles_independently_replayed": 241,
+  "minimum_known_fiber_degree": 27,
+  "model_sha256": "5bc483afab75728afcf9b6938318f08ec5e9cd4621a9a609088e3aabecd144eb"
+}

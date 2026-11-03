@@ -1,0 +1,11 @@
+Loading "work/degree20/full101/units_data.m"
+Loading "work/degree20/sources101.m"
+Loading "work/degree20/sharp_cotangent.m"
+Loading "work/degree20/strange_eigenvalues_data.m"
+S20_SHARP_OPERATOR p=101 n=2 q=3 rank=362
+S20_SHARP_OPERATOR p=101 n=2 q=5 rank=355
+S20_SHARP_OPERATOR p=101 n=3 q=3 rank=363
+S20_SHARP_OPERATOR p=101 n=3 q=5 rank=356
+S20_SHARP_OPERATOR p=101 n=5 q=3 rank=363
+S20_SHARP_OPERATOR p=101 n=5 q=5 rank=356
+S20_SHARP_COTANGENT_EXPORT_COMPLETE 101 1.000

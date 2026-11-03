@@ -1,0 +1,9 @@
+S13_OCCURRENCE_VERIFIED prime=11 exact_field_degree=13 exact_point_order=true
+S13_OCCURRENCE_VERIFIED prime=13 exact_field_degree=13 exact_point_order=true
+S13_OCCURRENCE_VERIFIED prime=17 exact_field_degree=13 exact_point_order=true
+S13_OCCURRENCE_VERIFIED prime=19 exact_field_degree=13 exact_point_order=true
+S13_OCCURRENCE_VERIFIED prime=23 exact_field_degree=13 exact_point_order=true
+S13_OCCURRENCE_VERIFIED prime=29 exact_field_degree=13 exact_point_order=true
+S13_OCCURRENCE_VERIFIED prime=31 exact_field_degree=13 exact_point_order=true
+S13_OCCURRENCE_VERIFIED prime=37 exact_field_degree=13 exact_point_order=true
+S13_ALL_EXPLICIT_OCCURRENCES_COMPLETE

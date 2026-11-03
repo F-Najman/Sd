@@ -1,0 +1,206 @@
+TORSION PRIMES IN DEGREE 10 -- AUDITED VERSION
+28 October 2026
+
+Result:
+
+    S(10) = {2,3,5,7,11,13,17,19,23,29,31,37} = Primes(37).
+
+Here S(10) means degree exactly 10, with arbitrary elliptic curves over the
+number field. It does not restrict the elliptic curve to being defined over Q.
+
+This version uses the fresh full-curve certificates in work/audit11.
+The earlier nonic and decic local exclusion results are not hypotheses.
+The detailed construction and independent verification of those certificates
+are in S11_proof_audited.pdf. The present note checks their applicability
+to degree 10, together with its separate prime bound and occurrences.
+No asymptotic conjecture in Derickx--Stoll is assumed.
+
+1. Occurrence
+
+S(5)=Primes(19), so quadratic base extension gives every prime at most 19.
+Fresh Magma calculations verify degree-exactly-10 examples for 23,29,31,37.
+The order-37 point is an entry in the local LowDegreePlaces table that was
+missed in the initial investigation. In particular S(10)=Primes(31) is false.
+
+Here is a uniform description of the examples for 29,31,37. Let a be a root
+of f, x=a, y=g(a), and set
+
+    r=(x^2*y-x*y+y-1)/(x^2*y-x), s=(x*y-y+1)/(x*y),
+    b=r*s*(r-1), c=s*(r-1).
+
+Then P=(0,0) on
+
+    E: Y^2+(1-c)XY-bY = X^3-bX^2
+
+has the asserted prime order. Irreducibility of f and the identity pP=O
+were checked exactly, as were nonsingularity and P!=O.
+
+p=29:
+    f=t^10-3t^9+8t^7-5t^6-6t^5+5t^4-2t^2+1,
+    g=(2t^9+t^8-11t^7-8t^6+49t^5-77t^3+35t^2+46t-13)/29.
+p=31:
+    f=t^10-4t^9+3t^8+6t^7-2t^6-8t^5-8t^4+11t^3+6t^2-5t+1,
+    g=(109t^9-266t^8-207t^7+801t^6+606t^5-304t^4
+       -1470t^3-410t^2+1000t+71)/215.
+    Here j(E)=0.
+p=37:
+    f=t^10-5t^8+3t^7+10t^6-8t^5-7t^4+9t^3-3t+1,
+    g=2t^9+t^8-10t^7+t^6+23t^5-6t^4-22t^3+11t^2+9t-5.
+    Here j(E) has degree 10.
+
+For 23, take a root a of the irreducible polynomial
+    f=t^10-3t^9+(3/4)t^8+(7/2)t^7+(13/8)t^6-(17/2)t^5
+      +(87/16)t^4-(7/8)t^3+(5/32)t^2-(3/16)t+1/32.
+The curve with Weierstrass invariants [A,B,B,0,0], where
+    A=-8a^3+24a^2-22a+7,
+    B=32a^5-144a^4+240a^3-180a^2+58a-6,
+has (0,0) of order 23. This comes from specializing the degree-10 function
+1/(x*y) on the local model of X_1(23) to 2.
+
+2. A finite upper bound: no prime greater than 101
+
+Use Derickx--Stoll, arXiv:2505.14109v1, Theorem 3.3, Proposition 4.1,
+Remark 4.4, Proposition 5.2 and Corollary 7.5.
+
+Oesterle gives p<=(3^5+1)^2=59536. For p>19 any modular point arising in
+degree 10 has exact degree 10: a smaller residue degree must divide 10,
+and S(1), S(2), S(5) contain no p>19.
+
+For every prime 131<=p<=59536, Corollary 7.5 applies beyond its small-prime
+alternative because p^2>(2^19/325)*10+1. Its two exceptional CM possibilities
+would give p=21 or p=31. Otherwise it requires
+
+    (p-1)/(2*str(p)) | 10,
+
+where str(p) is the lcm of the orders of strange characters and is 1 if
+there are none. The complete strange-character table makes this condition
+false for all 5987 primes in the indicated range. The script verify_bound.py
+checks the arithmetic against the saved table.
+
+The remaining primes above 101 are 103,107,109,113,127. They are not strange,
+and 325*(p^2-1)/65536>50. Proposition 4.1 with a=2, ell=2, n=5 therefore makes
+the trace divisor invariant under <2>. Its orders in Delta(p) are respectively
+51,53,18,14,7. The possible geometric orbit lengths (including elliptic-point
+ramification by 2 or 3) never divide 10. An irreducible degree-10 point is
+therefore impossible. Remark 4.4 supplies the rational 2-torsion hypothesis.
+
+3. FRESH LOCAL CERTIFICATES IN DEGREE 10
+
+For p>37, a point arising over a degree-10 field has residue degree exactly
+10: smaller residue degrees divide 10 and are excluded by the known S(1),
+S(2),S(5). Let D be its irreducible trace divisor of degree 10.
+
+The audit for S(11) recomputed the complete finite-field census through
+degree 11 and Hecke obstructions on the FULL modular curves for every
+prime 37<=p<=103. These calculations, rather than the conclusion about
+S(11), apply here. Their dependence on the total degree is checked below.
+
+3a. Rational-cusp reductions
+
+The fresh degree-11 endomorphism certificates give the degree-10 formal
+immersion criterion as well. Normalize a degree-10 cusp multiplicity
+tuple so that its first entry is maximal, and add one to that entry.
+This is a degree-11 tuple included in the exhaustive successful check.
+The original ten Hecke operators are a subset of the eleven independent
+operators in that check, so they are independent. The endomorphisms used
+annihilate the rational Jacobian group independently of the degree.
+Thus the same formal immersion argument excludes every reduction of D
+supported on rational cusps. This uses the new index-20 combined map
+at 41 and the other fresh maps specified in the S(11) audit.
+
+3b. Ordinary noncuspidal reductions
+
+At p>37 a degree-10 reduction has at most one ordinary noncuspidal closed
+point P. The minimum noncuspidal degree is at least 6 except at 41,
+where all degree-5 points are supersingular, there are no degree-6 or
+degree-7 points, and the minimum ordinary degree is 8. Its complementary cusps
+are rational. The fresh ordinary orbit counts through degree 10 are:
+
+ p       41 43 47 53 59 61 67 71 73 79 83 89 97 101
+ orbits  13 11  5  8  8  7  8  7  4  2  9  5  4   5
+
+All 96 orbits have non-principal alpha*A_3*P, certified by exact
+canonical-ring multiplication and independently checked full matrix
+ranks. The endomorphisms alpha are listed in Section 5 of the S(11)
+proof, including the stronger operators used at 97 and 101.
+
+The obstruction applies to D of degree 10 without alteration. The class
+alpha[D-10c] is rational torsion; A_3 kills it, and A_3 kills the rational
+cusp complement. Therefore alpha*A_3*P would be principal. Its verified
+non-principality is a contradiction. The finite-image assertion for alpha,
+the target trace multiplicities, and the divisor obstruction do not use
+that the total degree is 11. In particular the former quotient-lifting
+issues at 97 and 101 are absent from this proof.
+
+3c. Supersingular noncuspidal reductions
+
+The fresh census leaves three supersingular orbit types for p>37.
+At 41, degree 5, the native A_3 non-principality checks exclude a single
+closed point and every unordered pair, including repetition. These are
+the only possible multiple-noncuspidal-point reductions in degree 10.
+At 43, degree 7, the native alpha*A_3 check excludes the entire diamond
+orbit. Both calculations remain obstructions after adding rational cusps.
+
+At 73, the supersingular points have degree 6 and are fixed as closed
+points by h=<2>, of order 9. Let C be the rational lift of the complementary
+cusp divisor, now of degree 4. The degree-zero class y=[h(D-C)-(D-C)] is rational torsion
+and reduces to zero. Hence 2y=0. The fresh exact JOne homology certificate
+shows that h acts trivially on rational 2-torsion, so the norm relation
+also gives 9y=0 and y=0. The gonality bound is greater than 26>10+4.
+It follows that hD+C=D+hC, hence hC=C. The free order-9 action on rational
+cusps would require 9|4, a contradiction.
+
+Here is the torsion justification when Z=D-C does not have degree zero.
+If h has order m, put N_h Z=sum_(i=0)^(m-1) h^i Z. The divisor mZ-N_h Z
+has degree zero, and m[hZ-Z]=(h-1)[mZ-N_h Z]. Finiteness of (h-1)J(Q)
+therefore makes m[hZ-Z], and hence [hZ-Z] itself, torsion. This is the
+precise degree-zero interpretation used in all these stabilizer arguments.
+
+3d. Nonrational cusp reductions
+
+Only p=41,43,73 have nonrational closed cusps of degree at most 10.
+At 41, either degree-10 cusp has non-principal A_3 image by the fresh
+native computation. Since J_1(41)(Q) is finite, this is impossible for D.
+
+At 43, a degree-7 cusp has a rational-cusp complement C of degree 3.
+The diamond h=<2>, of order 7, fixes that closed cusp. The fresh integral
+homology certificate shows trivial h-action on rational 2-torsion. As
+above, y=[h(D-C)-(D-C)] is killed by 2 and by the odd norm 7, so y=0.
+The NEW proved bound gon_Q X_1(43)>=16 is greater than 10+3=13. Thus
+hD+C=D+hC, which would require 7|3. This supplies the gonality bound
+needed here without assuming the stronger website bound quoted in the
+earlier writeup.
+
+At 73, the nonrational cusps have degree 9, with rational complement C
+of degree 1. The order-9 diamond h=<2> fixes the closed cusp; its action
+on rational 2-torsion is trivial. The norm and gonality arguments would
+require 9|1. There are no other cuspidal cases.
+
+These cases are exhaustive, so every prime p>37 is excluded. Together
+with the separate prime bound and occurrence checks in Sections 1 and 2,
+this proves S(10)=Primes(37).
+
+4. AUDIT STATUS AND REPRODUCTION
+
+The global bound and the degree-10 occurrences for 23,29,31,37 were rerun
+when preparing this version. Occurrence through 19 uses the published
+S(5) theorem and quadratic extension. The raw local certificates are the
+fresh computations described in S11_proof_audited.pdf, with the degree-10
+transfer established in Section 3 above. This proof does not assume the
+old quotient, lifting or nonic exclusion certificates.
+
+The case ledger and its closure checker are:
+  work/audit10/final_result.json
+  work/audit10/certify_audit10.py
+
+The complete local certificate archive is S11_audited_certificates.zip.
+The mathematical references are those listed in the S(11) proof, together
+with the published S(5) classification. The separate S(10) bound needs
+only the published strange-character table below 100000, since Oesterle's
+degree-10 cap is 59536.
+
+Both proofs are computer-assisted arguments checked in this workspace.
+A subsequent independent AI-agent review checked their mathematics and
+certificates and found no blocking gap. This is not external human peer
+review or formal verification in a proof assistant. The review report and
+the recorded checks specify the basis for these conclusions.

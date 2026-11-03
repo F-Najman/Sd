@@ -1,0 +1,82 @@
+[
+  {
+    "N": 37,
+    "status": "PASS",
+    "elapsed": 2.7565768379718065
+  },
+  {
+    "N": 41,
+    "status": "PASS",
+    "elapsed": 3.6554052450228482
+  },
+  {
+    "N": 43,
+    "status": "PASS",
+    "elapsed": 4.358125166967511
+  },
+  {
+    "N": 47,
+    "status": "PASS",
+    "elapsed": 5.81349256192334
+  },
+  {
+    "N": 53,
+    "status": "PASS",
+    "elapsed": 2.471112353960052
+  },
+  {
+    "N": 59,
+    "status": "PASS",
+    "elapsed": 3.552437052130699
+  },
+  {
+    "N": 61,
+    "status": "PASS",
+    "elapsed": 3.5927520780824125
+  },
+  {
+    "N": 67,
+    "status": "PASS",
+    "elapsed": 8.75794885889627
+  },
+  {
+    "N": 71,
+    "status": "PASS",
+    "elapsed": 8.276174420956522
+  },
+  {
+    "N": 73,
+    "status": "PASS",
+    "elapsed": 5.705292130121961
+  },
+  {
+    "N": 79,
+    "status": "PASS",
+    "elapsed": 7.573657809989527
+  },
+  {
+    "N": 83,
+    "status": "PASS",
+    "elapsed": 14.34133687405847
+  },
+  {
+    "N": 89,
+    "status": "PASS",
+    "elapsed": 18.719779202947393
+  },
+  {
+    "N": 97,
+    "status": "PASS",
+    "elapsed": 27.4932515330147
+  },
+  {
+    "N": 101,
+    "status": "PASS",
+    "elapsed": 35.20969780604355
+  },
+  {
+    "N": 103,
+    "status": "PASS",
+    "elapsed": 43.320648059016094
+  }
+]

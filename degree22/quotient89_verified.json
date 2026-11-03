@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "degree": 22,
+  "quotient": "X1(89)/H11",
+  "genus": 27,
+  "nonhyperelliptic_canonical_product_rank": 78,
+  "F2_to_F16_point_counts": [
+    8,
+    38,
+    8,
+    38
+  ],
+  "complete_points_degree_at_most4": {
+    "rational_cusps": 8,
+    "supersingular_degree2": 15,
+    "other": 0
+  },
+  "effective_divisors_degree4_checked": 990,
+  "gonality_F2_lower_bound": 5,
+  "gonality_Q_lower_bound": 5,
+  "absolute_formal_immersion_cusp_pairs": 36,
+  "matrix_archive_sha256": "ae07222d97cdfe145ccd00fe111de91c12d78ec29278c0020dfc778e9fda6a03"
+}

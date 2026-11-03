@@ -1,0 +1,134 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "N": 37,
+      "index": 18,
+      "checked": 1921834,
+      "independent_expected": 1921834,
+      "status": "PASS",
+      "elapsed": 1.129775804001838
+    },
+    {
+      "N": 41,
+      "index": 20,
+      "checked": 4525972,
+      "independent_expected": 4525972,
+      "status": "PASS",
+      "elapsed": 2.2801468251273036
+    },
+    {
+      "N": 43,
+      "index": 21,
+      "checked": 6768091,
+      "independent_expected": 6768091,
+      "status": "PASS",
+      "elapsed": 2.520342482952401
+    },
+    {
+      "N": 47,
+      "index": 23,
+      "checked": 14476848,
+      "independent_expected": 14476848,
+      "status": "PASS",
+      "elapsed": 2.913803142029792
+    },
+    {
+      "N": 53,
+      "index": 13,
+      "checked": 152026,
+      "independent_expected": 152026,
+      "status": "PASS",
+      "elapsed": 0.8156979740597308
+    },
+    {
+      "N": 59,
+      "index": 29,
+      "checked": 107154192,
+      "independent_expected": 107154192,
+      "status": "PASS",
+      "elapsed": 10.674502863781527
+    },
+    {
+      "N": 61,
+      "index": 15,
+      "checked": 454226,
+      "independent_expected": 454226,
+      "status": "PASS",
+      "elapsed": 4.1245996709913015
+    },
+    {
+      "N": 67,
+      "index": 11,
+      "checked": 44444,
+      "independent_expected": 44444,
+      "status": "PASS",
+      "elapsed": 1.7092068369966
+    },
+    {
+      "N": 71,
+      "index": 5,
+      "checked": 317,
+      "independent_expected": 317,
+      "status": "PASS",
+      "elapsed": 0.4758808540645987
+    },
+    {
+      "N": 73,
+      "index": 6,
+      "checked": 872,
+      "independent_expected": 872,
+      "status": "PASS",
+      "elapsed": 0.6038515178952366
+    },
+    {
+      "N": 79,
+      "index": 13,
+      "checked": 152026,
+      "independent_expected": 152026,
+      "status": "PASS",
+      "elapsed": 2.1715491511859
+    },
+    {
+      "N": 83,
+      "index": 41,
+      "checked": 2580289822,
+      "independent_expected": 2580289822,
+      "status": "PASS",
+      "elapsed": 223.34296784806065
+    },
+    {
+      "N": 89,
+      "index": 4,
+      "checked": 102,
+      "independent_expected": 102,
+      "status": "PASS",
+      "elapsed": 0.587478012079373
+    },
+    {
+      "N": 97,
+      "index": 4,
+      "checked": 102,
+      "independent_expected": 102,
+      "status": "PASS",
+      "elapsed": 0.6018527899868786
+    },
+    {
+      "N": 101,
+      "index": 5,
+      "checked": 317,
+      "independent_expected": 317,
+      "status": "PASS",
+      "elapsed": 0.8193292869254947
+    },
+    {
+      "N": 103,
+      "index": 17,
+      "checked": 1216031,
+      "independent_expected": 1216031,
+      "status": "PASS",
+      "elapsed": 14.633771288907155
+    }
+  ],
+  "total_checked": 2717157222
+}

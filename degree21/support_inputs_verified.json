@@ -1,0 +1,121 @@
+{
+  "status": "PASS",
+  "source_matches": 19,
+  "pair_and_triple_cases": [
+    {
+      "p": 53,
+      "pair_orbits": 1664,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 59,
+      "pair_orbits": 3973,
+      "triple_orbits": 1180,
+      "triple_count_independent_Burnside": true
+    },
+    {
+      "p": 61,
+      "pair_orbits": 5102,
+      "triple_orbits": 166,
+      "triple_count_independent_Burnside": true
+    },
+    {
+      "p": 67,
+      "pair_orbits": 3289,
+      "triple_orbits": 199,
+      "triple_count_independent_Burnside": true
+    },
+    {
+      "p": 71,
+      "pair_orbits": 3215,
+      "triple_orbits": 334,
+      "triple_count_independent_Burnside": true
+    },
+    {
+      "p": 73,
+      "pair_orbits": 1260,
+      "triple_orbits": 235,
+      "triple_count_independent_Burnside": true
+    },
+    {
+      "p": 79,
+      "pair_orbits": 390,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 83,
+      "pair_orbits": 3075,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 89,
+      "pair_orbits": 968,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 97,
+      "pair_orbits": 144,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 101,
+      "pair_orbits": 675,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 103,
+      "pair_orbits": 1224,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 109,
+      "pair_orbits": 0,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 113,
+      "pair_orbits": 700,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 127,
+      "pair_orbits": 1540,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 131,
+      "pair_orbits": 2340,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 137,
+      "pair_orbits": 2992,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    },
+    {
+      "p": 139,
+      "pair_orbits": 966,
+      "triple_orbits": 0,
+      "triple_count_independent_Burnside": false
+    }
+  ],
+  "mixed_new_levels": [
+    73,
+    89,
+    109,
+    113,
+    127
+  ]
+}

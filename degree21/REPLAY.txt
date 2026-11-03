@@ -1,0 +1,139 @@
+Degree21 replay instructions. Completed computer-assisted proof.
+Work from /home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a.
+Use Magma2.30-1, Sage, Python3, and the retained C++ sources and binaries.
+The degree20 packet and all earlier dependencies are read-only inputs.
+S21_result.json must not be created before all final coverage guards pass.
+
+1. Verify frozen inherited inputs:
+ python3 work/degree21/verify_inherited.py
+ sage work/degree21/verify_inherited_hypotheses.py
+
+2. Bound, counts, occurrences, and independent modular symbols:
+ sage work/degree21/verify_dyadic.py
+ magma -b work/degree21/bound_ss_certified.m
+ magma -b work/degree21/verify_occurrences.m
+ sage work/degree21/verify_census_counts.py
+ sage work/degree21/verify_frobenius127.py
+ sage work/degree21/verify_global_new.py
+The source census is in census_sources.m/log. Each full model is an exact
+copy of its pinned parent model. Source orbit matches are in matchN.m/log
+and inheritedN.m, and are checked by matches_verified.json and the support
+input verifier. The degree21 source enumeration includes all128 cyclic
+subgroups when full127-torsion is rational over F_(2^21).
+
+3. Native local records and obstruction matrices:
+ python3 work/degree21/run_new_ordinary_8.py
+ python3 work/degree21/pipeline_sieves_2.py
+ python3 work/degree21/setup_small.py
+ python3 work/degree21/run_small_sieves.py
+These commands reuse exact completed native chunks. Do not start a second
+launcher while its existing process holds the flock. Per-level stage2
+sources contain all precision and Hensel assertions. To reproduce one
+chunk use magma -b Start:=a End:=b work/degree21/fullN/stage2_chunk.m.
+Run full_sieve.py N, pair_sieve.py N, or mixed_new_sieve.py N as appropriate.
+All sieves use exact arithmetic and retain section and matrix witnesses.
+Native jobs may finish successfully while a mathematical exception remains;
+always inspect the JSON status and exceptions, not the process exit alone.
+
+4. New supersingular calculations:
+Native stage2_ss.m, stage2_ss5.m, stage2_ss7.m in the appropriate fullN
+folders produce the retained records in ssN, ss5_127, ss7_127.
+The T3 source20,21, T5 source22,25, T7 source24 certificates at127 are
+used. The unresolved source23 direct tests are unused experiments and
+are replaced by the quotient relative immersion below.
+ python3 work/degree21/ss_nc127_sieve.py 127
+ sage work/degree21/verify_ss_jets.py
+ sage work/degree21/verify_ss_jets_extra_T3.py
+ sage work/degree21/verify_ranks_fresh.py
+ sage work/degree21/verify_polynomial_encoding.py
+The independent supersingular replay uses a generic power-series
+implementation to avoid the installed Sage NTL power-series constructor
+issue on larger binary extension fields. The exact fields and moduli
+polynomials are unchanged. It reconstructs isogenies independently with
+Sage, including extension-field kernels, and compares joint Frobenius
+orbits using absolute binary coordinates (also for tower fields).
+
+5. Absolute and relative formal immersion certificates:
+ python3 work/degree21/check_relative_all.py
+ python3 work/degree21/check_relative73_multiple.py
+ python3 work/degree21/check_quotient127.py
+ sage work/degree21/check_relative127.py
+ sage work/degree21/verify_fi_matrices.py
+ sage work/degree21/verify_intrinsic.py
+ sage work/degree21/verify_intrinsic_extra.py
+ sage work/degree21/verify_intrinsic_multiple.py
+ sage work/degree21/verify_quotients.py
+ sage work/degree21/verify_profile_spaces.py
+ sage work/degree21/verify_profile_coverage.py
+ sage work/degree21/verify_profile_spaces_full_new.py
+ sage work/degree21/verify_intrinsic_full_new.py
+ sage work/degree21/verify_sharp61_finite.py
+ sage work/degree21/verify_stabilizer_geometry.py
+ sage work/degree21/verify_relative61_o20.py
+ sage work/degree21/verify_relative_cusps_intrinsic.py
+ python3 work/degree21/verify_support_inputs.py
+Native exports: relative53/61/61_ss20/73/73_nc/109/113_ordinary/127.m,
+relative73_multiple.m, quotient127_cusps5.m, quotient127_ss.m, the sharp97
+and101 sources, and full_cusps53/71/127.m. The earlier coarse FI71 and
+FI127 failures are deliberately not required. Full canonical replacements
+pass. Full canonical cusp maps replace native quotient tests at61,89,97.
+The basic full61 diamond map also falls short and is unused; full61
+sharper Hecke maps are used instead. Reproduce with run_sharp61.py.
+The native FI61 index15 and initial index5 remain unused experiments.
+For the active cap6 certificates use:
+ python3 work/degree21/check_fi.py 67 73
+
+6. Character certificates:
+ python3 work/degree21/run_characters_free8.py
+ sage work/degree21/check_sequences_fast.py
+ sage work/degree21/verify_large.py
+The job list is large_selected_orders.json (5289 required,2815 fresh,
+2474 reused). Do not duplicate a locked live batch. Raw graph and prepared
+archives, rank and graph verifications, native64 prefixes, scalar sequences,
+Pade polynomials, and actual source/binary hashes are retained per job.
+Free-coordinate jobs also retain lossless free-plan archives and independent
+full-plan checks. Both old raw/blocked and new free engines are supported
+by verify_large.py. Older jobs use native Berlekamp--Massey; newer ones
+use finish_fast (NTL half-gcd) and independent Sage/FLINT verification.
+No arithmetic engine should be replaced while its children are active.
+
+7. Exhaustive ledgers and final packaging:
+ sage work/degree21/verify_coverage.py --structural-only
+This produces only a plan, not a proved result. Only after every listed
+certificate has passed, use:
+ sage work/degree21/verify_coverage.py
+ python3 work/degree21/package_result.py
+ python3 work/degree21/build_manifest.py
+ python3 work/degree21/verify_manifest.py
+The final manifest must extend the full37906-file inherited manifest,
+include every critical fresh input, witness, source, binary, independent
+certificate, and proof output, and stream-verify every file.
+Resource allocation and progress files are volatile and are excluded.
+
+Optional rebuilding of C++ engines (use a separate output directory, and stop
+active workers before replacing any retained executable):
+ g++ -O3 -std=c++17 work/degree21/krylov_free.cpp -o /tmp/S21_krylov_free
+ g++ -O3 -std=c++17 work/degree21/krylov_blocked_v2.cpp -o /tmp/S21_krylov_blocked_v2
+ g++ -O3 -std=c++17 work/degree21/optimization/prepare_graph.cpp -o /tmp/S21_prepare_graph
+ g++ -O3 -std=c++17 -I/opt/sage/envs/sage/include work/degree21/finish_fast.cpp -L/opt/sage/envs/sage/lib -Wl,-rpath,/opt/sage/envs/sage/lib -lntl -lgmp -o /tmp/S21_finish_fast
+The retained executable hashes identify the actual engines used. A rebuilt
+engine can be checked on the retained full175000-term reference and fixtures.
+The independent polynomial encoding check tests every binary basis vector
+through precision3600 and schoolbook carryless products at every used precision.
+
+The internal rank watcher resumed completed checks using exact matrix-archive
+hashes; verify_ranks_fresh.py recomputes every rank without that cache.
+Worker handoffs drain active native and C++ children before restarting their
+launchers. Their checkpoints distinguish intentional launcher termination
+from arithmetic failures. All actual arithmetic source/binary hashes remain
+recorded per character job.
+
+The independent sequence watcher actually uses one worker. Its retained
+stdout has a stale parallel_workers4 label. Final packaging corrects only
+the aggregate workers field to1, preserving producer_reported_workers=4
+and an explicit note; every per-sequence mathematical record is unchanged.
+
+The manifest also freezes PROOF_DRAFT.txt, the exact input transformed by
+package_result.py into PROOF.txt after all guards pass, and the reused
+degree17 PDF formatter. The conditional source header is discarded by
+packaging; PROOF.txt and outputs/S21_proof.pdf are the final proof.

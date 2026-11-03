@@ -1,0 +1,77 @@
+{
+  "status": "PASS",
+  "independent_exact_number_field_ranks": [
+    {
+      "p": 97,
+      "character_order": 12,
+      "diamond": 5,
+      "hecke_prime": 2,
+      "dimension": 7,
+      "winding_rank": 6,
+      "status": "PASS"
+    },
+    {
+      "p": 97,
+      "character_order": 12,
+      "diamond": 5,
+      "hecke_prime": 3,
+      "dimension": 7,
+      "winding_rank": 6,
+      "status": "PASS"
+    },
+    {
+      "p": 97,
+      "character_order": 12,
+      "diamond": 5,
+      "hecke_prime": 5,
+      "dimension": 7,
+      "winding_rank": 6,
+      "status": "PASS"
+    },
+    {
+      "p": 97,
+      "character_order": 12,
+      "diamond": 5,
+      "hecke_prime": 7,
+      "dimension": 7,
+      "winding_rank": 6,
+      "status": "PASS"
+    },
+    {
+      "p": 101,
+      "character_order": 10,
+      "diamond": 2,
+      "hecke_prime": 2,
+      "dimension": 8,
+      "winding_rank": 7,
+      "status": "PASS"
+    },
+    {
+      "p": 101,
+      "character_order": 10,
+      "diamond": 2,
+      "hecke_prime": 3,
+      "dimension": 8,
+      "winding_rank": 7,
+      "status": "PASS"
+    },
+    {
+      "p": 101,
+      "character_order": 10,
+      "diamond": 2,
+      "hecke_prime": 5,
+      "dimension": 8,
+      "winding_rank": 7,
+      "status": "PASS"
+    },
+    {
+      "p": 101,
+      "character_order": 10,
+      "diamond": 2,
+      "hecke_prime": 7,
+      "dimension": 8,
+      "winding_rank": 7,
+      "status": "PASS"
+    }
+  ]
+}

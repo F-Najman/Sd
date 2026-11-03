@@ -1,0 +1,49 @@
+\section{Introduction}
+
+Let $K$ be a number field and $E/K$ an elliptic curve. By the Mordell-Weil theorem the torsion group $E(K)_\tor$ is finite, and Merel \cite{merel} proved that its order is bounded by a constant depending only on the degree $d=[K:\Q]$. A key step in all the proofs of such results is to bound the primes that divide $\#E(K)_\tor$. Following \cite{KamiennyMazur,DKSS} we denote by $S(d)$ the set of primes $p$ for which there exists an elliptic curve over a number field of degree $d$ with a point of order $p$, and by $\Primes(x)$ the set of primes $p\leq x$.
+
+Mazur \cite{mazur} proved that $S(1)=\Primes(7)$, Kamienny \cite{kamienny}, building on work of Kenku and Momose \cite{KM}, proved that $S(2)=\Primes(13)$, and Parent \cite{parent,parent2003} proved that $S(3)=\Primes(13)$. Derickx, Kamienny, Stein and Stoll \cite[Theorem 1.2]{DKSS} proved that
+$$S(4)=\Primes(17),\quad S(5)=\Primes(19),\quad S(6)=\Primes(19)\cup\{37\},\quad S(7)=\Primes(23),$$
+and Khawaja \cite{khawaja} proved that $S(8)=\Primes(23)$. An important ingredient of \cite{DKSS} is a bound of Oesterl\'e, which states that $p\leq(3^{d/2}+1)^2$ for all $p\in S(d)$ \cite[Theorem 6.1]{DKSS}. Derickx and Stoll \cite{DSt} studied the behavior of $S(d)$ as $d\to\infty$. Among other things they gave a criterion \cite[Corollary 7.5]{DSt}, in terms of the \textit{strange} characters modulo $p$, that rules out most primes below Oesterl\'e's bound, and they determined the strange characters modulo all primes $p<10^5$ \cite[Table 2]{DSt}. In an unpublished preprint \cite{DSt9} they also determine $S(9)$. The sets $S(d)$ are the starting point of the classifications of the possible torsion groups of elliptic curves over number fields of degree $d$, which are now known for $d\leq 9$ (see \cite{DEHMZ,DN,N5,N69} and the references therein).
+
+In this paper we determine $S(d)$ for $9\leq d\leq 22$. Our main result is the following theorem.
+
+\begin{theorem}\label{thm:main}
+We have
+\begin{align*}
+S(9)=S(11)&=\Primes(31),\\
+S(10)=S(13)=S(16)&=\Primes(37),\\
+S(12)=S(15)&=\Primes(37)\cup\{43\},\\
+S(14)=S(17)=S(18)=S(19)&=\Primes(43),\\
+S(20)&=\Primes(47)\cup\{61\},\\
+S(21)&=\Primes(47),\\
+S(22)&=\Primes(53)\cup\{67\}.
+\end{align*}
+\end{theorem}
+
+Together with the results mentioned above, this determines $S(d)$ for all $d\leq 22$. Note that $S(d')\subseteq S(d)$ if $d'$ divides $d$, but that $S(d)$ is not increasing in $d$: for example $37\in S(10)$, but $37\notin S(11)$, and $41,43\in S(14)$, but $41,43\notin S(16)$. The primes $31\in S(10)$, $29,43\in S(14)$, $41,61\in S(20)$ and $67\in S(22)$ are of the form $2d+1$ or $3d+1$, and such primes are always in $S(d)$ for even $d$, because of points with complex multiplication \cite[Corollary 7.5]{DSt}. Derickx and Stoll \cite[Corollary 7.8]{DSt} showed that, assuming a conjecture on the sparsity of strange characters, $S(d)$ is contained in $\Primes(d+1)\cup\{\tfrac32 d+1,2d+1,3d+1\}$ for $d$ large enough. Note that the degrees we consider are far from this range, as $S(22)$ contains all the primes up to $53$.
+
+We now describe the proof. For a point of order $p$ on an elliptic curve over a number field of degree $d$, we study the corresponding effective divisor $D$ of degree $d$ on the modular curve $X_1(p)$, and our methods depend on the size of $p$.
+
+For large $p$ we use Oesterl\'e's bound together with \cite[Corollary 7.5]{DSt}. Unfortunately, Oesterl\'e's bound exceeds $10^5$, the limit of \cite[Table 2]{DSt}, for $d\geq 11$, and it grows like $3^d$. For $d\geq 13$ we prove a version of Oesterl\'e's bound that uses reduction modulo $2$ instead of modulo $3$ (\Cref{prop:dyadic}), which gives bounds of size about $2^d$. The price we pay for using the prime $2$ is that we have to check that $2d$, instead of $d$, Hecke operators acting on the winding element are linearly independent modulo $2$. For $d\in\{11,12\}$ we use reduction modulo $3$, $5$ and $7$ instead. Above $10^5$ at most $1488$ primes remain in each degree, and for each of them we show that sufficiently many characters are not strange, by a computation with modular symbols over a finite field (\Cref{sec:large}).
+
+For medium-sized $p$ we use \cite[Proposition 4.1]{DSt}, which shows that $D$ is invariant under a diamond operator whenever the gonality of $X_1(p)$ is large compared to $d$ (\Cref{sec:medium}). For a few primes $p>157$ its hypothesis on rational $2$-torsion is not known, and we check it by showing that a Hecke operator restricts to an isogeny of odd degree on a suitable abelian subvariety of $J_1(p)$.
+
+The remaining primes, which satisfy $37\leq p\leq 163$, require most of the work (\Cref{sec:local,sec:exceptions}). We reduce $D$ modulo $2$ and enumerate all the possible reductions, using all the elliptic curves over $\F_{2^f}$ for $f\leq d$. Reductions supported on rational cusps are ruled out by the formal immersion criterion of \cite{DKSS}. For all other reductions we use the Hecke operator $A_3=T_3-1-3\dm 3$, composed with an element of the group ring of the diamond operators which kills the part of $J_1(p)$ of positive rank: if $D$ exists, a certain divisor of degree $0$ on $X_1(p)_{\F_2}$ has to be principal \cite[Lemma 8.6]{DKSS}. We show that it is not, by linear algebra in the canonical ring of $X_1(p)_{\F_2}$, which we compute from $q$-expansions. This argument rules out all but a short list of reductions. For these we show that $D$ is invariant under a diamond operator, which typically leads to a contradiction by counting, or we use a relative version of the formal immersion criterion, or the formal immersion criterion at the reductions of known points of smaller degree, or quotients of $X_1(p)$.
+
+Our methods are those of \cite{DKSS}, \cite{DSt} and \cite{khawaja}, applied to a much larger range of degrees. The main difference is the scale of the computations: for $d=22$ we have to deal with $155750$ primes, the local computations concern $514$ types of reductions at $18$ primes, and they consist of $134762$ new linear algebra certificates on the curves $X_1(p)_{\F_2}$, some of genus above $1000$. The certificates for $d=22$ alone occupy about $220$ GB.
+
+All the code used in the paper can be found at
+\begin{center}
+\url{https://github.com/F-Najman/Sd}
+\end{center}
+
+\subsection*{AI disclosure and comments}
+% TODO (author): the following follows the wording of the AI disclosure of the sextic paper; please adapt.
+AI models were extensively used in the work leading to this paper. % TODO (author): how the project started, in your own words.
+OpenAI's % TODO (author): name of the model used in the Codex sessions (21 October - 3 November 2026).
+model produced almost all of the mathematical content of the first versions of the proofs and carried out the computations. Anthropic's Claude Opus 5.5 reviewed these proofs, without rerunning the computations, wrote the draft of the present manuscript and organized the code repository.
+% TODO (author): sentence on your own review of the paper and responsibility for its content.
+
+\section*{Acknowledgements}
+% TODO (author)

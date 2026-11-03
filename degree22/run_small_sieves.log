@@ -1,0 +1,23 @@
+S22_SMALL_SIEVE_REUSED (59, 'pair')
+S22_SMALL_SIEVE_REUSED (61, 'pair')
+S22_SMALL_SIEVE_REUSED (71, 'pair')
+S22_SMALL_SIEVE_REUSED (73, 'pair')
+S22_SMALL_SIEVE_REUSED (79, 'pair')
+S22_SMALL_SIEVE_REUSED (83, 'pair')
+S22_SMALL_SIEVE_REUSED (89, 'pair')
+S22_SMALL_SIEVE_REUSED (101, 'pair')
+S22_SMALL_SIEVE_REUSED (103, 'pair')
+S22_SMALL_SIEVE (107, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (109, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (97, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (113, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (127, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (131, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (137, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (73, 'mixed_new') PASS exceptions []
+S22_SMALL_SIEVE (89, 'mixed_new') PASS exceptions []
+S22_SMALL_SIEVE (109, 'mixed_new') PASS exceptions []
+S22_SMALL_SIEVE (139, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (113, 'mixed_new') PASS exceptions []
+S22_SMALL_SIEVE (127, 'mixed_new') PASS exceptions []
+S22_SMALL_SIEVES_COMPLETE

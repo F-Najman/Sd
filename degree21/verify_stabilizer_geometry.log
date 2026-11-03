@@ -1,0 +1,20 @@
+S21_STABILIZER_GEOMETRY_PASS {'p': 53, 'degree': 13, 'ordinary': False, 'closed_diamond_orbit': 1, 'diamond': 10, 'diamond_order': 13, 'geometric_point_orbit': 13}
+S21_STABILIZER_GEOMETRY_PASS {'p': 61, 'degree': 15, 'ordinary': False, 'closed_diamond_orbit': 1, 'diamond': 3, 'diamond_order': 5, 'geometric_point_orbit': 5}
+S21_STABILIZER_GEOMETRY_PASS {'p': 61, 'degree': 20, 'ordinary': False, 'closed_diamond_orbit': 1, 'diamond': 3, 'diamond_order': 5, 'geometric_point_orbit': 5}
+S21_STABILIZER_GEOMETRY_PASS {'p': 73, 'degree': 6, 'ordinary': False, 'closed_diamond_orbit': 4, 'diamond': 2, 'diamond_order': 9, 'geometric_point_orbit': 3}
+S21_STABILIZER_GEOMETRY_PASS {'p': 73, 'degree': 18, 'ordinary': False, 'closed_diamond_orbit': 1, 'diamond': 2, 'diamond_order': 9, 'geometric_point_orbit': 9}
+S21_STABILIZER_GEOMETRY_PASS {'p': 73, 'degree': 18, 'ordinary': False, 'closed_diamond_orbit': 2, 'diamond': 2, 'diamond_order': 9, 'geometric_point_orbit': 9}
+S21_STABILIZER_GEOMETRY_PASS {'p': 73, 'degree': 18, 'ordinary': False, 'closed_diamond_orbit': 4, 'diamond': 2, 'diamond_order': 9, 'geometric_point_orbit': 9}
+S21_STABILIZER_GEOMETRY_PASS {'p': 97, 'degree': 16, 'ordinary': False, 'closed_diamond_orbit': 2, 'diamond': 36, 'diamond_order': 3, 'geometric_point_orbit': 1}
+S21_STABILIZER_GEOMETRY_PASS {'p': 109, 'degree': 9, 'ordinary': False, 'closed_diamond_orbit': 3, 'diamond': 93, 'diamond_order': 9, 'geometric_point_orbit': 9}
+S21_STABILIZER_GEOMETRY_PASS {'p': 109, 'degree': 9, 'ordinary': False, 'closed_diamond_orbit': 3, 'diamond': 23, 'diamond_order': 18, 'geometric_point_orbit': 9}
+S21_STABILIZER_GEOMETRY_PASS {'p': 109, 'degree': 12, 'ordinary': False, 'closed_diamond_orbit': 3, 'diamond': 23, 'diamond_order': 18, 'geometric_point_orbit': 6}
+S21_STABILIZER_GEOMETRY_PASS {'p': 113, 'degree': 8, 'ordinary': True, 'closed_diamond_orbit': 7, 'diamond': 40, 'diamond_order': 8, 'geometric_point_orbit': 8}
+S21_STABILIZER_GEOMETRY_PASS {'p': 113, 'degree': 8, 'ordinary': True, 'closed_diamond_orbit': 7, 'diamond': 98, 'diamond_order': 2, 'geometric_point_orbit': 2}
+S21_STABILIZER_GEOMETRY_PASS {'p': 113, 'degree': 7, 'ordinary': False, 'closed_diamond_orbit': 4, 'diamond': 81, 'diamond_order': 14, 'geometric_point_orbit': 7}
+S21_STABILIZER_GEOMETRY_PASS {'p': 127, 'degree': 9, 'ordinary': True, 'closed_diamond_orbit': 7, 'diamond': 28, 'diamond_order': 9, 'geometric_point_orbit': 9}
+S21_STABILIZER_GEOMETRY_PASS {'p': 127, 'degree': 14, 'ordinary': False, 'closed_diamond_orbit': 3, 'diamond': 125, 'diamond_order': 7, 'geometric_point_orbit': 7}
+S21_STABILIZER_GEOMETRY_PASS {'p': 127, 'degree': 14, 'ordinary': False, 'closed_diamond_orbit': 3, 'diamond': 108, 'diamond_order': 3, 'geometric_point_orbit': 1}
+S21_STABILIZER_GEOMETRY_PASS {'p': 137, 'degree': 17, 'ordinary': True, 'closed_diamond_orbit': 4, 'diamond': 81, 'diamond_order': 17, 'geometric_point_orbit': 17}
+S21_STABILIZER_GEOMETRY_PASS {'p': 137, 'degree': 17, 'ordinary': False, 'closed_diamond_orbit': 2, 'diamond': 9, 'diamond_order': 34, 'geometric_point_orbit': 17}
+S21_ALL_STABILIZER_GEOMETRY_COMPLETE

@@ -1,0 +1,72 @@
+[
+  {
+    "kind": "pair",
+    "N": 47,
+    "status": "PASS"
+  },
+  {
+    "kind": "pair",
+    "N": 53,
+    "status": "PASS"
+  },
+  {
+    "kind": "pair",
+    "N": 59,
+    "status": "PASS"
+  },
+  {
+    "kind": "pair",
+    "N": 61,
+    "status": "PASS"
+  },
+  {
+    "kind": "pair",
+    "N": 67,
+    "status": "PASS"
+  },
+  {
+    "kind": "pair",
+    "N": 71,
+    "status": "PASS"
+  },
+  {
+    "kind": "pair",
+    "N": 73,
+    "status": "PASS"
+  },
+  {
+    "kind": "pair",
+    "N": 79,
+    "status": "PASS"
+  },
+  {
+    "kind": "pair",
+    "N": 83,
+    "status": "PASS"
+  },
+  {
+    "kind": "pair",
+    "N": 89,
+    "status": "PASS"
+  },
+  {
+    "kind": "pair",
+    "N": 127,
+    "status": "PASS"
+  },
+  {
+    "kind": "mixed",
+    "N": 73,
+    "status": "PASS"
+  },
+  {
+    "kind": "mixed",
+    "N": 113,
+    "status": "PASS"
+  },
+  {
+    "kind": "mixed",
+    "N": 127,
+    "status": "PASS"
+  }
+]

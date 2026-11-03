@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "source": 2921,
+  "ordinary_degree": 20,
+  "closed_diamond_orbit": 6,
+  "H5_free_geometric_orbit": 5,
+  "quotient_genus": 26,
+  "quotient_divisor_degree": 4,
+  "base_rank": 16,
+  "fixed_cusp_degree": 2,
+  "profiles": 6,
+  "intrinsic": [
+    {
+      "case": "relative61_o20",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 4,
+      "base_degree": 20,
+      "base_rank": 16,
+      "translates": 6,
+      "cusp_blocks": 30
+    }
+  ],
+  "profile_spaces": [
+    {
+      "case": "relative61_o20",
+      "status": "PASS",
+      "profiles": 6,
+      "entire_relation_spaces": true
+    }
+  ]
+}

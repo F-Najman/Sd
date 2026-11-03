@@ -1,0 +1,93 @@
+{
+  "status": "PASS",
+  "degree": 22,
+  "proved_lower_bound": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31,
+    37,
+    41,
+    43,
+    47,
+    53,
+    67
+  ],
+  "small_exact": [
+    2,
+    3,
+    5,
+    7
+  ],
+  "quadratic_extension_exact": [
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31
+  ],
+  "new_exact": [
+    37,
+    41,
+    43,
+    47,
+    53,
+    67
+  ],
+  "no_upper_bound_claim": true,
+  "records": [
+    {
+      "source": "verify_small_occurrences.m",
+      "source_sha256": "0367795e9f39c0c936098df8ef52281fb96137fe3da4d68ba46dcbe27d6da0eb",
+      "log": "verify_small_occurrences.log",
+      "log_sha256": "bfefbe87ff8737f16cbe35e02466e27a7277f79b7f7b7cc932488b6cb47a5e8d",
+      "verified_prime_orders": [
+        2,
+        3,
+        5,
+        7
+      ],
+      "absolute_degree": 22
+    },
+    {
+      "source": "verify_extension_occurrences.m",
+      "source_sha256": "f2d00a6a85e4a06785c7aade953261e4d630d50da6fc4b38a1fcd0b8deacad0f",
+      "log": "verify_extension_occurrences.log",
+      "log_sha256": "922b2171ae871a57033bdb7921eec69e1689e07646728e6ec1aa536007872ce0",
+      "verified_prime_orders": [
+        11,
+        13,
+        17,
+        19,
+        23,
+        29,
+        31
+      ],
+      "absolute_degree": 22
+    },
+    {
+      "source": "verify_occurrences.m",
+      "source_sha256": "eb547a7cdd47fbe3dd58fe4a6a4ecae9396cdbc61dc188d683b52fd7e7e2f6f5",
+      "log": "verify_occurrences.log",
+      "log_sha256": "93257725d6ff7bda3f4877965444231b76d498a2c8a61db278ab2650832973d1",
+      "verified_prime_orders": [
+        37,
+        41,
+        43,
+        47,
+        53,
+        67
+      ],
+      "absolute_degree": 22
+    }
+  ]
+}

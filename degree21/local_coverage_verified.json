@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "degree": 21,
+  "local_levels": [
+    53,
+    59,
+    61,
+    67,
+    71,
+    73,
+    79,
+    83,
+    89,
+    97,
+    101,
+    103,
+    107,
+    109,
+    113,
+    127,
+    131,
+    137,
+    139
+  ],
+  "support_types": 477,
+  "new_ordinary_sources": 45730,
+  "new_independent_matrices": 81523,
+  "resolved_fresh_ordinary_exceptions": [
+    {
+      "p": 61,
+      "source": 2921,
+      "argument": "free H5 pullback degree4 plus fixed cusp1, all6 relative disks"
+    }
+  ]
+}

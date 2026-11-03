@@ -1,0 +1,8 @@
+CHECK_PASS verify_q_identities.py
+CHECK_PASS verify_finite_keys.py
+CHECK_PASS verify_canonical_ring_tensor_readonly.py
+CHECK_PASS verify_ranks_m4ri.py
+CHECK_PASS canonical_ring_sieve.py
+CHECK_PASS verify_FI_relations.py
+CHECK_PASS certify_special7_readonly.py
+NONIC71_COMPLETE_READONLY_CERTIFICATE_PASS {"allbad_configurations": 170, "binary_matrices": 60, "claim": "No point of order71 over any degree9 number field", "elapsed_seconds": 1.6122533529996872, "matrix_rank": 75, "matrix_shapes": [[75, 128], [75, 132]]}

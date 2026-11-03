@@ -1,0 +1,62 @@
+S(22): certificate index
+Completed computer-assisted determination: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 67]
+Proof: outputs/S22_proof.pdf
+Complete replay: work/degree22/REPLAY.txt
+Manifest: work/degree22/proof_manifest.json
+
+Independently ranked new obstruction matrices: 134762
+155750 primes;514 support types;1488 large primes.
+10065 character orders:5018 fresh and5047 inherited.
+9531 native chunks retained as independently byte-verified gzip archives.
+
+../work/degree22/census_counts_independent.json
+../work/degree22/dyadic_independent.json
+../work/degree22/extended97_verified.json
+../work/degree22/fi_matrices_independent.json
+../work/degree22/frobenius89_verified.json
+../work/degree22/generic113_mixed_verified.json
+../work/degree22/global173_verified.json
+../work/degree22/independent_rank_checks.json
+../work/degree22/independent_sequence_results.json
+../work/degree22/inherited_hypotheses_verified.json
+../work/degree22/inherited_manifest_verified.json
+../work/degree22/intrinsic_full_cusps_extra.json
+../work/degree22/intrinsic_full_new_verified.json
+../work/degree22/intrinsic_multiple_independent.json
+../work/degree22/intrinsic_relative_independent.json
+../work/degree22/large_native_results.json
+../work/degree22/large_verified.json
+../work/degree22/model163_independent.json
+../work/degree22/native_chunk_archives.json
+../work/degree22/nc113_jets_independent.json
+../work/degree22/new113_verified.json
+../work/degree22/occurrences_verified.json
+../work/degree22/polynomial_arithmetic_verified.json
+../work/degree22/profile_coverage_independent.json
+../work/degree22/profile_spaces_independent.json
+../work/degree22/quotient89_fixed_points_verified.json
+../work/degree22/quotient89_intrinsic_verified.json
+../work/degree22/quotient89_point_count_bound.json
+../work/degree22/quotient89_verified.json
+../work/degree22/relative127_intrinsic_verified.json
+../work/degree22/relative127_verified.json
+../work/degree22/relative61_o20_independent.json
+../work/degree22/relative73_multiple_verified.json
+../work/degree22/relative_cusps_intrinsic_verified.json
+../work/degree22/resolution89_verified.json
+../work/degree22/source_prefixes_verified.json
+../work/degree22/ss113_jets_independent.json
+../work/degree22/ss_jets_independent.json
+../work/degree22/support_inputs_verified.json
+../work/degree22/symmetric_supports_independent.json
+
+Unused experiments:
+anti163 order3 odd-norm trials; 163 is treated locally
+anti89 residual involution odd-norm trials; use doubled degree4 on the genus27 quotient
+prime3 point-count trial at89; it does not give cusps-only reduction
+weaker 990 RR gonality checks at89; the F4 point count gives the stronger bound8
+initial canonical97 pair attempt; replaced by the precision3500 bicanonical calculation
+generic ordinary8 delta2 test at113 (rank476); replaced by14 combined mixed-support certificates
+pilot163 first352 sources; all pass, and final complete163 computation covers them again
+huge-page allocator and SIMD2/3/4 arithmetic speed prototypes; actual packed/SIMD1 implementation is bound in every character record
+unsuccessful preliminary occurrence41 search; the direct x=2 witness is verified

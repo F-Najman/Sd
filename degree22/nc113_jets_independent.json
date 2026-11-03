@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "N": 113,
+  "degree": 14,
+  "ambient_field_degree": 28,
+  "jets": 8,
+  "all_jet_coefficients_and_unit_relations_independently_verified": true,
+  "normalized_nonzero_tangent": true,
+  "canonical_jets_descend_to_degree14": true,
+  "closed_diamond_orbit": 4,
+  "T3_NC_divisor": "3*C+delta3(C); hence A3(C)=2*C-2*delta3(C)",
+  "point_diamond_and_delta3_orientation_independently_checked": true,
+  "local_parameter": "a6=u on the nodal model; discriminant=u and j=1/u",
+  "native_data_sha256": "8b9c6d61fbdf7ab614b0f7bd73f05c88c862f1514fc8e3a2e26e1e8c81966d7e",
+  "native_source_sha256": "4ae10d0e5aa49b3bc6f3e7fd2340dac0bf9390c984cf0407aeae84a8443c75db",
+  "verifier_source_sha256": "9644e4bbc2ed7b3fd9cdd91be6a728dc0b2e8457b54631c0e66cc8c8d9306776"
+}

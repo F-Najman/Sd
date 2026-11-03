@@ -1,0 +1,1 @@
+SetQuitOnError(true);SetColumns(0);F:=GF(3^11);ts:=Twists(EllipticCurveFromjInvariant(F!0));assert #ts eq 4;cs:=Sort(Setseq({#E:E in ts}));assert cs eq[176419,177148,177877];printf "S11_SUPERSINGULAR3 twists=4 group_orders=%o\n",cs;print "AUDIT_SUPERSINGULAR3_COMPLETE";quit;

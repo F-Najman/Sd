@@ -1,0 +1,80 @@
+{
+  "status": "PROVED_WITH_COMPUTER_ASSISTANCE",
+  "degree": 20,
+  "S": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31,
+    37,
+    41,
+    43,
+    47,
+    61
+  ],
+  "proof": {
+    "text": "S20_proof.txt",
+    "pdf": "S20_proof.pdf",
+    "pages": 10,
+    "txt_sha256": "18891b98bcaeed4557a6dbfbcf404b9ff55252e9d6fbc40c58466e873dded711"
+  },
+  "replay": "../work/degree20/REPLAY.txt",
+  "manifest": "../work/degree20/proof_manifest.json",
+  "prime_coverage": "../work/degree20/final_coverage.json",
+  "local_support_coverage": "../work/degree20/support_coverage.json",
+  "ordinary_orbits": 45391,
+  "new_independent_obstruction_matrices": 37905,
+  "character_orders": 3020,
+  "new_character_orders": 1951,
+  "inherited_character_orders": 1069,
+  "large_primes": 444,
+  "dyadic_M": 229,
+  "dyadic_rank": 40,
+  "dyadic_threshold": 18320,
+  "relative_profiles_independently_checked": 105240,
+  "relative_map_certificates": [
+    "../work/degree20/intrinsic_relative_independent.json",
+    "../work/degree20/profile_spaces_independent.json",
+    "../work/degree20/relative127_verified.json",
+    "../work/degree20/relative_cusps_intrinsic_verified.json",
+    "../work/degree20/sharp_finite_verified.json",
+    "../work/degree20/ss73_double_verified.json"
+  ],
+  "finite_image_checks": [
+    "../work/degree20/rankzero_verified.json",
+    "../work/degree20/finite_FI_verified.json",
+    "../work/degree20/finite_FI_inheritance_verified.json",
+    "../work/degree20/annihilator_characters_verified.json",
+    "../work/degree20/stabilizer_torsion_verified.json"
+  ],
+  "independent_point_counts": "../work/degree20/census_counts_independent.json",
+  "independent_dyadic_bound": "../work/degree20/dyadic_independent.json",
+  "global151_163_167": [
+    "../work/degree20/global_extra_verified.json",
+    "../work/degree20/anti163_norms_verified.json"
+  ],
+  "independent_ranks": [
+    "../work/degree20/independent_rank_checks.json",
+    "../work/degree20/extra_rank_checks.json"
+  ],
+  "character_coverage": "../work/degree20/large_verified.json",
+  "graph_algorithm_and_validation": [
+    "../work/degree20/optimization/graph_full_replay_verified.json",
+    "../work/degree20/optimization/fast_graph_implementation_verified.json",
+    "../work/degree20/optimization/verify_graph.py"
+  ],
+  "inherited_manifest_check": "../work/degree20/inherited_manifest_verified.json",
+  "unused_experiments": [
+    "SS97 direct nonprincipality rank344/345",
+    "raw101 index5 cusp map",
+    "raw53 quotient map",
+    "fast-remainder CPP experiment (validated but unused by main batch)"
+  ]
+}

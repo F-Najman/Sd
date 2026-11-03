@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "degree": 17,
+  "dyadic_ranks": 180,
+  "absolute_formal_immersion_levels": 16,
+  "relative103_rank": 16,
+  "relative_supersingular_maps": [
+    {
+      "p": 53,
+      "cotangent_entries_rebuilt": true,
+      "supersingular_translates": 1,
+      "operators": 2,
+      "cusp_count": 26,
+      "supersingular_rank": 12
+    },
+    {
+      "p": 61,
+      "cotangent_entries_rebuilt": true,
+      "supersingular_translates": 1,
+      "operators": 1,
+      "cusp_count": 30,
+      "supersingular_rank": 12
+    },
+    {
+      "p": 73,
+      "cotangent_entries_rebuilt": true,
+      "supersingular_translates": 4,
+      "operators": 2,
+      "cusp_count": 36,
+      "supersingular_rank": 6
+    }
+  ],
+  "actual_JOne73_two_certificate": true,
+  "odd_anti89_both_signs": true,
+  "cm_certificates": 2
+}

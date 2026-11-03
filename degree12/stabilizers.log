@@ -1,0 +1,6 @@
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree12/sources73.m"
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree12/sources109.m"
+AUDIT_STABILIZER N=73 degree=6 orbit=4 diamond=2 verified=true
+AUDIT_STABILIZER N=109 degree=9 orbit=3 diamond=23 verified=true
+AUDIT_STABILIZER N=109 degree=12 orbit=3 diamond=23 verified=true
+S12_EXCEPTIONAL_STABILIZERS_COMPLETE

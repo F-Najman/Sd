@@ -1,0 +1,10 @@
+prefix=1 count=23535820
+prefix=2 count=43455060
+prefix=3 count=47271390
+prefix=4 count=47847112
+prefix=5 count=47920927
+prefix=6 count=47928697
+prefix=7 count=47929327
+prefix=8 count=47929362
+prefix=9 count=47929363
+S17_RELATIVE_PREFIX_CHECK checked=47929363 status=PASS seconds=8.61062

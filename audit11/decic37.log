@@ -1,0 +1,5 @@
+NONIC37_AF_COORDINATES degree=18 u_base=true v_base=false u_gen=false v_gen=true time=4.270
+NONIC37_DIAMOND_MAP_CONSTRUCTED time=4.320
+NONIC37_ALPHA_CARTIER_IMAGE dimension=38 time=33.600
+Loading "/home/fnajman/degree9_torsion/nonic-torsion/common/dt_expansions_local.m"
+AUDIT37_DECIC_PLUS_CUSP_COMPLETE all18cusps=true cotangent_dimension38=true rank11=true elapsed=70.250

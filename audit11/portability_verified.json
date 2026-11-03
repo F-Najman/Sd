@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "extracted_root": "/tmp/S11_audit_portability_20261028",
+  "relocation": "PASS",
+  "independent_arithmetic_and_matrix_replay": "PASS",
+  "case_closure": "PASS",
+  "native_recomputation": [
+    "census_sources",
+    "verify_occurrence",
+    "full37/stage2"
+  ]
+}

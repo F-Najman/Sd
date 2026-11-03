@@ -1,0 +1,1 @@
+S17_RELATIVE127_INDEPENDENT_PASS {'status': 'PASS', 'degree': 17, 'family_dimension': 2, 'relative_rank': 15, 'patterns_checked': 63, 'pullback_degrees': [9, 7], 'fixed_rational_cusp_degree': 1, 'operators': [2, 3], 'cotangent_entries_rebuilt': True, 'nonrational_cusp_identification_verified': True}

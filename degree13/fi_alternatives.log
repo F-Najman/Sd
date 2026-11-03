@@ -1,0 +1,9 @@
+{'N': 43, 'status': 'PASS', 'method': 'complete cusp-prefix enumeration', 'checked': 44549725, 'independent_expected': 44549725, 'relations': 81}
+Traceback (most recent call last):
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree13/check_fi_alternatives.py", line 43, in <module>
+    for n in [43,79]:one(n)
+                     ^^^^^^
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree13/check_fi_alternatives.py", line 38, in one
+    s=q.read_text();import re;got=int(re.search(r'checked=(\d+)',s)[1]);ok=r.returncode==0 and'status=PASS'in s and got==expected(i,d)
+                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+TypeError: 'NoneType' object is not subscriptable

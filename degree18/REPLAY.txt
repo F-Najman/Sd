@@ -1,0 +1,86 @@
+S(18): CERTIFICATE REPLAY
+30 October 2026
+
+Run from:
+ /home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a
+
+The completed proof is work/degree18/PROOF.txt or outputs/S18_proof.pdf.
+The exact result is outputs/S18_result.json. The complete prime ledger
+covers23079 primes; support_coverage.json covers284 support types.
+
+Basic occurrence and stabilizer checks (Magma2.30):
+ magma -b work/degree18/verify_occurrences.m
+ magma -b work/degree18/verify_extension_occurrences.m
+ magma -b work/degree18/bound_ss.m
+ magma -b work/degree18/stabilizers.m
+ magma -b work/degree18/stabilizers127.m
+ magma -b work/degree18/quotient_quadratic.m
+
+Independent arithmetic and relative-map replays (Sage Python):
+ python work/degree18/verify_auxiliary.py
+ python work/degree18/verify_relative_cusps_intrinsic.py
+ python work/degree18/verify_relative127_intrinsic.py
+ python work/degree18/verify_relative73_nc_intrinsic.py
+ python work/degree18/check_relative.py
+ python work/degree18/check_relative73.py
+ python work/degree18/check_relative73_nc.py
+ python work/degree18/check_relative127.py
+ python work/degree18/check_relative_cusps.py
+
+The supersingular73 check visits2843832291 normalized patterns per
+translate; the nonrational-cusp73 check visits47929363 per translate.
+The C++ sources and frozen binaries are retained. To rebuild:
+ g++ -O3 -std=c++17 work/degree18/check_prefixes.cpp -o work/degree18/check_prefixes
+ g++ -O3 -std=c++17 work/degree18/relative_prefixes.cpp -o work/degree18/relative_prefixes
+ g++ -O3 -std=c++17 work/degree18/relation_check.cpp -o work/degree18/relation_check
+
+Independent new obstruction ranks and exhaustive final coverage:
+ python work/degree18/verify_ranks.py
+ python work/degree18/verify_low131_ranks.py
+ python work/degree18/verify_coverage.py
+
+The two rank checks cover10812 and1042 matrices, respectively. The
+additional1042 are the new level131 pairs of total16 and17; all their
+noncuspidal supports have the required complementary cusp degrees.
+Earlier local certificates are inherited through explicit actual
+Tate-normal-form orbit matches. Their285-file degree17 proof manifest
+has been verified unchanged; see inherited_manifest_verified.json.
+The upper-bound argument itself does not require a degree9 torsion
+classification: it handles degree18 traces which are multiples of
+lower-degree irreducible traces as well.
+
+For full recomputation of ordinary point data and obstructions, use
+the frozen fullN/units_data.m and sourcesN.m inputs. The current drivers
+respect the user-adjusted concurrency allocation: run_new_ordinary.py
+uses4 workers; run_ordinary131.py uses2. Completed chunk logs are reused.
+full_sieve.py checks the new degree18 points (all degrees<=18 at131).
+pair_sieve.py checks the new total18 pairs; pair_low131.py additionally
+checks totals16 and17 at131. mixed_sieve.py checks the three new mixed
+cases. Rebuilding old inherited certificates uses the degree17 packet.
+The setup and exploratory search scripts are construction history,
+not the verification entry points for frozen inputs.
+
+large_selected_orders.json specifies exactly615 character orders at81
+primes. Each large_orders/pP_nN.log contains a completed exact
+S18_SELECTED_CHARACTER_NONSTRANGE assertion. The character library is
+frozen as strange_primes.magma, byte-for-byte identical to the source
+used in the runs; see character_library_provenance.json. Individual
+replays use:
+ magma -b P:=P OrderToTest:=N work/degree18/large_order.m
+For P=262657 use large_order_special.m, with its higher memory limit.
+The ordinary character launcher uses6 workers and omits262657; its
+16 orders use the separate two-worker high-memory launcher.
+
+During the external resource handoff,16 completed character assertions
+outlived their launcher's bookkeeping. Their original successful logs
+are retained and SHA256-pinned; reconstructed metadata records explicitly
+leave the unobserved process exit code null. The proof relies on the
+completed exact assertion and absence of calculation errors, not on
+an invented exit code. character_metadata_recovery.json records these
+cases. The final character audit is large_order_coverage_verified.json;
+interrupted launcher aggregates are not used as mathematical inputs.
+
+Absolute input paths reflect the current local research workspace.
+All proof inputs have SHA256 hashes in proof_manifest.json. The
+exploration directory and unfinished historical launcher logs are
+not used to prove exclusions.

@@ -1,0 +1,13 @@
+Loading "work/degree20/full97/units_data.m"
+Loading "work/degree20/sources97.m"
+Loading "work/degree20/sharp_cotangent.m"
+Loading "work/degree20/strange_eigenvalues_data.m"
+S20_SHARP_OPERATOR p=97 n=2 q=3 rank=234
+S20_SHARP_OPERATOR p=97 n=2 q=5 rank=230
+S20_SHARP_OPERATOR p=97 n=3 q=3 rank=232
+S20_SHARP_OPERATOR p=97 n=3 q=5 rank=228
+S20_SHARP_OPERATOR p=97 n=5 q=3 rank=232
+S20_SHARP_OPERATOR p=97 n=5 q=5 rank=228
+S20_SHARP_SS_RANK p=97 translate=0 rank=16
+S20_SHARP_SS_RANK p=97 translate=1 rank=16
+S20_SHARP_COTANGENT_EXPORT_COMPLETE 97 0.860

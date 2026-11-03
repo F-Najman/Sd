@@ -1,0 +1,6 @@
+AUDIT_GON43_CASE index=2 label=<1, 1, 0> RR_dimension=1 nonconstants=0 min_degree=0 elapsed=87.830
+AUDIT_GON43_CASE index=10 label=<1, 9, 0> RR_dimension=1 nonconstants=0 min_degree=0 elapsed=148.670
+AUDIT_GON43_CASE index=18 label=<1, 17, 0> RR_dimension=1 nonconstants=0 min_degree=0 elapsed=209.380
+AUDIT_GON43_CASE index=26 label=<1, 25, 0> RR_dimension=1 nonconstants=0 min_degree=0 elapsed=269.790
+AUDIT_GON43_CASE index=34 label=<1, 33, 0> RR_dimension=1 nonconstants=0 min_degree=0 elapsed=331.850
+AUDIT_GON43_CASE index=42 label=<1, 41, 0> RR_dimension=1 nonconstants=0 min_degree=0 elapsed=392.970

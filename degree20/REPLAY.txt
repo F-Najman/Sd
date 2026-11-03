@@ -1,0 +1,70 @@
+Degree 20 replay instructions (completed proof)
+
+Run from /home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a.
+Magma 2.30-1 and Sage are installed. Files under earlier degree directories
+are frozen proof inputs and should not be modified. All degree20 workers
+currently have CPU affinity 0..23 and nice priority 5 to preserve capacity
+for other work. Native calculations and matrix checks are exact.
+
+The primary computations and local checks have finished. To check the
+retained local results without regenerating all source jets:
+ sage -python work/degree20/verify_inherited.py
+ sage -python work/degree20/verify_dyadic.py
+ sage -python work/degree20/verify_census_counts.py
+ sage -python work/degree20/verify_ranks.py
+ sage -python work/degree20/verify_extra_ranks.py
+ sage -python work/degree20/verify_fi_matrices.py
+ sage -python work/degree20/verify_rankzero.py
+ sage -python work/degree20/verify_finite_FI.py
+ sage -python work/degree20/verify_annihilators.py
+ sage -python work/degree20/verify_stabilizer_torsion.py
+ python3 work/degree20/verify_finite_FI_inheritance.py
+ sage -python work/degree20/verify_intrinsic.py
+ sage -python work/degree20/verify_profile_spaces.py
+ sage -python work/degree20/verify_relative_cusps_intrinsic.py
+ sage -python work/degree20/verify_sharp_finite.py
+ sage -python work/degree20/verify_global_extra.py
+ sage -python work/degree20/verify_anti163_norms.py
+
+The ordinary, pair and mixed sieves can be reconstructed from the retained
+actual jets with full_sieve.py, pair_sieve.py, pair_low139.py, mixed_sieve.py,
+mixed_pair73.py and mixed109.py. These create their own exact multiplication
+tensors, jets, section conditions, and full-rank matrices. Fresh native
+source assertions are retained in full*/chunk_*.log and small_chunk_*.log.
+The original canonical-model and integral-unit identities are in the
+inherited packet, except the new full139/build.m and build.log.
+
+Do not run any character driver concurrently with another. characters.lock
+protects the batch. The active driver is run_characters_graph24_bm4.py; it
+adopts prior legacy/hybrid jobs and uses the certified graph representation
+for fresh jobs. The independent scalar-sequence checker is
+check_sequences_parallel.py, with four workers and an unchanged-certificate
+cache. All selected orders are in large_selected_orders.json.
+
+To check a retained graph character p=N, order=n, decompress
+ large_orders/pN_nn_graph.txt.gz and pN_nn_prepared.txt.gz
+into a temporary writable directory. Then run:
+ python3 work/degree20/optimization/verify_graph.py GRAPH PREPARED RANK_JSON OUT_JSON
+ magma -b GraphIn:=GRAPH Prepared:=PREPARED work/degree20/optimization/check_graph_prefix.m
+The rank certificate is large_orders/pN_nn_graph_rank.json. verify_graph.py
+checks exact upper and lower ranks, the entire functional relation system,
+the winding vector and every prepared Hecke row. The Magma check verifies
+all functional relations and 64 scalar terms using independent native
+field arithmetic. The graph source is optimization/export_graph_fast.m;
+prepare_graph.cpp finds exact witnesses. Graph_full_replay_verified.json,
+raw_full_replay_verified.json and fast_graph_implementation_verified.json
+in optimization retain complete native comparisons at p525253,n1014.
+The optional fast-remainder C++ experiment was validated but is not the
+engine used for the main graph batch, which uses the retained krylov binary.
+
+After the final character and independent Pade batches complete:
+ sage -python work/degree20/verify_large.py
+ sage -python work/degree20/verify_coverage.py
+The latter must print S20_FULL_COVERAGE_PROVED and write final_coverage.json
+with no unresolved prime before a completed S(20) result is published.
+The --pending-global option creates only a conditional progress ledger.
+Final packaging and manifest commands:
+ python3 work/degree20/package_result.py
+ python3 work/degree20/build_manifest.py
+ python3 work/degree20/verify_manifest.py
+All character, Pade, local, prime and support coverage checks have passed.

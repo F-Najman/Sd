@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "extracted_root": "/tmp/S12_packet_check_s5h4q6p_",
+  "numeric_certificate_files_unchanged_by_relocation": 1393,
+  "published_bound_check": "PASS",
+  "coverage_check": "PASS",
+  "coverage_primes": 44045
+}

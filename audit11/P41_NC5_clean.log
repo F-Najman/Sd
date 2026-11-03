@@ -1,0 +1,3 @@
+DECIC41_MIXED_NC5 pair=[ 1, 1 ] principal=false elapsed=75.110
+DECIC41_MIXED_NC5 pair=[ 1, 2 ] principal=false elapsed=187.330
+DECIC41_NC5_COMPLETE all_cases_covered_by_diamond_symmetry=true

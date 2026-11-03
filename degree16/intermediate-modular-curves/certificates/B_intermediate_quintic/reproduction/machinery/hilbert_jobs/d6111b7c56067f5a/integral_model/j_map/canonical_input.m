@@ -1,0 +1,8 @@
+expected_genus := 5;
+R := PolynomialRing(Rationals(),5);
+equations := [R |
+(1)*R.1*R.3+(-1)*R.2*R.2+(-1)*R.3*R.5,
+(1)*R.1*R.4+(-1)*R.3*R.3+(-3)*R.4*R.5,
+(1)*R.1*R.5+(-1)*R.4*R.4+(-2)*R.5*R.5
+];
+cusp_coordinates := [Rationals() | 1,0,0,0,0];

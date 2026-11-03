@@ -1,0 +1,9 @@
+SetQuitOnError(true);SetColumns(0);AttachSpec("/home/fnajman/degree9_torsion/nonic-torsion/mdmagma/v2/mdmagma.spec");R<t>:=PolynomialRing(Rationals());Candidates:=[*<t^14 - 6*t^13 + 16*t^12 - 23*t^11 + 22*t^10 - 18*t^9 + 11*t^8 - 2*t^6 - 5*t^5 + 9*t^4 - 7*t^3 + 6*t^2 - 4*t + 1,135019/26629*t^13 - 728008/26629*t^12 + 1717827/26629*t^11 - 2061366/26629*t^10 + 1714023/26629*t^9 - 1369546/26629*t^8 + 608462/26629*t^7 + 424121/26629*t^6 - 42184/26629*t^5 - 699297/26629*t^4 + 787607/26629*t^3 - 466714/26629*t^2 + 553325/26629*t - 197598/26629>,<t^14 - t^13 - 7*t^12 + 4*t^11 + 20*t^10 - 4*t^9 - 23*t^8 - 8*t^7 + 10*t^6 + 14*t^5 - 3*t^4 - 6*t^3 + t^2 + 1,-806/1667*t^13 + 261/1667*t^12 + 3955/1667*t^11 - 225/1667*t^10 - 5296/1667*t^9 + 1190/1667*t^8 - 2924/1667*t^7 - 1829/1667*t^6 + t^5 + 385/1667*t^4 + 3123/1667*t^3 - 1439/1667*t^2 + 1495/1667*t + 984/1667>*];
+load "work/degree16/sources43.m";rec:=AuditSources[91];assert rec[1]eq 14 and rec[7];PF:=PolynomialRing(GF(2));F:=ext<GF(2)|PF!rec[2]>;src:=EllipticCurve([F!PF!a:a in rec[3]]);sp:=src![F!PF!a:a in rec[4]];uvsrc:=TateNormalForm_xy(src,sp);found:=false;
+for dat in Candidates do
+ f,g:=Explode(dat);assert IsIrreducible(f);K<z>:=NumberField(f);x:=z;y:=Evaluate(g,z);r:=(x^2*y-x*y+y-1)/(x^2*y-x);s:=(x*y-y+1)/(x*y);b:=r*s*(r-1);c:=s*(r-1);E:=EllipticCurve([1-c,-b,-b,0,0]);P:=E![0,0];assert Discriminant(E)ne 0 and P ne E!0 and 43*P eq E!0;
+ for rt in Roots(PolynomialRing(F)!f)do
+  x:=rt[1];y:=Evaluate(PolynomialRing(F)!g,x);r:=(x^2*y-x*y+y-1)/(x^2*y-x);s:=(x*y-y+1)/(x*y);b:=r*s*(r-1);c:=s*(r-1);EE:=EllipticCurve([1-c,-b,-b,F!0,F!0]);PP:=EE![0,0];assert Discriminant(EE)ne 0 and 43*PP eq EE!0;
+  for k in[1..42]do uv:=TateNormalForm_xy(EE,k*PP);if uv eq uvsrc then found:=true;end if;end for;
+ end for;
+end for;assert found;print "S16_KNOWN43_DEGREE14_LIFT_MATCH_COMPLETE";quit;

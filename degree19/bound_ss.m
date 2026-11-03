@@ -1,0 +1,1 @@
+SetQuitOnError(true);SetColumns(0);F:=GF(2^19);cs:=Sort([Integers()!#E:E in Twists(EllipticCurveFromjInvariant(F!0))]);print "S19_SS19_ORDERS",cs;assert Seqset(cs)eq{523265,524289,525313};print "S19_SS19_ORDERS_COMPLETE";quit;

@@ -1,0 +1,9 @@
+S20_STRANGE_EIGENVALUE p=97 character_order=12 diamond=5 hecke_prime=2 coefficients=[ -2, 0, 1, 0 ] verified=true
+S20_STRANGE_EIGENVALUE p=97 character_order=12 diamond=5 hecke_prime=3 coefficients=[ -2, 1, 1, -1 ] verified=true
+S20_STRANGE_EIGENVALUE p=97 character_order=12 diamond=5 hecke_prime=5 coefficients=[ -1, -2, -1, 1 ] verified=true
+S20_STRANGE_EIGENVALUE p=97 character_order=12 diamond=5 hecke_prime=7 coefficients=[ 0, 1, -1, -1 ] verified=true
+S20_STRANGE_EIGENVALUE p=101 character_order=10 diamond=2 hecke_prime=2 coefficients=[ -1, -1, 0, 0 ] verified=true
+S20_STRANGE_EIGENVALUE p=101 character_order=10 diamond=2 hecke_prime=3 coefficients=[ -2, 2, -1, 0 ] verified=true
+S20_STRANGE_EIGENVALUE p=101 character_order=10 diamond=2 hecke_prime=5 coefficients=[ 0, -2, 2, -2 ] verified=true
+S20_STRANGE_EIGENVALUE p=101 character_order=10 diamond=2 hecke_prime=7 coefficients=[ -4, 2, -2, 2 ] verified=true
+S20_STRANGE_EIGENVALUES_COMPLETE 0.090

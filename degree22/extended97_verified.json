@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "N": 97,
+  "genus": 345,
+  "section_degree": 2,
+  "canonical_basis_unchanged": true,
+  "old_precision": 1768,
+  "new_precision": 3500,
+  "product_weight8_Sturm_bound": 3136,
+  "section_product_degree_bound": 2752,
+  "all_matrix_entries_rebuilt": true,
+  "extended_model_sha256": "e2bd6014eabda104e0262cadad308b89427c6bf16f26eda377b990bf2903d19f"
+}

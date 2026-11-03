@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "case": "full_cusps71",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 4,
+      "base_degree": 0,
+      "base_rank": 0,
+      "translates": 0,
+      "cusp_blocks": 35
+    },
+    {
+      "case": "full_cusps127",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 2,
+      "base_degree": 0,
+      "base_rank": 0,
+      "translates": 0,
+      "cusp_blocks": 63
+    }
+  ]
+}

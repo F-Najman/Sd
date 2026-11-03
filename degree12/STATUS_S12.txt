@@ -1,0 +1,90 @@
+ACTIVE USER REQUEST: determine S(12) rigorously. Candidate and proven occurrence set:
+{2,3,5,7,11,13,17,19,23,29,31,37,43}.
+No final classification has been claimed. No new subagents authorized for S12.
+
+All local cases CLOSED: 298 ordinary orbits; 16 FI maps; SS/cusps41/73/89/109.
+Sage rank checks passed. classify_supports.m proves SS list exactly41d5orb2,
+73d6orb4,109d9orb3,109d12orb3, and cusp degrees41d10,73d9,89d11.
+Stabilizers73h2order9 and109h23order18 checked. Actual JOne73 Q2 action
+trivial from independently audited S11 data. Pole bounds107(150,157),109(156,163).
+Occurrence23,29,31,43 exact degree12 fields/points verified in Magma.
+Known sextic results give all others by quadratic extension.
+
+Global cap532900, 44045 primes. Published table excludes9558 primes149..100000;
+Prop4.1 excludes113,127,131,137,139. Odd3/5/7 filter excludes34361 out of34453
+above100000, leaves92 primes. Need656 character orders:603new,53reuse.
+Every completed test has passed so far. New remaining jobs all primes~531000.
+
+IMPORTANT INTEGRITY REVIEW: two schedulers briefly overlapped during a restart.
+First20 large-prime jobs conservatively affected; they are listed in
+clean_regeneration_required.json. Current final scheduler is sole process,
+properly replaced predecessor and waited for its termination. A cleanup coordinator
+clean_regenerate.py is already running, waiting for the whole original batch and
+all its numerical children to exit. It then archives those20 certificates,
+regenerates all20 in isolation, starts fresh/cached Sage Pade checker, and writes
+scheduler_cleanup.json PASS. DO NOT CLAIM THEOREM until this exists and is PASS.
+verify_large.py skips affected20 until cleanup report; verify_coverage.py also
+requires cleanup PASS. User has been told about the scheduler overlap and clean
+regeneration. Archive is deliberately excluded from final proof packet.
+
+Live tool sessions (may finish): final scheduler session83995; waiting cleanup
+session84066; independent Pade watcher initial session55920; verify_large progress
+session34193. Logs: large_cpp_batch_final.log; clean_regenerate.log; after cleanup
+starts clean_batch.log and clean_pade.log. Current scheduler file run_large_cpp.py
+adopts native/export/C++/BM stages, max20 workers, export memoryweight60*(p/530807)^2,
+native100*, budget300. Do NOT start any second scheduler concurrently.
+Parent process name Python may be python or python3; match filenames carefully.
+All owned Magma global args point into this workspace. Never kill unrelated jobs.
+
+Fast numerical pipeline: export_large_sparse.m (v2 compact quotient + direct
+sparse Heilbronn rows) -> krylov.cpp (uint64 bounds, native prefix64 each) ->
+finish_cpp.m (Magma BM) -> check_sequences.py (Sage Euclid coprime Pade).
+V2 entire T2 matrix matched standard Magma for p176797 n29466 and p106129 n2;
+C++ entire scalar sequence matched native at p176797 n29466. All checksum/log
+comparisons recorded. Native Magma fallback when exporter/BM doesn't certify.
+V1 export kept as export_large_sparse_v1.m. Fixed earlier optional ReferenceT
+unbound identifier by initializing ZeroMatrix before guard. Correct no-Check
+export tested p106129n2. Errors in abandoned experiments never accepted as proof.
+
+Required finish steps AFTER clean regeneration has completed:
+1. Ensure no owned global numerical stages or scheduler remain active.
+2. python work/degree12/verify_large.py > ...verify_large_final.log (all656,
+   exact coprime polynomial identities, log validation, overflow bounds; ~4min).
+3. python work/degree12/verify_coverage.py > ...verify_coverage_final.log
+   must say PASS 44045/44045 no pending; includes cleanup report hashes.
+4. python work/degree12/finalize_result.py -> outputs/S12_proof.txt/.pdf,
+   outputs/S12_result.json. Script refuses partial global coverage.
+5. python work/degree12/package_result.py -> outputs/S12_certificates.zip;
+   exact data, selected FI raw/compressed rows, sources,53 audited borrowed global
+   cases, native41 and Q2-73 certificates, mdmagma+common libraries, README,
+   relocation helper and hash manifest; zip integrity test. Might need fix benign
+   missing filename if packet builder encounters one; do not drop proof inputs.
+6. Inspect final proof for unresolved/pending phrasing, stale counts/errors.
+   Verify zip extraction/relocation + coverage if practical, no needless reruns.
+7. Final brief set equality + computer-assisted qualification and proof/zip links.
+
+PROOF.draft.txt contains full proof with pending labels. finalize_result.py
+replaces pending labels ONLY when all obligations PASS. It includes crucial
+point-level versus mu-level Hecke convention, integral q-lattice proof,
+principal-divisor obstruction, and corrected degree-zero stabilizer argument.
+At73 there are FOUR degree6 SS points (one orbit4), not two; any pair handled
+by h invariance. First draft corrected before final publication.
+
+Use tools.exec_command sandbox_permissions=require_escalated (bwrap default broken;
+auto-approval has worked). Cwd is task root. Python is Sage Python. Magma installed
+/usr/local/bin/magma, binary /opt/magma-2.30-1/magma.exe. Current date29Oct2026.
+No AGENTS.md in cwd or parent. Writing txt/PDF (not Markdown); no skill needed.
+Avoid printing long datafile lines. Keep commentary updates while running.
+
+UPDATE: first batch completed all603 PASS. clean_regenerate.py has started isolated
+20-job regeneration; metadata count temporarily dropped to583, expected.
+finish_after_cleanup.py is running (tool session to inspect finish_after_cleanup.log),
+waiting cleanup PASS then sequentially runs verify_large, verify_coverage,
+finalize_result, package_result. It asserts every stage success and will fail
+on any missing file in packet. Root still must inspect the completed artifacts.
+Strict verify_large.py omits affected20 before cleanup and afterwards checks
+cleanup sequence/Pade hashes; package includes required/cleanup JSON.
+New C++ parser guards reject duplicate columns and trailing data; tiny exact
+valid/malformed-input tests PASS (krylov_input_guards.json). Binary atomically
+replaced so current processes finish on old inode, isolated regeneration uses
+new guards. Numerical arithmetic unchanged.

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "relative_base_rank": 14,
+  "degree": 18,
+  "all_entries_rebuilt": true,
+  "cusp_jet_blocks": 63,
+  "operators": [
+    2,
+    3
+  ]
+}

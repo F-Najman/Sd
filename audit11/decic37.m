@@ -1,0 +1,21 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(16*10^9);
+AttachSpec("/home/fnajman/degree9_torsion/nonic-torsion/mdmagma/v2/mdmagma.spec");tt:=Cputime();
+X:=MDX1(37,GF(2));FF:=FunctionField(Curve(X));AF,am:=AlgorithmicFunctionField(FF);assert Genus(AF) eq 40;
+u:=am(X`_coordinates_xy[1]);v:=am(X`_coordinates_xy[2]);K:=BaseRing(AF);
+printf "NONIC37_AF_COORDINATES degree=%o u_base=%o v_base=%o u_gen=%o v_gen=%o time=%o\n",Degree(AF),u eq AF!K.1,v eq AF!K.1,u eq AF.1,v eq AF.1,Cputime(tt);
+E:=EllipticCurve([am(z):z in X`_E]);P:=E![AF!0,AF!0];xy:=TateNormalForm_xy(E,2*P);
+if u eq AF!K.1 and v eq AF.1 then sig0:=hom<K->AF|xy[1]>;dg:=hom<AF->AF|sig0,xy[2]>;else error "unexpected AF coordinates";end if;
+printf "NONIC37_DIAMOND_MAP_CONSTRUCTED time=%o\n",Cputime(tt);
+Om,om:=SpaceOfHolomorphicDifferentials(AF);B:=[om(vv):vv in Basis(Om)];
+CM:=Matrix(GF(2),[Eltseq(Cartier(w)@@om):w in B]);eta:=Differential(u);deta:=Differential(dg(u));MD:=Matrix(GF(2),[Eltseq((dg(w/eta)*deta)@@om):w in B]);I:=IdentityMatrix(GF(2),40);
+assert MD^18 eq I and MD*CM eq CM*MD;U:=RowSpace(MD-I);assert U eq RowSpace((CM-I)*(MD-I)) and Dimension(U) eq 38;
+printf "NONIC37_ALPHA_CARTIER_IMAGE dimension=%o time=%o\n",Dimension(U),Cputime(tt);
+
+load "/home/fnajman/degree9_torsion/nonic-torsion/common/dt_expansions_local.m";
+b:=am(X`_coordinates[1]);c:=am(X`_coordinates[2]);jj:=jInvariant(E);cs:=Poles(jj);assert Degree(jj)eq 684 and {*Degree(pl):pl in cs*}eq {*1^^18,18*};rats:=[pl:pl in cs|Degree(pl)eq 1];
+PF<t>:=PolynomialRing(GF(2));f:=t^10+t^8+t^7+t^4+t^3+t+1;gp:=t^8+t^6+t^5+t^2+t+1;assert IsIrreducible(f);ps:=[];
+for pl in Zeros(Evaluate(f,u))do if Degree(pl)eq 10 and Valuation(u,pl)ge 0 and Valuation(v,pl)ge 0 and Evaluate(v-Evaluate(gp,u),pl)eq 0 then Append(~ps,pl);end if;end for;assert #ps eq 1;P10:=ps[1];
+IB:=BasisMatrix(U);J10:=IB*HorizontalJoin(DifferentialExpansionMatrices(B,P10,1));assert Rank(J10)eq 10;
+out:="/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/decic37_jets.m";PrintFile(out,Sprintf("CartierMatrix:=Matrix(GF(2),40,40,%o);DiamondMatrix:=Matrix(GF(2),40,40,%o);ImageBasis:=Matrix(GF(2),38,40,%o);DecicJets:=Matrix(GF(2),38,10,%o);CuspJets:=[**];",Eltseq(CM),Eltseq(MD),Eltseq(IB),Eltseq(J10)):Overwrite:=true);
+for pl in rats do AA:=IB*HorizontalJoin(DifferentialExpansionMatrices(B,pl,1));assert Rank(HorizontalJoin(J10,AA))eq 11;PrintFile(out,Sprintf("Append(~CuspJets,Matrix(GF(2),38,1,%o));",Eltseq(AA)));end for;
+printf "AUDIT37_DECIC_PLUS_CUSP_COMPLETE all18cusps=true cotangent_dimension38=true rank11=true elapsed=%o\n",Cputime(tt);quit;

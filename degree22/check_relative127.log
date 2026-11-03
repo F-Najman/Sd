@@ -1,0 +1,1 @@
+S22_RELATIVE127_VERIFIED {'status': 'PASS', 'degree': 22, 'family_dimension': 2, 'base_rank': 14, 'relative_rank': 20, 'patterns_checked': 109453344, 'full_relation_dimension': 90, 'relation_code_minimum_nonzero_weight': 7, 'independent_Sage_complete_kernel_check': True, 'columns_sha256': '4ed50ec3726303506d23d532bc6c0525eafd54944b460ed4663ada751419616d'}

@@ -1,0 +1,27 @@
+[
+  {
+    "pid": 1604485,
+    "args": [
+      "/opt/magma-2.30-1/magma.exe",
+      "-b",
+      "N:=163",
+      "Qs:=3,5",
+      "Power:=1",
+      "DiamondOrder:=81",
+      "MatrixFile:=work/degree19/two163_data.m",
+      "work/degree19/rational_two163.m"
+    ],
+    "cpu_seconds": 3563.4399999999996,
+    "reason": "Superseded by independently verified sign-zero character norm proof for diamond8"
+  },
+  {
+    "pid": 1651524,
+    "args": [
+      "/opt/magma-2.30-1/magma.exe",
+      "-b",
+      "work/degree19/direct_two163.m"
+    ],
+    "cpu_seconds": 1712.91,
+    "reason": "Superseded by independently verified sign-zero character norm proof for diamond8"
+  }
+]

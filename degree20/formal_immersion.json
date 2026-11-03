@@ -1,0 +1,34 @@
+{
+  "status": "FAIL",
+  "results": [
+    {
+      "N": 101,
+      "status": "FAIL",
+      "degree": 20,
+      "rows_cap6": 44,
+      "rank_cap6": 34,
+      "kernel_dimension": 10,
+      "exceptional_counts": {
+        "7+7+rest6": 112,
+        "8+7+rest5": 84,
+        "8+8+rest4": 60,
+        "9+7+rest4": 60,
+        "9+8+rest3": 40,
+        "9+9+rest2": 24,
+        "10+7+rest3": 40,
+        "10+8+rest2": 24,
+        "10+9+rest1": 12,
+        "10+10+rest0": 4,
+        "11+7+rest2": 24,
+        "11+8+rest1": 12,
+        "11+9+rest0": 4,
+        "12+7+rest1": 12,
+        "12+8+rest0": 4,
+        "13+7+rest0": 4
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 1803,
+      "detail": "FAIL relation=227 cost=20\n"
+    }
+  ]
+}

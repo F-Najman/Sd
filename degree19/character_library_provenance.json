@@ -1,0 +1,9 @@
+{
+  "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree12/large_orders/strange_primes_export.magma",
+  "frozen": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/strange_primes_export.magma",
+  "sha256": "31147d76b6bfd03592c5e617acbc29e4a2922cea71564c13fc7b09a2bc7b1a7f",
+  "Magma_internal_sources": {
+    "/opt/magma-2.30-1/package/Geometry/ModSym/operators.m": "e7a6ab5a01b5320bc0b64de5faf0592ddc29a1014198c67cd9ec4f180be481d1",
+    "/opt/magma-2.30-1/package/Geometry/ModSym/core.m": "7eb5c1ca6839e3620abfab1edc94c3c770af85e9d58ea0af08f41afb4841f4c7"
+  }
+}

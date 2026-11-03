@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "p": 61,
+      "kind": "primary",
+      "polynomial": "x^6 - 1",
+      "character_order": 6,
+      "status": "PASS"
+    },
+    {
+      "p": 97,
+      "kind": "primary",
+      "polynomial": "x^12 - 1",
+      "character_order": 12,
+      "status": "PASS"
+    },
+    {
+      "p": 97,
+      "kind": "alternative",
+      "polynomial": "x^5 - x^4 - x^3 + x^2 + x - 1",
+      "character_order": 12,
+      "status": "PASS"
+    },
+    {
+      "p": 101,
+      "kind": "primary",
+      "polynomial": "x^6 - x^5 + x - 1",
+      "character_order": 10,
+      "status": "PASS"
+    }
+  ]
+}

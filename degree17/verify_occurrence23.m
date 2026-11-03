@@ -1,0 +1,3 @@
+SetQuitOnError(true);SetColumns(0);R<t>:=PolynomialRing(Rationals());
+f:=((-32)*t^0+(304)*t^1+(-1248)*t^2+(2912)*t^3+(-4312)*t^4+(4388)*t^5+(-3414)*t^6+(2290)*t^7+(-1287)*t^8+(466)*t^9+(-121/2)*t^10+(-49/2)*t^11+(223/4)*t^12+(-97/2)*t^13+(11)*t^14+(-4)*t^15+(5/2)*t^16+(1)*t^17);assert IsIrreducible(f);K<z>:=NumberField(f);assert Degree(K)eq 17;x:=z;y:=Evaluate(((2)*t^0+(-2)*t^1),z)/Evaluate(((0)*t^0+(0)*t^1+(1)*t^2),z);r:=(x^2*y-x*y+y-1)/(x^2*y-x);ss:=(x*y-y+1)/(x*y);b:=r*ss*(r-1);c:=ss*(r-1);E:=EllipticCurve([1-c,-b,-b,0,0]);P:=E![0,0];assert Discriminant(E)ne 0 and P ne E!0 and 23*P eq E!0;print "S17_OCCURRENCE_VERIFIED prime=23 exact_field_degree=17";
+print "S17_ALL_OCCURRENCES_COMPLETE";quit;

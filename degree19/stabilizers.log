@@ -1,0 +1,23 @@
+Loading "work/degree19/sources53.m"
+Loading "work/degree19/sources61.m"
+Loading "work/degree19/sources73.m"
+Loading "work/degree19/sources97.m"
+Loading "work/degree19/sources109.m"
+Loading "work/degree19/sources113.m"
+Loading "work/degree19/sources137.m"
+S19_STABILIZER p=53 degree=13 orbit=1 diamond=4 representatives=1 verified=true
+S19_STABILIZER p=61 degree=15 orbit=1 diamond=3 representatives=1 verified=true
+S19_STABILIZER p=73 degree=6 orbit=4 diamond=2 representatives=1 verified=true
+S19_STABILIZER p=73 degree=18 orbit=4 diamond=2 representatives=2 verified=true
+S19_STABILIZER p=73 degree=18 orbit=2 diamond=2 representatives=1 verified=true
+S19_STABILIZER p=73 degree=18 orbit=1 diamond=2 representatives=1 verified=true
+S19_STABILIZER p=97 degree=16 orbit=2 diamond=64 representatives=1 verified=true
+S19_STABILIZER p=109 degree=9 orbit=3 diamond=23 representatives=1 verified=true
+S19_STABILIZER p=109 degree=12 orbit=3 diamond=23 representatives=1 verified=true
+S19_STABILIZER p=113 degree=7 orbit=4 diamond=2 representatives=1 verified=true
+S19_STABILIZER p=113 degree=8 orbit=7 diamond=40 representatives=1 verified=true
+S19_STABILIZER p=113 degree=8 orbit=7 diamond=98 representatives=1 verified=true
+S19_STABILIZER p=113 degree=8 orbit=28 diamond=98 representatives=1 verified=true
+S19_STABILIZER p=113 degree=7 orbit=4 diamond=98 representatives=1 verified=true
+S19_STABILIZER p=137 degree=17 orbit=2 diamond=2 representatives=1 verified=true
+S19_ALL_STABILIZERS_COMPLETE

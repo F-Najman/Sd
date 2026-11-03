@@ -1,0 +1,17 @@
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 128, 'status': 'PASS', 'exit_code': 0, 'elapsed': 332.23422764101997}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 256, 'status': 'PASS', 'exit_code': 0, 'elapsed': 374.42605572286993}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 384, 'status': 'PASS', 'exit_code': 0, 'elapsed': 422.79456761619076}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 768, 'status': 'PASS', 'exit_code': 0, 'elapsed': 397.5896486979909}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 1152, 'status': 'PASS', 'exit_code': 0, 'elapsed': 409.21580514265224}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 2304, 'status': 'PASS', 'exit_code': 0, 'elapsed': 435.8382469457574}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 2432, 'status': 'PASS', 'exit_code': 0, 'elapsed': 430.2401672140695}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 3456, 'status': 'PASS', 'exit_code': 0, 'elapsed': 410.9930222039111}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 4864, 'status': 'PASS', 'exit_code': 0, 'elapsed': 217.5466693728231}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 6912, 'status': 'PASS', 'exit_code': 0, 'elapsed': 236.10731570515782}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 7296, 'status': 'PASS', 'exit_code': 0, 'elapsed': 197.284428646788}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 14592, 'status': 'PASS', 'exit_code': 0, 'elapsed': 261.3679427742027}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 21888, 'status': 'PASS', 'exit_code': 0, 'elapsed': 259.3673276617192}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 43776, 'status': 'PASS', 'exit_code': 0, 'elapsed': 234.82521348819137}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 65664, 'status': 'PASS', 'exit_code': 0, 'elapsed': 215.2968697170727}
+SELECTED_CHARACTER_FINISHED {'p': 262657, 'order': 131328, 'status': 'PASS', 'exit_code': 0, 'elapsed': 211.5624223970808}
+S18_SELECTED_CHARACTER_BATCH_COMPLETE PASS 16

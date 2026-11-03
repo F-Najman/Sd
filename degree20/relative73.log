@@ -1,0 +1,8 @@
+Loading "work/degree20/full73/units_data.m"
+Loading "work/degree20/sources73.m"
+S20_RELATIVE_SS_CANONICAL p=73 degree=6 relation_rank=186 expected=186 elapsed=0.300
+S20_RELATIVE_SS_RANK p=73 translate=0 rank=6
+S20_RELATIVE_SS_RANK p=73 translate=1 rank=6
+S20_RELATIVE_SS_RANK p=73 translate=2 rank=6
+S20_RELATIVE_SS_RANK p=73 translate=3 rank=6
+S20_RELATIVE_SS_COTANGENT_EXPORT_COMPLETE p=73 operators=2 elapsed=7.690

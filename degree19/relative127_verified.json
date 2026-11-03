@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "degree": 19,
+  "family_dimension": 2,
+  "relative_rank": 17,
+  "patterns_checked": 43680,
+  "ranks": {
+    "17": 43680
+  },
+  "failures": []
+}

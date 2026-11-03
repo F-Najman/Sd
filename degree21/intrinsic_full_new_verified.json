@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "case": "full_cusps61_sharp",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 12,
+      "base_degree": 0,
+      "base_rank": 0,
+      "translates": 0,
+      "cusp_blocks": 30
+    },
+    {
+      "case": "full_cusps89",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 3,
+      "base_degree": 0,
+      "base_rank": 0,
+      "translates": 0,
+      "cusp_blocks": 44
+    },
+    {
+      "case": "full_cusps97_sharp",
+      "status": "PASS",
+      "all_entries_rebuilt": true,
+      "operators": 6,
+      "base_degree": 0,
+      "base_rank": 0,
+      "translates": 0,
+      "cusp_blocks": 48
+    }
+  ]
+}

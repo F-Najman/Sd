@@ -1,0 +1,10 @@
+RATIONAL_TWO_START N=37 Qs=[ 3, 5 ] sign=0 exact_JOne=true
+RATIONAL_TWO_JONE N=37 dimension=40 time=0.220
+RATIONAL_TWO_HOMOLOGY N=37 rank=80 time=0.220
+RATIONAL_TWO_DIAMOND N=37 dimension=80 time=0.780
+RATIONAL_TWO_HECKE_START N=37 q=3 time=0.780
+RATIONAL_TWO_KERNEL N=37 q=3 kernel_dimension=12 diamond_difference_rank=12 time=0.800
+RATIONAL_TWO_HECKE_START N=37 q=5 time=0.800
+RATIONAL_TWO_KERNEL N=37 q=5 kernel_dimension=0 diamond_difference_rank=0 time=0.820
+NONIC_ODD_DIAMOND_NORM N=37 a=2 power=1 order=18 verified=true
+RATIONAL_TWO_DONE N=37 kernel_dimension=0 diamond_trivial=true time=0.820

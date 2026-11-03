@@ -1,0 +1,82 @@
+[
+  {
+    "N": 41,
+    "status": "PASS",
+    "seconds": 25.769454336958006
+  },
+  {
+    "N": 47,
+    "status": "PASS",
+    "seconds": 29.593904487090185
+  },
+  {
+    "N": 53,
+    "status": "PASS",
+    "seconds": 44.25447730603628
+  },
+  {
+    "N": 59,
+    "status": "PASS",
+    "seconds": 57.56342399306595
+  },
+  {
+    "N": 61,
+    "status": "PASS",
+    "seconds": 41.97766925115138
+  },
+  {
+    "N": 67,
+    "status": "PASS",
+    "seconds": 96.03055419004522
+  },
+  {
+    "N": 71,
+    "status": "PASS",
+    "seconds": 90.17333554895595
+  },
+  {
+    "N": 73,
+    "status": "PASS",
+    "seconds": 51.96041336306371
+  },
+  {
+    "N": 79,
+    "status": "PASS",
+    "seconds": 74.14583195815794
+  },
+  {
+    "N": 83,
+    "status": "PASS",
+    "seconds": 217.69407689990476
+  },
+  {
+    "N": 89,
+    "status": "PASS",
+    "seconds": 162.90827703592367
+  },
+  {
+    "N": 97,
+    "status": "PASS",
+    "seconds": 168.26504058693536
+  },
+  {
+    "N": 101,
+    "status": "PASS",
+    "seconds": 179.76880142092705
+  },
+  {
+    "N": 103,
+    "status": "PASS",
+    "seconds": 244.82122677611187
+  },
+  {
+    "N": 107,
+    "status": "PASS",
+    "seconds": 185.56779378280044
+  },
+  {
+    "N": 109,
+    "status": "PASS",
+    "seconds": 207.76982412091456
+  }
+]

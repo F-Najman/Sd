@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "native_RR_dimension_with_value_zero_at_cusp": 4,
+  "qexp_principal_part_dimension": 4,
+  "all_15_nonconstant_pole_degrees": [
+    30,
+    30,
+    36,
+    36,
+    36,
+    36,
+    39,
+    39,
+    39,
+    45,
+    45,
+    48,
+    48,
+    51,
+    54
+  ],
+  "native_source": "gonality43.m first task",
+  "qexp_source": "gon43_qjets.py and check_gon43.py"
+}

@@ -1,0 +1,10 @@
+S16_RATIONAL_J_EXCLUSION p=97 j=0 automorphisms=6 prime=5 trace=0 all_powers_through_degree16_invertible=true
+S16_RATIONAL_J_EXCLUSION p=97 j=1728 automorphisms=4 prime=3 trace=0 all_powers_through_degree16_invertible=true
+S16_RATIONAL_J_EXCLUSION p=113 j=287496 automorphisms=2 prime=3 trace=0 all_powers_through_degree16_invertible=true
+S16_RATIONAL_J_EXCLUSION p=113 j=1728 automorphisms=4 prime=3 trace=0 all_powers_through_degree16_invertible=true
+S16_RATIONAL_J_EXCLUSION p=113 j=16581375 automorphisms=2 prime=13 trace=0 all_powers_through_degree16_invertible=true
+S16_RATIONAL_J_EXCLUSION p=113 j=-3375 automorphisms=2 prime=3 trace=0 all_powers_through_degree16_invertible=true
+S16_RATIONAL_J_EXCLUSION p=113 j=-32768 automorphisms=2 prime=3 trace=1 all_powers_through_degree16_invertible=true
+S16_RATIONAL_J_EXCLUSION p=113 j=-262537412640768000 automorphisms=2 prime=3 trace=0 all_powers_through_degree16_invertible=true
+S16_RATIONAL_J_EXCLUSION p=113 j=8000 automorphisms=2 prime=3 trace=-2 all_powers_through_degree16_invertible=true
+S16_RATIONAL_CM_J_EXCLUSIONS_COMPLETE

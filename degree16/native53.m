@@ -1,0 +1,2 @@
+SetQuitOnError(true);SetColumns(0);SetMemoryLimit(12*10^9);tt:=Cputime();AttachSpec("/home/fnajman/degree9_torsion/nonic-torsion/mdmagma/v2/mdmagma.spec");Attach("/home/fnajman/degree9_torsion/nonic-torsion/common/fast_hecke.m");
+X:=MDX1(53,GF(2));ps:=NoncuspidalPlaces(X,13);ss:=[P:P in ps|jInvariant(EllipticCurve(X,P))eq 0];assert #ss eq 1;P:=ss[1];D:=HeckeOperatorFast(X,3,P)-Divisor(P)-3*Divisor(DiamondOperator(X,3,P));D:=DiamondOperator(X,2,D)-D;flag:=IsPrincipal(D);print "S16_SS53_NONPRINCIPAL",not flag,Cputime(tt);assert not flag;print "S16_SS53_COMPLETE";quit;

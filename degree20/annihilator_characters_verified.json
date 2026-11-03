@@ -1,0 +1,131 @@
+{
+  "status": "PASS",
+  "ordinary_operators": [
+    {
+      "p": 53,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 59,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "1",
+      "status": "PASS"
+    },
+    {
+      "p": 67,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 71,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "1",
+      "status": "PASS"
+    },
+    {
+      "p": 73,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 79,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 83,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 89,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 97,
+      "positive_nontrivial_character_orders": [
+        12
+      ],
+      "ordinary_annihilator": "x^7 - x^6 + x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 101,
+      "positive_nontrivial_character_orders": [
+        10
+      ],
+      "ordinary_annihilator": "x^6 - x^5 + x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 103,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 107,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 109,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 113,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 127,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 131,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 137,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    },
+    {
+      "p": 139,
+      "positive_nontrivial_character_orders": [],
+      "ordinary_annihilator": "x - 1",
+      "status": "PASS"
+    }
+  ],
+  "global_nonstrange_primes": [
+    151,
+    163,
+    167
+  ],
+  "sharper_map_positive_orders": {
+    "97": [
+      12
+    ],
+    "101": [
+      10
+    ]
+  },
+  "table_used_only_below_100000": true
+}

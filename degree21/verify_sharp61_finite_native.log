@@ -1,0 +1,6 @@
+Loading "work/degree21/strange_eigenvalues61_data.m"
+S21_SHARP_FINITE_WINDING_IMAGE p=61 n=6 q=2 dimension=5 winding_rank=4 verified=true
+S21_SHARP_FINITE_WINDING_IMAGE p=61 n=6 q=3 dimension=5 winding_rank=4 verified=true
+S21_SHARP_FINITE_WINDING_IMAGE p=61 n=6 q=5 dimension=5 winding_rank=4 verified=true
+S21_SHARP_FINITE_WINDING_IMAGE p=61 n=6 q=7 dimension=5 winding_rank=4 verified=true
+S21_SHARP_FINITE_IMAGE_COMPLETE

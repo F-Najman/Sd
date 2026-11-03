@@ -1,0 +1,8 @@
+RATIONAL_TWO_START N=67 Qs=[ 3, 5 ] sign=0 exact_JOne=true
+RATIONAL_TWO_JONE N=67 dimension=155 time=2.670
+RATIONAL_TWO_HOMOLOGY N=67 rank=310 time=2.670
+
+In file "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/rational_two.m", line 33, column 16:
+>> DaZ:=D2Z^Power;assert DaZ^DiamondOrder eq IdentityMatrix(Integers(),d);
+                  ^
+Runtime error in assert: Assertion failed

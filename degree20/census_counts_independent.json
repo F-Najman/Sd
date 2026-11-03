@@ -1,0 +1,8154 @@
+{
+  "status": "PASS",
+  "degree": 20,
+  "ordinary_method": "unconditional reduced quadratic forms and Schoof Proposition5.2",
+  "supersingular_method": "24 Hurwitz units and Frobenius coset i+j on Fp^2 minus0",
+  "results": [
+    {
+      "p": 53,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 702,
+          "trace_class_numbers": [
+            [
+              -17,
+              27
+            ]
+          ]
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 1300,
+          "trace_class_numbers": [
+            [
+              -35,
+              50
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 1430,
+          "trace_class_numbers": [
+            [
+              -71,
+              22
+            ],
+            [
+              35,
+              33
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 4056,
+          "trace_class_numbers": [
+            [
+              -37,
+              96
+            ],
+            [
+              69,
+              60
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 8138,
+          "trace_class_numbers": [
+            [
+              -181,
+              1
+            ],
+            [
+              -75,
+              117
+            ],
+            [
+              31,
+              104
+            ],
+            [
+              137,
+              91
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 16744,
+          "trace_class_numbers": [
+            [
+              -151,
+              112
+            ],
+            [
+              -45,
+              168
+            ],
+            [
+              61,
+              224
+            ],
+            [
+              167,
+              140
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 35490,
+          "trace_class_numbers": [
+            [
+              -303,
+              120
+            ],
+            [
+              -197,
+              150
+            ],
+            [
+              -91,
+              180
+            ],
+            [
+              15,
+              420
+            ],
+            [
+              121,
+              300
+            ],
+            [
+              227,
+              120
+            ],
+            [
+              333,
+              75
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 62400,
+          "trace_class_numbers": [
+            [
+              -501,
+              48
+            ],
+            [
+              -395,
+              400
+            ],
+            [
+              -289,
+              288
+            ],
+            [
+              -183,
+              192
+            ],
+            [
+              -77,
+              256
+            ],
+            [
+              29,
+              320
+            ],
+            [
+              135,
+              192
+            ],
+            [
+              241,
+              288
+            ],
+            [
+              347,
+              320
+            ],
+            [
+              453,
+              96
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 140556,
+          "trace_class_numbers": [
+            [
+              -685,
+              68
+            ],
+            [
+              -579,
+              408
+            ],
+            [
+              -473,
+              374
+            ],
+            [
+              -367,
+              357
+            ],
+            [
+              -261,
+              697
+            ],
+            [
+              -155,
+              238
+            ],
+            [
+              -49,
+              255
+            ],
+            [
+              57,
+              1003
+            ],
+            [
+              163,
+              595
+            ],
+            [
+              269,
+              306
+            ],
+            [
+              375,
+              408
+            ],
+            [
+              481,
+              238
+            ],
+            [
+              587,
+              221
+            ],
+            [
+              693,
+              238
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 267696,
+          "trace_class_numbers": [
+            [
+              -947,
+              288
+            ],
+            [
+              -841,
+              360
+            ],
+            [
+              -735,
+              459
+            ],
+            [
+              -629,
+              864
+            ],
+            [
+              -523,
+              432
+            ],
+            [
+              -417,
+              288
+            ],
+            [
+              -311,
+              576
+            ],
+            [
+              -205,
+              1404
+            ],
+            [
+              -99,
+              630
+            ],
+            [
+              7,
+              720
+            ],
+            [
+              113,
+              432
+            ],
+            [
+              219,
+              432
+            ],
+            [
+              325,
+              720
+            ],
+            [
+              431,
+              504
+            ],
+            [
+              537,
+              360
+            ],
+            [
+              643,
+              468
+            ],
+            [
+              749,
+              630
+            ],
+            [
+              855,
+              405
+            ],
+            [
+              961,
+              324
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 512772,
+          "trace_class_numbers": [
+            [
+              -1365,
+              266
+            ],
+            [
+              -1259,
+              532
+            ],
+            [
+              -1153,
+              266
+            ],
+            [
+              -1047,
+              836
+            ],
+            [
+              -941,
+              874
+            ],
+            [
+              -835,
+              342
+            ],
+            [
+              -729,
+              1064
+            ],
+            [
+              -623,
+              570
+            ],
+            [
+              -517,
+              532
+            ],
+            [
+              -411,
+              1330
+            ],
+            [
+              -305,
+              456
+            ],
+            [
+              -199,
+              836
+            ],
+            [
+              -93,
+              1311
+            ],
+            [
+              13,
+              532
+            ],
+            [
+              119,
+              836
+            ],
+            [
+              225,
+              1216
+            ],
+            [
+              331,
+              608
+            ],
+            [
+              437,
+              513
+            ],
+            [
+              543,
+              1425
+            ],
+            [
+              649,
+              855
+            ],
+            [
+              755,
+              608
+            ],
+            [
+              861,
+              1501
+            ],
+            [
+              967,
+              380
+            ],
+            [
+              1073,
+              323
+            ],
+            [
+              1179,
+              1197
+            ],
+            [
+              1285,
+              323
+            ],
+            [
+              1391,
+              190
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1066000,
+          "trace_class_numbers": [
+            [
+              -1989,
+              200
+            ],
+            [
+              -1883,
+              400
+            ],
+            [
+              -1777,
+              840
+            ],
+            [
+              -1671,
+              480
+            ],
+            [
+              -1565,
+              1040
+            ],
+            [
+              -1459,
+              960
+            ],
+            [
+              -1353,
+              800
+            ],
+            [
+              -1247,
+              1680
+            ],
+            [
+              -1141,
+              1080
+            ],
+            [
+              -1035,
+              780
+            ],
+            [
+              -929,
+              1120
+            ],
+            [
+              -823,
+              2250
+            ],
+            [
+              -717,
+              960
+            ],
+            [
+              -611,
+              1120
+            ],
+            [
+              -505,
+              1040
+            ],
+            [
+              -399,
+              640
+            ],
+            [
+              -293,
+              1600
+            ],
+            [
+              -187,
+              1360
+            ],
+            [
+              -81,
+              960
+            ],
+            [
+              25,
+              2280
+            ],
+            [
+              131,
+              1920
+            ],
+            [
+              237,
+              840
+            ],
+            [
+              343,
+              1120
+            ],
+            [
+              449,
+              960
+            ],
+            [
+              555,
+              1200
+            ],
+            [
+              661,
+              1200
+            ],
+            [
+              767,
+              1280
+            ],
+            [
+              873,
+              1120
+            ],
+            [
+              979,
+              720
+            ],
+            [
+              1085,
+              2280
+            ],
+            [
+              1191,
+              720
+            ],
+            [
+              1297,
+              1200
+            ],
+            [
+              1403,
+              960
+            ],
+            [
+              1509,
+              540
+            ],
+            [
+              1615,
+              1920
+            ],
+            [
+              1721,
+              400
+            ],
+            [
+              1827,
+              480
+            ],
+            [
+              1933,
+              400
+            ],
+            [
+              2039,
+              150
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          13,
+          1
+        ],
+        [
+          52,
+          1
+        ],
+        [
+          52,
+          1
+        ]
+      ],
+      "source_sha256": "b40d03b921d5520a1cd66e07d358bd06005e75834bf47cb14f293a70f6e790b2"
+    },
+    {
+      "p": 59,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 406,
+          "trace_class_numbers": [
+            [
+              11,
+              14
+            ]
+          ]
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 232,
+          "trace_class_numbers": [
+            [
+              21,
+              8
+            ]
+          ]
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 261,
+          "trace_class_numbers": [
+            [
+              41,
+              9
+            ]
+          ]
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 1160,
+          "trace_class_numbers": [
+            [
+              -37,
+              40
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 2233,
+          "trace_class_numbers": [
+            [
+              -75,
+              44
+            ],
+            [
+              43,
+              33
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 4176,
+          "trace_class_numbers": [
+            [
+              -33,
+              48
+            ],
+            [
+              85,
+              96
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 7917,
+          "trace_class_numbers": [
+            [
+              -67,
+              117
+            ],
+            [
+              51,
+              130
+            ],
+            [
+              169,
+              26
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 15834,
+          "trace_class_numbers": [
+            [
+              -253,
+              14
+            ],
+            [
+              -135,
+              154
+            ],
+            [
+              -17,
+              168
+            ],
+            [
+              101,
+              112
+            ],
+            [
+              219,
+              98
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 36540,
+          "trace_class_numbers": [
+            [
+              -271,
+              120
+            ],
+            [
+              -153,
+              360
+            ],
+            [
+              -35,
+              120
+            ],
+            [
+              83,
+              165
+            ],
+            [
+              201,
+              390
+            ],
+            [
+              319,
+              105
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 61016,
+          "trace_class_numbers": [
+            [
+              -425,
+              192
+            ],
+            [
+              -307,
+              320
+            ],
+            [
+              -189,
+              192
+            ],
+            [
+              -71,
+              360
+            ],
+            [
+              47,
+              256
+            ],
+            [
+              165,
+              336
+            ],
+            [
+              283,
+              320
+            ],
+            [
+              401,
+              128
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 124236,
+          "trace_class_numbers": [
+            [
+              -615,
+              221
+            ],
+            [
+              -497,
+              357
+            ],
+            [
+              -379,
+              204
+            ],
+            [
+              -261,
+              697
+            ],
+            [
+              -143,
+              408
+            ],
+            [
+              -25,
+              357
+            ],
+            [
+              93,
+              697
+            ],
+            [
+              211,
+              238
+            ],
+            [
+              329,
+              170
+            ],
+            [
+              447,
+              544
+            ],
+            [
+              565,
+              255
+            ],
+            [
+              683,
+              136
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 262827,
+          "trace_class_numbers": [
+            [
+              -995,
+              216
+            ],
+            [
+              -877,
+              378
+            ],
+            [
+              -759,
+              252
+            ],
+            [
+              -641,
+              540
+            ],
+            [
+              -523,
+              432
+            ],
+            [
+              -405,
+              594
+            ],
+            [
+              -287,
+              432
+            ],
+            [
+              -169,
+              1260
+            ],
+            [
+              -51,
+              540
+            ],
+            [
+              67,
+              432
+            ],
+            [
+              185,
+              792
+            ],
+            [
+              303,
+              360
+            ],
+            [
+              421,
+              1026
+            ],
+            [
+              539,
+              648
+            ],
+            [
+              657,
+              369
+            ],
+            [
+              775,
+              432
+            ],
+            [
+              893,
+              288
+            ],
+            [
+              1011,
+              72
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 531715,
+          "trace_class_numbers": [
+            [
+              -1401,
+              532
+            ],
+            [
+              -1283,
+              266
+            ],
+            [
+              -1165,
+              418
+            ],
+            [
+              -1047,
+              836
+            ],
+            [
+              -929,
+              494
+            ],
+            [
+              -811,
+              608
+            ],
+            [
+              -693,
+              798
+            ],
+            [
+              -575,
+              532
+            ],
+            [
+              -457,
+              494
+            ],
+            [
+              -339,
+              2204
+            ],
+            [
+              -221,
+              760
+            ],
+            [
+              -103,
+              513
+            ],
+            [
+              15,
+              1520
+            ],
+            [
+              133,
+              475
+            ],
+            [
+              251,
+              760
+            ],
+            [
+              369,
+              1615
+            ],
+            [
+              487,
+              627
+            ],
+            [
+              605,
+              684
+            ],
+            [
+              723,
+              798
+            ],
+            [
+              841,
+              798
+            ],
+            [
+              959,
+              646
+            ],
+            [
+              1077,
+              1064
+            ],
+            [
+              1195,
+              285
+            ],
+            [
+              1313,
+              285
+            ],
+            [
+              1431,
+              323
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1017900,
+          "trace_class_numbers": [
+            [
+              -1977,
+              400
+            ],
+            [
+              -1859,
+              480
+            ],
+            [
+              -1741,
+              1100
+            ],
+            [
+              -1623,
+              560
+            ],
+            [
+              -1505,
+              960
+            ],
+            [
+              -1387,
+              800
+            ],
+            [
+              -1269,
+              640
+            ],
+            [
+              -1151,
+              800
+            ],
+            [
+              -1033,
+              960
+            ],
+            [
+              -915,
+              1400
+            ],
+            [
+              -797,
+              1200
+            ],
+            [
+              -679,
+              1480
+            ],
+            [
+              -561,
+              600
+            ],
+            [
+              -443,
+              1760
+            ],
+            [
+              -325,
+              1680
+            ],
+            [
+              -207,
+              1120
+            ],
+            [
+              -89,
+              1120
+            ],
+            [
+              29,
+              1040
+            ],
+            [
+              147,
+              800
+            ],
+            [
+              265,
+              1800
+            ],
+            [
+              383,
+              1920
+            ],
+            [
+              501,
+              720
+            ],
+            [
+              619,
+              960
+            ],
+            [
+              737,
+              1280
+            ],
+            [
+              855,
+              960
+            ],
+            [
+              973,
+              1120
+            ],
+            [
+              1091,
+              800
+            ],
+            [
+              1209,
+              720
+            ],
+            [
+              1327,
+              1920
+            ],
+            [
+              1445,
+              1600
+            ],
+            [
+              1563,
+              800
+            ],
+            [
+              1681,
+              560
+            ],
+            [
+              1799,
+              520
+            ],
+            [
+              1917,
+              320
+            ],
+            [
+              2035,
+              200
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          29,
+          1
+        ],
+        [
+          58,
+          1
+        ],
+        [
+          58,
+          1
+        ]
+      ],
+      "source_sha256": "5d41d56ece107f9a52e8fc73aa681980309e583cace98e4e8a7e77ed3819f2b7"
+    },
+    {
+      "p": 67,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 231,
+          "trace_class_numbers": [
+            [
+              -5,
+              7
+            ]
+          ]
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 528,
+          "trace_class_numbers": [
+            [
+              -11,
+              16
+            ]
+          ]
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 693,
+          "trace_class_numbers": [
+            [
+              -23,
+              21
+            ]
+          ]
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 660,
+          "trace_class_numbers": [
+            [
+              -47,
+              20
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 2904,
+          "trace_class_numbers": [
+            [
+              39,
+              88
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 3168,
+          "trace_class_numbers": [
+            [
+              -57,
+              48
+            ],
+            [
+              77,
+              48
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 7722,
+          "trace_class_numbers": [
+            [
+              -115,
+              65
+            ],
+            [
+              19,
+              52
+            ],
+            [
+              153,
+              117
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 13629,
+          "trace_class_numbers": [
+            [
+              -231,
+              49
+            ],
+            [
+              -97,
+              84
+            ],
+            [
+              37,
+              168
+            ],
+            [
+              171,
+              112
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 28380,
+          "trace_class_numbers": [
+            [
+              -329,
+              95
+            ],
+            [
+              -195,
+              165
+            ],
+            [
+              -61,
+              270
+            ],
+            [
+              73,
+              105
+            ],
+            [
+              207,
+              135
+            ],
+            [
+              341,
+              90
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 66528,
+          "trace_class_numbers": [
+            [
+              -391,
+              208
+            ],
+            [
+              -257,
+              256
+            ],
+            [
+              -123,
+              288
+            ],
+            [
+              11,
+              320
+            ],
+            [
+              145,
+              480
+            ],
+            [
+              279,
+              128
+            ],
+            [
+              413,
+              336
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 123420,
+          "trace_class_numbers": [
+            [
+              -649,
+              187
+            ],
+            [
+              -515,
+              306
+            ],
+            [
+              -381,
+              340
+            ],
+            [
+              -247,
+              408
+            ],
+            [
+              -113,
+              357
+            ],
+            [
+              21,
+              527
+            ],
+            [
+              155,
+              238
+            ],
+            [
+              289,
+              272
+            ],
+            [
+              423,
+              816
+            ],
+            [
+              557,
+              204
+            ],
+            [
+              691,
+              85
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 264429,
+          "trace_class_numbers": [
+            [
+              -897,
+              216
+            ],
+            [
+              -763,
+              450
+            ],
+            [
+              -629,
+              864
+            ],
+            [
+              -495,
+              525
+            ],
+            [
+              -361,
+              576
+            ],
+            [
+              -227,
+              810
+            ],
+            [
+              -93,
+              378
+            ],
+            [
+              41,
+              720
+            ],
+            [
+              175,
+              792
+            ],
+            [
+              309,
+              576
+            ],
+            [
+              443,
+              540
+            ],
+            [
+              577,
+              396
+            ],
+            [
+              711,
+              252
+            ],
+            [
+              845,
+              648
+            ],
+            [
+              979,
+              270
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 539220,
+          "trace_class_numbers": [
+            [
+              -1393,
+              171
+            ],
+            [
+              -1259,
+              532
+            ],
+            [
+              -1125,
+              456
+            ],
+            [
+              -991,
+              703
+            ],
+            [
+              -857,
+              532
+            ],
+            [
+              -723,
+              798
+            ],
+            [
+              -589,
+              1064
+            ],
+            [
+              -455,
+              532
+            ],
+            [
+              -321,
+              1216
+            ],
+            [
+              -187,
+              570
+            ],
+            [
+              -53,
+              551
+            ],
+            [
+              81,
+              2622
+            ],
+            [
+              215,
+              646
+            ],
+            [
+              349,
+              912
+            ],
+            [
+              483,
+              950
+            ],
+            [
+              617,
+              494
+            ],
+            [
+              751,
+              684
+            ],
+            [
+              885,
+              1216
+            ],
+            [
+              1019,
+              779
+            ],
+            [
+              1153,
+              266
+            ],
+            [
+              1287,
+              532
+            ],
+            [
+              1421,
+              114
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1035540,
+          "trace_class_numbers": [
+            [
+              -1983,
+              320
+            ],
+            [
+              -1849,
+              400
+            ],
+            [
+              -1715,
+              1000
+            ],
+            [
+              -1581,
+              520
+            ],
+            [
+              -1447,
+              800
+            ],
+            [
+              -1313,
+              1440
+            ],
+            [
+              -1179,
+              640
+            ],
+            [
+              -1045,
+              1200
+            ],
+            [
+              -911,
+              1200
+            ],
+            [
+              -777,
+              1120
+            ],
+            [
+              -643,
+              1680
+            ],
+            [
+              -509,
+              1700
+            ],
+            [
+              -375,
+              1280
+            ],
+            [
+              -241,
+              1120
+            ],
+            [
+              -107,
+              1280
+            ],
+            [
+              27,
+              840
+            ],
+            [
+              161,
+              980
+            ],
+            [
+              295,
+              1280
+            ],
+            [
+              429,
+              740
+            ],
+            [
+              563,
+              1280
+            ],
+            [
+              697,
+              2400
+            ],
+            [
+              831,
+              1040
+            ],
+            [
+              965,
+              1520
+            ],
+            [
+              1099,
+              720
+            ],
+            [
+              1233,
+              640
+            ],
+            [
+              1367,
+              1120
+            ],
+            [
+              1501,
+              600
+            ],
+            [
+              1635,
+              1040
+            ],
+            [
+              1769,
+              1000
+            ],
+            [
+              1903,
+              400
+            ],
+            [
+              2037,
+              80
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          22,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          66,
+          1
+        ],
+        [
+          66,
+          1
+        ]
+      ],
+      "source_sha256": "9a3b91575e587ec32e46aa0bdcd8781e0c0db4725f72a46cf96be2b643c05ccb"
+    },
+    {
+      "p": 71,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 280,
+          "trace_class_numbers": [
+            [
+              -13,
+              8
+            ]
+          ]
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 280,
+          "trace_class_numbers": [
+            [
+              -27,
+              8
+            ]
+          ]
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 1400,
+          "trace_class_numbers": [
+            [
+              31,
+              40
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 3080,
+          "trace_class_numbers": [
+            [
+              -81,
+              44
+            ],
+            [
+              61,
+              44
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 2100,
+          "trace_class_numbers": [
+            [
+              -21,
+              36
+            ],
+            [
+              121,
+              24
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 9555,
+          "trace_class_numbers": [
+            [
+              -43,
+              117
+            ],
+            [
+              99,
+              156
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 16940,
+          "trace_class_numbers": [
+            [
+              -229,
+              112
+            ],
+            [
+              -87,
+              120
+            ],
+            [
+              55,
+              168
+            ],
+            [
+              197,
+              84
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 33075,
+          "trace_class_numbers": [
+            [
+              -317,
+              60
+            ],
+            [
+              -175,
+              105
+            ],
+            [
+              -33,
+              360
+            ],
+            [
+              109,
+              225
+            ],
+            [
+              251,
+              195
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 62440,
+          "trace_class_numbers": [
+            [
+              -493,
+              128
+            ],
+            [
+              -351,
+              192
+            ],
+            [
+              -209,
+              192
+            ],
+            [
+              -67,
+              320
+            ],
+            [
+              75,
+              288
+            ],
+            [
+              217,
+              424
+            ],
+            [
+              359,
+              192
+            ],
+            [
+              501,
+              48
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 133875,
+          "trace_class_numbers": [
+            [
+              -703,
+              102
+            ],
+            [
+              -561,
+              391
+            ],
+            [
+              -419,
+              136
+            ],
+            [
+              -277,
+              408
+            ],
+            [
+              -135,
+              748
+            ],
+            [
+              7,
+              425
+            ],
+            [
+              149,
+              425
+            ],
+            [
+              291,
+              612
+            ],
+            [
+              433,
+              255
+            ],
+            [
+              575,
+              187
+            ],
+            [
+              717,
+              136
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 254520,
+          "trace_class_numbers": [
+            [
+              -981,
+              216
+            ],
+            [
+              -839,
+              612
+            ],
+            [
+              -697,
+              468
+            ],
+            [
+              -555,
+              504
+            ],
+            [
+              -413,
+              432
+            ],
+            [
+              -271,
+              576
+            ],
+            [
+              -129,
+              324
+            ],
+            [
+              13,
+              792
+            ],
+            [
+              155,
+              1080
+            ],
+            [
+              297,
+              252
+            ],
+            [
+              439,
+              720
+            ],
+            [
+              581,
+              432
+            ],
+            [
+              723,
+              288
+            ],
+            [
+              865,
+              468
+            ],
+            [
+              1007,
+              108
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 539315,
+          "trace_class_numbers": [
+            [
+              -1395,
+              190
+            ],
+            [
+              -1253,
+              171
+            ],
+            [
+              -1111,
+              532
+            ],
+            [
+              -969,
+              1330
+            ],
+            [
+              -827,
+              532
+            ],
+            [
+              -685,
+              513
+            ],
+            [
+              -543,
+              1425
+            ],
+            [
+              -401,
+              874
+            ],
+            [
+              -259,
+              893
+            ],
+            [
+              -117,
+              1064
+            ],
+            [
+              25,
+              798
+            ],
+            [
+              167,
+              532
+            ],
+            [
+              309,
+              1634
+            ],
+            [
+              451,
+              1140
+            ],
+            [
+              593,
+              418
+            ],
+            [
+              735,
+              969
+            ],
+            [
+              877,
+              304
+            ],
+            [
+              1019,
+              779
+            ],
+            [
+              1161,
+              950
+            ],
+            [
+              1303,
+              304
+            ],
+            [
+              1445,
+              57
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1076040,
+          "trace_class_numbers": [
+            [
+              -1939,
+              420
+            ],
+            [
+              -1797,
+              720
+            ],
+            [
+              -1655,
+              920
+            ],
+            [
+              -1513,
+              640
+            ],
+            [
+              -1371,
+              480
+            ],
+            [
+              -1229,
+              1200
+            ],
+            [
+              -1087,
+              1320
+            ],
+            [
+              -945,
+              1120
+            ],
+            [
+              -803,
+              1600
+            ],
+            [
+              -661,
+              1200
+            ],
+            [
+              -519,
+              800
+            ],
+            [
+              -377,
+              1680
+            ],
+            [
+              -235,
+              2520
+            ],
+            [
+              -93,
+              1040
+            ],
+            [
+              49,
+              1560
+            ],
+            [
+              191,
+              1240
+            ],
+            [
+              333,
+              960
+            ],
+            [
+              475,
+              1364
+            ],
+            [
+              617,
+              1280
+            ],
+            [
+              759,
+              640
+            ],
+            [
+              901,
+              960
+            ],
+            [
+              1043,
+              960
+            ],
+            [
+              1185,
+              880
+            ],
+            [
+              1327,
+              1920
+            ],
+            [
+              1469,
+              800
+            ],
+            [
+              1611,
+              440
+            ],
+            [
+              1753,
+              800
+            ],
+            [
+              1895,
+              1200
+            ],
+            [
+              2037,
+              80
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          70,
+          1
+        ],
+        [
+          70,
+          1
+        ],
+        [
+          70,
+          1
+        ]
+      ],
+      "source_sha256": "07b90444a0f8e3547f890833c39f8f5f1ed21ea5712e6f4460d11c6c77410c0d"
+    },
+    {
+      "p": 73,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 252,
+          "trace_class_numbers": [
+            [
+              -17,
+              7
+            ]
+          ]
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 1080,
+          "trace_class_numbers": [
+            [
+              3,
+              30
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 1188,
+          "trace_class_numbers": [
+            [
+              5,
+              33
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 1728,
+          "trace_class_numbers": [
+            [
+              9,
+              48
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 9828,
+          "trace_class_numbers": [
+            [
+              -129,
+              91
+            ],
+            [
+              17,
+              143
+            ],
+            [
+              163,
+              39
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 13356,
+          "trace_class_numbers": [
+            [
+              -113,
+              140
+            ],
+            [
+              33,
+              119
+            ],
+            [
+              179,
+              112
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 30780,
+          "trace_class_numbers": [
+            [
+              -227,
+              120
+            ],
+            [
+              -81,
+              360
+            ],
+            [
+              65,
+              150
+            ],
+            [
+              211,
+              180
+            ],
+            [
+              357,
+              45
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 67536,
+          "trace_class_numbers": [
+            [
+              -455,
+              160
+            ],
+            [
+              -309,
+              192
+            ],
+            [
+              -163,
+              448
+            ],
+            [
+              -17,
+              500
+            ],
+            [
+              129,
+              160
+            ],
+            [
+              275,
+              288
+            ],
+            [
+              421,
+              128
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 137700,
+          "trace_class_numbers": [
+            [
+              -619,
+              204
+            ],
+            [
+              -473,
+              374
+            ],
+            [
+              -327,
+              1020
+            ],
+            [
+              -181,
+              221
+            ],
+            [
+              -35,
+              272
+            ],
+            [
+              111,
+              544
+            ],
+            [
+              257,
+              391
+            ],
+            [
+              403,
+              340
+            ],
+            [
+              549,
+              340
+            ],
+            [
+              695,
+              119
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 264384,
+          "trace_class_numbers": [
+            [
+              -947,
+              288
+            ],
+            [
+              -801,
+              360
+            ],
+            [
+              -655,
+              720
+            ],
+            [
+              -509,
+              576
+            ],
+            [
+              -363,
+              360
+            ],
+            [
+              -217,
+              360
+            ],
+            [
+              -71,
+              648
+            ],
+            [
+              75,
+              720
+            ],
+            [
+              221,
+              720
+            ],
+            [
+              367,
+              756
+            ],
+            [
+              513,
+              360
+            ],
+            [
+              659,
+              864
+            ],
+            [
+              805,
+              360
+            ],
+            [
+              951,
+              252
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 515052,
+          "trace_class_numbers": [
+            [
+              -1311,
+              532
+            ],
+            [
+              -1165,
+              418
+            ],
+            [
+              -1019,
+              779
+            ],
+            [
+              -873,
+              1045
+            ],
+            [
+              -727,
+              608
+            ],
+            [
+              -581,
+              627
+            ],
+            [
+              -435,
+              836
+            ],
+            [
+              -289,
+              760
+            ],
+            [
+              -143,
+              836
+            ],
+            [
+              3,
+              1121
+            ],
+            [
+              149,
+              969
+            ],
+            [
+              295,
+              665
+            ],
+            [
+              441,
+              1501
+            ],
+            [
+              587,
+              684
+            ],
+            [
+              733,
+              342
+            ],
+            [
+              879,
+              1197
+            ],
+            [
+              1025,
+              437
+            ],
+            [
+              1171,
+              494
+            ],
+            [
+              1317,
+              456
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1072440,
+          "trace_class_numbers": [
+            [
+              -2039,
+              150
+            ],
+            [
+              -1893,
+              320
+            ],
+            [
+              -1747,
+              640
+            ],
+            [
+              -1601,
+              640
+            ],
+            [
+              -1455,
+              960
+            ],
+            [
+              -1309,
+              900
+            ],
+            [
+              -1163,
+              1200
+            ],
+            [
+              -1017,
+              1120
+            ],
+            [
+              -871,
+              1120
+            ],
+            [
+              -725,
+              2240
+            ],
+            [
+              -579,
+              880
+            ],
+            [
+              -433,
+              1280
+            ],
+            [
+              -287,
+              1280
+            ],
+            [
+              -141,
+              600
+            ],
+            [
+              5,
+              2580
+            ],
+            [
+              151,
+              1200
+            ],
+            [
+              297,
+              800
+            ],
+            [
+              443,
+              1760
+            ],
+            [
+              589,
+              1140
+            ],
+            [
+              735,
+              1040
+            ],
+            [
+              881,
+              960
+            ],
+            [
+              1027,
+              1960
+            ],
+            [
+              1173,
+              1200
+            ],
+            [
+              1319,
+              1060
+            ],
+            [
+              1465,
+              1360
+            ],
+            [
+              1611,
+              440
+            ],
+            [
+              1757,
+              560
+            ],
+            [
+              1903,
+              400
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          6,
+          4
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          18,
+          4
+        ],
+        [
+          18,
+          4
+        ]
+      ],
+      "source_sha256": "6ca12fc816f1d9bade933694ee3a818e920ceb17e21ef87bbb013adf6beb99a9"
+    },
+    {
+      "p": 79,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 702,
+          "trace_class_numbers": [
+            [
+              39,
+              18
+            ]
+          ]
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 1287,
+          "trace_class_numbers": [
+            [
+              -5,
+              33
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 2340,
+          "trace_class_numbers": [
+            [
+              -11,
+              60
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 7644,
+          "trace_class_numbers": [
+            [
+              -181,
+              1
+            ],
+            [
+              -23,
+              104
+            ],
+            [
+              135,
+              91
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 15288,
+          "trace_class_numbers": [
+            [
+              -205,
+              140
+            ],
+            [
+              -47,
+              168
+            ],
+            [
+              111,
+              84
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 27105,
+          "trace_class_numbers": [
+            [
+              -253,
+              150
+            ],
+            [
+              -95,
+              155
+            ],
+            [
+              63,
+              225
+            ],
+            [
+              221,
+              165
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 62400,
+          "trace_class_numbers": [
+            [
+              -507,
+              48
+            ],
+            [
+              -349,
+              192
+            ],
+            [
+              -191,
+              192
+            ],
+            [
+              -33,
+              192
+            ],
+            [
+              125,
+              560
+            ],
+            [
+              283,
+              320
+            ],
+            [
+              441,
+              96
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 112710,
+          "trace_class_numbers": [
+            [
+              -699,
+              102
+            ],
+            [
+              -541,
+              289
+            ],
+            [
+              -383,
+              425
+            ],
+            [
+              -225,
+              476
+            ],
+            [
+              -67,
+              340
+            ],
+            [
+              91,
+              238
+            ],
+            [
+              249,
+              374
+            ],
+            [
+              407,
+              340
+            ],
+            [
+              565,
+              255
+            ],
+            [
+              723,
+              51
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 261144,
+          "trace_class_numbers": [
+            [
+              -925,
+              450
+            ],
+            [
+              -767,
+              540
+            ],
+            [
+              -609,
+              360
+            ],
+            [
+              -451,
+              504
+            ],
+            [
+              -293,
+              648
+            ],
+            [
+              -135,
+              648
+            ],
+            [
+              23,
+              576
+            ],
+            [
+              181,
+              576
+            ],
+            [
+              339,
+              432
+            ],
+            [
+              497,
+              810
+            ],
+            [
+              655,
+              720
+            ],
+            [
+              813,
+              288
+            ],
+            [
+              971,
+              144
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 534261,
+          "trace_class_numbers": [
+            [
+              -1377,
+              342
+            ],
+            [
+              -1219,
+              532
+            ],
+            [
+              -1061,
+              798
+            ],
+            [
+              -903,
+              798
+            ],
+            [
+              -745,
+              456
+            ],
+            [
+              -587,
+              684
+            ],
+            [
+              -429,
+              1387
+            ],
+            [
+              -271,
+              1064
+            ],
+            [
+              -113,
+              456
+            ],
+            [
+              45,
+              1235
+            ],
+            [
+              203,
+              608
+            ],
+            [
+              361,
+              1045
+            ],
+            [
+              519,
+              1748
+            ],
+            [
+              677,
+              456
+            ],
+            [
+              835,
+              342
+            ],
+            [
+              993,
+              836
+            ],
+            [
+              1151,
+              570
+            ],
+            [
+              1309,
+              342
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1017120,
+          "trace_class_numbers": [
+            [
+              -1965,
+              380
+            ],
+            [
+              -1807,
+              480
+            ],
+            [
+              -1649,
+              640
+            ],
+            [
+              -1491,
+              380
+            ],
+            [
+              -1333,
+              1120
+            ],
+            [
+              -1175,
+              1200
+            ],
+            [
+              -1017,
+              1120
+            ],
+            [
+              -859,
+              1680
+            ],
+            [
+              -701,
+              920
+            ],
+            [
+              -543,
+              1040
+            ],
+            [
+              -385,
+              1160
+            ],
+            [
+              -227,
+              2000
+            ],
+            [
+              -69,
+              680
+            ],
+            [
+              89,
+              1120
+            ],
+            [
+              247,
+              1920
+            ],
+            [
+              405,
+              1200
+            ],
+            [
+              563,
+              1280
+            ],
+            [
+              721,
+              880
+            ],
+            [
+              879,
+              560
+            ],
+            [
+              1037,
+              1200
+            ],
+            [
+              1195,
+              1760
+            ],
+            [
+              1353,
+              800
+            ],
+            [
+              1511,
+              840
+            ],
+            [
+              1669,
+              840
+            ],
+            [
+              1827,
+              480
+            ],
+            [
+              1985,
+              400
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          26,
+          1
+        ],
+        [
+          78,
+          1
+        ],
+        [
+          78,
+          1
+        ],
+        [
+          78,
+          1
+        ]
+      ],
+      "source_sha256": "3fe0e597e5694339dd3c78278a3374e60fca36e80220e191cb10fa261e374215"
+    },
+    {
+      "p": 83,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 1845,
+          "trace_class_numbers": [
+            [
+              15,
+              45
+            ]
+          ]
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 1640,
+          "trace_class_numbers": [
+            [
+              29,
+              40
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 2255,
+          "trace_class_numbers": [
+            [
+              57,
+              55
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 5412,
+          "trace_class_numbers": [
+            [
+              -53,
+              84
+            ],
+            [
+              113,
+              48
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 6396,
+          "trace_class_numbers": [
+            [
+              -107,
+              91
+            ],
+            [
+              59,
+              65
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 16646,
+          "trace_class_numbers": [
+            [
+              -215,
+              140
+            ],
+            [
+              -49,
+              140
+            ],
+            [
+              117,
+              126
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 36285,
+          "trace_class_numbers": [
+            [
+              -265,
+              120
+            ],
+            [
+              -99,
+              525
+            ],
+            [
+              67,
+              135
+            ],
+            [
+              233,
+              105
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 68880,
+          "trace_class_numbers": [
+            [
+              -365,
+              336
+            ],
+            [
+              -199,
+              480
+            ],
+            [
+              -33,
+              192
+            ],
+            [
+              133,
+              256
+            ],
+            [
+              299,
+              256
+            ],
+            [
+              465,
+              160
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 138703,
+          "trace_class_numbers": [
+            [
+              -565,
+              255
+            ],
+            [
+              -399,
+              408
+            ],
+            [
+              -233,
+              646
+            ],
+            [
+              -67,
+              340
+            ],
+            [
+              99,
+              612
+            ],
+            [
+              265,
+              221
+            ],
+            [
+              431,
+              204
+            ],
+            [
+              597,
+              697
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 267525,
+          "trace_class_numbers": [
+            [
+              -965,
+              360
+            ],
+            [
+              -799,
+              945
+            ],
+            [
+              -633,
+              216
+            ],
+            [
+              -467,
+              360
+            ],
+            [
+              -301,
+              720
+            ],
+            [
+              -135,
+              648
+            ],
+            [
+              31,
+              720
+            ],
+            [
+              197,
+              720
+            ],
+            [
+              363,
+              360
+            ],
+            [
+              529,
+              540
+            ],
+            [
+              695,
+              720
+            ],
+            [
+              861,
+              216
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 497002,
+          "trace_class_numbers": [
+            [
+              -1433,
+              76
+            ],
+            [
+              -1267,
+              228
+            ],
+            [
+              -1101,
+              741
+            ],
+            [
+              -935,
+              684
+            ],
+            [
+              -769,
+              684
+            ],
+            [
+              -603,
+              950
+            ],
+            [
+              -437,
+              513
+            ],
+            [
+              -271,
+              1064
+            ],
+            [
+              -105,
+              1045
+            ],
+            [
+              61,
+              646
+            ],
+            [
+              227,
+              722
+            ],
+            [
+              393,
+              1330
+            ],
+            [
+              559,
+              532
+            ],
+            [
+              725,
+              684
+            ],
+            [
+              891,
+              1140
+            ],
+            [
+              1057,
+              304
+            ],
+            [
+              1223,
+              247
+            ],
+            [
+              1389,
+              532
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1059440,
+          "trace_class_numbers": [
+            [
+              -2037,
+              80
+            ],
+            [
+              -1871,
+              440
+            ],
+            [
+              -1705,
+              1280
+            ],
+            [
+              -1539,
+              360
+            ],
+            [
+              -1373,
+              1120
+            ],
+            [
+              -1207,
+              1160
+            ],
+            [
+              -1041,
+              1120
+            ],
+            [
+              -875,
+              1120
+            ],
+            [
+              -709,
+              960
+            ],
+            [
+              -543,
+              1040
+            ],
+            [
+              -377,
+              1680
+            ],
+            [
+              -211,
+              1920
+            ],
+            [
+              -45,
+              880
+            ],
+            [
+              121,
+              1600
+            ],
+            [
+              287,
+              1280
+            ],
+            [
+              453,
+              960
+            ],
+            [
+              619,
+              960
+            ],
+            [
+              785,
+              1680
+            ],
+            [
+              951,
+              480
+            ],
+            [
+              1117,
+              1120
+            ],
+            [
+              1283,
+              1400
+            ],
+            [
+              1449,
+              480
+            ],
+            [
+              1615,
+              1920
+            ],
+            [
+              1781,
+              560
+            ],
+            [
+              1947,
+              240
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          41,
+          1
+        ],
+        [
+          82,
+          1
+        ],
+        [
+          82,
+          1
+        ],
+        [
+          82,
+          1
+        ]
+      ],
+      "source_sha256": "617cfc10863c9e49a6faff6490b40b62fb6b3157da8b78102b155a163fca6ea3"
+    },
+    {
+      "p": 89,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 1188,
+          "trace_class_numbers": [
+            [
+              -21,
+              27
+            ]
+          ]
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 880,
+          "trace_class_numbers": [
+            [
+              -43,
+              20
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 968,
+          "trace_class_numbers": [
+            [
+              -87,
+              22
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 3168,
+          "trace_class_numbers": [
+            [
+              3,
+              72
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 4576,
+          "trace_class_numbers": [
+            [
+              -173,
+              26
+            ],
+            [
+              5,
+              78
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 16016,
+          "trace_class_numbers": [
+            [
+              -169,
+              140
+            ],
+            [
+              9,
+              112
+            ],
+            [
+              187,
+              112
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 25080,
+          "trace_class_numbers": [
+            [
+              -339,
+              120
+            ],
+            [
+              -161,
+              150
+            ],
+            [
+              17,
+              135
+            ],
+            [
+              195,
+              165
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 65472,
+          "trace_class_numbers": [
+            [
+              -501,
+              48
+            ],
+            [
+              -323,
+              256
+            ],
+            [
+              -145,
+              480
+            ],
+            [
+              33,
+              192
+            ],
+            [
+              211,
+              320
+            ],
+            [
+              389,
+              192
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 125664,
+          "trace_class_numbers": [
+            [
+              -647,
+              204
+            ],
+            [
+              -469,
+              170
+            ],
+            [
+              -291,
+              612
+            ],
+            [
+              -113,
+              357
+            ],
+            [
+              65,
+              323
+            ],
+            [
+              243,
+              782
+            ],
+            [
+              421,
+              272
+            ],
+            [
+              599,
+              136
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 266508,
+          "trace_class_numbers": [
+            [
+              -939,
+              216
+            ],
+            [
+              -761,
+              576
+            ],
+            [
+              -583,
+              729
+            ],
+            [
+              -405,
+              594
+            ],
+            [
+              -227,
+              810
+            ],
+            [
+              -49,
+              504
+            ],
+            [
+              129,
+              324
+            ],
+            [
+              307,
+              864
+            ],
+            [
+              485,
+              648
+            ],
+            [
+              663,
+              342
+            ],
+            [
+              841,
+              360
+            ],
+            [
+              1019,
+              90
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 495748,
+          "trace_class_numbers": [
+            [
+              -1345,
+              152
+            ],
+            [
+              -1167,
+              551
+            ],
+            [
+              -989,
+              494
+            ],
+            [
+              -811,
+              608
+            ],
+            [
+              -633,
+              1121
+            ],
+            [
+              -455,
+              532
+            ],
+            [
+              -277,
+              627
+            ],
+            [
+              -99,
+              1710
+            ],
+            [
+              79,
+              874
+            ],
+            [
+              257,
+              627
+            ],
+            [
+              435,
+              836
+            ],
+            [
+              613,
+              703
+            ],
+            [
+              791,
+              570
+            ],
+            [
+              969,
+              1330
+            ],
+            [
+              1147,
+              304
+            ],
+            [
+              1325,
+              228
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1102860,
+          "trace_class_numbers": [
+            [
+              -1979,
+              320
+            ],
+            [
+              -1801,
+              720
+            ],
+            [
+              -1623,
+              560
+            ],
+            [
+              -1445,
+              1600
+            ],
+            [
+              -1267,
+              960
+            ],
+            [
+              -1089,
+              640
+            ],
+            [
+              -911,
+              1200
+            ],
+            [
+              -733,
+              2240
+            ],
+            [
+              -555,
+              1200
+            ],
+            [
+              -377,
+              1680
+            ],
+            [
+              -199,
+              900
+            ],
+            [
+              -21,
+              620
+            ],
+            [
+              157,
+              2520
+            ],
+            [
+              335,
+              1320
+            ],
+            [
+              513,
+              1280
+            ],
+            [
+              691,
+              960
+            ],
+            [
+              869,
+              1260
+            ],
+            [
+              1047,
+              960
+            ],
+            [
+              1225,
+              1400
+            ],
+            [
+              1403,
+              960
+            ],
+            [
+              1581,
+              520
+            ],
+            [
+              1759,
+              765
+            ],
+            [
+              1937,
+              480
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          22,
+          1
+        ],
+        [
+          22,
+          2
+        ],
+        [
+          22,
+          4
+        ],
+        [
+          22,
+          4
+        ],
+        [
+          22,
+          4
+        ]
+      ],
+      "source_sha256": "f645186246e5b1f6882c1e443fc63dec6cdb825e4c1d49fcd467a73813066cc1"
+    },
+    {
+      "p": 97,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 1440,
+          "trace_class_numbers": [
+            [
+              55,
+              30
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 528,
+          "trace_class_numbers": [
+            [
+              -85,
+              11
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 2304,
+          "trace_class_numbers": [
+            [
+              23,
+              48
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 8112,
+          "trace_class_numbers": [
+            [
+              -149,
+              39
+            ],
+            [
+              45,
+              130
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 17136,
+          "trace_class_numbers": [
+            [
+              -105,
+              133
+            ],
+            [
+              89,
+              224
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 29520,
+          "trace_class_numbers": [
+            [
+              -211,
+              180
+            ],
+            [
+              -17,
+              135
+            ],
+            [
+              177,
+              300
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 66816,
+          "trace_class_numbers": [
+            [
+              -423,
+              128
+            ],
+            [
+              -229,
+              192
+            ],
+            [
+              -35,
+              624
+            ],
+            [
+              159,
+              192
+            ],
+            [
+              353,
+              256
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 149328,
+          "trace_class_numbers": [
+            [
+              -653,
+              187
+            ],
+            [
+              -459,
+              544
+            ],
+            [
+              -265,
+              221
+            ],
+            [
+              -71,
+              323
+            ],
+            [
+              123,
+              1071
+            ],
+            [
+              317,
+              544
+            ],
+            [
+              511,
+              119
+            ],
+            [
+              705,
+              102
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 241920,
+          "trace_class_numbers": [
+            [
+              -919,
+              288
+            ],
+            [
+              -725,
+              576
+            ],
+            [
+              -531,
+              360
+            ],
+            [
+              -337,
+              468
+            ],
+            [
+              -143,
+              468
+            ],
+            [
+              51,
+              540
+            ],
+            [
+              245,
+              864
+            ],
+            [
+              439,
+              720
+            ],
+            [
+              633,
+              216
+            ],
+            [
+              827,
+              468
+            ],
+            [
+              1021,
+              72
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 571824,
+          "trace_class_numbers": [
+            [
+              -1257,
+              646
+            ],
+            [
+              -1063,
+              532
+            ],
+            [
+              -869,
+              912
+            ],
+            [
+              -675,
+              1558
+            ],
+            [
+              -481,
+              589
+            ],
+            [
+              -287,
+              380
+            ],
+            [
+              -93,
+              1311
+            ],
+            [
+              101,
+              1064
+            ],
+            [
+              295,
+              665
+            ],
+            [
+              489,
+              2128
+            ],
+            [
+              683,
+              399
+            ],
+            [
+              877,
+              304
+            ],
+            [
+              1071,
+              1197
+            ],
+            [
+              1265,
+              228
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1049760,
+          "trace_class_numbers": [
+            [
+              -1933,
+              400
+            ],
+            [
+              -1739,
+              480
+            ],
+            [
+              -1545,
+              840
+            ],
+            [
+              -1351,
+              960
+            ],
+            [
+              -1157,
+              2160
+            ],
+            [
+              -963,
+              800
+            ],
+            [
+              -769,
+              800
+            ],
+            [
+              -575,
+              1680
+            ],
+            [
+              -381,
+              800
+            ],
+            [
+              -187,
+              1360
+            ],
+            [
+              7,
+              1280
+            ],
+            [
+              201,
+              1200
+            ],
+            [
+              395,
+              1280
+            ],
+            [
+              589,
+              1140
+            ],
+            [
+              783,
+              800
+            ],
+            [
+              977,
+              1950
+            ],
+            [
+              1171,
+              1200
+            ],
+            [
+              1365,
+              700
+            ],
+            [
+              1559,
+              1000
+            ],
+            [
+              1753,
+              800
+            ],
+            [
+              1947,
+              240
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          16,
+          2
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          48,
+          1
+        ],
+        [
+          48,
+          2
+        ],
+        [
+          48,
+          2
+        ],
+        [
+          48,
+          2
+        ]
+      ],
+      "source_sha256": "d7024050be5ddd6a8e050fe5869b3c62b0c6a452e8c6125358b116dac36b3d3c"
+    },
+    {
+      "p": 101,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 2250,
+          "trace_class_numbers": [
+            [
+              15,
+              45
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 1650,
+          "trace_class_numbers": [
+            [
+              29,
+              33
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 2400,
+          "trace_class_numbers": [
+            [
+              57,
+              48
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 5850,
+          "trace_class_numbers": [
+            [
+              -89,
+              65
+            ],
+            [
+              113,
+              52
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 22400,
+          "trace_class_numbers": [
+            [
+              -179,
+              112
+            ],
+            [
+              23,
+              252
+            ],
+            [
+              225,
+              84
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 25500,
+          "trace_class_numbers": [
+            [
+              -359,
+              30
+            ],
+            [
+              -157,
+              90
+            ],
+            [
+              45,
+              300
+            ],
+            [
+              247,
+              90
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 65600,
+          "trace_class_numbers": [
+            [
+              -315,
+              208
+            ],
+            [
+              -113,
+              400
+            ],
+            [
+              89,
+              384
+            ],
+            [
+              291,
+              192
+            ],
+            [
+              493,
+              128
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 131750,
+          "trace_class_numbers": [
+            [
+              -631,
+              119
+            ],
+            [
+              -429,
+              544
+            ],
+            [
+              -227,
+              408
+            ],
+            [
+              -25,
+              357
+            ],
+            [
+              177,
+              850
+            ],
+            [
+              379,
+              204
+            ],
+            [
+              581,
+              153
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 265050,
+          "trace_class_numbers": [
+            [
+              -859,
+              288
+            ],
+            [
+              -657,
+              369
+            ],
+            [
+              -455,
+              720
+            ],
+            [
+              -253,
+              540
+            ],
+            [
+              -51,
+              540
+            ],
+            [
+              151,
+              1080
+            ],
+            [
+              353,
+              612
+            ],
+            [
+              555,
+              504
+            ],
+            [
+              757,
+              432
+            ],
+            [
+              959,
+              216
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 512050,
+          "trace_class_numbers": [
+            [
+              -1315,
+              342
+            ],
+            [
+              -1113,
+              570
+            ],
+            [
+              -911,
+              608
+            ],
+            [
+              -709,
+              779
+            ],
+            [
+              -507,
+              1140
+            ],
+            [
+              -305,
+              456
+            ],
+            [
+              -103,
+              513
+            ],
+            [
+              99,
+              1710
+            ],
+            [
+              301,
+              722
+            ],
+            [
+              503,
+              532
+            ],
+            [
+              705,
+              1064
+            ],
+            [
+              907,
+              684
+            ],
+            [
+              1109,
+              589
+            ],
+            [
+              1311,
+              532
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1053250,
+          "trace_class_numbers": [
+            [
+              -2025,
+              200
+            ],
+            [
+              -1823,
+              1125
+            ],
+            [
+              -1621,
+              640
+            ],
+            [
+              -1419,
+              680
+            ],
+            [
+              -1217,
+              1120
+            ],
+            [
+              -1015,
+              1280
+            ],
+            [
+              -813,
+              720
+            ],
+            [
+              -611,
+              1120
+            ],
+            [
+              -409,
+              1280
+            ],
+            [
+              -207,
+              1120
+            ],
+            [
+              -5,
+              2580
+            ],
+            [
+              197,
+              880
+            ],
+            [
+              399,
+              640
+            ],
+            [
+              601,
+              1080
+            ],
+            [
+              803,
+              1600
+            ],
+            [
+              1005,
+              1120
+            ],
+            [
+              1207,
+              1160
+            ],
+            [
+              1409,
+              1320
+            ],
+            [
+              1611,
+              440
+            ],
+            [
+              1813,
+              640
+            ],
+            [
+              2015,
+              320
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          25,
+          1
+        ],
+        [
+          100,
+          1
+        ],
+        [
+          100,
+          1
+        ],
+        [
+          100,
+          1
+        ],
+        [
+          100,
+          1
+        ]
+      ],
+      "source_sha256": "33534bde4094ca72e9ed34f9c3ba225e1ad698ea409d0a7d02ce4fd1e5218e64"
+    },
+    {
+      "p": 103,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 2040,
+          "trace_class_numbers": [
+            [
+              -5,
+              40
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 3366,
+          "trace_class_numbers": [
+            [
+              -11,
+              66
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 2448,
+          "trace_class_numbers": [
+            [
+              -23,
+              48
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 7956,
+          "trace_class_numbers": [
+            [
+              -47,
+              91
+            ],
+            [
+              159,
+              65
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 15708,
+          "trace_class_numbers": [
+            [
+              -95,
+              224
+            ],
+            [
+              111,
+              84
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 40545,
+          "trace_class_numbers": [
+            [
+              -191,
+              210
+            ],
+            [
+              15,
+              420
+            ],
+            [
+              221,
+              165
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 70992,
+          "trace_class_numbers": [
+            [
+              -383,
+              192
+            ],
+            [
+              -177,
+              256
+            ],
+            [
+              29,
+              320
+            ],
+            [
+              235,
+              528
+            ],
+            [
+              441,
+              96
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 139587,
+          "trace_class_numbers": [
+            [
+              -561,
+              391
+            ],
+            [
+              -355,
+              272
+            ],
+            [
+              -149,
+              425
+            ],
+            [
+              57,
+              1003
+            ],
+            [
+              263,
+              272
+            ],
+            [
+              469,
+              170
+            ],
+            [
+              675,
+              204
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 263772,
+          "trace_class_numbers": [
+            [
+              -917,
+              216
+            ],
+            [
+              -711,
+              252
+            ],
+            [
+              -505,
+              936
+            ],
+            [
+              -299,
+              1176
+            ],
+            [
+              -93,
+              378
+            ],
+            [
+              113,
+              432
+            ],
+            [
+              319,
+              576
+            ],
+            [
+              525,
+              414
+            ],
+            [
+              731,
+              576
+            ],
+            [
+              937,
+              216
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 554268,
+          "trace_class_numbers": [
+            [
+              -1423,
+              95
+            ],
+            [
+              -1217,
+              304
+            ],
+            [
+              -1011,
+              1520
+            ],
+            [
+              -805,
+              437
+            ],
+            [
+              -599,
+              1368
+            ],
+            [
+              -393,
+              1330
+            ],
+            [
+              -187,
+              570
+            ],
+            [
+              19,
+              703
+            ],
+            [
+              225,
+              1216
+            ],
+            [
+              431,
+              1064
+            ],
+            [
+              637,
+              456
+            ],
+            [
+              843,
+              1178
+            ],
+            [
+              1049,
+              456
+            ],
+            [
+              1255,
+              171
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1044480,
+          "trace_class_numbers": [
+            [
+              -2023,
+              200
+            ],
+            [
+              -1817,
+              640
+            ],
+            [
+              -1611,
+              440
+            ],
+            [
+              -1405,
+              1520
+            ],
+            [
+              -1199,
+              960
+            ],
+            [
+              -993,
+              800
+            ],
+            [
+              -787,
+              1440
+            ],
+            [
+              -581,
+              1200
+            ],
+            [
+              -375,
+              1280
+            ],
+            [
+              -169,
+              1160
+            ],
+            [
+              37,
+              1760
+            ],
+            [
+              243,
+              840
+            ],
+            [
+              449,
+              960
+            ],
+            [
+              655,
+              1280
+            ],
+            [
+              861,
+              700
+            ],
+            [
+              1067,
+              1200
+            ],
+            [
+              1273,
+              1800
+            ],
+            [
+              1479,
+              680
+            ],
+            [
+              1685,
+              1300
+            ],
+            [
+              1891,
+              320
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          34,
+          1
+        ],
+        [
+          102,
+          1
+        ],
+        [
+          102,
+          1
+        ],
+        [
+          102,
+          1
+        ],
+        [
+          102,
+          1
+        ]
+      ],
+      "source_sha256": "a3cfaaf7359be31ed867a560332e893f6eec19f3ca12edbc1fc053d7ed094d0d"
+    },
+    {
+      "p": 107,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 1590,
+          "trace_class_numbers": [
+            [
+              -45,
+              30
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 2544,
+          "trace_class_numbers": [
+            [
+              31,
+              48
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 8957,
+          "trace_class_numbers": [
+            [
+              -153,
+              117
+            ],
+            [
+              61,
+              52
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 17066,
+          "trace_class_numbers": [
+            [
+              -93,
+              98
+            ],
+            [
+              121,
+              224
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 31005,
+          "trace_class_numbers": [
+            [
+              -187,
+              120
+            ],
+            [
+              27,
+              285
+            ],
+            [
+              241,
+              180
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 72928,
+          "trace_class_numbers": [
+            [
+              -375,
+              288
+            ],
+            [
+              -161,
+              256
+            ],
+            [
+              53,
+              512
+            ],
+            [
+              267,
+              224
+            ],
+            [
+              481,
+              96
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 127041,
+          "trace_class_numbers": [
+            [
+              -537,
+              697
+            ],
+            [
+              -323,
+              323
+            ],
+            [
+              -109,
+              272
+            ],
+            [
+              105,
+              544
+            ],
+            [
+              319,
+              357
+            ],
+            [
+              533,
+              204
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 254718,
+          "trace_class_numbers": [
+            [
+              -861,
+              216
+            ],
+            [
+              -647,
+              504
+            ],
+            [
+              -433,
+              504
+            ],
+            [
+              -219,
+              432
+            ],
+            [
+              -5,
+              864
+            ],
+            [
+              209,
+              900
+            ],
+            [
+              423,
+              288
+            ],
+            [
+              637,
+              648
+            ],
+            [
+              851,
+              450
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 478325,
+          "trace_class_numbers": [
+            [
+              -1295,
+              190
+            ],
+            [
+              -1081,
+              532
+            ],
+            [
+              -867,
+              684
+            ],
+            [
+              -653,
+              532
+            ],
+            [
+              -439,
+              570
+            ],
+            [
+              -225,
+              1216
+            ],
+            [
+              -11,
+              1045
+            ],
+            [
+              203,
+              608
+            ],
+            [
+              417,
+              1311
+            ],
+            [
+              631,
+              684
+            ],
+            [
+              845,
+              456
+            ],
+            [
+              1059,
+              855
+            ],
+            [
+              1273,
+              342
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1070070,
+          "trace_class_numbers": [
+            [
+              -1949,
+              480
+            ],
+            [
+              -1735,
+              800
+            ],
+            [
+              -1521,
+              720
+            ],
+            [
+              -1307,
+              1280
+            ],
+            [
+              -1093,
+              1200
+            ],
+            [
+              -879,
+              560
+            ],
+            [
+              -665,
+              1360
+            ],
+            [
+              -451,
+              1080
+            ],
+            [
+              -237,
+              840
+            ],
+            [
+              -23,
+              2550
+            ],
+            [
+              191,
+              1240
+            ],
+            [
+              405,
+              1200
+            ],
+            [
+              619,
+              960
+            ],
+            [
+              833,
+              2080
+            ],
+            [
+              1047,
+              960
+            ],
+            [
+              1261,
+              880
+            ],
+            [
+              1475,
+              1120
+            ],
+            [
+              1689,
+              480
+            ],
+            [
+              1903,
+              400
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          53,
+          1
+        ],
+        [
+          106,
+          1
+        ],
+        [
+          106,
+          1
+        ],
+        [
+          106,
+          1
+        ],
+        [
+          106,
+          1
+        ]
+      ],
+      "source_sha256": "2d8f2891cf1eceac95cc5ecad657d2ee925075730073b3d4d7d6f4a8f0fe2d24"
+    },
+    {
+      "p": 109,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 1188,
+          "trace_class_numbers": [
+            [
+              87,
+              22
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 3240,
+          "trace_class_numbers": [
+            [
+              -45,
+              60
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 8424,
+          "trace_class_numbers": [
+            [
+              -91,
+              52
+            ],
+            [
+              127,
+              104
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 12852,
+          "trace_class_numbers": [
+            [
+              -183,
+              56
+            ],
+            [
+              35,
+              168
+            ],
+            [
+              253,
+              14
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 44550,
+          "trace_class_numbers": [
+            [
+              -149,
+              180
+            ],
+            [
+              69,
+              555
+            ],
+            [
+              287,
+              90
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 64800,
+          "trace_class_numbers": [
+            [
+              -299,
+              256
+            ],
+            [
+              -81,
+              256
+            ],
+            [
+              137,
+              384
+            ],
+            [
+              355,
+              304
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 123930,
+          "trace_class_numbers": [
+            [
+              -599,
+              136
+            ],
+            [
+              -381,
+              340
+            ],
+            [
+              -163,
+              595
+            ],
+            [
+              55,
+              238
+            ],
+            [
+              273,
+              731
+            ],
+            [
+              491,
+              187
+            ],
+            [
+              709,
+              68
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 235224,
+          "trace_class_numbers": [
+            [
+              -981,
+              216
+            ],
+            [
+              -763,
+              450
+            ],
+            [
+              -545,
+              648
+            ],
+            [
+              -327,
+              288
+            ],
+            [
+              -109,
+              576
+            ],
+            [
+              109,
+              576
+            ],
+            [
+              327,
+              288
+            ],
+            [
+              545,
+              648
+            ],
+            [
+              763,
+              450
+            ],
+            [
+              981,
+              216
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 545832,
+          "trace_class_numbers": [
+            [
+              -1309,
+              342
+            ],
+            [
+              -1091,
+              456
+            ],
+            [
+              -873,
+              1045
+            ],
+            [
+              -655,
+              684
+            ],
+            [
+              -437,
+              513
+            ],
+            [
+              -219,
+              1539
+            ],
+            [
+              -1,
+              1026
+            ],
+            [
+              217,
+              399
+            ],
+            [
+              435,
+              836
+            ],
+            [
+              653,
+              532
+            ],
+            [
+              871,
+              912
+            ],
+            [
+              1089,
+              1653
+            ],
+            [
+              1307,
+              171
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1035720,
+          "trace_class_numbers": [
+            [
+              -1965,
+              380
+            ],
+            [
+              -1747,
+              640
+            ],
+            [
+              -1529,
+              560
+            ],
+            [
+              -1311,
+              680
+            ],
+            [
+              -1093,
+              1200
+            ],
+            [
+              -875,
+              1120
+            ],
+            [
+              -657,
+              800
+            ],
+            [
+              -439,
+              1280
+            ],
+            [
+              -221,
+              1440
+            ],
+            [
+              -3,
+              1520
+            ],
+            [
+              215,
+              1600
+            ],
+            [
+              433,
+              1280
+            ],
+            [
+              651,
+              720
+            ],
+            [
+              869,
+              1260
+            ],
+            [
+              1087,
+              1320
+            ],
+            [
+              1305,
+              1120
+            ],
+            [
+              1523,
+              1000
+            ],
+            [
+              1741,
+              1100
+            ],
+            [
+              1959,
+              160
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          9,
+          3
+        ],
+        [
+          12,
+          3
+        ],
+        [
+          36,
+          3
+        ],
+        [
+          36,
+          3
+        ],
+        [
+          36,
+          3
+        ],
+        [
+          36,
+          3
+        ]
+      ],
+      "source_sha256": "5c3d538a33a1f636d9840971c85ae13dd2d9d0d779b84a86839a7877bfc5e3ad"
+    },
+    {
+      "p": 113,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 280,
+          "trace_class_numbers": [
+            [
+              31,
+              5
+            ]
+          ]
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 2464,
+          "trace_class_numbers": [
+            [
+              15,
+              44
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 6048,
+          "trace_class_numbers": [
+            [
+              29,
+              108
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 14560,
+          "trace_class_numbers": [
+            [
+              -169,
+              26
+            ],
+            [
+              57,
+              234
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 15680,
+          "trace_class_numbers": [
+            [
+              -113,
+              140
+            ],
+            [
+              113,
+              140
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 36960,
+          "trace_class_numbers": [
+            [
+              -227,
+              120
+            ],
+            [
+              -1,
+              285
+            ],
+            [
+              225,
+              255
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 58632,
+          "trace_class_numbers": [
+            [
+              -455,
+              160
+            ],
+            [
+              -229,
+              192
+            ],
+            [
+              -3,
+              224
+            ],
+            [
+              223,
+              306
+            ],
+            [
+              449,
+              165
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 146608,
+          "trace_class_numbers": [
+            [
+              -685,
+              68
+            ],
+            [
+              -459,
+              544
+            ],
+            [
+              -233,
+              646
+            ],
+            [
+              -7,
+              425
+            ],
+            [
+              219,
+              612
+            ],
+            [
+              445,
+              204
+            ],
+            [
+              671,
+              119
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 236880,
+          "trace_class_numbers": [
+            [
+              -919,
+              288
+            ],
+            [
+              -693,
+              216
+            ],
+            [
+              -467,
+              360
+            ],
+            [
+              -241,
+              576
+            ],
+            [
+              -15,
+              756
+            ],
+            [
+              211,
+              864
+            ],
+            [
+              437,
+              396
+            ],
+            [
+              663,
+              342
+            ],
+            [
+              889,
+              432
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 509656,
+          "trace_class_numbers": [
+            [
+              -1387,
+              152
+            ],
+            [
+              -1161,
+              950
+            ],
+            [
+              -935,
+              684
+            ],
+            [
+              -709,
+              779
+            ],
+            [
+              -483,
+              950
+            ],
+            [
+              -257,
+              627
+            ],
+            [
+              -31,
+              817
+            ],
+            [
+              195,
+              1197
+            ],
+            [
+              421,
+              684
+            ],
+            [
+              647,
+              513
+            ],
+            [
+              873,
+              1045
+            ],
+            [
+              1099,
+              475
+            ],
+            [
+              1325,
+              228
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1064000,
+          "trace_class_numbers": [
+            [
+              -1871,
+              440
+            ],
+            [
+              -1645,
+              720
+            ],
+            [
+              -1419,
+              680
+            ],
+            [
+              -1193,
+              1680
+            ],
+            [
+              -967,
+              1680
+            ],
+            [
+              -741,
+              900
+            ],
+            [
+              -515,
+              1440
+            ],
+            [
+              -289,
+              1440
+            ],
+            [
+              -63,
+              1040
+            ],
+            [
+              163,
+              1600
+            ],
+            [
+              389,
+              1600
+            ],
+            [
+              615,
+              960
+            ],
+            [
+              841,
+              960
+            ],
+            [
+              1067,
+              1200
+            ],
+            [
+              1293,
+              720
+            ],
+            [
+              1519,
+              500
+            ],
+            [
+              1745,
+              1200
+            ],
+            [
+              1971,
+              240
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          7,
+          4
+        ],
+        [
+          28,
+          2
+        ],
+        [
+          28,
+          4
+        ],
+        [
+          28,
+          4
+        ],
+        [
+          28,
+          4
+        ],
+        [
+          28,
+          4
+        ]
+      ],
+      "source_sha256": "eabd11353147f04235957d7c813cb990a2c82611d83ddc0dedacca0cb2934c73"
+    },
+    {
+      "p": 127,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 1008,
+          "trace_class_numbers": [
+            [
+              3,
+              16
+            ]
+          ]
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 1197,
+          "trace_class_numbers": [
+            [
+              5,
+              19
+            ]
+          ]
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 1260,
+          "trace_class_numbers": [
+            [
+              9,
+              20
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 2772,
+          "trace_class_numbers": [
+            [
+              17,
+              44
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 3024,
+          "trace_class_numbers": [
+            [
+              33,
+              48
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 3276,
+          "trace_class_numbers": [
+            [
+              65,
+              52
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 15876,
+          "trace_class_numbers": [
+            [
+              -125,
+              140
+            ],
+            [
+              129,
+              112
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 34965,
+          "trace_class_numbers": [
+            [
+              -251,
+              195
+            ],
+            [
+              3,
+              225
+            ],
+            [
+              257,
+              135
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 53424,
+          "trace_class_numbers": [
+            [
+              -503,
+              80
+            ],
+            [
+              -249,
+              160
+            ],
+            [
+              5,
+              416
+            ],
+            [
+              259,
+              192
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 95319,
+          "trace_class_numbers": [
+            [
+              -499,
+              204
+            ],
+            [
+              -245,
+              187
+            ],
+            [
+              9,
+              646
+            ],
+            [
+              263,
+              272
+            ],
+            [
+              517,
+              204
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 238581,
+          "trace_class_numbers": [
+            [
+              -999,
+              133
+            ],
+            [
+              -745,
+              540
+            ],
+            [
+              -491,
+              720
+            ],
+            [
+              -237,
+              396
+            ],
+            [
+              17,
+              504
+            ],
+            [
+              271,
+              576
+            ],
+            [
+              525,
+              414
+            ],
+            [
+              779,
+              504
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 441693,
+          "trace_class_numbers": [
+            [
+              -1237,
+              380
+            ],
+            [
+              -983,
+              513
+            ],
+            [
+              -729,
+              1064
+            ],
+            [
+              -475,
+              456
+            ],
+            [
+              -221,
+              760
+            ],
+            [
+              33,
+              969
+            ],
+            [
+              287,
+              380
+            ],
+            [
+              541,
+              570
+            ],
+            [
+              795,
+              1159
+            ],
+            [
+              1049,
+              456
+            ],
+            [
+              1303,
+              304
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1094940,
+          "trace_class_numbers": [
+            [
+              -1967,
+              340
+            ],
+            [
+              -1713,
+              640
+            ],
+            [
+              -1459,
+              960
+            ],
+            [
+              -1205,
+              840
+            ],
+            [
+              -951,
+              480
+            ],
+            [
+              -697,
+              2400
+            ],
+            [
+              -443,
+              1760
+            ],
+            [
+              -189,
+              900
+            ],
+            [
+              65,
+              1760
+            ],
+            [
+              319,
+              1680
+            ],
+            [
+              573,
+              900
+            ],
+            [
+              827,
+              960
+            ],
+            [
+              1081,
+              960
+            ],
+            [
+              1335,
+              1280
+            ],
+            [
+              1589,
+              800
+            ],
+            [
+              1843,
+              720
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          14,
+          3
+        ],
+        [
+          14,
+          9
+        ],
+        [
+          14,
+          9
+        ],
+        [
+          14,
+          9
+        ],
+        [
+          14,
+          9
+        ],
+        [
+          14,
+          9
+        ]
+      ],
+      "source_sha256": "9a0331ad5a1948bb66aa83f07a42042209e6d8120a96ec756d8db0f4cff01f4c"
+    },
+    {
+      "p": 131,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 2080,
+          "trace_class_numbers": [
+            [
+              -5,
+              32
+            ]
+          ]
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 1170,
+          "trace_class_numbers": [
+            [
+              -11,
+              18
+            ]
+          ]
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 1300,
+          "trace_class_numbers": [
+            [
+              -23,
+              20
+            ]
+          ]
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 2860,
+          "trace_class_numbers": [
+            [
+              -47,
+              44
+            ]
+          ]
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 4680,
+          "trace_class_numbers": [
+            [
+              -95,
+              72
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 3380,
+          "trace_class_numbers": [
+            [
+              71,
+              52
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 20020,
+          "trace_class_numbers": [
+            [
+              -121,
+              224
+            ],
+            [
+              141,
+              84
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 41145,
+          "trace_class_numbers": [
+            [
+              -243,
+              270
+            ],
+            [
+              19,
+              240
+            ],
+            [
+              281,
+              123
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 73840,
+          "trace_class_numbers": [
+            [
+              -487,
+              160
+            ],
+            [
+              -225,
+              320
+            ],
+            [
+              37,
+              400
+            ],
+            [
+              299,
+              256
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 144755,
+          "trace_class_numbers": [
+            [
+              -713,
+              51
+            ],
+            [
+              -451,
+              238
+            ],
+            [
+              -189,
+              527
+            ],
+            [
+              73,
+              544
+            ],
+            [
+              335,
+              170
+            ],
+            [
+              597,
+              697
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 258570,
+          "trace_class_numbers": [
+            [
+              -903,
+              198
+            ],
+            [
+              -641,
+              540
+            ],
+            [
+              -379,
+              720
+            ],
+            [
+              -117,
+              504
+            ],
+            [
+              145,
+              720
+            ],
+            [
+              407,
+              720
+            ],
+            [
+              669,
+              288
+            ],
+            [
+              931,
+              288
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 512525,
+          "trace_class_numbers": [
+            [
+              -1283,
+              266
+            ],
+            [
+              -1021,
+              456
+            ],
+            [
+              -759,
+              1634
+            ],
+            [
+              -497,
+              532
+            ],
+            [
+              -235,
+              646
+            ],
+            [
+              27,
+              1368
+            ],
+            [
+              289,
+              760
+            ],
+            [
+              551,
+              608
+            ],
+            [
+              813,
+              912
+            ],
+            [
+              1075,
+              456
+            ],
+            [
+              1337,
+              247
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1068600,
+          "trace_class_numbers": [
+            [
+              -2043,
+              60
+            ],
+            [
+              -1781,
+              560
+            ],
+            [
+              -1519,
+              500
+            ],
+            [
+              -1257,
+              640
+            ],
+            [
+              -995,
+              1360
+            ],
+            [
+              -733,
+              2240
+            ],
+            [
+              -471,
+              960
+            ],
+            [
+              -209,
+              800
+            ],
+            [
+              53,
+              1600
+            ],
+            [
+              315,
+              1240
+            ],
+            [
+              577,
+              1440
+            ],
+            [
+              839,
+              880
+            ],
+            [
+              1101,
+              680
+            ],
+            [
+              1363,
+              1400
+            ],
+            [
+              1625,
+              1680
+            ],
+            [
+              1887,
+              400
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          65,
+          1
+        ],
+        [
+          130,
+          1
+        ],
+        [
+          130,
+          1
+        ],
+        [
+          130,
+          1
+        ],
+        [
+          130,
+          1
+        ],
+        [
+          130,
+          1
+        ]
+      ],
+      "source_sha256": "4ee9a44c9c6c42121b0bd5e6a65e2f5f77ae7d3882e8bfa90c6ce2d0bc56a20b"
+    },
+    {
+      "p": 137,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 1224,
+          "trace_class_numbers": [
+            [
+              -17,
+              18
+            ]
+          ]
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 612,
+          "trace_class_numbers": [
+            [
+              -35,
+              9
+            ]
+          ]
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 6528,
+          "trace_class_numbers": [
+            [
+              -13,
+              96
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 14144,
+          "trace_class_numbers": [
+            [
+              -27,
+              208
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 18088,
+          "trace_class_numbers": [
+            [
+              -55,
+              168
+            ],
+            [
+              219,
+              98
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 45900,
+          "trace_class_numbers": [
+            [
+              -111,
+              525
+            ],
+            [
+              163,
+              150
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 71944,
+          "trace_class_numbers": [
+            [
+              -497,
+              64
+            ],
+            [
+              -223,
+              306
+            ],
+            [
+              51,
+              176
+            ],
+            [
+              325,
+              512
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 133008,
+          "trace_class_numbers": [
+            [
+              -721,
+              17
+            ],
+            [
+              -447,
+              544
+            ],
+            [
+              -173,
+              527
+            ],
+            [
+              101,
+              273
+            ],
+            [
+              375,
+              408
+            ],
+            [
+              649,
+              187
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 301716,
+          "trace_class_numbers": [
+            [
+              -895,
+              432
+            ],
+            [
+              -621,
+              288
+            ],
+            [
+              -347,
+              432
+            ],
+            [
+              -73,
+              612
+            ],
+            [
+              201,
+              567
+            ],
+            [
+              475,
+              1458
+            ],
+            [
+              749,
+              630
+            ],
+            [
+              1023,
+              18
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 540056,
+          "trace_class_numbers": [
+            [
+              -1243,
+              361
+            ],
+            [
+              -969,
+              1330
+            ],
+            [
+              -695,
+              342
+            ],
+            [
+              -421,
+              684
+            ],
+            [
+              -147,
+              1216
+            ],
+            [
+              127,
+              722
+            ],
+            [
+              401,
+              874
+            ],
+            [
+              675,
+              1558
+            ],
+            [
+              949,
+              608
+            ],
+            [
+              1223,
+              247
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1098540,
+          "trace_class_numbers": [
+            [
+              -1939,
+              420
+            ],
+            [
+              -1665,
+              640
+            ],
+            [
+              -1391,
+              1200
+            ],
+            [
+              -1117,
+              1120
+            ],
+            [
+              -843,
+              1120
+            ],
+            [
+              -569,
+              1760
+            ],
+            [
+              -295,
+              1280
+            ],
+            [
+              -21,
+              620
+            ],
+            [
+              253,
+              1120
+            ],
+            [
+              527,
+              2275
+            ],
+            [
+              801,
+              640
+            ],
+            [
+              1075,
+              2040
+            ],
+            [
+              1349,
+              960
+            ],
+            [
+              1623,
+              560
+            ],
+            [
+              1897,
+              400
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          17,
+          2
+        ],
+        [
+          68,
+          1
+        ],
+        [
+          68,
+          2
+        ],
+        [
+          68,
+          2
+        ],
+        [
+          68,
+          2
+        ],
+        [
+          68,
+          2
+        ],
+        [
+          68,
+          2
+        ]
+      ],
+      "source_sha256": "b31021a7b2555dca08c77d0c87cdf0f41bc6374e09803f91020be677d5a23c56"
+    },
+    {
+      "p": 139,
+      "status": "PASS",
+      "ordinary_counts": [
+        {
+          "degree": 1,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 2,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 3,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 4,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 5,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 6,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 7,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 8,
+          "rational_ordinary_points": 552,
+          "trace_class_numbers": [
+            [
+              -21,
+              8
+            ]
+          ]
+        },
+        {
+          "degree": 9,
+          "rational_ordinary_points": 621,
+          "trace_class_numbers": [
+            [
+              -43,
+              9
+            ]
+          ]
+        },
+        {
+          "degree": 10,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 11,
+          "rational_ordinary_points": 0,
+          "trace_class_numbers": []
+        },
+        {
+          "degree": 12,
+          "rational_ordinary_points": 3312,
+          "trace_class_numbers": [
+            [
+              -73,
+              48
+            ]
+          ]
+        },
+        {
+          "degree": 13,
+          "rational_ordinary_points": 8970,
+          "trace_class_numbers": [
+            [
+              -147,
+              91
+            ],
+            [
+              131,
+              39
+            ]
+          ]
+        },
+        {
+          "degree": 14,
+          "rational_ordinary_points": 11592,
+          "trace_class_numbers": [
+            [
+              -17,
+              168
+            ]
+          ]
+        },
+        {
+          "degree": 15,
+          "rational_ordinary_points": 31050,
+          "trace_class_numbers": [
+            [
+              -313,
+              60
+            ],
+            [
+              -35,
+              120
+            ],
+            [
+              243,
+              270
+            ]
+          ]
+        },
+        {
+          "degree": 16,
+          "rational_ordinary_points": 64584,
+          "trace_class_numbers": [
+            [
+              -349,
+              192
+            ],
+            [
+              -71,
+              360
+            ],
+            [
+              207,
+              192
+            ],
+            [
+              485,
+              192
+            ]
+          ]
+        },
+        {
+          "degree": 17,
+          "rational_ordinary_points": 130203,
+          "trace_class_numbers": [
+            [
+              -699,
+              102
+            ],
+            [
+              -421,
+              272
+            ],
+            [
+              -143,
+              408
+            ],
+            [
+              135,
+              748
+            ],
+            [
+              413,
+              272
+            ],
+            [
+              691,
+              85
+            ]
+          ]
+        },
+        {
+          "degree": 18,
+          "rational_ordinary_points": 260199,
+          "trace_class_numbers": [
+            [
+              -843,
+              270
+            ],
+            [
+              -565,
+              1152
+            ],
+            [
+              -287,
+              432
+            ],
+            [
+              -9,
+              648
+            ],
+            [
+              269,
+              432
+            ],
+            [
+              547,
+              450
+            ],
+            [
+              825,
+              387
+            ]
+          ]
+        },
+        {
+          "degree": 19,
+          "rational_ordinary_points": 534888,
+          "trace_class_numbers": [
+            [
+              -1409,
+              171
+            ],
+            [
+              -1131,
+              1140
+            ],
+            [
+              -853,
+              380
+            ],
+            [
+              -575,
+              532
+            ],
+            [
+              -297,
+              1520
+            ],
+            [
+              -19,
+              703
+            ],
+            [
+              259,
+              893
+            ],
+            [
+              537,
+              912
+            ],
+            [
+              815,
+              361
+            ],
+            [
+              1093,
+              456
+            ],
+            [
+              1371,
+              684
+            ]
+          ]
+        },
+        {
+          "degree": 20,
+          "rational_ordinary_points": 1006020,
+          "trace_class_numbers": [
+            [
+              -1985,
+              400
+            ],
+            [
+              -1707,
+              480
+            ],
+            [
+              -1429,
+              800
+            ],
+            [
+              -1151,
+              800
+            ],
+            [
+              -873,
+              1120
+            ],
+            [
+              -595,
+              1560
+            ],
+            [
+              -317,
+              1600
+            ],
+            [
+              -39,
+              840
+            ],
+            [
+              239,
+              1120
+            ],
+            [
+              517,
+              1280
+            ],
+            [
+              795,
+              1040
+            ],
+            [
+              1073,
+              1600
+            ],
+            [
+              1351,
+              960
+            ],
+            [
+              1629,
+              500
+            ],
+            [
+              1907,
+              480
+            ]
+          ]
+        }
+      ],
+      "supersingular_closed_diamond_orbits": [
+        [
+          46,
+          1
+        ],
+        [
+          69,
+          1
+        ],
+        [
+          138,
+          1
+        ],
+        [
+          138,
+          1
+        ],
+        [
+          138,
+          1
+        ],
+        [
+          138,
+          1
+        ],
+        [
+          138,
+          1
+        ]
+      ],
+      "source_sha256": "f3104b8f172e0cd33c07ddfd12fd33ab3ab09c32d5de5f03003cab77c6898f22"
+    }
+  ]
+}

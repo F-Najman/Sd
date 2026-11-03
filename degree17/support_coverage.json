@@ -1,0 +1,2537 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "p": 47,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 53,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "SS",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "relative13 pullback plus fixed degree4 cusp divisor"
+    },
+    {
+      "p": 59,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "SS",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "relative5 pullback of cubic divisor plus fixed degree2 cusp divisor"
+    },
+    {
+      "p": 67,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 71,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 73,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "mixed principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "mixed principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "mixed principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "mixed principal-divisor obstruction"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 11,
+      "reason": "relative fixed-locus immersion"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "order9 stabilizer and actual-Jacobian torsion control"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "order9 stabilizer and actual-Jacobian torsion control"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "NC",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "reason": "order9 stabilizer and actual-Jacobian torsion control"
+    },
+    {
+      "p": 79,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 83,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 89,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "NC",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "proved stabilizer exclusion"
+    },
+    {
+      "p": 97,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "SS",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "proved stabilizer exclusion"
+    },
+    {
+      "p": 101,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 103,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "relative cusp immersion at103"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 107,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 109,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "reason": "proved stabilizer exclusion"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "proved stabilizer exclusion"
+    },
+    {
+      "p": 113,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "113 involution and CM exclusion"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "reason": "proved stabilizer exclusion"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "proved stabilizer exclusion"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "NC",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "proved stabilizer exclusion"
+    },
+    {
+      "p": 127,
+      "support": [],
+      "rational_cusp_complement": 17,
+      "reason": "absolute cusp formal immersion"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 9,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary pair obstruction or the113 order8 exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "mixed principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "rational_cusp_complement": 8,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "partially relative immersion on degree9 and degree7 pullbacks with fixed cusp"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "rational_cusp_complement": 7,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "mixed principal-divisor obstruction"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "rational_cusp_complement": 6,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "rational_cusp_complement": 5,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "rational_cusp_complement": 4,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "rational_cusp_complement": 2,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "rational_cusp_complement": 1,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "rational_cusp_complement": 0,
+      "reason": "ordinary obstruction or the113/127 stabilizer exception"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "SS",
+          14
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "proved stabilizer exclusion"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 10,
+      "reason": "proved stabilizer exclusion"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "rational_cusp_complement": 3,
+      "reason": "proved stabilizer exclusion"
+    }
+  ]
+}

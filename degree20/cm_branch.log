@@ -1,0 +1,7 @@
+S20_CM_EXCLUDED p=151 j=0 automorphisms=6 prime=5 trace=0 through_degree=20
+S20_CM_BRANCH_SEARCH p=151 found=true
+S20_CM_EXCLUDED p=113 j=1728 automorphisms=4 prime=3 trace=0 through_degree=20
+S20_CM_BRANCH_SEARCH p=113 found=true
+S20_CM_EXCLUDED p=97 j=1728 automorphisms=4 prime=3 trace=0 through_degree=20
+S20_CM_BRANCH_SEARCH p=97 found=true
+S20_CM_BRANCH_SEARCH_COMPLETE

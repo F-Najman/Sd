@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/run_ss7_127.py", line 8, in <module>
+    assert r.returncode==0;print('S21_SS7_127_COMPLETE',flush=True)
+           ^^^^^^^^^^^^^^^
+AssertionError

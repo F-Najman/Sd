@@ -1,0 +1,6 @@
+NONIC_PRIME_MODEL N=43 genus=57 alpha_diamond=3 time=21.950
+NONIC_PRIME_ENUM N=43 degree=7 all_places=3 diamond_reps=1 time=23.610
+NONIC_PRIME_TEST_START N=43 degree=7 index=1 q=3 time=23.920
+NONIC_PRIME_TEST_RESULT N=43 degree=7 index=1 q=3 principal=false time=39.310
+NONIC_PRIME_DEGREE_SUMMARY N=43 degree=7 all_places=3 diamond_reps=1 surviving_indices=[] time=39.310
+NONIC_PRIME_GOOD_BRANCHES_COMPLETED N=43 summary=[ <7, 3, 1, 0> ] time=39.350

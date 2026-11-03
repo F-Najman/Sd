@@ -1,0 +1,17 @@
+S15_FI_FINITE_IMAGE p=53 index=13 n=2 killpol=$.1 + 1 gamma0_genus=4 winding_rank=3 image_union_rank=3
+S15_FI_FINITE_IMAGE p=61 index=15 n=2 killpol=$.1 + 1 gamma0_genus=4 winding_rank=3 image_union_rank=3
+S15_FI_FINITE_IMAGE p=61 index=15 n=3 killpol=$.1^9 + 8*$.1^8 + 17*$.1^7 - 10*$.1^6 - 62*$.1^5 - 34*$.1^4 + 40*$.1^3 + 48*$.1^2 + 17*$.1 + 2 gamma0_genus=4 winding_rank=3 image_union_rank=3
+S15_FI_FINITE_IMAGE p=61 index=15 n=5 killpol=$.1 + 3 gamma0_genus=4 winding_rank=3 image_union_rank=3
+S15_FI_FINITE_IMAGE p=67 index=11 n=2 killpol=$.1^22 + 7*$.1^21 + 25*$.1^20 + 50*$.1^19 + 34*$.1^18 - 86*$.1^17 - 293*$.1^16 - 289*$.1^15 + 137*$.1^14 + 912*$.1^13 + 1010*$.1^12 + 278*$.1^11 - 1147*$.1^10 - 1469*$.1^9 - 1002*$.1^8 + 427*$.1^7 + 1283*$.1^6 + 1356*$.1^5 + 908*$.1^4 + 386*$.1^3 + 101*$.1^2 + 15*$.1 + 1 gamma0_genus=5 winding_rank=3 image_union_rank=3
+S15_FI_FINITE_IMAGE p=67 index=11 n=3 killpol=$.1^2 + 3*$.1 + 1 gamma0_genus=5 winding_rank=3 image_union_rank=3
+S15_FI_FINITE_IMAGE p=67 index=11 n=5 killpol=$.1^2 + 6*$.1 + 9 gamma0_genus=5 winding_rank=3 image_union_rank=3
+S15_FI_FINITE_IMAGE p=73 index=12 n=2 killpol=$.1^17 + 6*$.1^16 - 59*$.1^14 - 65*$.1^13 + 224*$.1^12 + 343*$.1^11 - 431*$.1^10 - 759*$.1^9 + 483*$.1^8 + 847*$.1^7 - 339*$.1^6 - 468*$.1^5 + 133*$.1^4 + 107*$.1^3 - 12*$.1^2 - 10*$.1 - 1 gamma0_genus=5 winding_rank=3 image_union_rank=3
+S15_FI_FINITE_IMAGE p=73 index=12 n=3 killpol=$.1^22 + 9*$.1^21 + 12*$.1^20 - 113*$.1^19 - 345*$.1^18 + 432*$.1^17 + 2595*$.1^16 + 219*$.1^15 - 9534*$.1^14 - 6237*$.1^13 + 19251*$.1^12 + 19260*$.1^11 - 21540*$.1^10 - 27588*$.1^9 + 12594*$.1^8 + 20018*$.1^7 - 3501*$.1^6 - 6975*$.1^5 + 610*$.1^4 + 1113*$.1^3 - 102*$.1^2 - 63*$.1 + 9 gamma0_genus=5 winding_rank=3 image_union_rank=3
+S15_FI_FINITE_IMAGE p=73 index=12 n=5 killpol=$.1^2 + 3*$.1 + 1 gamma0_genus=5 winding_rank=3 image_union_rank=3
+S15_FI_FINITE_IMAGE p=79 index=39 n=2 killpol=$.1 + 1 gamma0_genus=6 winding_rank=5 image_union_rank=5
+S15_FI_FINITE_IMAGE p=83 index=41 n=2 killpol=$.1 + 1 gamma0_genus=7 winding_rank=6 image_union_rank=6
+S15_FI_FINITE_IMAGE p=89 index=11 n=2 killpol=$.1 + 1 gamma0_genus=7 winding_rank=6 image_union_rank=6
+S15_FI_FINITE_IMAGE p=97 index=8 n=5 killpol=$.1^3 + 3*$.1^2 - 4*$.1 + 1 gamma0_genus=7 winding_rank=4 image_union_rank=4
+S15_FI_FINITE_IMAGE p=101 index=5 n=2 killpol=$.1 gamma0_genus=8 winding_rank=7 image_union_rank=7
+S15_FI_FINITE_IMAGE p=103 index=17 n=2 killpol=$.1^2 + 3*$.1 + 1 gamma0_genus=8 winding_rank=6 image_union_rank=6
+S15_ALL_SELECTED_FI_FINITE_IMAGE_CERTIFICATES_COMPLETE 369.120

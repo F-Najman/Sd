@@ -1,0 +1,11 @@
+PACKET_STAGE ['python', 'relocate.py']
+PACKET_STAGE ['g++', '-O3', '-std=c++17', 'work/degree14/relation_check.cpp', '-o', 'work/degree14/relation_check']
+PACKET_STAGE ['g++', '-O3', '-std=c++17', 'work/degree14/check_prefixes.cpp', '-o', 'work/degree14/check_prefixes']
+PACKET_STAGE ['g++', '-O3', '-std=c++17', 'work/degree14/gon_prefixes.cpp', '-o', 'work/degree14/gon_prefixes']
+PACKET_STAGE ['python', 'work/degree14/check_fi.py']
+PACKET_STAGE ['python', 'work/degree14/gonality53.py']
+PACKET_STAGE ['python', 'work/degree14/verify_auxiliary.py']
+PACKET_STAGE ['magma', '-b', 'work/degree14/quotient127.m']
+PACKET_STAGE ['python', 'work/degree14/verify_ranks.py']
+PACKET_STAGE ['python', 'work/degree14/verify_coverage.py']
+S14_PACKET_PORTABILITY PASS 740 files elapsed 105.39394563110545

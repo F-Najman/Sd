@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "degree": 20,
+  "family_dimension": 2,
+  "base_rank": 14,
+  "relative_rank": 18,
+  "patterns_checked": 720720,
+  "full_relation_dimension": 60,
+  "relation_code_minimum_nonzero_weight": 7,
+  "independent_Sage_complete_kernel_check": true,
+  "columns_sha256": "8c0c62f88edbfbd9f3da2ee6d9283594b2ea561bfdb51f0e964c339c40b657d0"
+}

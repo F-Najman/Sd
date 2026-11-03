@@ -1,0 +1,15 @@
+{
+  "status": "OLD_CHILDREN_DRAINED_BEFORE_TWO_WORKER_RESUME",
+  "old_parent": 3603849,
+  "children": [
+    {
+      "pid": 3936992,
+      "cmdline": [
+        "python",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/full_sieve.py",
+        "131"
+      ]
+    }
+  ],
+  "new_workers": 2
+}

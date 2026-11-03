@@ -1,0 +1,8 @@
+{
+  "character_workers": 8,
+  "basis": "combine previous main6 and completed special2 slots; all ordinary exporters and sieves have completed",
+  "minimum_idle_host_cores": 2,
+  "logical_cores": 32,
+  "available_memory_GiB": 329.9028549194336,
+  "no_existing_child_processes_killed": true
+}

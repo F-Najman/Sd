@@ -1,0 +1,19 @@
+S22_SUPPORT_INPUTS_PASS {'p': 59, 'pair_orbits': 8689, 'triple_orbits': 1711, 'degree7_7_8_Burnside_complete': True}
+S22_SUPPORT_INPUTS_PASS {'p': 61, 'pair_orbits': 7324, 'triple_orbits': 1395, 'degree7_7_8_Burnside_complete': True}
+S22_SUPPORT_INPUTS_PASS {'p': 71, 'pair_orbits': 5534, 'triple_orbits': 820, 'degree7_7_8_Burnside_complete': True}
+S22_SUPPORT_INPUTS_PASS {'p': 73, 'pair_orbits': 2649, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 79, 'pair_orbits': 1353, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 83, 'pair_orbits': 4779, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 89, 'pair_orbits': 1674, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 97, 'pair_orbits': 601, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 101, 'pair_orbits': 1128, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 103, 'pair_orbits': 1737, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 107, 'pair_orbits': 636, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 109, 'pair_orbits': 110, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 113, 'pair_orbits': 1152, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 127, 'pair_orbits': 3810, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 131, 'pair_orbits': 7542, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 137, 'pair_orbits': 3995, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 139, 'pair_orbits': 1518, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_PASS {'p': 163, 'pair_orbits': 163, 'triple_orbits': 0, 'degree7_7_8_Burnside_complete': False}
+S22_SUPPORT_INPUTS_COMPLETE 58320

@@ -1,0 +1,14 @@
+RATIONAL_TWO_START N=53 Qs=[ 3, 5, 7, 11 ] sign=0 exact_JOne=true
+RATIONAL_TWO_JONE N=53 dimension=92 time=0.680
+RATIONAL_TWO_HOMOLOGY N=53 rank=184 time=0.680
+RATIONAL_TWO_DIAMOND N=53 dimension=184 time=6.290
+RATIONAL_TWO_HECKE_START N=53 q=3 time=6.300
+RATIONAL_TWO_KERNEL N=53 q=3 kernel_dimension=0 diamond_difference_rank=0 time=6.380
+RATIONAL_TWO_HECKE_START N=53 q=5 time=6.380
+RATIONAL_TWO_KERNEL N=53 q=5 kernel_dimension=0 diamond_difference_rank=0 time=6.480
+RATIONAL_TWO_HECKE_START N=53 q=7 time=6.480
+RATIONAL_TWO_KERNEL N=53 q=7 kernel_dimension=0 diamond_difference_rank=0 time=6.580
+RATIONAL_TWO_HECKE_START N=53 q=11 time=6.590
+RATIONAL_TWO_KERNEL N=53 q=11 kernel_dimension=0 diamond_difference_rank=0 time=6.690
+NONIC_ODD_DIAMOND_NORM N=53 a=4 power=2 order=13 verified=true
+RATIONAL_TWO_DONE N=53 kernel_dimension=0 diamond_trivial=true time=6.690

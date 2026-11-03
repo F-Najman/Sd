@@ -1,0 +1,66 @@
+{
+  "status": "PASS",
+  "degree": 22,
+  "parent_manifest_files": 100184,
+  "pinned_facts": [
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/inherited_hypotheses_verified.json",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/sharp61_finite_verified.json",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/stabilizer_geometry_verified.json",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/rankzero_verified.json",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/sharp_finite_verified.json",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/stabilizer_torsion_verified.json",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/global_extra_verified.json",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/anti163_norms_verified.json",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/finite_FI_verified.json",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/finite_FI_inheritance_verified.json",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/global181_verified.json"
+  ],
+  "models_exactly_identical": [
+    59,
+    61,
+    71,
+    73,
+    79,
+    83,
+    89,
+    97,
+    101,
+    103,
+    107,
+    109,
+    113,
+    127,
+    131,
+    137,
+    139
+  ],
+  "source_prefixes_identical": true,
+  "global_167_181_applicability": [
+    {
+      "p": 167,
+      "n": 5,
+      "strict_gonality_bound": "566475/4096",
+      "diamond_order": 83,
+      "all_geometric_orbits": [
+        83
+      ],
+      "none_divides22": true
+    },
+    {
+      "p": 181,
+      "n": 6,
+      "strict_gonality_bound": "1330875/8192",
+      "diamond_order": 15,
+      "all_geometric_orbits": [
+        15,
+        5
+      ],
+      "none_divides22": true
+    }
+  ],
+  "163_anti_H27_odd_isogeny_reused": true,
+  "163_treated_locally": true,
+  "ordinary_finite_maps_reused": true,
+  "q2_cuspidal_2primary_used_only_at_levels_le157": true,
+  "odd_degree_real_diamond_lemma_used": false
+}

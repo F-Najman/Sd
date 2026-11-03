@@ -1,0 +1,2 @@
+{'N': 73, 'status': 'FAIL', 'method': 'complete cusp-prefix enumeration', 'checked': 1131, 'independent_expected': 1223, 'relations': 20}
+{'N': 73, 'status': 'PASS', 'method': 'complete cusp-prefix enumeration', 'checked': 156334, 'independent_expected': 156334, 'relations': 28}

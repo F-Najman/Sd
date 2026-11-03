@@ -1,0 +1,30 @@
+SetQuitOnError(true);SetColumns(0);SetMemoryLimit(8*10^9);SetSeed(20261028);
+p:=StringToInteger(P);ind:=StringToInteger(Ind);ns:=[StringToInteger(v):v in Split(Tn,",")];qs:=[StringToInteger(v):v in Split(Q,",")];d:=13;tt:=Cputime();
+h:=Integers()!((GF(p)!PrimitiveRoot(p))^ind);
+
+S:=ModularSymbolsH(p,[h],2,-1);Id:=IntegralHeckeOperator(S,1);
+function Dia(q)
+ op:=IntegralHeckeOperator(S,q)^2-IntegralHeckeOperator(S,q^2);
+ return ChangeRing((1/q)*ChangeRing(op,Rationals()),Integers());
+end function;
+r:=1;repeat r:=NextPrime(r);until Order(GF(p)!r) eq p-1;
+dia:=ChangeRing(Dia(r),GF(2));assert dia^ind eq Parent(dia)!1;
+hecke:=[ChangeRing(IntegralHeckeOperator(S,j),GF(2)):j in [1..d]];
+// Applying each operator to fixed binary vectors is a linear projection.
+// Independence after projection proves independence of the full operators.
+g:=Dimension(S); probes:=[Vector(GF(2),[Random(GF(2)):i in [1..g]]):k in [1..4]];
+rows:=ZeroMatrix(GF(2),d+(d div 2)*(ind-1),0);
+for n in ns do
+ t1:=ChangeRing(dia-Parent(dia)!1,Integers());
+ for q in qs do
+  t2:=IntegralHeckeOperator(S,q)-q*Id-Dia(q);t:=ChangeRing(t1*t2,GF(2));
+  products:=&cat[[t*dia^k*T:T in hecke[1..k eq 0 select d else d div 2]]:k in [0..ind-1]];
+  block:=Matrix([&cat[Eltseq(v*op):v in probes]:op in products]);rows:=HorizontalJoin(rows,block);
+  printf "DECIC_FI_COMBINED_STEP p=%o Tn=%o q=%o rank=%o elapsed=%o\n",p,n,q,Rank(rows),Cputime(tt);
+ end for;
+end for;
+n:=ns[1];q:=qs[1];killpol:=Parent(CharacteristicPolynomial(Id))!1;
+PrintFile(Out,Sprintf("%o %o %o %o %o %o %o",p,ind,n,r,Nrows(rows),Ncols(rows),d):Overwrite:=true);
+for row in Rows(rows) do PrintFile(Out,&cat[IntegerToString(Integers()!a):a in Eltseq(row)]);end for;
+printf "DECIC_FI_EXPORT p=%o index=%o Tn=%o q=%o cusp_generator=%o genus=%o rows=%o rank=%o killpoly=%o elapsed=%o\n",p,ind,n,q,r,Dimension(S),Nrows(rows),Rank(rows),killpol,Cputime(tt);
+print "DECIC_FI_EXPORT_COMPLETE";quit;

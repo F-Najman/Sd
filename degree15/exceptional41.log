@@ -1,0 +1,5 @@
+S15_NATIVE41_SS_TRIPLE multiplicities=[ 3, 0 ] principal=false elapsed=95.840
+S15_NATIVE41_SS_TRIPLE multiplicities=[ 2, 1 ] principal=false elapsed=227.540
+S15_NATIVE41_CUSP_SS index=1 principal=false elapsed=241.060
+S15_NATIVE41_CUSP_SS index=2 principal=false elapsed=251.980
+S15_NATIVE41_EXCEPTIONAL_COMPLETE

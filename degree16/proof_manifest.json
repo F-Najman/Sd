@@ -1,0 +1,17 @@
+{
+  "work/degree16/PROOF.txt": "4dad5e97e16ede94885458353d6a21f66303c6e194cc6191e524983461de200a",
+  "work/degree16/REPLAY.txt": "959f816da19d7378a50cc0e0530babd65f2cab138873a26c535c9bcedd681b99",
+  "work/degree16/final_coverage.json": "3b322a05318e420cd74896388d5c1dd59bf8699c054d948d7a7da98ea1d9e30e",
+  "work/degree16/support_coverage.json": "485338fd1736a5fa7ffb659eba96223512e281cc49fb849ab3b1899a85d07dfd",
+  "work/degree16/auxiliary_verified.json": "35fa24faf297eeb18d255abbcc8f5ecaea7dbf47563396744da88b0a3b5cbe16",
+  "work/degree16/independent_rank_checks.json": "c19ebe4f0464991b0cc37c4e2dc09104c6da035b324e514ca7b799b7052a2b20",
+  "work/degree16/verify_coverage.py": "4b6a117757c4dcb070ca735ad51a44e83e1431c833b3f8c96e33e18b7486de01",
+  "work/degree16/verify_auxiliary.py": "2d77efcc0f4d0aae28699c98dfa36d00d5f5c4907c556685a922e5fcad326741",
+  "work/degree16/verify_ranks.py": "58c9f11dc4d27cccc17495c852cac35d7319c82191abb3d1be7d551eaf2f463f",
+  "work/degree16/odd_anti_data.m": "4baf784f8009938eeb2febff23d9961a4cdffafef14517a4571c957077157bc4",
+  "work/degree16/new_finite_data.m": "a52cb7704fd83cf98fcaf504e1fcc28c8551438ff4a19bdd951bf734e3b9f4a9",
+  "work/degree16/torsion43_reduction.m": "0350f694cd9ce81bec8694132499d3554dd0cd5461427c121f0a6c1577f03cb4",
+  "work/degree16/torsion43_Q_first.m": "90393806788a11b24c97e80ded569a097f4e6e82b422f759ee347569d9fc89e0",
+  "work/degree16/torsion43_upper.m": "4eb933f5f4535153b40d696caf5ce773082bcd20b742e4067bfc24e0ed084113",
+  "work/degree17/full97/matrices.json.gz": "4d3ff9f1e01e0f733d45f3165935701f9158565ca370b1cfec95d5568ad65c08"
+}

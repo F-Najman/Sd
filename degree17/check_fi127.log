@@ -1,0 +1,1 @@
+{'N': 127, 'status': 'PASS', 'degree': 17, 'rows_cap6': 137, 'rank_cap6': 131, 'kernel_dimension': 6, 'exceptional_counts': {'7+7+rest3': 26600, '8+7+rest2': 3800, '8+8+rest1': 380, '9+7+rest1': 380, '9+8+rest0': 20, '10+7+rest0': 20}, 'exceptional_failures': [], 'normalized_tuples_cap6': 1128346471, 'detail': 'PASS relations=6 tested=63\n'}

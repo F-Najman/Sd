@@ -1,0 +1,405 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 6 /Kids [ 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R ] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 3633 >>
+stream
+BT /F1 8 Tf 48 808 Td (Independent-agent audit | S\(10\) and S\(11\) | 28 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+(INDEPENDENT AGENT REVIEW OF THE DEGREE-10 AND DEGREE-11 CLASSIFICATIONS) Tj T*
+(28 October 2026) Tj T*
+() Tj T*
+(Review status: COMPLETE. No blocking mathematical or certificate gap found.) Tj T*
+(The exact final evidence scope is final_evidence_manifest.json.) Tj T*
+() Tj T*
+(The reviewed claims are) Tj T*
+() Tj T*
+(  S\(10\) = {2,3,5,7,11,13,17,19,23,29,31,37},) Tj T*
+(  S\(11\) = {2,3,5,7,11,13,17,19,23,29,31},) Tj T*
+() Tj T*
+(for arbitrary elliptic curves over number fields of EXACT degree 10 and 11,) Tj T*
+(respectively. No assumption that the curve is defined over Q is made.) Tj T*
+() Tj T*
+(The original proof/archive versions are identified by SHA256 in) Tj T*
+(review_scope_snapshot.json. The reviewed documents were) Tj T*
+(outputs/S10_proof_audited.txt and outputs/S11_proof_audited.txt, with their final) Tj T*
+(work/audit10 and work/audit11 sources/data and final archive manifests. Earlier) Tj T*
+(superseded nonic/decic proofs and the case-ledger PASS summaries were not used) Tj T*
+(as mathematical hypotheses or substitutes for checking the calculations.) Tj T*
+() Tj T*
+(Separate verdicts) Tj T*
+() Tj T*
+(S\(10\): The claimed classification withstands this independent review as a) Tj T*
+(computer-assisted proof on the stated external-theorem and software) Tj T*
+(dependencies. No unresolved prime, reduction type, or certificate failure) Tj T*
+(was found. The degree-10 occurrence at 37 is valid, so Primes\(31\) would be an) Tj T*
+(incorrect degree-10 classification. The final Primes\(37\) claim is supported.) Tj T*
+() Tj T*
+(S\(11\): The claimed classification withstands this independent review as a) Tj T*
+(computer-assisted proof on the stated external-theorem and software) Tj T*
+(dependencies. All 73 selected large-character tests were independently rerun,) Tj T*
+(and their scalar complexities were independently certified outside Magma's) Tj T*
+(recurrence routine. No unresolved prime, reduction type, or certificate) Tj T*
+(failure was found.) Tj T*
+() Tj T*
+(Two small exposition repairs and one recommended explanatory expansion are) Tj T*
+(specified below. They do not require a changed computational certificate or) Tj T*
+(an additional mathematical exclusion case.) Tj T*
+() Tj T*
+(This was an independent AI-agent review, with two focused child reviewers.) Tj T*
+(It is NOT external human peer review and NOT formal verification in a proof) Tj T*
+(assistant. The original proof and certificate files were left untouched.) Tj T*
+() Tj T*
+(Evidence actually regenerated) Tj T*
+() Tj T*
+(1. Occurrence and exact degrees.) Tj T*
+(All seven degree-11 witnesses for 11,13,17,19,23,29,31 and the degree-10) Tj T*
+(witnesses for 23,29,31,37 were rerun exactly. Fields have the claimed degree;) Tj T*
+(the curves are nonsingular; P is nonzero and pP=O. Exact order follows since) Tj T*
+(p is prime. The degree-10 37 witness has j-degree 10, and is valid for the) Tj T*
+(arbitrary-curve problem. Occurrence through 19 in degree 10 accepts the known) Tj T*
+(quintic classification and quadratic base extension.) Tj T*
+() Tj T*
+(For a K-valued modular point the closed residue degree divides [K:Q]. For) Tj T*
+(degree 11, Mazur excludes residue degree1 for p>7. For degree 10, the known) Tj T*
+(S\(1\),S\(2\),S\(5\) bounds exclude proper divisor degrees for p>19. This justifies) Tj T*
+(the exact-degree trace divisors and the S_new\(d\) hypotheses in Derickx--Stoll;) Tj T*
+(it does not equate degree 10 and degree 11 points.) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (1 / 6) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4348 >>
+stream
+BT /F1 8 Tf 48 808 Td (Independent-agent audit | S\(10\) and S\(11\) | 28 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+() Tj T*
+(2. Global bound and character tests.) Tj T*
+(The primary Derickx--Stoll statements were read and checked for the precise) Tj T*
+(small-prime, CM, divisibility, gonality and rational-2-primary-torsion) Tj T*
+(hypotheses used. Table2 was compared with the actual primary arXiv-v1 HTML,) Tj T*
+(and the arithmetic exclusions were independently recomputed: 5987 primes) Tj T*
+(in the degree 10 table range and 9560 in the degree 11 range. The table is not) Tj T*
+(extrapolated beyond 100000 and no asymptotic conjecture is assumed.) Tj T*
+() Tj T*
+(The 52 rank 11 matrices over F3 with M53 and 72 over F5 with M73 were) Tj T*
+(independently constructed and verified. The primary Parent criterion really) Tj T*
+(does allow those odd characteristics. The Hasse/toric sieve above 100000 was) Tj T*
+(independently reconstructed for all 6567 primes up to 177989: 6522 are excluded,) Tj T*
+(45 remain, and the fresh characteristic 3 j=0 twist enumeration removes 24.) Tj T*
+(The remaining21 primes and exact selected order coverage give exactly 73) Tj T*
+(large-character tests.) Tj T*
+() Tj T*
+(The mathematical character argument was checked in addition to arithmetic.) Tj T*
+(The Eisenstein factors remove the boundary; the cuspidal winding module has) Tj T*
+(full dimension if an exact scalar Krylov sequence has that linear complexity;) Tj T*
+(reduction gives a rank lower bound in characteristic zero; and Galois) Tj T*
+(conjugacy covers every character of a fixed order. The selected missing) Tj T*
+(r-adic power in str\(p\), with r!=11, excludes the divisibility alternative.) Tj T*
+(The genuinely nonreal boundary control p176321/order17632 has chi\(2\) of) Tj T*
+(order 551 and directly verifies that the full boundary is killed and the) Tj T*
+(modified winding vector is cuspidal. A separate small-level control) Tj T*
+(distinguishes the stated chi convention from its inverse.) Tj T*
+() Tj T*
+(All 73 native character tests were freshly rerun with seed 20261029 instead) Tj T*
+(of 20261028; each has full scalar complexity equal to its cuspidal dimension.) Tj T*
+(The scalar Krylov sequences were exported, and all 73 complexities were) Tj T*
+(independently certified in Sage by polynomial Euclid and exact coprime Pade) Tj T*
+(certificates, rather than reusing Magma's Berlekamp--Massey routine. The) Tj T*
+(retained numerator/denominator polynomials and sequence hashes permit direct) Tj T*
+(checking of the lower bound. The complete native batch took about 713 seconds;) Tj T*
+(the independent sequence checker overlapped it. Final outputs include) Tj T*
+(global_fi/fresh_73_results.json, global_fi/independent_sequence_results.json,) Tj T*
+(global_fi/replay_73.log, global_fi/check_sequences.log, and the 73 native) Tj T*
+(sequence files and 73 independent Pade certificate files under global_fi/large73.) Tj T*
+() Tj T*
+(The remaining small global primes are covered by the stated diamond-orbit) Tj T*
+(and gonality argument; its finite-image and 2-primary torsion hypotheses are) Tj T*
+(supplied by the cited unconditional results. The final caps are p<=101 for) Tj T*
+(degree 10 and p<=103 for degree 11.) Tj T*
+() Tj T*
+(3. Rational cusps and formal immersion.) Tj T*
+(All 16 actual DKSS endomorphism exports were regenerated. Every raw operator) Tj T*
+(matrix and every injective row compression matched the original. A freshly) Tj T*
+(compiled checker reran all 2717157222 normalized cusp multiplicity tuples,) Tj T*
+(including 2580289822 at83. Independent bounded-composition inclusion-exclusion) Tj T*
+(counts agree in every case. The combined-map projections preserve the) Tj T*
+(required implication from projected to unprojected independence.) Tj T*
+() Tj T*
+(The endomorphisms annihilate the rational Jacobian groups, not merely their) Tj T*
+(free parts: the winding test gives finite image and the odd Hecke factor) Tj T*
+(kills rational torsion. Matrix independence on an integral modular-symbol) Tj T*
+(lattice implies the needed Hecke-algebra independence modulo2. This invokes) Tj T*
+(the DKSS endomorphism criterion, without assuming that the cotangent lattice) Tj T*
+(of an optimal winding quotient has an unproved property in characteristic 2.) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (2 / 6) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4301 >>
+stream
+BT /F1 8 Tf 48 808 Td (Independent-agent audit | S\(10\) and S\(11\) | 28 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+() Tj T*
+(In degree 10, augmenting a maximal multiplicity by1 embeds each degree 10) Tj T*
+(tuple into a successful degree 11 tuple; its ten operators form an independent) Tj T*
+(subset. The annihilators are independent of total degree. This transfer is) Tj T*
+(valid and does not assume the S\(11\) conclusion.) Tj T*
+() Tj T*
+(4. Complete finite-field support census.) Tj T*
+(A separately written census used explicit ordinary twists, EVERY j in every) Tj T*
+(field F_\(2^d\), 1<=d<=11, all supersingular twists, and a different Frobenius) Tj T*
+(key. All 176 \(level,degree\) pairs agree, not just aggregate totals: 210 diamond) Tj T*
+(orbits, of which206 are ordinary and 4 supersingular, and 6092 closed points.) Tj T*
+(Proper j-fields are retained. The p^2 nondivisibility checks make the rational) Tj T*
+(p-torsion cyclic, so all nonzero scalars of one generator cover all relevant) Tj T*
+(level structures. The fine-moduli property and complete twist enumeration) Tj T*
+(account for supersingular automorphisms and descent.) Tj T*
+() Tj T*
+(At 41 the ordinary minimum is8, while the degree 5 points are supersingular.) Tj T*
+(Hence the only possible multiple-noncuspidal support in total degree 10 or11) Tj T*
+(is the degree 5+5 case at 41, including repetition. The nonrational cusp degrees) Tj T*
+(are too large to coexist with a noncuspidal point; all other complements are) Tj T*
+(rational cuspidal. This checks the actual coverage, not only census markers.) Tj T*
+() Tj T*
+(5. Full integral models and ordinary Hecke obstructions.) Tj T*
+(All 16 canonical q-bases, unit relations, ordinary geometric3-isogeny targets,) Tj T*
+(trace weights and eight-term jets were freshly regenerated from the source.) Tj T*
+(Changed bases at 41/73/97 were independently matched by Sage: the full q-row) Tj T*
+(spaces agree, diamond matrices are conjugate, and unit-relation spaces are) Tj T*
+(equivalent. The other raw outputs match byte-for-byte.) Tj T*
+() Tj T*
+(The full integral differential-lattice assertion was checked mathematically.) Tj T*
+(Fricke sends \(E\(q^p\),q\) to E\(q\) with its dual mu_p level structure, identifies) Tj T*
+(the formal parameter q, and extends over Z2 because p is odd. Thus the rational) Tj T*
+(q-form space is the actual differential space on the point-level curve.) Tj T*
+(Every stored precisionB satisfies B-1>2g-2. If a rational2-adic differential) Tj T*
+(has an integral B-term truncation but is not integral, multiplying by its) Tj T*
+(minimal denominator gives a nonzero mod2 holomorphic differential vanishing) Tj T*
+(to order at least B-1>2g-2, impossible. Therefore saturation of those truncations is) Tj T*
+(the full Z2 lattice. This is a justification of the model, not an inference) Tj T*
+(from successful finite-field ranks.) Tj T*
+() Tj T*
+(The modular units' lack of interior poles was independently checked from) Tj T*
+(the exact low-order division-polynomial factors \(orders2,3,4,5,7,8,9\).) Tj T*
+(Every rational and nonrational cusp was used in the pole calculations.) Tj T*
+(The global zero-order bound then proves each unit relation identically:) Tj T*
+(a nonzero meromorphic differential cannot have more zeros than 2g-2 plus) Tj T*
+(its total pole degree. At every ordinary source/target, rankg-1 of the) Tj T*
+(combined relations gives the actual canonical point. The verified dimension) Tj T*
+(3g-3 of canonical products also rules out hyperellipticity, so canonical) Tj T*
+(keys really separate points.) Tj T*
+() Tj T*
+(The inverse-diamond convention and geometric A3=T3-1-3delta3 were checked.) Tj T*
+(On rational Tate cusps, one cyclic3-subgroup gives the same cusp and three) Tj T*
+(give delta3 of the cusp, so A3 kills the actual divisor. Eichler--Shimura and) Tj T*
+(odd-prime torsion reduction give its rational-torsion annihilation. If a) Tj T*
+(source has degreed, a3-kernel factor has degreee, and the target moduli field) Tj T*
+(has degreet, its trace weight is de/t; all factors, repeated targets and) Tj T*
+(cancellations are retained. The total Hecke degree is4d.) Tj T*
+() Tj T*
+(Alpha finiteness uses the actual rankzero list and strange character orders:) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (3 / 6) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4278 >>
+stream
+BT /F1 8 Tf 48 808 Td (Independent-agent audit | S\(10\) and S\(11\) | 28 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+(sigma^6-1 at 61, \(sigma-1\)Phi12\(sigma\) at 97 and \(sigma-1\)\(sigma^5+1\) at 101 kill) Tj T*
+(all potentially positive-rank character factors; Kato gives finite image) Tj T*
+(on the remainder. This has no dependence on total degree 10 versus11.) Tj T*
+() Tj T*
+(The non-principality logic is correct. If alpha*A3*P=U-V=div\(g\) and a nonzero) Tj T*
+(F in R=H^0\(K^k\) vanishes onU, then S=F/g is a nonzero section vanishing onV.) Tj T*
+(For every H inR vanishing onU, H*S lies in F*R. The recorded homogeneous) Tj T*
+(linear system gives necessary conditions onS; full rank contradicts its) Tj T*
+(existence. Random H can fail to certify an obstruction but cannot create a) Tj T*
+(false one. Multiplication tensor identities are checked beyond the appropriate) Tj T*
+(Sturm bounds, and jets are obtained by checked Hensel lifting in the actual) Tj T*
+(ordinary parameter a6=1/j.) Tj T*
+() Tj T*
+(With a changed seed all 202 ordinary obstructions were freshly regenerated.) Tj T*
+(Sage independently checked all 202 ORIGINAL and all 202 FRESH matrix ranks.) Tj T*
+(The same four level 37 exceptions remain, and are separately excluded below.) Tj T*
+(The 96 ordinary orbits required in degree 10 are a subset of this same actual) Tj T*
+(through-degree 11 census; alpha*A3*P is independent of total degree.) Tj T*
+() Tj T*
+(6. Exceptional branches and gonality43.) Tj T*
+(All 19 assigned native computations were freshly rerun, including the 41/43) Tj T*
+(supersingular obstructions, all 41 supersingular pairs, the 41 nonrational cusp) Tj T*
+(class, the 37 stabilizers and exceptional degree 10 witness match, the actual) Tj T*
+(JOne integral2-torsion calculations at 37/43/73, all 18 exceptional37 cotangent) Tj T*
+(restrictions, and all 8 nonrational-pole Riemann--Roch cases at43.) Tj T*
+() Tj T*
+(The integral homology really belongs to JOne rather than an unspecified) Tj T*
+(isogenous Jacobian; the relevant Magma implementation was inspected. Fresh) Tj T*
+(common-kernel dimensions are0/6/6 at 37/43/73 and the required diamonds act) Tj T*
+(trivially. The37 cotangent image has dimension 38 and all 18 restrictions to) Tj T*
+(the decic divisor plus a rational cusp have rank 11. The zero rational) Tj T*
+(2-torsion and formal-immersion uniqueness argument therefore excludes that) Tj T*
+(last irreducible degree 11 branch; it does not wrongly exclude the actual) Tj T*
+(degree 10 witness.) Tj T*
+() Tj T*
+(The stabilizer/norm argument is valid, including the 2-primary reduction) Tj T*
+(kernel and each gonality inequality. A degree-zero interpretation of its) Tj T*
+(printed shorthand is specified below. The89 branch correctly yields a) Tj T*
+(rational X0\(89\) point and invokes the prime-isogeny theorem. The published) Tj T*
+(level 37 gonality 18 is the correct external input.) Tj T*
+() Tj T*
+(The new level 43 gonality proof was independently reconstructed from the raw) Tj T*
+(canonical q-basis, using Sage right kernels and reversed cusp indexing.) Tj T*
+(All234 envelopes cover all 66 pole-multiplicity partitions; the residue) Tj T*
+(pairing is precisely the global principal-parts obstruction. Of the envelopes,) Tj T*
+(229 have zero kernel, four have dimension 1 and one has dimension 4. Every) Tj T*
+(nonzero principal part has pole degree at least 30, excluding degree<=15.) Tj T*
+(The native first-envelope control gives the same 15 pole degrees. Native) Tj T*
+(nonrational-pole cases all have Riemann--Roch dimension 1, and the degree 8) Tj T*
+(points form the two required length21 diamond orbits. Thus gon_F2>=16, and) Tj T*
+(good-reduction specialization gives gon_Q>=16. This also supplies the bound) Tj T*
+(needed by the degree 10 transfer, without trusting a stronger website claim.) Tj T*
+() Tj T*
+(Precise proof-text clarifications) Tj T*
+() Tj T*
+(A. outputs/S11_proof_audited.txt:224-228. Add: 'At 41 the degree 5 points are) Tj T*
+(supersingular and the minimum ordinary degree is8.' The currently printed) Tj T*
+(minimum 5 statement alone would not exclude a hypothetical5+6 support in) Tj T*
+(degree 11; the actual complete census excludes it. The degree 10 sentence at) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (4 / 6) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4037 >>
+stream
+BT /F1 8 Tf 48 808 Td (Independent-agent audit | S\(10\) and S\(11\) | 28 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+(outputs/S10_proof_audited.txt:113-116 remains valid but can repeat this fact.) Tj T*
+() Tj T*
+(B. outputs/S11_proof_audited.txt:337-344, especially line340, and the) Tj T*
+(corresponding degree 10 stabilizer passages. Write) Tj T*
+(  y=[\(h-1\)\(D-C\)] in J\(Q\),) Tj T*
+(rather than treating [D-C] itself as a degree-zero Jacobian point. For the) Tj T*
+(torsion deduction put Z=D-C and N_hZ=sum_\(i=0\)^\(m-1\) h^iZ. Then mZ-N_hZ has) Tj T*
+(degree zero and) Tj T*
+(  m y=\(h-1\)[mZ-N_hZ].) Tj T*
+(Finite \(h-1\)J\(Q\) makes my, hence y, torsion. The norm telescopes exactly and) Tj T*
+(the subsequent reduction/norm argument is unchanged. This supplies the) Tj T*
+(missing degree bookkeeping without an additional hypothesis.) Tj T*
+() Tj T*
+(C. outputs/S11_proof_audited.txt:278-286. Recommend expanding the saturation) Tj T*
+(claim with the B-1>2g-2 minimal-denominator argument above. The current) Tj T*
+(q-expansion/Fricke assertion is correct on standard geometric facts; the) Tj T*
+(explicit lemma makes its full integral-lattice premise reviewable and) Tj T*
+(prevents confusing saturation of an arbitrary finite truncation with proof) Tj T*
+(of integrality. No change to raw models or ranks is needed.) Tj T*
+() Tj T*
+(Dependencies and limits of the verdict) Tj T*
+() Tj T*
+(The accepted mathematical inputs are Mazur's rational torsion and) Tj T*
+(prime-isogeny theorems; the known quintic and quadratic prime classifications;) Tj T*
+(DKSS's Oesterle bound, rational-torsion annihilators, rankzero list and) Tj T*
+(endomorphism formal-immersion criterion; Parent's odd-characteristic criterion) Tj T*
+(and2-primary reduction-kernel result; the unconditional Derickx--Stoll) Tj T*
+(theorems and finite strange-character Table2; Kato's rankzero theorem; the) Tj T*
+(published X1\(37\) gonality; and standard smooth-model, q-expansion, Fricke,) Tj T*
+(Eichler--Shimura, principal-parts duality and gonality-specialization facts.) Tj T*
+(The primary statements and hypotheses used were checked. The entire published) Tj T*
+(strange-character table below100000 was NOT independently recomputed; it is) Tj T*
+(an explicit external mathematical input.) Tj T*
+() Tj T*
+(The software trust includes Magma V2.30-1 exact arithmetic and its modular) Tj T*
+(symbols, q-eigenforms, finite-field twists/groups, isogenies, Jacobians and) Tj T*
+(function-field/Riemann--Roch routines; the bundled modular-curve library;) Tj T*
+(Sage's exact finite-field linear algebra/polynomials; and the reviewed) Tj T*
+(Python/C++ orchestration. Independent implementations and changed seeds) Tj T*
+(substantially check the certificates but do not reimplement those CASs or) Tj T*
+(formally prove them correct. A successful replay is not a substitute for) Tj T*
+(the mathematical model/coverage arguments given above.) Tj T*
+() Tj T*
+(Final evidence and reproduction) Tj T*
+() Tj T*
+(The final_evidence_manifest.json identifies exact final sources, logs and data) Tj T*
+(with SHA256 and byte counts; files not listed there are not final evidence.) Tj T*
+(The focused reports are ordinary/REVIEW.txt, global_fi/REVIEW.txt and) Tj T*
+(exceptional/review.txt. They give source/primary-theorem line references and) Tj T*
+(the detailed mathematical checks. Original computational inputs are supplied) Tj T*
+(by the unchanged audited archives recorded in review_scope_snapshot.json.) Tj T*
+() Tj T*
+(Reproduction requires that original source tree, Magma V2.30-1, Sage's Python,) Tj T*
+(and a C++17 compiler. Review drivers retain workspace/library paths, so those) Tj T*
+(paths must be relocated when replaying on another computer. The final manifest) Tj T*
+(includes the exact commands and dependency hashes, and a verification) Tj T*
+(that the original proof/archive snapshot was unchanged at review completion.) Tj T*
+() Tj T*
+(The proposed revisions in proposed/S10_proof_audited.txt and) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (5 / 6) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 575 >>
+stream
+BT /F1 8 Tf 48 808 Td (Independent-agent audit | S\(10\) and S\(11\) | 28 October 2026) Tj ET
+BT /F1 9 Tf 12 TL 48 783 Td
+(proposed/S11_proof_audited.txt, with their unified diffs, were also read.) Tj T*
+(They correctly implement A--C above, including 'after tensoring with Z_2') Tj T*
+(in the full-lattice conclusion. They introduce no changed computational) Tj T*
+(hypothesis or certificate. I approve those specific mathematical clarifications;) Tj T*
+(their exact reviewed hashes are retained in the final evidence manifest.) Tj T*
+ET
+BT /F1 8 Tf 276 35 Td (6 / 6) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000150 00000 n 
+0000000218 00000 n 
+0000003902 00000 n 
+0000004028 00000 n 
+0000008427 00000 n 
+0000008553 00000 n 
+0000012905 00000 n 
+0000013031 00000 n 
+0000017361 00000 n 
+0000017489 00000 n 
+0000021578 00000 n 
+0000021706 00000 n 
+0000022332 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+22460
+%%EOF

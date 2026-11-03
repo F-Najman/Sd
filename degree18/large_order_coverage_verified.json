@@ -1,0 +1,1351 @@
+{
+  "status": "PASS",
+  "primes": 81,
+  "character_orders": 615,
+  "selected_prime_data": [
+    {
+      "p": 130579,
+      "r": 3109,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        3109,
+        9327,
+        21763,
+        65289
+      ]
+    },
+    {
+      "p": 130589,
+      "r": 32647,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        32647,
+        65294
+      ]
+    },
+    {
+      "p": 130619,
+      "r": 65309,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        65309
+      ]
+    },
+    {
+      "p": 130621,
+      "r": 311,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        311,
+        622,
+        933,
+        1555,
+        1866,
+        2177,
+        3110,
+        4354,
+        4665,
+        6531,
+        9330,
+        10885,
+        13062,
+        21770,
+        32655,
+        65310
+      ]
+    },
+    {
+      "p": 130631,
+      "r": 13063,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        13063,
+        65315
+      ]
+    },
+    {
+      "p": 130633,
+      "r": 5443,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        5443,
+        10886,
+        16329,
+        21772,
+        32658,
+        65316
+      ]
+    },
+    {
+      "p": 130639,
+      "r": 21773,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        21773,
+        65319
+      ]
+    },
+    {
+      "p": 130643,
+      "r": 787,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        787,
+        65321
+      ]
+    },
+    {
+      "p": 130649,
+      "r": 2333,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        2333,
+        4666,
+        9332,
+        16331,
+        32662,
+        65324
+      ]
+    },
+    {
+      "p": 130651,
+      "r": 5,
+      "valuation_m": 2,
+      "valuation_degree": 0,
+      "threshold": 2,
+      "orders": [
+        25,
+        75,
+        325,
+        975,
+        1675,
+        5025,
+        21775,
+        65325
+      ]
+    },
+    {
+      "p": 130657,
+      "r": 2,
+      "valuation_m": 4,
+      "valuation_degree": 1,
+      "threshold": 3,
+      "orders": [
+        8,
+        16,
+        24,
+        48,
+        10888,
+        21776,
+        32664,
+        65328
+      ]
+    },
+    {
+      "p": 130681,
+      "r": 11,
+      "valuation_m": 2,
+      "valuation_degree": 0,
+      "threshold": 2,
+      "orders": [
+        121,
+        242,
+        363,
+        484,
+        605,
+        726,
+        1089,
+        1210,
+        1452,
+        1815,
+        2178,
+        2420,
+        3267,
+        3630,
+        4356,
+        5445,
+        6534,
+        7260,
+        10890,
+        13068,
+        16335,
+        21780,
+        32670,
+        65340
+      ]
+    },
+    {
+      "p": 130687,
+      "r": 947,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        947,
+        2841,
+        21781,
+        65343
+      ]
+    },
+    {
+      "p": 130693,
+      "r": 10891,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        10891,
+        21782,
+        32673,
+        65346
+      ]
+    },
+    {
+      "p": 130699,
+      "r": 137,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        137,
+        411,
+        1233,
+        7261,
+        21783,
+        65349
+      ]
+    },
+    {
+      "p": 130729,
+      "r": 419,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        419,
+        838,
+        1257,
+        1676,
+        2514,
+        5028,
+        5447,
+        10894,
+        16341,
+        21788,
+        32682,
+        65364
+      ]
+    },
+    {
+      "p": 130769,
+      "r": 743,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        743,
+        1486,
+        2972,
+        5944,
+        8173,
+        16346,
+        32692,
+        65384
+      ]
+    },
+    {
+      "p": 130783,
+      "r": 307,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        307,
+        921,
+        21797,
+        65391
+      ]
+    },
+    {
+      "p": 130787,
+      "r": 65393,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        65393
+      ]
+    },
+    {
+      "p": 130807,
+      "r": 13,
+      "valuation_m": 2,
+      "valuation_degree": 0,
+      "threshold": 2,
+      "orders": [
+        169,
+        507,
+        1521,
+        7267,
+        21801,
+        65403
+      ]
+    },
+    {
+      "p": 130811,
+      "r": 127,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        127,
+        635,
+        13081,
+        65405
+      ]
+    },
+    {
+      "p": 130817,
+      "r": 2,
+      "valuation_m": 7,
+      "valuation_degree": 1,
+      "threshold": 6,
+      "orders": [
+        64,
+        128,
+        448,
+        896,
+        4672,
+        9344,
+        32704,
+        65408
+      ]
+    },
+    {
+      "p": 130829,
+      "r": 32707,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        32707,
+        65414
+      ]
+    },
+    {
+      "p": 130841,
+      "r": 3271,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        3271,
+        6542,
+        13084,
+        16355,
+        32710,
+        65420
+      ]
+    },
+    {
+      "p": 130843,
+      "r": 2423,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        2423,
+        7269,
+        21807,
+        65421
+      ]
+    },
+    {
+      "p": 130859,
+      "r": 719,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        719,
+        5033,
+        9347,
+        65429
+      ]
+    },
+    {
+      "p": 130873,
+      "r": 41,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        41,
+        82,
+        123,
+        164,
+        246,
+        287,
+        492,
+        574,
+        779,
+        861,
+        1148,
+        1558,
+        1722,
+        2337,
+        3116,
+        3444,
+        4674,
+        5453,
+        9348,
+        10906,
+        16359,
+        21812,
+        32718,
+        65436
+      ]
+    },
+    {
+      "p": 130927,
+      "r": 21821,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        21821,
+        65463
+      ]
+    },
+    {
+      "p": 130957,
+      "r": 1559,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        1559,
+        3118,
+        4677,
+        9354,
+        10913,
+        21826,
+        32739,
+        65478
+      ]
+    },
+    {
+      "p": 130969,
+      "r": 107,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        107,
+        214,
+        321,
+        428,
+        642,
+        963,
+        1284,
+        1819,
+        1926,
+        3638,
+        3852,
+        5457,
+        7276,
+        10914,
+        16371,
+        21828,
+        32742,
+        65484
+      ]
+    },
+    {
+      "p": 130973,
+      "r": 239,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        239,
+        478,
+        32743,
+        65486
+      ]
+    },
+    {
+      "p": 130981,
+      "r": 59,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        59,
+        118,
+        177,
+        295,
+        354,
+        590,
+        885,
+        1770,
+        2183,
+        4366,
+        6549,
+        10915,
+        13098,
+        21830,
+        32745,
+        65490
+      ]
+    },
+    {
+      "p": 130987,
+      "r": 383,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        383,
+        1149,
+        3447,
+        7277,
+        21831,
+        65493
+      ]
+    },
+    {
+      "p": 131009,
+      "r": 2,
+      "valuation_m": 5,
+      "valuation_degree": 1,
+      "threshold": 4,
+      "orders": [
+        16,
+        32,
+        368,
+        736,
+        1424,
+        2848,
+        32752,
+        65504
+      ]
+    },
+    {
+      "p": 131011,
+      "r": 397,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        397,
+        1191,
+        1985,
+        4367,
+        5955,
+        13101,
+        21835,
+        65505
+      ]
+    },
+    {
+      "p": 131023,
+      "r": 251,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        251,
+        753,
+        2259,
+        7279,
+        21837,
+        65511
+      ]
+    },
+    {
+      "p": 131041,
+      "r": 2,
+      "valuation_m": 4,
+      "valuation_degree": 1,
+      "threshold": 3,
+      "orders": [
+        8,
+        16,
+        24,
+        40,
+        48,
+        56,
+        72,
+        80,
+        104,
+        112,
+        120,
+        144,
+        168,
+        208,
+        240,
+        280,
+        312,
+        336,
+        360,
+        504,
+        520,
+        560,
+        624,
+        720,
+        728,
+        840,
+        936,
+        1008,
+        1040,
+        1456,
+        1560,
+        1680,
+        1872,
+        2184,
+        2520,
+        3120,
+        3640,
+        4368,
+        4680,
+        5040,
+        6552,
+        7280,
+        9360,
+        10920,
+        13104,
+        21840,
+        32760,
+        65520
+      ]
+    },
+    {
+      "p": 131059,
+      "r": 809,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        809,
+        2427,
+        7281,
+        21843,
+        65529
+      ]
+    },
+    {
+      "p": 131063,
+      "r": 3449,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        3449,
+        65531
+      ]
+    },
+    {
+      "p": 131071,
+      "r": 257,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        257,
+        771,
+        1285,
+        3855,
+        4369,
+        13107,
+        21845,
+        65535
+      ]
+    },
+    {
+      "p": 131101,
+      "r": 5,
+      "valuation_m": 2,
+      "valuation_degree": 0,
+      "threshold": 2,
+      "orders": [
+        25,
+        50,
+        75,
+        150,
+        475,
+        575,
+        950,
+        1150,
+        1425,
+        1725,
+        2850,
+        3450,
+        10925,
+        21850,
+        32775,
+        65550
+      ]
+    },
+    {
+      "p": 131111,
+      "r": 1873,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        1873,
+        9365,
+        13111,
+        65555
+      ]
+    },
+    {
+      "p": 131113,
+      "r": 607,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        607,
+        1214,
+        1821,
+        2428,
+        3642,
+        5463,
+        7284,
+        10926,
+        16389,
+        21852,
+        32778,
+        65556
+      ]
+    },
+    {
+      "p": 131129,
+      "r": 443,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        443,
+        886,
+        1772,
+        16391,
+        32782,
+        65564
+      ]
+    },
+    {
+      "p": 131143,
+      "r": 1987,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        1987,
+        5961,
+        21857,
+        65571
+      ]
+    },
+    {
+      "p": 131149,
+      "r": 3643,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        3643,
+        7286,
+        10929,
+        21858,
+        32787,
+        65574
+      ]
+    },
+    {
+      "p": 131171,
+      "r": 1009,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        1009,
+        5045,
+        13117,
+        65585
+      ]
+    },
+    {
+      "p": 131203,
+      "r": 197,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        197,
+        591,
+        1773,
+        7289,
+        21867,
+        65601
+      ]
+    },
+    {
+      "p": 131213,
+      "r": 32803,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        32803,
+        65606
+      ]
+    },
+    {
+      "p": 131221,
+      "r": 3,
+      "valuation_m": 8,
+      "valuation_degree": 2,
+      "threshold": 6,
+      "orders": [
+        729,
+        1458,
+        2187,
+        3645,
+        4374,
+        6561,
+        7290,
+        10935,
+        13122,
+        21870,
+        32805,
+        65610
+      ]
+    },
+    {
+      "p": 131231,
+      "r": 1193,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        1193,
+        5965,
+        13123,
+        65615
+      ]
+    },
+    {
+      "p": 131249,
+      "r": 631,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        631,
+        1262,
+        2524,
+        5048,
+        8203,
+        16406,
+        32812,
+        65624
+      ]
+    },
+    {
+      "p": 131251,
+      "r": 5,
+      "valuation_m": 5,
+      "valuation_degree": 0,
+      "threshold": 5,
+      "orders": [
+        3125,
+        9375,
+        21875,
+        65625
+      ]
+    },
+    {
+      "p": 131267,
+      "r": 65633,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        65633
+      ]
+    },
+    {
+      "p": 131293,
+      "r": 521,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        521,
+        1042,
+        1563,
+        3126,
+        3647,
+        4689,
+        7294,
+        9378,
+        10941,
+        21882,
+        32823,
+        65646
+      ]
+    },
+    {
+      "p": 131297,
+      "r": 2,
+      "valuation_m": 4,
+      "valuation_degree": 1,
+      "threshold": 3,
+      "orders": [
+        8,
+        16,
+        88,
+        176,
+        2984,
+        5968,
+        32824,
+        65648
+      ]
+    },
+    {
+      "p": 131303,
+      "r": 65651,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        65651
+      ]
+    },
+    {
+      "p": 131311,
+      "r": 1459,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        1459,
+        4377,
+        7295,
+        13131,
+        21885,
+        65655
+      ]
+    },
+    {
+      "p": 131317,
+      "r": 353,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        353,
+        706,
+        1059,
+        2118,
+        10943,
+        21886,
+        32829,
+        65658
+      ]
+    },
+    {
+      "p": 131321,
+      "r": 7,
+      "valuation_m": 2,
+      "valuation_degree": 0,
+      "threshold": 2,
+      "orders": [
+        49,
+        98,
+        196,
+        245,
+        490,
+        980,
+        3283,
+        6566,
+        13132,
+        16415,
+        32830,
+        65660
+      ]
+    },
+    {
+      "p": 131357,
+      "r": 32839,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        32839,
+        65678
+      ]
+    },
+    {
+      "p": 131363,
+      "r": 853,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        853,
+        5971,
+        9383,
+        65681
+      ]
+    },
+    {
+      "p": 131371,
+      "r": 151,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        151,
+        453,
+        755,
+        2265,
+        4379,
+        13137,
+        21895,
+        65685
+      ]
+    },
+    {
+      "p": 131381,
+      "r": 6569,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        6569,
+        13138,
+        32845,
+        65690
+      ]
+    },
+    {
+      "p": 131413,
+      "r": 233,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        233,
+        466,
+        699,
+        1398,
+        10951,
+        21902,
+        32853,
+        65706
+      ]
+    },
+    {
+      "p": 131431,
+      "r": 337,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        337,
+        1011,
+        1685,
+        4381,
+        5055,
+        13143,
+        21905,
+        65715
+      ]
+    },
+    {
+      "p": 131437,
+      "r": 1217,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        1217,
+        2434,
+        3651,
+        7302,
+        10953,
+        21906,
+        32859,
+        65718
+      ]
+    },
+    {
+      "p": 131441,
+      "r": 53,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        53,
+        106,
+        212,
+        265,
+        424,
+        530,
+        1060,
+        1643,
+        2120,
+        3286,
+        6572,
+        8215,
+        13144,
+        16430,
+        32860,
+        65720
+      ]
+    },
+    {
+      "p": 131447,
+      "r": 229,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        229,
+        1603,
+        9389,
+        65723
+      ]
+    },
+    {
+      "p": 131449,
+      "r": 5477,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        5477,
+        10954,
+        16431,
+        21908,
+        32862,
+        65724
+      ]
+    },
+    {
+      "p": 131477,
+      "r": 32869,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        32869,
+        65738
+      ]
+    },
+    {
+      "p": 131479,
+      "r": 1289,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        1289,
+        3867,
+        21913,
+        65739
+      ]
+    },
+    {
+      "p": 131489,
+      "r": 2,
+      "valuation_m": 4,
+      "valuation_degree": 1,
+      "threshold": 3,
+      "orders": [
+        8,
+        16,
+        56,
+        112,
+        4696,
+        9392,
+        32872,
+        65744
+      ]
+    },
+    {
+      "p": 131497,
+      "r": 5479,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        5479,
+        10958,
+        16437,
+        21916,
+        32874,
+        65748
+      ]
+    },
+    {
+      "p": 131501,
+      "r": 5,
+      "valuation_m": 3,
+      "valuation_degree": 0,
+      "threshold": 3,
+      "orders": [
+        125,
+        250,
+        32875,
+        65750
+      ]
+    },
+    {
+      "p": 131507,
+      "r": 1399,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        1399,
+        65753
+      ]
+    },
+    {
+      "p": 131519,
+      "r": 3461,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        3461,
+        65759
+      ]
+    },
+    {
+      "p": 131543,
+      "r": 739,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        739,
+        65771
+      ]
+    },
+    {
+      "p": 131561,
+      "r": 23,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        23,
+        46,
+        92,
+        115,
+        230,
+        253,
+        299,
+        460,
+        506,
+        598,
+        1012,
+        1196,
+        1265,
+        1495,
+        2530,
+        2990,
+        3289,
+        5060,
+        5980,
+        6578,
+        13156,
+        16445,
+        32890,
+        65780
+      ]
+    },
+    {
+      "p": 131581,
+      "r": 43,
+      "valuation_m": 1,
+      "valuation_degree": 0,
+      "threshold": 1,
+      "orders": [
+        43,
+        86,
+        129,
+        215,
+        258,
+        387,
+        430,
+        645,
+        731,
+        774,
+        1290,
+        1462,
+        1935,
+        2193,
+        3655,
+        3870,
+        4386,
+        6579,
+        7310,
+        10965,
+        13158,
+        21930,
+        32895,
+        65790
+      ]
+    },
+    {
+      "p": 262657,
+      "r": 2,
+      "valuation_m": 8,
+      "valuation_degree": 1,
+      "threshold": 7,
+      "orders": [
+        128,
+        256,
+        384,
+        768,
+        1152,
+        2304,
+        2432,
+        3456,
+        4864,
+        6912,
+        7296,
+        14592,
+        21888,
+        43776,
+        65664,
+        131328
+      ]
+    }
+  ]
+}

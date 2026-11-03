@@ -1,0 +1,22 @@
+S13_OCCURRENCE_FOUND 11 trials 26
+S13_OCCURRENCE_SEARCH 11 found True trials 26
+S13_OCCURRENCE_FOUND 13 trials 28
+S13_OCCURRENCE_SEARCH 13 found True trials 28
+S13_OCCURRENCE_FOUND 17 trials 52
+S13_OCCURRENCE_SEARCH 17 found True trials 52
+S13_OCCURRENCE_FOUND 19 trials 53
+S13_OCCURRENCE_SEARCH 19 found True trials 53
+S13_OCCURRENCE_FOUND 23 trials 49
+S13_OCCURRENCE_SEARCH 23 found True trials 49
+S13_OCCURRENCE_FOUND 29 trials 106
+S13_OCCURRENCE_SEARCH 29 found True trials 106
+S13_OCCURRENCE_FOUND 31 trials 593
+S13_OCCURRENCE_SEARCH 31 found True trials 593
+Traceback (most recent call last):
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree13/find_occurrences.py", line 23, in <module>
+    s=Path('/home/fnajman/webpage_sporadic/data/knowledge/sources/vanhoeij_LowDegreePlaces.txt').read_text();line=next(l for l in s.splitlines()if l.startswith('N = 37, degv = 13,'));body=line.split('[',1)[1].rsplit(']',1)[0];fexpr,yexpr=body.replace(' = 0','').split(', ');f=R(fexpr);yy=PolynomialRing(R,'y');y=yy.gen();v=-yy(yexpr)[0]/yy(yexpr)[1];out.append({'N':37,'polynomial':[str(c)for c in f.list()],'y_numerator':[str(c)for c in v.list()],'y_denominator':['1']});(W/'occurrences.json').write_text(json.dumps(out,indent=2)+'\n')
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      ^^^^^^
+  File "sage/structure/element.pyx", line 495, in sage.structure.element.Element.__getattr__ (build/cythonized/sage/structure/element.c:13068)
+  File "sage/structure/element.pyx", line 508, in sage.structure.element.Element.getattr_from_category (build/cythonized/sage/structure/element.c:13178)
+  File "sage/cpython/getattr.pyx", line 363, in sage.cpython.getattr.getattr_from_other_class (build/cythonized/sage/cpython/getattr.c:4677)
+AttributeError: 'sage.rings.fraction_field_element.FractionFieldElement_1poly_field' object has no attribute 'list'

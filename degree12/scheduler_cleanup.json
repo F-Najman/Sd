@@ -1,0 +1,150 @@
+{
+  "status": "PASS",
+  "jobs": [
+    {
+      "p": 530597,
+      "order": 11,
+      "sequence_sha256": "8a2a15b31b381c1717957bd6c46f4fb8d9c3c5be4905b23e16b2c2c1c888c7af",
+      "pade_certificate_sha256": "8d3ae6f7955fea1dd15c0984a48ae4abbc07e294644e212f8eaaab9d78f844da",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530597,
+      "order": 22,
+      "sequence_sha256": "9302d3c4d3ade5a8ece980501080b97a25cc74d16ea03987cc45b5d45bbe1a27",
+      "pade_certificate_sha256": "e324a6c1d3217e8e47b77fa16f48b5919a4cfd046acf7975d3084790c332ce5d",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530597,
+      "order": 341,
+      "sequence_sha256": "8177a1bff7f48c8dc21c0d26bd89eef8f062a747520341afd426983e8da4a7a4",
+      "pade_certificate_sha256": "d1f565191fa598edb0ef7335be152e594fb2400c3a80580bd100a02377dfa637",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530597,
+      "order": 682,
+      "sequence_sha256": "d9709a8f546ee6e22e9553eaf59d1619fc9b728bf7b7a515de719ad0dd6f45a8",
+      "pade_certificate_sha256": "d9d8da694814426e76c41129e4d3b521c3bf8146898c2d417bd87028bbc14b02",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530597,
+      "order": 4279,
+      "sequence_sha256": "6bec724be9e5dbf7f24ba7aa133c5b70691f8355ed073eab686b6a39372656fb",
+      "pade_certificate_sha256": "ff145cb88db022e6bd3b670954b6079df613f6c8d365f0aae2e900a3d26d808d",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530597,
+      "order": 8558,
+      "sequence_sha256": "466838d9413e304495873316112bf7c09f9e3e00ae0700ef895db7f6eb40ce38",
+      "pade_certificate_sha256": "da402bc17c260a2a9fc5233a5e03d2f947c5e6efecc1105a04b8196558c29a95",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530597,
+      "order": 132649,
+      "sequence_sha256": "aa19dda78c8020f89e305120377bd546b94a14375dfe3fbc9e29cce1ab53f8a9",
+      "pade_certificate_sha256": "4bd4ddc4bf6b1073c0971395ac4b60bb9f2c75e68032888951c41cd55df9aa30",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530597,
+      "order": 265298,
+      "sequence_sha256": "d9e1650774070905bc20abcef2429497521888d4824bf39c6b871857f2c84d1b",
+      "pade_certificate_sha256": "60c1d90992cb847fdcaf044969111bb09056ee91bdb8254512a76b1b11b279c5",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530669,
+      "order": 132667,
+      "sequence_sha256": "8b2058205d60e59731caec31dd22114843f764f168039d62b5577295c56a7264",
+      "pade_certificate_sha256": "9b16d559a58517db020db4d0b1392c063a3f8aff1a8c339256a4e259341a4b63",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530669,
+      "order": 265334,
+      "sequence_sha256": "2b667242192246c11ce266e5e29159e571484bd41164b7455028e21a67a9a3f9",
+      "pade_certificate_sha256": "6be99fb3bf45eda7a817a220f89ff910b1e2dc92f3eea7588cc397b024e1a267",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530693,
+      "order": 181,
+      "sequence_sha256": "954f0c5e4db4c7c5b2557c51c36c76f7814b93ce925abdfab551030ad8c3f6e4",
+      "pade_certificate_sha256": "0afc0aa1b01e06e1f98660d8511355312bad30bfd5f4bf0c3472a300da324a42",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530693,
+      "order": 362,
+      "sequence_sha256": "8d0a09fce2f28577cad3dfbd69d4e41930fbd101d6dd26b2a8f83694b68678c4",
+      "pade_certificate_sha256": "3c94873ebe67d008863e8fca821e85f20e69c1adbef6b2d68ee393ed99cf1d78",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530693,
+      "order": 132673,
+      "sequence_sha256": "59d138cbe40256ef93adcc5602818deed781b47346e12f8018ca4de20a7e096a",
+      "pade_certificate_sha256": "506108ace3e11b5d53d7ead37c6f4ccf8668ee4155178ba7486e7dbf215b4441",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530693,
+      "order": 265346,
+      "sequence_sha256": "214a6b9a779ca8b9fae7d65c294b7a9d52be08e0e772761eeb9795bf0c394a35",
+      "pade_certificate_sha256": "bcf771c71519fdbe695ca69ab9596ad740026ff9377eb9b3cad230b5cfe04698",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530741,
+      "order": 5,
+      "sequence_sha256": "b8e5c73a62f12b6e61db5a18576a24539d5a3caf7250b4d892f75f5f3dce0c32",
+      "pade_certificate_sha256": "bf720b9bd83868053adff958e9d1eddb3800782210d12887b299c8d59760ad20",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530741,
+      "order": 10,
+      "sequence_sha256": "115b346dafe1dd3ff07896d57319da59cb36b8c965de0bda3067cee81d741d9a",
+      "pade_certificate_sha256": "a86de3cdc110840b9ffaff216f4153f2fa1354edb500731d7281a5a3516a9b6d",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530741,
+      "order": 35,
+      "sequence_sha256": "a3b4a4946ba305609f5b201351143b30aa517bffb05a2e5df27c127d9012eb65",
+      "pade_certificate_sha256": "a89e8be3e4e0a9b9103cdb875813abb2611b7f67237780e8a9a9ec7d54d8e773",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530741,
+      "order": 70,
+      "sequence_sha256": "9097ec1e499f308731ba3af4d0ca243cd2fd718a6871722fd5fb3b0a22818441",
+      "pade_certificate_sha256": "1d47c22e3a0e3a334be9e67f63015647f765fab0c5ef61365d3640bf31c91094",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530741,
+      "order": 85,
+      "sequence_sha256": "027aeb4325d1c86c17c40c9584d503ba8a0599d73ec0f4c7ce207199b241f53d",
+      "pade_certificate_sha256": "12e2284b7e4c6ceedaf67e3b3c6d4719693c65b5033a77d8cf7b84a37915c27f",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    },
+    {
+      "p": 530741,
+      "order": 170,
+      "sequence_sha256": "eeba3c1d7995a47fb8369b0e308f5bd0e071d11e6e52320d6088da09f989f173",
+      "pade_certificate_sha256": "ff81758170898a0a954a731694a8098f6d501887d082dbf4982814864d6f9014",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey"
+    }
+  ],
+  "count": 20,
+  "isolated_regeneration": true,
+  "started_unix": 1793234179.6800675,
+  "finished_unix": 1793235130.885597,
+  "all_previous_numerical_stages_exited_before_regeneration": true
+}

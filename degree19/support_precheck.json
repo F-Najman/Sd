@@ -1,0 +1,4201 @@
+{
+  "status": "ALL_SUPPORT_TYPES_HAVE_AN_IDENTIFIED_ARGUMENT",
+  "degree": 19,
+  "cases": [
+    {
+      "p": 47,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 47,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 53,
+      "support": [
+        [
+          "SS",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "relative H13 pullback plus6 fixed cusps"
+    },
+    {
+      "p": 59,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 59,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 61,
+      "support": [
+        [
+          "SS",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "relative H5 pullback of cubic divisor plus4 fixed cusps"
+    },
+    {
+      "p": 67,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 67,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 71,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          7
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited mixed O7 obstruction; order9 diamond fixes both SS6 divisors"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          7
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          13
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 13,
+      "argument": "relative fixed SS divisor plus13 cusps, relation-space certificate"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "rational2-torsion control, H9 invariance, orbit lengths3 or9 do not divide19"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ],
+        [
+          "SS",
+          6
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "rational2-torsion control, H9 invariance, orbit lengths3 or9 do not divide19"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          6
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "rational2-torsion control, H9 invariance, orbit lengths3 or9 do not divide19"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "SS",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "rational2-torsion control, H9 invariance, orbit lengths3 or9 do not divide19"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "relative H9 pullback plus10 cusps, relation-space certificate"
+    },
+    {
+      "p": 73,
+      "support": [
+        [
+          "NC",
+          9
+        ],
+        [
+          "NC",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "rational2-torsion control, H9 invariance, orbit lengths3 or9 do not divide19"
+    },
+    {
+      "p": 79,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 79,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 83,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 89,
+      "support": [
+        [
+          "NC",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "odd anti-Jacobian degree, H11 invariance, orbits do not divide19"
+    },
+    {
+      "p": 97,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 97,
+      "support": [
+        [
+          "SS",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "H4 invariance, orbit lengths2 or4 do not divide19"
+    },
+    {
+      "p": 101,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 101,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 103,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 103,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 107,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 107,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 109,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "H18 invariance, orbit lengths6,9,18 do not divide19"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          9
+        ],
+        [
+          "SS",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "H18 invariance, orbit lengths6,9,18 do not divide19"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "SS",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "H18 invariance, orbit lengths6,9,18 do not divide19"
+    },
+    {
+      "p": 109,
+      "support": [
+        [
+          "NC",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "H18 invariance, orbit lengths6,9,18 do not divide19"
+    },
+    {
+      "p": 113,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "order2 stabilizer and odd degree exclude free orbits; CM1728 excluded"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "H14 invariance, orbit lengths7,14 do not divide19"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "SS",
+          7
+        ],
+        [
+          "SS",
+          7
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "H14 invariance, orbit lengths7,14 do not divide19"
+    },
+    {
+      "p": 113,
+      "support": [
+        [
+          "NC",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "H14 invariance, orbit lengths7,14 do not divide19"
+    },
+    {
+      "p": 127,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "two quotient relative immersion with three fixed cusps"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          10
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          11
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          12
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "mixed Hecke obstruction, new73O13,113O12,127O12; lower totals inherited"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "SS",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "H7 invariance, orbit length7 does not divide19"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 12,
+      "argument": "H7 invariance, orbit length7 does not divide19"
+    },
+    {
+      "p": 127,
+      "support": [
+        [
+          "NC",
+          7
+        ],
+        [
+          "NC",
+          7
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "H7 invariance, orbit length7 does not divide19"
+    },
+    {
+      "p": 131,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "inherited pairs of total<=18 or new total19; exceptional113 repeatedO8 and127 repeatedO9 excluded by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          11
+        ]
+      ],
+      "cusp_complement": 8,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 131,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 137,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 11,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          8
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "new low pairs with totals16,17,18"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          8
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "new low pairs with totals16,17,18"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 10,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          9
+        ],
+        [
+          "O",
+          9
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "new low pairs with totals16,17,18"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          12
+        ]
+      ],
+      "cusp_complement": 7,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 137,
+      "support": [
+        [
+          "SS",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "H34 invariance, orbit lengths17,34 do not divide19"
+    },
+    {
+      "p": 163,
+      "support": [],
+      "cusp_complement": 19,
+      "argument": "cuspidal formal immersion; relative fibers at103,131; full diamond repair at53"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          10
+        ]
+      ],
+      "cusp_complement": 9,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          13
+        ]
+      ],
+      "cusp_complement": 6,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          14
+        ]
+      ],
+      "cusp_complement": 5,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          15
+        ]
+      ],
+      "cusp_complement": 4,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          16
+        ]
+      ],
+      "cusp_complement": 3,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          17
+        ]
+      ],
+      "cusp_complement": 2,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          18
+        ]
+      ],
+      "cusp_complement": 1,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    },
+    {
+      "p": 163,
+      "support": [
+        [
+          "O",
+          19
+        ]
+      ],
+      "cusp_complement": 0,
+      "argument": "ordinary nonprincipal divisor obstruction; exceptional113O8 and127O9 by stabilizers"
+    }
+  ]
+}

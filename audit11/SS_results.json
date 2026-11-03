@@ -1,0 +1,22 @@
+[
+  {
+    "name": "supersingular41",
+    "exit": 0,
+    "seconds": 17.157055674120784
+  },
+  {
+    "name": "supersingular43",
+    "exit": 0,
+    "seconds": 39.42238069791347
+  },
+  {
+    "name": "P41_NC5_clean",
+    "exit": 0,
+    "seconds": 187.3975704680197
+  },
+  {
+    "name": "P41_cusps",
+    "exit": 0,
+    "seconds": 38.06857717898674
+  }
+]

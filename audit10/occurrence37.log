@@ -1,0 +1,2 @@
+DECIC37_WITNESS_VERIFIED degree=10 j_degree=10 field_polynomial=t^10 - 5*t^8 + 3*t^7 + 10*t^6 - 8*t^5 - 7*t^4 + 9*t^3 - 3*t + 1 y_polynomial=2*t^9 + t^8 - 10*t^7 + t^6 + 23*t^5 - 6*t^4 - 22*t^3 + 11*t^2 + 9*t - 5 point_order=37
+DECIC37_OCCURRENCE_COMPLETE

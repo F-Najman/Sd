@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "degree": 20,
+  "matrix_classes": 228,
+  "rank": 40,
+  "M": 229,
+  "cutoff": 18320,
+  "supersingular_orders": [
+    {
+      "degree": 17,
+      "orders": [
+        130561,
+        131073,
+        131585
+      ],
+      "all_native_curves_independently_counted": true
+    },
+    {
+      "degree": 18,
+      "orders": [
+        261121,
+        261633,
+        262145,
+        262657,
+        263169
+      ],
+      "all_native_curves_independently_counted": true
+    },
+    {
+      "degree": 19,
+      "orders": [
+        523265,
+        524289,
+        525313
+      ],
+      "all_native_curves_independently_counted": true
+    },
+    {
+      "degree": 20,
+      "orders": [
+        1046529,
+        1047553,
+        1048577,
+        1049601,
+        1050625
+      ],
+      "all_native_curves_independently_counted": true
+    }
+  ]
+}

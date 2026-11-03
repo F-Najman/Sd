@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "case": "ss127",
+      "sources": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "records": 20,
+      "hecke_targets": 16,
+      "all_jet_coefficients_verified": true,
+      "independent_isogenies_verified": true
+    }
+  ]
+}

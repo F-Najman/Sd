@@ -1,0 +1,31 @@
+S22_SMALL_SIEVE (59, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (71, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (61, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (73, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (79, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (89, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (83, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (101, 'pair') PASS exceptions []
+S22_SMALL_SIEVE (103, 'pair') PASS exceptions []
+Traceback (most recent call last):
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/run_small_sieves.py", line 10, in <module>
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2)as ex:out=list(ex.map(one,jobs))
+                                                                       ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/sage/envs/sage/lib/python3.11/concurrent/futures/_base.py", line 619, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/sage/envs/sage/lib/python3.11/concurrent/futures/_base.py", line 317, in _result_or_cancel
+    return fut.result(timeout)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/sage/envs/sage/lib/python3.11/concurrent/futures/_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/sage/envs/sage/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/sage/envs/sage/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/run_small_sieves.py", line 9, in one
+    s=(H/(kind+'_sieve.log')).read_text();assert r.returncode==0 and'AUDIT_FULL_SIEVE_COMPLETE'in s,(j,s[-1000:]);z=json.loads((H/('mixed_sieve.json'if kind=='mixed_new'else'pair_sieve.json')).read_text());print('S22_SMALL_SIEVE',j,z['status'],'exceptions',[(v['source'],v['degree'])for v in z['exceptions']],flush=True);return{'N':n,'kind':kind,'status':z['status']}
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ((97, 'pair'), 'AUDIT_PRODUCT_TENSOR 97 dimensions 345 1032 Sturm 1568 precision 1768 seconds 13.433052137028426\nAUDIT_ALL_ACTUAL_POINT_ORBITS 97 sources 9 families 720 seconds 58.16985411196947\nS22_PAIR_TRIPLE_TASKS 97 total 601 triples 0\nTraceback (most recent call last):\n  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/pair_sieve.py", line 126, in <module>\n    bp,pw,pd,ps=conditions(dd,True);bm,nw,nd,ns=conditions(dd,False);assert pd==nd and pd<=4*d*sum(abs(c)for c in alpha.values()) and n>pd,(N,si,pd,n)\n                                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: (97, [1, 6, 0], 352, 345)\n')

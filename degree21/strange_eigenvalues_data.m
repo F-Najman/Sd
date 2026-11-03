@@ -1,0 +1,9 @@
+StrangeHeckeEigenvalues:=AssociativeArray();
+StrangeHeckeEigenvalues[<97,2>]:=[ -2, 0, 1, 0 ];
+StrangeHeckeEigenvalues[<97,3>]:=[ -2, 1, 1, -1 ];
+StrangeHeckeEigenvalues[<97,5>]:=[ -1, -2, -1, 1 ];
+StrangeHeckeEigenvalues[<97,7>]:=[ 0, 1, -1, -1 ];
+StrangeHeckeEigenvalues[<101,2>]:=[ -1, -1, 0, 0 ];
+StrangeHeckeEigenvalues[<101,3>]:=[ -2, 2, -1, 0 ];
+StrangeHeckeEigenvalues[<101,5>]:=[ 0, -2, 2, -2 ];
+StrangeHeckeEigenvalues[<101,7>]:=[ -4, 2, -2, 2 ];

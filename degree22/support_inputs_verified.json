@@ -1,0 +1,123 @@
+{
+  "status": "PASS",
+  "degree": 22,
+  "source_prefixes": 17,
+  "pair_and_triple_cases": [
+    {
+      "p": 59,
+      "pair_orbits": 8689,
+      "triple_orbits": 1711,
+      "degree7_7_8_Burnside_complete": true
+    },
+    {
+      "p": 61,
+      "pair_orbits": 7324,
+      "triple_orbits": 1395,
+      "degree7_7_8_Burnside_complete": true
+    },
+    {
+      "p": 71,
+      "pair_orbits": 5534,
+      "triple_orbits": 820,
+      "degree7_7_8_Burnside_complete": true
+    },
+    {
+      "p": 73,
+      "pair_orbits": 2649,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 79,
+      "pair_orbits": 1353,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 83,
+      "pair_orbits": 4779,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 89,
+      "pair_orbits": 1674,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 97,
+      "pair_orbits": 601,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 101,
+      "pair_orbits": 1128,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 103,
+      "pair_orbits": 1737,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 107,
+      "pair_orbits": 636,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 109,
+      "pair_orbits": 110,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 113,
+      "pair_orbits": 1152,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 127,
+      "pair_orbits": 3810,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 131,
+      "pair_orbits": 7542,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 137,
+      "pair_orbits": 3995,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 139,
+      "pair_orbits": 1518,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    },
+    {
+      "p": 163,
+      "pair_orbits": 163,
+      "triple_orbits": 0,
+      "degree7_7_8_Burnside_complete": false
+    }
+  ],
+  "mixed_new_levels": [
+    73,
+    89,
+    109,
+    113,
+    127
+  ],
+  "new61_O7_SS15_ordinary_obstruction_reused": true
+}

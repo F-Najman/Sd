@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "case": "ss89",
+      "sources": [
+        4763
+      ],
+      "records": 5,
+      "hecke_targets": 4,
+      "all_jet_coefficients_verified": true,
+      "independent_isogenies_verified": true
+    },
+    {
+      "case": "ss5_89",
+      "sources": [
+        4764,
+        4765
+      ],
+      "records": 14,
+      "hecke_targets": 12,
+      "all_jet_coefficients_verified": true,
+      "independent_isogenies_verified": true
+    }
+  ]
+}

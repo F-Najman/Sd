@@ -1,0 +1,522 @@
+S(21): DYADIC REDUCTION AND RELATIVE FORMAL IMMERSIONS
+31 October 2026
+
+Theorem. For elliptic curves over number fields of exact degree 21,
+ S(21)={2,3,5,7,11,13,17,19,23,29,31,37,41,43,47}.
+This is a computer-assisted proof. All required local certificates,
+selected-character families, independent replays, and the exhaustive
+prime and residue-support ledgers have passed. There is no unresolved
+case and no conjectural rational-torsion hypothesis.
+
+1. OCCURRENCES AND WEIGHTED TRACES
+
+The rational examples for 2,3,5,7 extend to a degree 21 field. For
+11,13,17,19 the genera of X_1(p) are 1,2,5,7. At a rational cusp c,
+Riemann--Roch gives l(21c)-l(20c)=1, since 20>2g-2. A function with
+unique pole of exact order 21 gives a degree 21 map to P^1. Hilbert
+irreducibility supplies noncuspidal degree 21 points; the fine moduli
+interpretation supplies the elliptic curves and their torsion points.
+For 23 there is an explicit degree 7 example, extended by a cubic field
+extension. For 29,31,37,41,43,47 there are explicit degree 21 examples.
+verify_occurrences.m verifies irreducibility, nonsingularity, and the
+order of every explicit point. The data are in occurrences.json.
+
+Conversely, suppose p>47 and (E,P) is defined over a degree 21 field.
+The corresponding point x on X_1(p) has degree r dividing 21. We use
+ D=(21/r) Tr_Q(x).
+It is a rational, effective, noncuspidal divisor of degree 21. Its
+geometric support is Galois transitive and its multiplicity is constant.
+The argument allows r=1,3,7,21 and nonreduced specializations.
+
+The following observation is useful because 21 is odd. For p>3 the
+rational diamond group G=(Z/pZ)^*/{+1,-1} acts freely on X_1(p)(R).
+Indeed, a fixed real moduli point has a real representative (E,P), since
+Aut(E,P)=1. An isomorphism taking P to aP is unique and therefore real.
+But Aut_R(E)={+1,-1}, including at j=0 and 1728, so a=+1 or -1. Since
+an odd-degree point has a real conjugate and rational diamonds commute
+with Galois, hD=D implies ord(h) divides r and hence divides 21. This
+also handles the CM cases in all stabilizer arguments below.
+
+2. THE IMPROVED DYADIC BOUND
+
+We use the dyadic winding theorem established in the preceding packets,
+in the integral form 2M_lat subset L subset M_lat. Equality of these lattices is
+not asserted. Set m=42 and M=229. For every 1<=u<=228 the matrix
+ (epsilon(na)-epsilon(nu/a))_(1<=n<=42,1<=a<=228)
+has rank 42 over F_2. Arithmetic in the arguments is modulo 229 and
+epsilon is the characteristic function of residues 115,...,228.
+prepare_bound.py produces all entries; verify_dyadic.py reconstructs
+and ranks them independently. The threshold is
+ p>2*42*229=19236.
+
+The rational dyadic torsion reduction kernel has exponent 2. Doubling
+a degree 21 trace produces a degree 42 divisor with zero winding image.
+If its divisor polynomial before doubling is 1+2B(t), the polynomial
+after doubling is 1+4(B(t)+B(t)^2). The doubled point is therefore in
+the formal neighborhood modulo 4. The lattice inclusion supplies
+functions with linear terms 2x_i and integral terms of degree at least
+two. For a nonzero vector in 4Z_2^42, a coordinate of smallest valuation
+k>=2 has linear term of valuation k+1<2k; cancellation is impossible.
+The formal zero fiber consists only of the cusp. Thus a trace whose
+specialization on X_0(p) is a multiple of one rational cusp is excluded,
+including ramified traces.
+
+An ordinary elliptic curve over F_(2^f) has even group order. At f=21
+its Hasse upper bound is 2100049; the largest possible even group order
+is 2100048. An odd prime divisor is therefore at most 1050024. Smaller
+ordinary residue degrees give smaller bounds. The complete
+supersingular group orders at the relevant degrees are
+ 18: 261121,261633,262145,262657,263169;
+ 19: 523265,524289,525313;
+ 20: 1046529,1047553,1048577,1049601,1050625;
+ 21: 2095105,2097153,2099201.
+The last three are 5*29*14449, 3^2*43*5419, and 13*113*1429.
+Every order at degrees 20 and 21 has all prime factors below 100000.
+The full twist lists at 17,...,21 are verified natively and independently.
+At 17 the orders are137*953,3*43691,5*26317, again with all prime factors
+below 100000. For f<=16 even the Hasse upper bound is below 100000.
+Multiplicative identity components have orders 2^f-1 and 2^f+1.
+Additive reduction cannot support these large odd primes.
+
+For p>1050024 every dyadic place would therefore be multiplicative,
+with P on a nonidentity component. Its image on X_0(p) is the same
+rational cusp at every place. The improved dyadic theorem excludes this
+possibility. We obtain p<=1050024. Above 100000, testing every even
+multiple of p in each ordinary Hasse interval, all supersingular orders,
+and both toric orders for every f<=21 leaves 850 primes. No assumption
+that a residue degree divides 21 is made. The screen allows arbitrary
+partitions of 21 among the dyadic places.
+
+3. GLOBAL DIAMOND EXCLUSIONS
+
+We use Derickx--Stoll, Prime order torsion on elliptic curves over number
+fields, Part I: Asymptotics, arXiv:2505.14109v1, Theorem 3.3,
+Proposition 4.1, Table 2, Remark 4.4, and Corollary 7.5. Table 2 is used
+only in the proved range p<100000. The rational cuspidal 2-primary
+result is used only for p<=157. The gonality estimate is
+ gon_Q(X_1(p)) >= 325*(p^2-1)/65536.
+
+Write str(p) for the order of the group generated by strange characters.
+If p^2>(2^19/325)*21+1 and (p-1)/(2str(p)) does not divide 21, Corollary
+7.5 excludes p. Apply it to the exact degree r of the modular point, where r divides 21;
+the size condition holds because r<=21. All these r are odd, so its
+even-degree CM exceptions are absent. Together with Proposition 4.1
+this leaves the following primes below 100000:
+ 53,59,61,67,71,73,79,83,89,97,101,103,107,109,113,127,131,137,139,
+ 163,167,181.
+The first nineteen are treated locally below.
+
+At 163 take h=diamond8, of order 27, and B=im(h-1). The frozen exact
+A_3 determinant norms on character orders 9,27,81 are odd, on full
+sign-zero rational homology of dimension 1980. Here
+ A_q=T_q-diamond(q)-q
+is the Fricke-transported convention. Hence A_3 on B is an odd-degree
+isogeny. Since (h-1)J(Q) is finite and killed by A_3, this finite group
+has odd order. Proposition 4.1 with ell=2, n=6 applies: 6*21=126 is
+strictly below gon(X_1(163)). It gives hD=D, impossible since 27 does
+not divide 21.
+
+At 167 use h=diamond2, of order 83. The inherited exact A_3 norm on the
+character-order 83 component is odd; its full rational homology has
+dimension 2132. The same argument gives the 2-primary hypothesis.
+Proposition 4.1 with n=5 gives invariance because 105<gon(X_1(167));
+83 does not divide 21.
+
+At 181 take r=diamond2, h=r^6 of order 15, B=im(h-1). The only positive
+nontrivial character order in Table 2 is 6, so (h-1)J(Q) is finite.
+The full rational homology of B has dimension 2388, consisting of orders
+5,9,10,15,18,30,45,90. For orders 5 and 10, A_11 has odd determinant
+norm; for all the other orders, A_3 does. These are recomputed with Sage
+modular symbols, independently of the native exported matrices.
+Put u=r^2, of order 45, and E=5*N_(u^5)-N_u, where N denotes the sum
+of all powers. On character orders 5 and 10, E acts as 45; on the other
+six orders it acts as zero. The integral endomorphism
+ beta=E*A_11+(45-E)*A_3
+kills rational torsion and restricts to an odd-degree isogeny on B.
+Thus (h-1)J(Q) has no 2-primary torsion. Proposition 4.1 with ell=2,
+n=6 applies since 126<gon(X_1(181)). It gives hD=D, impossible since
+15 does not divide 21. No assertion about all rational torsion on
+J_1(163), J_1(167), or J_1(181) is needed.
+
+4. COMPLETE SELECTED-CHARACTER FAMILIES
+
+For each of the 850 large primes put m=(p-1)/2. Choose a prime ell
+with v=v_ell(m)>w=v_ell(21), and test every character order n dividing
+m and divisible by ell^(v-w). If every such order is nonstrange, the
+ell-primary part of str(p) has order at most ell^(v-w-1). Consequently
+m/str(p) is divisible by ell^(w+1), which does not divide 21. Corollary
+7.5 then excludes p and every possible smaller field degree dividing 21.
+The ledger specifies all selected families: 5289 orders, of which 2474
+are inherited and 2815 require fresh certificates. No characters above
+100000 are supplied merely by extrapolating Table 2.
+
+For a selected order n, work over a prime field F_q with q=1 mod(p-1)
+and a character of exact order n. The primary Manin presentation uses
+the S/I quotient, all three-term relations A, and the four-term T_2
+operator R before quotienting by A. Proportional duplicate relations
+are normalized; each generator occurs in at most two distinct rows.
+The exact graph certificate gives both lower and upper bounds for
+rank(A), hence full relative dimension k+2. The auxiliary prime q is
+coprime to6p(p-1). After inverting these factors, the character summand
+of relative homology and its two-dimensional boundary commute with
+reduction. Thus k is also the characteristic-zero cuspidal dimension,
+and a full-rank winding witness modulo q lifts to characteristic zero.
+Every relation on the chosen functional, every prepared R row, and the
+winding vector are checked independently. Multiplying the relative winding class by
+ (R-(2chi(2)+1))*(R-(chi(2)+2))
+kills the two boundary factors. Thus the resulting scalar sequence
+factors through the actual cuspidal space of dimension k. This uses the
+cuspidal space, not the much larger raw generator count.
+
+The initial raw engine is retained with its exact source and binary.
+Whenever its one-sum uint64 bound is inapplicable, blocked accumulation
+or the verified dual-coordinate engine is used. A safe raw bound is
+ns*(q-1)^2<=2^64-1. Blocked and dual engines use bounded partial sums or
+uint128 as documented in their sources. Every engine's source, binary,
+actual log, and per-instance input are bound to the certificate.
+
+The dual-coordinate engine uses ker(A) on the dual. Gauge relation rows
+and edge columns so forest edges have coefficients +1 at a child and
+-1 at its parent. Nonforest columns are free coordinates. Each
+unbalanced component has one additional pivot; leaf elimination and
+one root equation reconstruct all remaining coordinates uniquely.
+The number of free coordinates is k+2. Balanced roots have zero
+residual; dummy anchored roots impose no equation. The independent
+checker verifies every gauged incidence coefficient, all forest pivots
+and their order, every free operator row against raw R, the scaled
+initial functional and winding vector, and a full ambient one-step
+operator comparison. Since R preserves ker(A), applying its free rows
+and reconstructing equals the full R action. The scalar sequence is
+therefore unchanged. A real dimension-87500 example has also been
+replayed for all 175000 terms against the original raw sequence.
+Synthetic overflow and forest fixtures are additional software checks,
+not premises about a modular curve.
+
+Each fresh certificate retains 2k scalar terms. Native prefix checks
+independently confirm the first 64 terms from the original Manin data.
+A recurrence is constructed either by native Berlekamp--Massey or by
+NTL half-gcd. Independently, Sage/FLINT verifies polynomials C,A with
+ C(0)=1, deg C<=k, deg A<k, gcd(C,A)=1,
+ C*S=A mod x^(2k), max(deg C,deg A+1)=k.
+These equations prove minimal recurrence length k: a smaller fraction
+A'/C' would make C'A-CA' vanish modulo x^(2k), although its degree is
+less than 2k, so it would vanish identically; coprimality then contradicts
+the smaller degree. Full scalar complexity k proves that the cuspidal
+winding vector is cyclic. Thus the characteristic-zero winding
+projection on every relevant factor is nonzero. Galois conjugacy covers
+the entire selected character order. This is an exact certificate, not
+a probabilistic Wiedemann conclusion. verify_large.py checks every
+family, archive, hash, engine, prefix log, and complete Pade identity.
+
+5. FINITE-FIELD SOURCES AND PRINCIPAL-DIVISOR OBSTRUCTIONS
+
+At the nineteen local levels, census_sources.m enumerates every
+noncuspidal closed point of degree at most 21, by actual elliptic curves,
+all twists, and p-torsion lines. Proper j-fields are included. When full
+p-torsion is rational, all p+1 cyclic subgroups are included. The new
+full-torsion phenomenon at p=127, f=21 is explicitly covered. Ordinary
+counts are independently checked by class numbers, with the extra full
+torsion term p*H((t^2-4q)/p^2) when the full-torsion congruences hold.
+Supersingular counts are independently checked using quaternion
+Frobenius and the 24 automorphisms. At 127 all 21 cohomological traces
+are additionally recomputed using independent Sage modular symbols;
+they agree with the native counts and class-number census.
+
+The degree 20 packet, including its degree 19 dependencies, is frozen by
+a 37906-file manifest. Every file has been streamed and hashed. All
+new canonical models are byte-identical to degree 20, except 61, which
+uses its frozen degree 19 model. Actual Tate-normal-form diamond orbit
+matches bind every old source to the new census. All ordinary degree 21
+sources are fresh; at 61 ordinary degrees 20 and 21 are fresh. Lower
+sources and lower-total pairs are inherited only through those matches.
+No random point search is used as a completeness argument.
+
+The canonical q-series and unit equations describe the actual smooth
+modular special fiber. Their full integral cotangent assertion is
+inherited: a minimal 2-denominator would yield a nonzero mod 2
+differential vanishing past its geometric zero bound. No assertion that
+an optimal winding quotient has the full cotangent lattice is used.
+Every new ordinary record has actual 3-isogeny targets, weighted total
+degree four times the source degree, and checked curve, division, unit,
+and jet equations. Repetitions and collisions use the required jets.
+
+For the elliptic correspondence use A_3=T_3-1-3*delta3. The finite-image
+annihilators alpha are
+ 1 at 59,71;
+ sigma^6-1 at 61;
+ (sigma-1)*(sigma^6+1) at 97;
+ (sigma-1)*(sigma^5+1) at 101;
+ sigma-1 otherwise.
+Table 2 proves the nontrivial character condition; the actual full
+Jacobians at 59 and 71 have rank zero. For an odd good prime q,
+T_q-1-q*deltaq kills rational torsion: rational torsion injects under
+reduction at q, and Eichler--Shimura kills its reduction. Thus
+alpha*A_3 kills the relevant rational divisor classes. Rational cusps
+contribute zero. On the q-form model its Fricke transport is
+T_3-D3-3 up to an invertible diamond factor.
+
+For a resulting divisor U-V over F_2, use L=K^2 at 53,61,67 and L=K
+elsewhere. Choose nonzero f in H^0(L(-U)). If U-V=div(v), then
+f/v is a nonzero section of L(-V); for every h in H^0(L(-U)),
+h*(f/v) belongs to f*H^0(L). Exact multiplication tensors and the jet
+conditions give necessary linear equations on f/v. A matrix of full
+column rank forces it to be zero, contradicting principality. The
+actual f,h witnesses and matrices are retained. Randomness finds
+witnesses; verification consists entirely of exact identities and ranks.
+For every product tensor the retained precision P satisfies
+P-2>4g-4 for products in 2K, or P-4>8g-8 for products in 4K. Thus the
+q-series determine all multiplication identities globally by the
+geometric zero-divisor bound. In particular, at 67 precision 1300 gives: products lie in 4K of
+degree 8g-8=1232 and have vanishing order at least1296 if all retained
+q-coefficients vanish. A weight8 Sturm bound is not claimed there.
+
+There is one explicit exception to the ordinary principal-divisor tests:
+at 61, source 2921 has degree 20 and closed diamond orbit 6. It is a full
+H5 pullback and is annihilated by sigma^6-1. The strong relative maps
+have base rank 16 in degree 20, with rank 17 after adding any rational
+cusp. All six translate configurations pass and are independently
+rebuilt. The order 5 action is free, so the zero family is a pullback
+of a degree 4 divisor on the genus 26 quotient, plus the fixed cusp C1.
+Thus it cannot contain the noncuspidal divisor D. This is the only
+exception allowed by the final ordinary-source coverage guard.
+
+Fresh ordinary pairs cover every relative diamond position of total 21;
+at 61 totals 20 and 21 are fresh. At 59,61,67,71,73 all unordered 7+7+7
+triples, including repetitions and shorter diamond orbits, are covered.
+Independent Burnside counts prove completeness and distinctness of the
+triple representatives. In total the new pair/triple batches contain
+35631 full-rank matrices. New delta2 mixed tests cover O12+NC9 and
+O15+SS6 at 73, O10+NC11 at 89, O12+SS9 at 109, O14+SS7 at 113,
+and O14+NC7 at 127. Lower mixed tests are inherited, since adding any
+delta2-invariant divisor leaves that obstruction unchanged. This also
+covers O7+2SS6 at 73. Its O7+O7+SS6 case uses the inherited19-position
+mixed pair certificate.
+
+6. INTEGRAL ABSOLUTE AND RELATIVE FORMAL IMMERSIONS
+
+The q-expansion computations use the dual-level model with a specified
+embedding of mu_p, whose Tate q-expansion cusp is rational. Sending
+(E,P) to E/<P> with the canonically identified dual kernel gives a
+Q-isomorphism from the point-level model to this model. This is the
+Fricke transport; it inverts diamonds and sends the point-level A_q
+factor to T_q-D_q-q up to an invertible diamond. Thus the usual
+q-expansion pairing with T_j is at a rational cusp in our conventions.
+The quotients whose cotangent lattices are used have odd orders 3,5,or7.
+Their tame quotients
+of the good modular model at 2 are smooth, and averaging gives the
+saturated invariant differential lattice. The H8 pullback family at 113
+is formed on the formal neighborhoods of a free ordinary orbit. Its
+local quotient is etale even at 2, so the family is smooth of dimension 1.
+No global even-order quotient cotangent assertion is required.
+
+Pure cusp tests use the integral Hecke order, not an equality of Betti
+and Hodge lattices. For a prime-level weight2 space, q-expansion duality
+identifies the actual Z_2 cotangent lattice with Hom_Z2(T,Z_2).
+If t lies in 2T, its action on any integral T-stable lattice lies in
+2End(L). Consequently operator independence modulo 2 on such a lattice
+implies the required independence in T/2T. This is the only direction
+used. Injective compression is verified by reconstructing every raw
+operator row. Exact quotient polynomials have finite image because
+their J0 images lie in the winding space and all positive nontrivial
+character orders are absent from the active quotients. The finite-image polynomial records remain bound to the frozen inputs.
+The cusp argument uses only the full curve or quotients of odd order.
+It is independent of cotangent descent for an even-order quotient.
+
+The coarse cusp checks at 71 and 127 fail in degree 21 and are not proof
+premises. They are replaced by the full canonical maps: A_q at 71,
+where J_1(71)(Q) is finite, and (D-1)A_q at 127. The available q in
+{2,3,5,7} are used. Their complete profiles pass (12360 and 7875).
+At 53 and 101 the full-curve repairs are likewise used. Full canonical
+maps also replace the even-order quotient tests at 61,89,97. At 89 use
+(D-1)Aq. At 97 use the same sharper Hecke factors as the SS16 map,
+with D-1 in place of D^16-1. At 61 the unique strange order 6 component
+has diamond2 eigenvalue z, z^2-z+1=0, and Hecke eigenvalues
+ a2=-1-z, a3=-2, a5=-3+3z, a7=-2-2z.
+The maps (D-1)*(Tn-an(D))*Aq have finite rational image: an exact
+winding-space containment certificate on the order 6 component,
+independently ranked over Q(z), proves that Tn-an(D) kills its sole
+non-winding factor; D-1 kills J0. Odd outer q kills rational torsion.
+All 8295 full cusp profiles pass. At 67 and 73 the complete cap6 search
+and every partition with a multiplicity at least7 are checked,
+including7+7+7. At the other levels, complete relation
+spaces on dominating profiles prove prefix independence. At 103 and 131
+only the known full simple cusp fibers remain; the intrinsic quotient
+relative ranks are20 in all 4845 and 125970 configurations respectively.
+
+The relative formal lemma is integral. Let S be smooth of dimension d
+over Z_2 and L a smooth closed formal family of dimension r. Suppose
+an actual integral map Phi to a smooth group scheme vanishes on L and
+has normal cotangent rank d-r. Functions pulled back from the target
+lie in the ideal of L and have an invertible matrix of linear normal
+coefficients. They generate that ideal formally. Thus the zero locus
+is exactly L. This uses neither integration denominators nor an assumed
+saturation for an optimal quotient. Closed-point coefficient matrices
+and Serre trace-pairing matrices differ by an invertible basis change,
+also for even residue degrees. Jets on symmetric powers require no
+factorials. Canonical function jets and differential jets differ by a
+common unit, giving an invertible triangular change.
+
+All maps here are actual endomorphisms of the full Jacobian, or their
+odd-degree quotient analogues. The usual odd q torsion annihilators
+make rational images zero. For q=2, the proved fact that rational
+2-primary torsion is cuspidal, for the local primes<=139, suffices:
+A_2 kills that cuspidal subgroup; odd-primary rational torsion injects
+under dyadic reduction. On the order 7 quotient at 127 the pullback has
+odd kernel and is injective on 2-primary torsion, so the same assertion
+descends. We never infer this assertion above 157.
+
+A formal zero family consists of pullback fibers, tame fixed-point
+lifts, and a fixed residual cusp divisor R. A nonzero R contradicts
+the noncuspidal support of D. Complete binary relation spaces certify
+that there are no other normal relations. To cover all multiplicities, move a maximal one to cusp0. At most
+floor(c/(cap+1)) entries exceed cap. Add the unused degree to the first
+maximal entry so that these high entries sum to c. Enumerating all
+resulting partitions and assignments therefore dominates every actual
+multiplicity vector. Independent integer-partition and placement code
+checks equality with the full sets of recorded profiles.
+The cost of a jet relation
+is the sum of prefix lengths, not its Hamming weight. The independent
+Sage replay checks every full kernel and every unexpected coset.
+
+The standard cases, written (base degree,base rank,cusp degree), are
+ 53 SS13: (13,12,8); full cusps53: (0,0,21);
+ 61 SS15: (15,12,6); new SS20: (20,16,1);
+ 61 ordinary20, source 2921: (20,16,1), all six translates;
+ 73 SS6: (6,6,15); NC9: (9,8,12);
+ 97 SS16: (16,16,5), with the inherited sharper finite maps;
+ 101 full cusps: (0,0,21), with the inherited sharper finite maps;
+ 109 SS9: (9,8,12);
+ 113 ordinary8: (8,7,13).
+Available q from {2,3,5,7} are used for standard maps. The sharper maps
+retain their odd outer torsion factors. Every entry is reconstructed
+independently from the actual canonical q-series, Hecke action,
+elliptic point, and diamond matrices.
+
+At 73 double SS6+C9 has ten unordered translate configurations. The
+new cotangents have base rank 12. If C9 is a full H9 fiber, no residual
+cusp remains, but the zero family still contains the unique tame
+H3-fixed SS lifts. Then D contains an h3-fixed noncuspidal point.
+Galois transitivity would give an h3-fixed real point, impossible by
+Section 1. Otherwise a fixed cusp remains. The SS6+NC9+C6 case has all
+sixteen relative positions, base rank 14, and a fixed nonzero cusp
+remainder. The optional triple-SS jet checks are not needed: total
+nonordinary degree 18+C3 and degree 21+C0 are already excluded by the
+H9 stabilizer, as in Section 8 below. The new SS73 jets and all combined
+entries are independently rebuilt. Actual canonical point orbits are
+also checked independently: in particular H9 is free on SS9 at 109,
+H5 is free on both SS15 andSS20 at 61, and the claimed tame order 3
+stabilizers at 73,97,127 fix their geometric points. Thus the stated
+formal pullback and fixed-point families have their asserted dimensions.
+
+7. THE ORDER7 QUOTIENT AT127 AND THE NEW SUPERSINGULAR TESTS
+
+The direct supersingular tests use the same exact principal-divisor
+criterion. At 113 the SS7 source is nonprincipal under alpha*A3;
+at 109 the SS12 source is nonprincipal. At 127 there are six SS14 source
+orbits, with source indices20,...,25 and closed diamond orbit sizes
+9,9,9,3,9,9 (the order is determined by the source file). T3 treats
+20,21; T5 treats22,25; T7 treats24. The T5 calculation uses all six
+quadratic kernel factors; the T7 calculation uses all eight cubic
+kernel factors. The exceptional orbit 23 is handled on a quotient below.
+Every needed supersingular deformation varies a1 by u. The division
+polynomial derivative, curve equation, all modular unit equations, and
+a nonzero first projective jet are checked, so u is a uniformizer.
+Sage independently verifies these identities and reconstructs the
+isogeny target orbits, including extension-field kernels.
+
+Let Y=X_1(127)/H7. The order 7 action is free: geometric elliptic
+stabilizers have order dividing24 at 2 and dividing6 in characteristic
+zero, and the cusp action is free. The quotient is smooth and has
+genus 88. Its actual cotangent lattice is the invariant sublattice:
+7 is a2-adic unit, so averaging gives saturation. The exported invariant
+basis V has rank 88 and satisfies V*D^9=V; an independent kernel dimension
+check proves it is the entire invariant space.
+
+For one, two, or three NC7 components, the h7 stabilizer argument has
+2*(21+c)<=70<gon(X_1(127)). It forces D=pi7^*D' of degree 3 onY.
+The special fiber D' consists of three cusps among eighteen F_2-rational
+cusps: nine rational cusp images and nine nonrational cusp images.
+Frobenius2 belongs to H7. Use onY the maps induced by
+ (D-1)*(Tq-Dq-q)*(Tq-1-qDq), q=2,3.
+The two Eisenstein factors annihilate both cusp types; their product is
+needed because the nonrational cusp lifts are not globally Q-rational.
+The first also handles the finite rational image. All 1140 unordered
+length-three cusp multisets, including repetitions, have rank 3.
+The NC expansions come from the Tate curve at a primitive127th root.
+Their curve and unit equations, unique normalized canonical jets,
+quotient projections, and every matrix entry are independently rebuilt.
+Absolute formal immersion then forces a cusp in D', impossible.
+
+For SS14 orbit 23 plus C7, h7 invariance follows from56<gon(X_1(127)).
+The quotient specialization is SS2+C1. Orbit23 is pointwise fixed by
+D^21 upstairs; the induced h3=D^3 onY is tame of order 3 and fixes its
+SS2 image. Use V*(D^3-1)*(Tq-Dq-q), q=2,3. All three SS translates
+and nine rational cusps give rank 3: twenty-seven disks. The zero formal
+family is the unique h3-fixed SS2 lift plus the fixed cusp C1.
+Thus D' contains a cusp. Sage independently reconstructs all entries,
+allowing the harmless common unit used to normalize quotient forms.
+
+For SS14+NC7, no cusp remains. The actual elliptic correspondence on
+NC satisfies T3=3+delta3, so A3 contributes2*(1-delta3). Add this term
+to the SS principal-divisor test. There are5*9+3=48 relative positions;
+all give nonprincipal divisors and full-rank 610 matrices.
+
+For the exceptional ordinary9+NC7+C5 disk upstairs, the base degree is
+16, its rank is14, and the known zero family has two pullback
+parameters. All 63 rational cusps and five jets are retained. Modulo the
+base, the complete315-column kernel has dimension 75. At each jet
+level it is exactly the 7-by-9 row/column code, generated by the H7 and
+H9 fibers. A row/column codeword has weight9a+7b-2ab; its minimum
+nonzero weight is7. Different jet levels have disjoint coordinates.
+Consequently every five columns are independent. This proves normal
+rank 14+5=19 for all C(67,5)=9657648 cusp configurations. No cusp
+normalization is made after fixing the two nonrational supports. The
+fixed C5 cannot disappear. Hamming weight is used only for this code
+bound; general jet profiles use prefix cost.
+
+8. STABILIZERS AND EXHAUSTIVE COVERAGE
+
+Suppose the nonrational special divisor Z is h-invariant and C is a
+rational cusp lift of the complement c. The torsion class
+ y=[h(D-C)-(D-C)]
+is well defined even when D-C has nonzero degree. It is torsion: if
+h has orderm, m*y=(h-1)[m(D-C)-N_h(D-C)], with the bracket a rational
+degree-zero class in the finite image. Its dyadic reduction is zero,
+so2y=0. If gon>2*(21+c), this forces hD=D; cuspidal and noncuspidal
+parts cannot cancel. At 73 the independently verified actual J_1(73)[2]
+upper bound is fixed by delta2. Since delta2 has odd order 9, y=0 there,
+so only gon>21+c is required. At 89 the frozen odd-degree anti-H11
+isogeny likewise gives y=0: since11y lies in the anti-Jacobian and
+2y=0, oddness of 11 puts y itself in its rational2-torsion subgroup. Neither uses an optimal-lattice assumption.
+
+This handles nonordinary total 18 or21 at 73; NC11 at 89; nonordinary
+total 18 or21 at 109; total 14 or21 at 113; exceptional ordinary9
+and its double at 127;
+and SS17 or exceptional ordinary17 at 137. The even stabilizers at 109,
+113,137 are immediately impossible by Section 1. At 73,127,137 the
+relevant odd orders 9,9,17 do not divide21. The SS7+ordinary8 and
+ordinary8+ordinary8 exceptional disks at 113 are handled by even H2
+andH8 invariance, respectively. At 127 the allowed order 7 case is
+pushed to the smaller symmetric power onY, as detailed above.
+
+The census gives477 possible multisets of ordinary degrees,
+supersingular degrees, and nonrational cusp degrees, with rational cusp
+complement. verify_coverage.py independently regenerates them and
+assigns a proved certificate or stabilizer to each. It also regenerates
+all 82136 primes through 1050024, checks every published reduction in
+its valid range, verifies every selected-character divisor family,
+and partitions the remaining primes by the complete dyadic screen.
+No unlisted residue type, source, relative diamond position, character
+order, or prime is allowed to pass the final guards.
+
+The final_coverage.json ledger has passed, with status
+PROVED_WITH_COMPUTER_ASSISTANCE and no unresolved primes. All required
+independent source, rank, profile, character, and prime coverage checks
+have passed. This proves the theorem.
+
+Primary reference:
+M. Derickx and M. Stoll, Prime order torsion on elliptic curves over
+number fields. Part I: Asymptotics, arXiv:2505.14109v1 (2025),
+https://arxiv.org/abs/2505.14109v1 .
+All reused computational premises are pinned by the degree 20 manifest;
+all degree 21 premises are listed in S21_certificate_index.txt.

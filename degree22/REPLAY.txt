@@ -1,0 +1,176 @@
+Degree22 replay instructions and certificate map.
+Work from /home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a.
+Use Magma2.30-1, Sage, Python3, and the retained C++ sources and binaries.
+The degree21 packet and all earlier proof dependencies are read-only.
+This file describes replay; its existence does not assert completion.
+Only final_coverage.json with status PROVED_WITH_COMPUTER_ASSISTANCE and
+manifest_verified.json with status PASS certify the completed packet.
+Do not start a second launcher while the corresponding flock is held.
+
+1. Verify inherited inputs and hypotheses:
+ python3 work/degree22/verify_inherited.py
+ sage work/degree22/verify_inherited_hypotheses.py
+The parent manifest contains100184 files and has SHA256
+1ce61f220611ed348af3b0e92554a21f46d2bedd48058d45b654ac3f26e8f1c5.
+
+2. Bounds, occurrences, census and models:
+ sage work/degree22/prepare_bound.py
+ sage work/degree22/verify_dyadic.py
+ magma -b work/degree22/bound_ss_certified.m
+ sage work/degree22/verify_census_counts.py
+ magma -b work/degree22/frobenius89.m
+ sage work/degree22/verify_frobenius89.py
+ sage work/degree22/verify_global173.py
+Fresh native occurrence checks:
+ magma -b work/degree22/verify_small_occurrences.m
+ magma -b work/degree22/verify_extension_occurrences.m
+ magma -b work/degree22/verify_occurrences.m
+ python3 work/degree22/verify_occurrences_ledger.py
+The last file contains the direct37/41 witnesses, vanHoeij43/47/53
+places, and the explicit67 CM witness. All points and fields are checked
+anew, including absolute degree22. See occurrences_verified.json.
+The vanHoeij data supply candidate places only, not exclusion premises.
+The fresh source census includes full89-torsion over F_(2^22). Independent
+class numbers and quaternion orbits verify all ordinary/SS counts.
+The fresh163 model has genus1027, precision4628, and poles348,364:
+ sage work/degree22/verify_model163.py
+ magma -b work/degree22/extend97.m
+ sage work/degree22/verify_extended97.py
+The last two checks extend the97 basis to3500 without changing any old
+coefficient, diamond or modular-unit relation. The old canonical97
+attempt is deliberately unused; the final97 section space is bicanonical.
+Some fresh163 native build stdout labels retain older template numbers;
+actual source assertions and independent certificates use N163,g1027,
+precision4628. The labels are not mathematical premises.
+
+3. Native ordinary records and principal-divisor obstructions:
+ python3 work/degree22/run_new_ordinary.py
+ python3 work/degree22/pipeline_sieves.py
+ python3 work/degree22/run_ordinary163.py
+ python3 work/degree22/run_full163_sieve.py
+ python3 work/degree22/setup_small22.py
+ python3 work/degree22/run_small_sieves.py
+The standard run has8910 native chunks for degree22 sources; the163 run
+has621 chunks covering all4961 ordinary sources through22. Both include
+repeated-point/deformation assertions. Stage2 files are in fullN folders.
+To reproduce one chunk use magma -b Start:=a End:=b fullN/stage2_chunk.m
+with the absolute folder path. Completed chunks are reused exactly.
+The source-specific available jet lengths are checked before use. Only
+89 and97 standard degree22 sources require four jets; most other large
+sources have three. Small sources have more when needed. No jet is padded.
+Run full_sieve.py N, pair_sieve.py N, mixed_new_sieve.py N as appropriate.
+All triples7+7+8 at59/61/71 and all new sum22 pair positions are included.
+All paired97 certificates use the bicanonical dimension1032 and weight8
+product dimension2408. Lower-degree obstruction certificates are inherited
+only when their divisor equations are independent of the total degree.
+The pilot163 first352 sources is an optional early audit. The final full
+163 run checks them again and all higher source degrees.
+
+Native storage is losslessly compressed per completed chunk:
+ python3 work/degree22/archive_native_chunks.py
+9531 archives are checked by decompression against the original byte hash
+before a raw chunk is removed. Combined hecke_jets.m inputs stay readable.
+Controllers accept either a raw chunk or its .m.gz stream. The native163
+merger must finish before archiving its chunks; the archiver explicitly
+waits for the post-merge S22_ALL_163_ORDINARY_JETS_COMPLETE marker.
+The storage handoff checkpoint ordinary_drain_complete.json records that
+all standard native children drained before the launcher was restarted.
+
+4. New89 and113 supersingular/mixed checks:
+ python3 work/degree22/run_ss89.py
+ python3 work/degree22/ss_sieve.py 89
+ python3 work/degree22/ss5_sieve.py 89
+ python3 work/degree22/ss7_sieve.py 89
+ sage work/degree22/verify_ss_jets.py
+ python3 work/degree22/ss_pair113_sieve.py 113
+ sage work/degree22/verify_ss113_jets.py
+ sage work/degree22/verify_new113.py
+Consult the scripts for their positional arguments before replay. The
+retained producer logs give the exact commands. The used89 obstructions
+are T3 for source4763 and T5 for4764,4765 (T7 also passes). Their native
+isogenies/deformation entries are independently rebuilt in Sage. For113,
+all three unordered pairs of SS7 blocks pass and their477-row matrices
+are independently ranked. The O8+NC14 certificate uses the explicit
+F_(2^14) embedding into F_(2^28) containing the113th root.
+
+5. Absolute/relative immersions, quotient geometry and coverage:
+ python3 work/degree22/check_relative_all.py
+ python3 work/degree22/check_relative73_multiple.py
+ python3 work/degree22/check_relative127.py
+ python3 work/degree22/check_quotient89.py
+ python3 work/degree22/check_cusps163.py
+ sage work/degree22/verify_fi_matrices.py
+ sage work/degree22/verify_intrinsic.py
+ sage work/degree22/verify_intrinsic_extra.py
+ sage work/degree22/verify_intrinsic_full_new.py
+ sage work/degree22/verify_intrinsic_multiple.py
+ sage work/degree22/verify_relative61_o20.py
+ sage work/degree22/verify_relative127_intrinsic.py
+ sage work/degree22/verify_relative_cusps_intrinsic.py
+ sage work/degree22/verify_profile_spaces.py
+ sage work/degree22/verify_profile_coverage.py
+ sage work/degree22/verify_quotient89_intrinsic.py
+ sage work/degree22/verify_quotient89_geometry.py
+ python3 work/degree22/resolve89.py
+The89 quotient has genus27 and gonality at least8 by #Y(F4)=38. Two SS22
+orbits descend to invariant quadratic divisors. The residual involution
+has four fixed points forming one Frobenius4-cycle at3; a free invariant
+pair gives a forbidden rational point on X0(89). See argument89.txt.
+The earlier weaker quotient RR checks and unsuccessful anti-involution
+odd-norm trials are unused. No odd-degree real-diamond lemma is applied.
+The127 cusp code checks all109453344 six-cusp prefix patterns. At163,
+all241 dominating profiles are checked with the odd H27 quotient.
+
+ python3 work/degree22/verify_support_inputs.py
+ sage work/degree22/verify_support_inventory_independent.py
+ sage work/degree22/verify_support_coverage.py
+ sage work/degree22/verify_polynomial_encoding.py
+ sage work/degree22/verify_ranks.py
+The514 support types are independently regenerated by integer partitions,
+Mobius inversion and quaternion orbits. Burnside counts and exact relative
+positions check native pair/triple completeness. The44 main matrix tasks
+are independently ranked; three extra H8 SS-pair matrices and fourteen
+generic113 mixed matrices are bound separately. Inspect JSON status and exceptions, not just process exit0.
+
+6. Character certificates:
+ python3 work/degree22/run_characters_simd.py
+ sage work/degree22/check_sequences.py
+ sage work/degree22/verify_large_simd.py
+The selected family has10065 orders:5018 fresh and5047 inherited. Every
+fresh job retains a graph, prepared coordinates, forest/pivot proof,
+independently checked free plan, native64-term prefix, all2k scalar terms,
+NTL Pade certificate and independent FLINT replay. Both Eisenstein factors
+are applied to the winding start, so it lies in the cuspidal dimensionk
+inside the relative space of dimensionk+2. A maximal coprime Pade pair
+proves the full winding dimension. Source/binary hashes identify the
+actual engine for each job. Do not replace an active engine executable.
+The retained arithmetic fixtures and full reference sequences check any
+optimized engine against the original exact recursion. Benchmark sources
+which were not selected as actual per-job engines are unused experiments.
+
+7. Final guard and packaging (only after every required check passes):
+ sage work/degree22/verify_prime_coverage.py
+ python3 work/degree22/verify_final.py --pending
+The first creates an exhaustive155750-prime PLAN, not an exactS22 proof.
+ python3 work/degree22/verify_final.py --local
+ python3 work/degree22/verify_final.py
+ python3 work/degree22/package_result.py
+Only then stop the resource watcher by creating STOP_RESOURCE_WATCH in
+work/degree22 and wait for it to exit. All mathematical jobs must already
+be complete. Then freeze and independently stream-verify the full closure:
+ python3 work/degree22/build_manifest.py
+ python3 work/degree22/verify_manifest.py
+The final outputs are S22_proof.pdf/txt, S22_result.json, S22_status.json
+and S22_certificate_index.json/txt in outputs. PROOF_TEMPLATE.txt retains
+the conditional source; PROOF.txt and the output proof are issued only
+when the complete coverage guard passes. The manifest includes all parent
+premises, fresh data, compressed witnesses, actual sources/binaries and
+final outputs. Resource/progress files are explicitly volatile/excluded.
+
+Optional recompilation must use distinct outputs while jobs are running:
+ g++ -O3 -std=c++17 work/degree22/krylov_packed.cpp -o /tmp/S22_packed
+ g++ -O3 -std=c++17 -mavx512f -mavx512dq -mavx512vl -mavx2 work/degree22/krylov_simd.cpp -o /tmp/S22_simd
+ g++ -O3 -std=c++17 work/degree22/optimization/prepare_graph.cpp -o /tmp/S22_prepare_graph
+ g++ -O3 -std=c++17 -I/opt/sage/envs/sage/include work/degree22/finish_fast.cpp -L/opt/sage/envs/sage/lib -Wl,-rpath,/opt/sage/envs/sage/lib -lntl -lgmp -o /tmp/S22_finish_fast
+The native graph exporter reads the frozen degree20 character library,
+already included in the inherited proof closure.

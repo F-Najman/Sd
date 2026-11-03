@@ -1,0 +1,8 @@
+Loading "work/degree22/full113/units_data.m"
+Loading "work/degree22/sources113.m"
+S22_REL113_NC_OPERATOR q=2 prefix=1064
+S22_REL113_NC_OPERATOR q=3 prefix=775
+S22_REL113_NC_CANONICAL_RANK field_degree=8 rank=476
+S22_REL113_NC_CANONICAL_RANK field_degree=28 rank=476
+S22_REL113_NC_BASE_RANK rank=21 expected21 operators=2
+S22_REL113_NC_EXPORT_COMPLETE

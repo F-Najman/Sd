@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "dyadic_matrices": 156,
+  "formal_immersion_levels": 17,
+  "gonality53_rank": 66,
+  "rational_two53_upper_dimension": 0,
+  "rational_two61_upper_dimension": 0,
+  "rational_two73_upper_dimension": 6,
+  "known41_tangents": 20,
+  "finite_image_inclusions": 16
+}

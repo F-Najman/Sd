@@ -1,0 +1,17 @@
+Loading "work/degree22/full61/units_data.m"
+Loading "work/degree22/sources61.m"
+Loading "work/degree22/sharp_cotangent_full61.m"
+Loading "work/degree22/strange_eigenvalues61_data.m"
+S22_SHARP_OPERATOR p=61 n=2 q=3 rank=118
+S22_SHARP_OPERATOR p=61 n=2 q=5 rank=116
+S22_SHARP_OPERATOR p=61 n=2 q=7 rank=120
+S22_SHARP_OPERATOR p=61 n=3 q=3 rank=104
+S22_SHARP_OPERATOR p=61 n=3 q=5 rank=106
+S22_SHARP_OPERATOR p=61 n=3 q=7 rank=106
+S22_SHARP_OPERATOR p=61 n=5 q=3 rank=118
+S22_SHARP_OPERATOR p=61 n=5 q=5 rank=116
+S22_SHARP_OPERATOR p=61 n=5 q=7 rank=120
+S22_SHARP_OPERATOR p=61 n=7 q=3 rank=106
+S22_SHARP_OPERATOR p=61 n=7 q=5 rank=108
+S22_SHARP_OPERATOR p=61 n=7 q=7 rank=108
+S22_SHARP_COTANGENT_EXPORT_COMPLETE 61 1.160

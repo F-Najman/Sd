@@ -1,0 +1,12 @@
+# LaTeX intermediates
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.toc
+paper/*.synctex.gz
+paper/*.fdb_latexmk
+paper/*.fls
+__pycache__/
+*.pyc

@@ -1,0 +1,195 @@
+{
+  "status": "ADOPTED",
+  "workers": [
+    {
+      "pid": 1988946,
+      "stage": "cpp",
+      "p": 525193,
+      "order": 131298,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n131298_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n131298_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1993667,
+      "stage": "cpp",
+      "p": 525193,
+      "order": 21883,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n21883_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n21883_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1995324,
+      "stage": "cpp",
+      "p": 525193,
+      "order": 1662,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n1662_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n1662_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1996330,
+      "stage": "cpp",
+      "p": 525193,
+      "order": 831,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n831_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n831_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1996467,
+      "stage": "cpp",
+      "p": 525193,
+      "order": 1108,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n1108_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n1108_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1996734,
+      "stage": "cpp",
+      "p": 525193,
+      "order": 554,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n554_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n554_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1997269,
+      "stage": "cpp",
+      "p": 525193,
+      "order": 277,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n277_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n277_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1998053,
+      "stage": "cpp",
+      "p": 525191,
+      "order": 262595,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525191_n262595_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525191_n262595_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1999381,
+      "stage": "cpp",
+      "p": 525191,
+      "order": 52519,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525191_n52519_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525191_n52519_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1999971,
+      "stage": "cpp",
+      "p": 525191,
+      "order": 9055,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525191_n9055_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525191_n9055_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 2001621,
+      "stage": "cpp",
+      "p": 525191,
+      "order": 1811,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525191_n1811_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525191_n1811_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 2002449,
+      "stage": "cpp",
+      "p": 525167,
+      "order": 262583,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525167_n262583_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525167_n262583_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 2006396,
+      "stage": "export",
+      "p": 525163,
+      "order": 262581,
+      "args": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "P:=525163",
+        "OrderToTest:=262581",
+        "SparseOut:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525163_n262581_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/export_large_sparse.m"
+      ]
+    },
+    {
+      "pid": 2007667,
+      "stage": "export",
+      "p": 525163,
+      "order": 87527,
+      "args": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "P:=525163",
+        "OrderToTest:=87527",
+        "SparseOut:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525163_n87527_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/export_large_sparse.m"
+      ]
+    },
+    {
+      "pid": 2008501,
+      "stage": "bm",
+      "p": 525193,
+      "order": 43766,
+      "args": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "Raw:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n43766_cpp_raw.m",
+        "Final:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525193_n43766_sequence.m",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/finish_cpp.m"
+      ]
+    },
+    {
+      "pid": 2008516,
+      "stage": "export",
+      "p": 525163,
+      "order": 23871,
+      "args": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "P:=525163",
+        "OrderToTest:=23871",
+        "SparseOut:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525163_n23871_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/export_large_sparse.m"
+      ]
+    }
+  ],
+  "worker_limit": 24,
+  "export_limit": 2,
+  "cpp_limit": 24
+}

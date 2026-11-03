@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "tests": [
+    {
+      "case": "valid exact two-term sequence",
+      "pass": true
+    },
+    {
+      "case": "duplicate_column",
+      "rejected": true
+    },
+    {
+      "case": "trailing_data",
+      "rejected": true
+    }
+  ]
+}

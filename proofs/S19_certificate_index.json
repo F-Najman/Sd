@@ -1,0 +1,50 @@
+{
+  "status": "PROVED_WITH_COMPUTER_ASSISTANCE",
+  "degree": 19,
+  "S": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31,
+    37,
+    41,
+    43
+  ],
+  "proof": {
+    "text": "S19_proof.txt",
+    "pdf": "S19_proof.pdf",
+    "pages": 8,
+    "txt_sha256": "8e82886402e6575b0cc4d70ef48434e34d0d52948df52a3194badb0f287daf0a"
+  },
+  "replay": "../work/degree19/REPLAY.txt",
+  "manifest": "../work/degree19/proof_manifest.json",
+  "prime_coverage": "../work/degree19/final_coverage.json",
+  "local_support_coverage": "../work/degree19/support_coverage.json",
+  "ordinary_orbits": 27519,
+  "new_independent_obstruction_matrices": 21392,
+  "character_orders": 1147,
+  "new_character_orders": 592,
+  "inherited_character_orders": 555,
+  "large_primes": 196,
+  "relative_map_certificates": [
+    "../work/degree19/relative53_verified.json",
+    "../work/degree19/relative61_verified.json",
+    "../work/degree19/relative73_relations_verified.json",
+    "../work/degree19/relative73_relation_spaces_independent.json",
+    "../work/degree19/relative127_verified.json",
+    "../work/degree19/relative_cusps_intrinsic_verified.json"
+  ],
+  "level53_repair": "../work/degree19/cusps53_intrinsic_verified.json",
+  "global163": "../work/degree19/anti163_norms_verified.json",
+  "new137_exception": "../work/degree19/stabilizer137_ordinary.log",
+  "independent_ranks": "../work/degree19/independent_rank_checks.json",
+  "character_coverage": "../work/degree19/large_verified.json",
+  "inherited_manifest_check": "../work/degree19/inherited_manifest_verified.json"
+}

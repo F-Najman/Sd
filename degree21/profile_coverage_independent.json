@@ -1,0 +1,211 @@
+{
+  "status": "PASS",
+  "records": 169337,
+  "direct_cap6": [
+    {
+      "p": 67,
+      "cap6_tuples": 4759390,
+      "all_high_partition_counts_complete": true,
+      "triple7_matrices_independently_ranked": 45
+    },
+    {
+      "p": 73,
+      "cap6_tuples": 13023430,
+      "all_high_partition_counts_complete": true,
+      "triple7_matrices_independently_ranked": 55
+    }
+  ],
+  "method": "Sage integer partitions with independent placement of multiplicity groups; set equality after removing producer duplicates",
+  "results": [
+    {
+      "case": "relative53",
+      "records": 26,
+      "unique_profiles_per_translate": 26,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps53",
+      "records": 78626,
+      "unique_profiles_per_translate": 57926,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps71",
+      "records": 12360,
+      "unique_profiles_per_translate": 12360,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps127",
+      "records": 7875,
+      "unique_profiles_per_translate": 7875,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "relative61",
+      "records": 1,
+      "unique_profiles_per_translate": 1,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "relative61_ss20",
+      "records": 1,
+      "unique_profiles_per_translate": 1,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "relative61_o20",
+      "records": 6,
+      "unique_profiles_per_translate": 1,
+      "translates": 6,
+      "status": "PASS"
+    },
+    {
+      "case": "relative73",
+      "records": 284,
+      "unique_profiles_per_translate": 71,
+      "translates": 4,
+      "status": "PASS"
+    },
+    {
+      "case": "relative73_nc",
+      "records": 144,
+      "unique_profiles_per_translate": 36,
+      "translates": 4,
+      "status": "PASS"
+    },
+    {
+      "case": "relative109",
+      "records": 162,
+      "unique_profiles_per_translate": 54,
+      "translates": 3,
+      "status": "PASS"
+    },
+    {
+      "case": "relative113_ordinary",
+      "records": 392,
+      "unique_profiles_per_translate": 56,
+      "translates": 7,
+      "status": "PASS"
+    },
+    {
+      "case": "relative97_sharp",
+      "records": 2,
+      "unique_profiles_per_translate": 1,
+      "translates": 2,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps101_sharp",
+      "records": 1373,
+      "unique_profiles_per_translate": 1373,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps61_sharp",
+      "records": 8295,
+      "unique_profiles_per_translate": 8295,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps89",
+      "records": 3828,
+      "unique_profiles_per_translate": 3828,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "full_cusps97_sharp",
+      "records": 4560,
+      "unique_profiles_per_translate": 4560,
+      "translates": 1,
+      "status": "PASS"
+    },
+    {
+      "case": "FI59",
+      "records": 7603,
+      "unique_profiles": 7603,
+      "status": "PASS"
+    },
+    {
+      "case": "FI79",
+      "records": 3003,
+      "unique_profiles": 3003,
+      "status": "PASS"
+    },
+    {
+      "case": "FI83",
+      "records": 3321,
+      "unique_profiles": 3321,
+      "status": "PASS"
+    },
+    {
+      "case": "FI89",
+      "records": 231,
+      "unique_profiles": 231,
+      "status": "PASS"
+    },
+    {
+      "case": "FI97",
+      "records": 120,
+      "unique_profiles": 120,
+      "status": "PASS"
+    },
+    {
+      "case": "FI103",
+      "records": 561,
+      "unique_profiles": 561,
+      "status": "PASS"
+    },
+    {
+      "case": "FI107",
+      "records": 5565,
+      "unique_profiles": 5565,
+      "status": "PASS"
+    },
+    {
+      "case": "FI109",
+      "records": 5778,
+      "unique_profiles": 5778,
+      "status": "PASS"
+    },
+    {
+      "case": "FI113",
+      "records": 6216,
+      "unique_profiles": 6216,
+      "status": "PASS"
+    },
+    {
+      "case": "FI131",
+      "records": 325,
+      "unique_profiles": 325,
+      "status": "PASS"
+    },
+    {
+      "case": "FI137",
+      "records": 9180,
+      "unique_profiles": 9180,
+      "status": "PASS"
+    },
+    {
+      "case": "FI139",
+      "records": 9453,
+      "unique_profiles": 9453,
+      "status": "PASS"
+    },
+    {
+      "case": "relative73_multiple",
+      "records": 46,
+      "all_positions_complete": true,
+      "status": "PASS"
+    }
+  ]
+}

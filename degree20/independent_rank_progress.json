@@ -1,0 +1,275 @@
+[
+  {
+    "N": 53,
+    "kind": "pair_",
+    "matrices": 720,
+    "rank": 273,
+    "status": "PASS"
+  },
+  {
+    "N": 59,
+    "kind": "pair_",
+    "matrices": 2003,
+    "rank": 117,
+    "status": "PASS"
+  },
+  {
+    "N": 67,
+    "kind": "pair_",
+    "matrices": 1805,
+    "rank": 462,
+    "status": "PASS"
+  },
+  {
+    "N": 71,
+    "kind": "pair_",
+    "matrices": 1297,
+    "rank": 176,
+    "status": "PASS"
+  },
+  {
+    "N": 73,
+    "kind": "pair_",
+    "matrices": 921,
+    "rank": 187,
+    "status": "PASS"
+  },
+  {
+    "N": 79,
+    "kind": "pair_",
+    "matrices": 234,
+    "rank": 222,
+    "status": "PASS"
+  },
+  {
+    "N": 83,
+    "kind": "pair_",
+    "matrices": 1355,
+    "rank": 247,
+    "status": "PASS"
+  },
+  {
+    "N": 89,
+    "kind": "pair_",
+    "matrices": 354,
+    "rank": 287,
+    "status": "PASS"
+  },
+  {
+    "N": 97,
+    "kind": "pair_",
+    "matrices": 244,
+    "rank": 345,
+    "status": "PASS"
+  },
+  {
+    "N": 101,
+    "kind": "pair_",
+    "matrices": 517,
+    "rank": 376,
+    "status": "PASS"
+  },
+  {
+    "N": 103,
+    "kind": "pair_",
+    "matrices": 410,
+    "rank": 392,
+    "status": "PASS"
+  },
+  {
+    "N": 107,
+    "kind": "pair_",
+    "matrices": 240,
+    "rank": 425,
+    "status": "PASS"
+  },
+  {
+    "N": 113,
+    "kind": "pair_",
+    "matrices": 315,
+    "rank": 477,
+    "status": "PASS"
+  },
+  {
+    "N": 127,
+    "kind": "pair_",
+    "matrices": 1163,
+    "rank": 610,
+    "status": "PASS"
+  },
+  {
+    "N": 131,
+    "kind": "pair_",
+    "matrices": 2211,
+    "rank": 651,
+    "status": "PASS"
+  },
+  {
+    "N": 137,
+    "kind": "pair_",
+    "matrices": 1224,
+    "rank": 715,
+    "status": "PASS"
+  },
+  {
+    "N": 139,
+    "kind": "pair_low_",
+    "matrices": 415,
+    "rank": 737,
+    "status": "PASS"
+  },
+  {
+    "N": 73,
+    "kind": "mixed_",
+    "matrices": 26,
+    "rank": 187,
+    "status": "PASS"
+  },
+  {
+    "N": 89,
+    "kind": "mixed_",
+    "matrices": 3,
+    "rank": 287,
+    "status": "PASS"
+  },
+  {
+    "N": 113,
+    "kind": "mixed_",
+    "matrices": 20,
+    "rank": 477,
+    "status": "PASS"
+  },
+  {
+    "N": 127,
+    "kind": "mixed_",
+    "matrices": 4,
+    "rank": 610,
+    "status": "PASS"
+  },
+  {
+    "N": 127,
+    "kind": "ordinary",
+    "matrices": 868,
+    "rank": 610,
+    "status": "PASS"
+  },
+  {
+    "N": 131,
+    "kind": "ordinary",
+    "matrices": 821,
+    "rank": 651,
+    "status": "PASS"
+  },
+  {
+    "N": 139,
+    "kind": "ordinary",
+    "matrices": 1573,
+    "rank": 737,
+    "status": "PASS"
+  },
+  {
+    "N": 137,
+    "kind": "ordinary",
+    "matrices": 810,
+    "rank": 715,
+    "status": "PASS"
+  },
+  {
+    "N": 113,
+    "kind": "ordinary",
+    "matrices": 951,
+    "rank": 477,
+    "status": "PASS"
+  },
+  {
+    "N": 109,
+    "kind": "ordinary",
+    "matrices": 961,
+    "rank": 442,
+    "status": "PASS"
+  },
+  {
+    "N": 107,
+    "kind": "ordinary",
+    "matrices": 1008,
+    "rank": 425,
+    "status": "PASS"
+  },
+  {
+    "N": 101,
+    "kind": "ordinary",
+    "matrices": 1053,
+    "rank": 376,
+    "status": "PASS"
+  },
+  {
+    "N": 103,
+    "kind": "ordinary",
+    "matrices": 1022,
+    "rank": 392,
+    "status": "PASS"
+  },
+  {
+    "N": 97,
+    "kind": "ordinary",
+    "matrices": 1092,
+    "rank": 345,
+    "status": "PASS"
+  },
+  {
+    "N": 89,
+    "kind": "ordinary",
+    "matrices": 1255,
+    "rank": 287,
+    "status": "PASS"
+  },
+  {
+    "N": 83,
+    "kind": "ordinary",
+    "matrices": 1290,
+    "rank": 247,
+    "status": "PASS"
+  },
+  {
+    "N": 79,
+    "kind": "ordinary",
+    "matrices": 1304,
+    "rank": 222,
+    "status": "PASS"
+  },
+  {
+    "N": 73,
+    "kind": "ordinary",
+    "matrices": 1489,
+    "rank": 187,
+    "status": "PASS"
+  },
+  {
+    "N": 71,
+    "kind": "ordinary",
+    "matrices": 1536,
+    "rank": 176,
+    "status": "PASS"
+  },
+  {
+    "N": 67,
+    "kind": "ordinary",
+    "matrices": 1568,
+    "rank": 462,
+    "status": "PASS"
+  },
+  {
+    "N": 59,
+    "kind": "ordinary",
+    "matrices": 1753,
+    "rank": 117,
+    "status": "PASS"
+  },
+  {
+    "N": 53,
+    "kind": "ordinary",
+    "matrices": 2049,
+    "rank": 273,
+    "status": "PASS"
+  }
+]

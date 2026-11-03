@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "degree": 16,
+  "dyadic_ranks": 156,
+  "formal_immersion_levels": 18,
+  "known41_cusp_patterns": 210,
+  "known43_cusp_patterns": 231,
+  "gonality53_lower_bound": 20,
+  "new_finite_image_inclusions": 2,
+  "old_finite_image_inclusions": 16,
+  "odd_anti_certificates": [
+    {
+      "N": 89,
+      "index": 44,
+      "sign": 1,
+      "dimension": 260,
+      "determinant": "6985804707317520647256261443844910378883647114865045431579860369503560485564225698348026604417430982645114063643034005727472087481"
+    },
+    {
+      "N": 89,
+      "index": 44,
+      "sign": -1,
+      "dimension": 260,
+      "determinant": "6985804707317520647256261443844910378883647114865045431579860369503560485564225698348026604417430982645114063643034005727472087481"
+    },
+    {
+      "N": 97,
+      "index": 6,
+      "sign": 1,
+      "dimension": 28,
+      "determinant": "30770604725769"
+    },
+    {
+      "N": 97,
+      "index": 6,
+      "sign": -1,
+      "dimension": 28,
+      "determinant": "30770604725769"
+    }
+  ],
+  "rational_two43_upper_dimension": 6,
+  "cm_frobenius_certificates": 9,
+  "quotient193_cusp_patterns": 12
+}

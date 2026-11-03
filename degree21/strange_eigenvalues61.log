@@ -1,0 +1,5 @@
+S21_STRANGE_EIGENVALUE p=61 character_order=6 diamond=2 hecke_prime=2 coefficients=[ -1, -1 ] verified=true
+S21_STRANGE_EIGENVALUE p=61 character_order=6 diamond=2 hecke_prime=3 coefficients=[ -2, 0 ] verified=true
+S21_STRANGE_EIGENVALUE p=61 character_order=6 diamond=2 hecke_prime=5 coefficients=[ -3, 3 ] verified=true
+S21_STRANGE_EIGENVALUE p=61 character_order=6 diamond=2 hecke_prime=7 coefficients=[ -2, -2 ] verified=true
+S21_STRANGE_EIGENVALUES_COMPLETE 0.050

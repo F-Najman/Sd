@@ -1,0 +1,10 @@
+Loading "work/degree20/sources97.m"
+Loading "work/degree20/sources73.m"
+Loading "work/degree20/sources109.m"
+Loading "work/degree20/sources113.m"
+S20_RELATIVE_STABILIZER p=97 degree=16 diamond=36 order=3 pointwise_fixed=true verified=true
+S20_RELATIVE_STABILIZER p=73 degree=6 diamond=8 order=3 pointwise_fixed=true verified=true
+S20_RELATIVE_STABILIZER p=109 degree=9 diamond=93 order=9 pointwise_fixed=false verified=true
+S20_RELATIVE_STABILIZER p=113 degree=7 diamond=4 order=7 pointwise_fixed=false verified=true
+S20_RELATIVE_STABILIZER p=113 degree=7 diamond=98 order=2 pointwise_fixed=true verified=true
+S20_RELATIVE_STABILIZERS_COMPLETE

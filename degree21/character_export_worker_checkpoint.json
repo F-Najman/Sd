@@ -1,0 +1,224 @@
+{
+  "status": "ALL_ACTIVE_CHILDREN_DRAINED_BEFORE_RESUME",
+  "old_parent": 3738858,
+  "children": [
+    {
+      "pid": 3965794,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n524178_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n524178_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 208.16
+    },
+    {
+      "pid": 3965874,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048361_n4_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048361_n4_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 208.06
+    },
+    {
+      "pid": 3966906,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n262089_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n262089_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 157.32
+    },
+    {
+      "pid": 3967113,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n174726_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n174726_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 143.66
+    },
+    {
+      "pid": 3967333,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n87363_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n87363_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 130.72
+    },
+    {
+      "pid": 3967448,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n58242_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n58242_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 126.33
+    },
+    {
+      "pid": 3967972,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n30834_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n30834_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 117.69
+    },
+    {
+      "pid": 3968041,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n19414_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n19414_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 100.18
+    },
+    {
+      "pid": 3968363,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n29121_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n29121_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 101.74
+    },
+    {
+      "pid": 3968423,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n15417_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n15417_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 101.02
+    },
+    {
+      "pid": 3968795,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n10278_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n10278_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 76.01
+    },
+    {
+      "pid": 3969141,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n9707_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n9707_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 58.0
+    },
+    {
+      "pid": 3969428,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n5139_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n5139_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 50.16
+    },
+    {
+      "pid": 3969684,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n3426_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n3426_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 45.84
+    },
+    {
+      "pid": 3969754,
+      "cmdline": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "P:=1048309",
+        "OrderToTest:=524154",
+        "GraphOut:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048309_n524154_graph.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/optimization/export_graph_fast.m"
+      ],
+      "cpu_user_at_checkpoint": 38.59
+    },
+    {
+      "pid": 3969861,
+      "cmdline": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "P:=1048309",
+        "OrderToTest:=262077",
+        "GraphOut:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048309_n262077_graph.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/optimization/export_graph_fast.m"
+      ],
+      "cpu_user_at_checkpoint": 37.53
+    },
+    {
+      "pid": 3969953,
+      "cmdline": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "P:=1048309",
+        "OrderToTest:=174718",
+        "GraphOut:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048309_n174718_graph.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/optimization/export_graph_fast.m"
+      ],
+      "cpu_user_at_checkpoint": 31.24
+    },
+    {
+      "pid": 3970172,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n1713_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n1713_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 18.4
+    },
+    {
+      "pid": 3970331,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n1142_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n1142_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 17.23
+    },
+    {
+      "pid": 3970669,
+      "cmdline": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/krylov_free",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n571_free.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048357_n571_cpp_raw.m"
+      ],
+      "cpu_user_at_checkpoint": 7.48
+    },
+    {
+      "pid": 3970817,
+      "cmdline": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "P:=1048309",
+        "OrderToTest:=87359",
+        "GraphOut:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048309_n87359_graph.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/optimization/export_graph_fast.m"
+      ],
+      "cpu_user_at_checkpoint": 1.76
+    },
+    {
+      "pid": 3970829,
+      "cmdline": [
+        "python3",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/optimization/verify_graph.py",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048343_n524171_graph.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048343_n524171_prepared.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048343_n524171_graph_rank.json",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree21/large_orders/p1048343_n524171_graph_verified.json"
+      ],
+      "cpu_user_at_checkpoint": 0.95
+    }
+  ],
+  "new_export_limit": 8,
+  "task_threads": 24,
+  "CPP_limit": 24,
+  "arithmetic_engines_unchanged": true,
+  "global_affinity_and_resource_budget_unchanged": true
+}

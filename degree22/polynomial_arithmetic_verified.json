@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "all_binary_basis_vectors_checked": 4628,
+  "precisions": [
+    1300,
+    1348,
+    1520,
+    1768,
+    1900,
+    1968,
+    2108,
+    2180,
+    2328,
+    2888,
+    3300,
+    3500,
+    3600,
+    4628
+  ],
+  "independent_carryless_products": 238,
+  "identical_arithmetic_function_AST": [
+    "full_sieve.py",
+    "pair_sieve.py",
+    "mixed_new_sieve.py",
+    "ss_sieve.py",
+    "ss5_sieve.py",
+    "ss7_sieve.py",
+    "ss_pair113_sieve.py",
+    "ordinary8_delta2_sieve.py",
+    "generic113_mixed_sieve.py"
+  ],
+  "source_sha256": {
+    "full_sieve.py": "9a4d4ba23342ce1ef145d9006607514b411dfead8322498a9b2717bd1699029b",
+    "pair_sieve.py": "22c9960483bb7e8e0b3c15fd9a3a561e9e2de18c48c29f583976ae7c675b11c3",
+    "mixed_new_sieve.py": "87e86068adab38b03434c0f65a92ba6091b30311669523dcfde6824b5df32985",
+    "ss_sieve.py": "9259fb53040831df55cdf072deab55b88a323affed0332d94fc9609b2a861c69",
+    "ss5_sieve.py": "0ff39d09c8d78440e44bab9199fd3bfcfdf48e19e53afd105978eb9e15917b9e",
+    "ss7_sieve.py": "c61e6a1df5a817538557faf1d0b22d391aa27d638504ad6a6a2889cb3973579e",
+    "ss_pair113_sieve.py": "97b7972bcd05506863eac8f4855a1b95c531e563fa9de7cdfbfce2c7b62892cd",
+    "ordinary8_delta2_sieve.py": "8d1ba66b4f394904674a0a6312489d5ac71d1cfdcd224c5de6dd00262dcf10b8",
+    "generic113_mixed_sieve.py": "fc02d86291a583d27f6c6b4aa3ce3e80ab45378529d4ff4c86a0b811aebd20dc"
+  }
+}

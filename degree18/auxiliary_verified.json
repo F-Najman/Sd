@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "degree": 18,
+  "dyadic_rank": 36,
+  "dyadic_classes": 180,
+  "formal_immersion_levels": 18,
+  "supersingular_cotangent_maps_rebuilt": [
+    53,
+    61,
+    73
+  ],
+  "Frobenius_exclusions_rebuilt": 25
+}

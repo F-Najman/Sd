@@ -1,0 +1,129 @@
+{
+  "status": "AUDITED COMPUTER-ASSISTED PROOF COMPLETE",
+  "degree": 10,
+  "S10": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31,
+    37
+  ],
+  "effective_prime_bound": 101,
+  "unresolved_primes": [],
+  "fresh_ordinary_orbits": 96,
+  "rational_cusp_argument": "Each degree-10 restriction is contained in a certified degree-11 restriction, obtained by adding one at a cusp of maximal multiplicity.",
+  "nonrational_cusps": [
+    {
+      "prime": 41,
+      "method": "native non-principality"
+    },
+    {
+      "prime": 43,
+      "complement_degree": 3,
+      "diamond_order": 7,
+      "gonality_lower_bound": 16
+    },
+    {
+      "prime": 73,
+      "complement_degree": 1,
+      "diamond_order": 9
+    }
+  ],
+  "supersingular_branches": [
+    {
+      "prime": 41,
+      "method": "native single and pair non-principality"
+    },
+    {
+      "prime": 43,
+      "method": "native non-principality"
+    },
+    {
+      "prime": 73,
+      "complement_degree": 4,
+      "diamond_order": 9
+    }
+  ],
+  "cases": [
+    {
+      "prime": 41,
+      "ordinary_orbits_through_degree10": 13,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 43,
+      "ordinary_orbits_through_degree10": 11,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 47,
+      "ordinary_orbits_through_degree10": 5,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 53,
+      "ordinary_orbits_through_degree10": 8,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 59,
+      "ordinary_orbits_through_degree10": 8,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 61,
+      "ordinary_orbits_through_degree10": 7,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 67,
+      "ordinary_orbits_through_degree10": 8,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 71,
+      "ordinary_orbits_through_degree10": 7,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 73,
+      "ordinary_orbits_through_degree10": 4,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 79,
+      "ordinary_orbits_through_degree10": 2,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 83,
+      "ordinary_orbits_through_degree10": 9,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 89,
+      "ordinary_orbits_through_degree10": 5,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 97,
+      "ordinary_orbits_through_degree10": 4,
+      "status": "CLOSED"
+    },
+    {
+      "prime": 101,
+      "ordinary_orbits_through_degree10": 5,
+      "status": "CLOSED"
+    }
+  ],
+  "prior_degree9_and_degree10_exclusion_results_required": false,
+  "local_certificate_packet": "work/audit11",
+  "mathematical_proof": "outputs/S10_proof_audited.txt"
+}

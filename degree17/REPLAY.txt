@@ -1,0 +1,109 @@
+S(17) proof replay
+
+Run with Magma V2.30-1 and Sage Python, from the workspace root.
+The installed mdmagma library is at the AttachSpec paths in the scripts.
+Authoritative status: final_coverage.json. Mathematical implications:
+PROOF.txt. The supplied model data and lower-degree pair certificates
+are intentional dependencies, not completeness assertions about a
+sporadic-point database.
+
+Bound, census, examples:
+ magma -b work/degree17/bound_ss.m
+ python work/degree17/prepare_bound.py
+ magma -b work/degree17/census_sources.m
+ python work/degree17/find_occurrences.py
+ magma -b work/degree17/verify_occurrences.m
+ python work/degree17/find_occurrence23.py
+ magma -b work/degree17/verify_occurrence23.m
+ magma -b work/degree17/verify_occurrences41_43.m
+
+Ordinary point jets and obstructions:
+ python work/degree17/finish_ordinary.py
+ python work/degree17/run127.py
+ python work/degree17/cyclotomic97.py 97
+ python work/degree17/combine97.py
+The127 runner computes independent batches and combines them only after
+all completion markers and source metadata have passed. The point
+coordinates at97 are reused from the older models, but the ordinary
+annihilators are sigma^12-1 and (sigma-1)*Phi12(sigma) on the three
+closed orbits of size24 in degrees10/14; the earlier incorrect coefficients at15/16
+must not be restored. Degree68 Hecke targets at109/113 need only their
+constant values when the retained precision is1. Every evaluation
+asserts that enough coefficients were actually retained.
+
+For n=47,59,61,67,71,73,113,127:
+ python work/degree17/pair_sieve.py n
+For n=73,127:
+ python work/degree17/mixed_sieve.py n
+The degree14/15 pair matrices are borrowed as documented in the proof
+and independently rechecked by verify_ranks.py.
+
+Rational-cusp formal immersions:
+ g++ -O3 -std=c++17 work/degree17/check_prefixes.cpp -o work/degree17/check_prefixes
+ g++ -O3 -std=c++17 work/degree17/relation_check.cpp -o work/degree17/relation_check
+ python work/degree17/run_fi.py
+ magma -b P:=127 Ind:=21 Tn:=2 Q:=3 \
+  Out:=work/degree17/FI/FI127.txt work/degree17/export_FI_alpha_fast.m
+ python work/degree17/compress_FI.py work/degree17/FI/FI127.txt
+ python work/degree17/check_fi.py 47 53 61 67 71 73 79 83 89 97 101 103 107 109 113 127
+ python work/degree17/check_fi59_fast.py
+ python work/degree17/verify_fi59.py
+Do not run the direct cap6 prefix enumeration at59: it is superseded by
+the much shorter complete block-rank proof. At103 the absolute check
+has one expected failure, the complete cusp fiber. Its relative test
+below is essential; the failure is not counted as an absolute immersion.
+
+Relative supersingular tests:
+ magma -b P:=53 H:=4 SSDegree:=13 work/degree17/relative53.m
+ magma -b P:=61 H:=3 SSDegree:=15 work/degree17/relative61.m
+ magma -b P:=73 H:=2 SSDegree:=6 work/degree17/relative73.m
+ python work/degree17/check_relative.py
+ g++ -O3 -std=c++17 work/degree17/relative_prefixes.cpp \
+  -o work/degree17/relative_prefixes
+ python work/degree17/check_relative73.py
+Literal file paths are intentional in the three concrete Magma scripts.
+relative_ss.m is an exploratory template and is not a proof input.
+
+Relative103 complete cusp fiber:
+ magma -b P:=103 Ind:=17 Tn:=2 Q:=3 \
+  Out:=work/degree17/FI/FI103_relative.txt work/degree17/export_FI_alpha_fast.m
+The independent auxiliary checker verifies that the complete fiber is
+the sole deficient absolute pattern and that its relative rank is16.
+
+Partially relative127, ordinary9+nonrational cusp7+rational cusp1:
+ magma -b work/degree17/relative127.m
+ python work/degree17/verify_relative127.py
+This verifies all63 cusp positions, and independently reconstructs
+every cotangent entry, including the nodal Tate-cusp coordinates.
+The exploratory q5 test remains deficient and is not used.
+
+Stabilizers and CM:
+ magma -b work/degree17/stabilizers.m
+ magma -b work/degree17/cm_small.m
+The previous actual-JOne73 torsion certificate, both signed odd-isogeny
+certificates at89, and finite-image polynomial inclusions are explicitly
+checked again by the auxiliary verifier.
+
+Independent verification and finalization:
+ python work/degree17/verify_ranks.py
+ python work/degree17/verify_auxiliary.py
+ python work/degree17/verify_fi59.py
+ python work/degree17/verify_relative127.py
+ python work/degree17/verify_operators.py
+ python work/degree17/verify_coverage.py
+ python work/degree17/finalize_result.py
+
+The correction of the inherited97 ordinary certificates is applied only
+after all359 corrected matrices have passed independently:
+ python work/degree17/repair97.py
+This replaces the affected15/16 matrices by verified exact subsets,
+reruns both complete coverage checks, and regenerates the earlier proof
+PDFs together with outputs/S97_correction.pdf. No earlier value of S(d)
+is changed by this correction.
+
+Save Magma output to each script's corresponding .log file; the coverage
+checker requires successful completion markers and rejects error logs.
+Intermediate failed exports, old fixed-precision failures, the stopped
+serial127 export and the stopped direct59 enumeration are not inputs.
+The additional41/43 exclusion explorations are also not inputs, since
+both primes have independently verified degree17 examples.

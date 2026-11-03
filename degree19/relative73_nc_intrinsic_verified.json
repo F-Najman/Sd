@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "degree": 19,
+  "base_degree": 9,
+  "base_rank": 8,
+  "translates": 4,
+  "cusp_jet_blocks": 36,
+  "all_entries_rebuilt": true
+}

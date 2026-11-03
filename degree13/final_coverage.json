@@ -1,0 +1,4222 @@
+{
+  "status": "PASS",
+  "degree": 13,
+  "S13": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31,
+    37
+  ],
+  "dyadic_bound": 8374,
+  "coefficient_rank": 26,
+  "dyadic_M": 157,
+  "covered_primes": 1048,
+  "published_exclusions": 1018,
+  "local_exclusions": 18,
+  "ordinary_source_orbits": 665,
+  "ordinary_nonprincipal_orbits": 663,
+  "known_degree12_orbit_at43": "excluded by known lift and formal immersion",
+  "ordinary_degree8_orbit_at113": "excluded by order-8 diamond stabilizer",
+  "cases": [
+    {
+      "p": 2,
+      "reason": "occurrence"
+    },
+    {
+      "p": 3,
+      "reason": "occurrence"
+    },
+    {
+      "p": 5,
+      "reason": "occurrence"
+    },
+    {
+      "p": 7,
+      "reason": "occurrence"
+    },
+    {
+      "p": 11,
+      "reason": "occurrence"
+    },
+    {
+      "p": 13,
+      "reason": "occurrence"
+    },
+    {
+      "p": 17,
+      "reason": "occurrence"
+    },
+    {
+      "p": 19,
+      "reason": "occurrence"
+    },
+    {
+      "p": 23,
+      "reason": "occurrence"
+    },
+    {
+      "p": 29,
+      "reason": "occurrence"
+    },
+    {
+      "p": 31,
+      "reason": "occurrence"
+    },
+    {
+      "p": 37,
+      "reason": "occurrence"
+    },
+    {
+      "p": 41,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 43,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 47,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 53,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 59,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 61,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 67,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 71,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 73,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 79,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 83,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 89,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 97,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 101,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 103,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 107,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 109,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 113,
+      "reason": "complete local exclusion at 2"
+    },
+    {
+      "p": 127,
+      "reason": "Proposition 4.1"
+    },
+    {
+      "p": 131,
+      "reason": "Proposition 4.1"
+    },
+    {
+      "p": 137,
+      "reason": "Proposition 4.1"
+    },
+    {
+      "p": 139,
+      "reason": "Proposition 4.1"
+    },
+    {
+      "p": 149,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 151,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 157,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 163,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 167,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 173,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 179,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 181,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 191,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 193,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 197,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 199,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 211,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 223,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 227,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 229,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 233,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 239,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 241,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 251,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 257,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 263,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 269,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 271,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 277,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 281,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 283,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 293,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 307,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 311,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 313,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 317,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 331,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 337,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 347,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 349,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 353,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 359,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 367,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 373,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 379,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 383,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 389,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 397,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 401,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 409,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 419,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 421,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 431,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 433,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 439,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 443,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 449,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 457,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 461,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 463,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 467,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 479,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 487,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 491,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 499,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 503,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 509,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 521,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 523,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 541,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 547,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 557,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 563,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 569,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 571,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 577,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 587,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 593,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 599,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 601,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 607,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 613,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 617,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 619,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 631,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 641,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 643,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 647,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 653,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 659,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 661,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 673,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 677,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 683,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 691,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 701,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 709,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 719,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 727,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 733,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 739,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 743,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 751,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 757,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 761,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 769,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 773,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 787,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 797,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 809,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 811,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 821,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 823,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 827,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 829,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 839,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 853,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 857,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 859,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 863,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 877,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 881,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 883,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 887,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 907,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 911,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 919,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 929,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 937,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 941,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 947,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 953,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 967,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 971,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 977,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 983,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 991,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 997,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1009,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1013,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1019,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1021,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1031,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1033,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1039,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1049,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1051,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1061,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1063,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1069,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1087,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1091,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1093,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1097,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1103,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1109,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1117,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1123,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1129,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1151,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1153,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1163,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1171,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1181,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1187,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1193,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1201,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1213,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1217,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1223,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1229,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1231,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1237,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1249,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1259,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1277,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1279,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1283,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1289,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1291,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1297,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1301,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1303,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1307,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1319,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1321,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1327,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1361,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1367,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1373,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1381,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1399,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1409,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1423,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1427,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1429,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1433,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1439,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1447,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1451,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1453,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1459,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1471,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1481,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1483,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1487,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1489,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1493,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1499,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1511,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1523,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1531,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1543,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1549,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1553,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1559,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1567,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1571,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1579,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1583,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1597,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1601,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1607,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1609,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1613,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1619,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1621,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1627,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1637,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1657,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1663,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1667,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1669,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1693,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1697,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1699,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1709,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1721,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1723,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1733,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1741,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1747,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1753,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1759,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1777,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1783,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1787,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1789,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1801,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1811,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1823,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1831,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1847,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1861,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1867,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1871,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1873,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1877,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1879,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1889,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1901,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1907,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1913,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1931,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1933,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1949,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1951,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1973,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1979,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1987,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1993,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1997,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 1999,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2003,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2011,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2017,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2027,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2029,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2039,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2053,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2063,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2069,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2081,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2083,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2087,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2089,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2099,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2111,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2113,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2129,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2131,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2137,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2141,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2143,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2153,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2161,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2179,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2203,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2207,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2213,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2221,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2237,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2239,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2243,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2251,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2267,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2269,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2273,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2281,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2287,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2293,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2297,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2309,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2311,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2333,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2339,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2341,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2347,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2351,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2357,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2371,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2377,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2381,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2383,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2389,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2393,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2399,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2411,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2417,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2423,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2437,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2441,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2447,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2459,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2467,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2473,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2477,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2503,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2521,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2531,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2539,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2543,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2549,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2551,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2557,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2579,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2591,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2593,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2609,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2617,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2621,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2633,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2647,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2657,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2659,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2663,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2671,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2677,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2683,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2687,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2689,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2693,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2699,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2707,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2711,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2713,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2719,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2729,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2731,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2741,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2749,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2753,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2767,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2777,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2789,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2791,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2797,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2801,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2803,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2819,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2833,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2837,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2843,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2851,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2857,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2861,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2879,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2887,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2897,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2903,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2909,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2917,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2927,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2939,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2953,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2957,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2963,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2969,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2971,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 2999,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3001,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3011,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3019,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3023,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3037,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3041,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3049,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3061,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3067,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3079,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3083,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3089,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3109,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3119,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3121,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3137,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3163,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3167,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3169,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3181,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3187,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3191,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3203,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3209,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3217,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3221,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3229,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3251,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3253,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3257,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3259,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3271,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3299,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3301,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3307,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3313,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3319,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3323,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3329,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3331,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3343,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3347,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3359,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3361,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3371,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3373,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3389,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3391,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3407,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3413,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3433,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3449,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3457,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3461,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3463,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3467,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3469,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3491,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3499,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3511,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3517,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3527,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3529,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3533,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3539,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3541,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3547,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3557,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3559,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3571,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3581,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3583,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3593,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3607,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3613,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3617,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3623,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3631,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3637,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3643,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3659,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3671,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3673,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3677,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3691,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3697,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3701,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3709,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3719,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3727,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3733,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3739,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3761,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3767,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3769,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3779,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3793,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3797,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3803,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3821,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3823,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3833,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3847,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3851,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3853,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3863,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3877,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3881,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3889,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3907,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3911,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3917,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3919,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3923,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3929,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3931,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3943,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3947,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3967,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 3989,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4001,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4003,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4007,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4013,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4019,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4021,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4027,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4049,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4051,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4057,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4073,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4079,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4091,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4093,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4099,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4111,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4127,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4129,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4133,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4139,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4153,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4157,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4159,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4177,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4201,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4211,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4217,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4219,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4229,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4231,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4241,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4243,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4253,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4259,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4261,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4271,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4273,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4283,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4289,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4297,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4327,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4337,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4339,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4349,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4357,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4363,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4373,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4391,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4397,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4409,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4421,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4423,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4441,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4447,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4451,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4457,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4463,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4481,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4483,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4493,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4507,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4513,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4517,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4519,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4523,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4547,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4549,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4561,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4567,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4583,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4591,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4597,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4603,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4621,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4637,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4639,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4643,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4649,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4651,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4657,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4663,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4673,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4679,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4691,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4703,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4721,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4723,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4729,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4733,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4751,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4759,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4783,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4787,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4789,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4793,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4799,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4801,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4813,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4817,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4831,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4861,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4871,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4877,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4889,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4903,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4909,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4919,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4931,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4933,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4937,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4943,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4951,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4957,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4967,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4969,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4973,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4987,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4993,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 4999,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5003,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5009,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5011,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5021,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5023,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5039,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5051,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5059,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5077,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5081,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5087,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5099,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5101,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5107,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5113,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5119,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5147,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5153,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5167,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5171,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5179,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5189,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5197,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5209,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5227,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5231,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5233,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5237,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5261,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5273,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5279,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5281,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5297,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5303,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5309,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5323,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5333,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5347,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5351,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5381,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5387,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5393,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5399,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5407,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5413,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5417,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5419,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5431,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5437,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5441,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5443,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5449,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5471,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5477,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5479,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5483,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5501,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5503,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5507,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5519,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5521,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5527,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5531,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5557,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5563,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5569,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5573,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5581,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5591,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5623,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5639,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5641,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5647,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5651,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5653,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5657,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5659,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5669,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5683,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5689,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5693,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5701,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5711,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5717,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5737,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5741,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5743,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5749,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5779,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5783,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5791,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5801,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5807,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5813,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5821,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5827,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5839,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5843,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5849,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5851,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5857,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5861,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5867,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5869,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5879,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5881,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5897,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5903,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5923,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5927,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5939,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5953,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5981,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 5987,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6007,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6011,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6029,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6037,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6043,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6047,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6053,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6067,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6073,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6079,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6089,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6091,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6101,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6113,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6121,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6131,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6133,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6143,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6151,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6163,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6173,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6197,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6199,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6203,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6211,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6217,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6221,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6229,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6247,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6257,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6263,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6269,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6271,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6277,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6287,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6299,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6301,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6311,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6317,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6323,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6329,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6337,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6343,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6353,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6359,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6361,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6367,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6373,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6379,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6389,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6397,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6421,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6427,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6449,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6451,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6469,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6473,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6481,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6491,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6521,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6529,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6547,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6551,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6553,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6563,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6569,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6571,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6577,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6581,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6599,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6607,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6619,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6637,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6653,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6659,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6661,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6673,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6679,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6689,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6691,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6701,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6703,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6709,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6719,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6733,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6737,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6761,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6763,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6779,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6781,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6791,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6793,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6803,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6823,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6827,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6829,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6833,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6841,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6857,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6863,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6869,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6871,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6883,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6899,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6907,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6911,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6917,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6947,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6949,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6959,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6961,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6967,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6971,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6977,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6983,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6991,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 6997,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7001,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7013,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7019,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7027,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7039,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7043,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7057,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7069,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7079,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7103,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7109,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7121,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7127,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7129,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7151,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7159,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7177,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7187,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7193,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7207,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7211,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7213,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7219,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7229,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7237,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7243,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7247,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7253,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7283,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7297,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7307,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7309,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7321,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7331,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7333,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7349,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7351,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7369,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7393,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7411,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7417,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7433,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7451,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7457,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7459,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7477,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7481,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7487,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7489,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7499,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7507,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7517,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7523,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7529,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7537,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7541,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7547,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7549,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7559,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7561,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7573,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7577,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7583,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7589,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7591,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7603,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7607,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7621,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7639,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7643,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7649,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7669,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7673,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7681,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7687,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7691,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7699,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7703,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7717,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7723,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7727,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7741,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7753,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7757,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7759,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7789,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7793,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7817,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7823,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7829,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7841,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7853,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7867,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7873,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7877,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7879,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7883,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7901,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7907,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7919,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7927,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7933,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7937,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7949,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7951,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7963,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 7993,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8009,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8011,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8017,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8039,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8053,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8059,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8069,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8081,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8087,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8089,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8093,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8101,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8111,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8117,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8123,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8147,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8161,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8167,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8171,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8179,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8191,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8209,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8219,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8221,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8231,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8233,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8237,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8243,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8263,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8269,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8273,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8287,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8291,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8293,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8297,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8311,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8317,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8329,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8353,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8363,
+      "reason": "Corollary 7.5"
+    },
+    {
+      "p": 8369,
+      "reason": "Corollary 7.5"
+    }
+  ]
+}

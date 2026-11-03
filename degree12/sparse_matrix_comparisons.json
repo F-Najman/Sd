@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "comparisons": [
+    {
+      "p": 176797,
+      "order": 29466,
+      "all_matrix_entries_equal": true
+    },
+    {
+      "p": 106129,
+      "order": 2,
+      "all_matrix_entries_equal": true
+    }
+  ],
+  "description": "Direct sparse Hecke action after lossless sparse storage of the same quotient map equals the standard Magma Hecke matrix."
+}

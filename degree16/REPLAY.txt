@@ -1,0 +1,68 @@
+S(16) proof replay
+
+Run from the workspace root with Magma V2.30-1 and Sage Python. Save each
+Magma command to its corresponding .log file. Scripts use the installed
+mdmagma library at their AttachSpec paths. The authoritative result is
+final_coverage.json, and PROOF.txt states all mathematical implications.
+
+Global bound and examples:
+ python work/degree16/prepare_bound.py
+ python work/degree16/find_occurrences.py
+ magma -b work/degree16/verify_occurrences.m
+
+Finite-field inputs and local ordinary computations:
+ magma -b work/degree16/census_sources.m
+ magma -b work/degree16/census193.m
+ python work/degree16/run_ordinary.py
+ python work/degree16/run_pairs.py
+ python work/degree16/mixed_sieve.py 41
+ python work/degree16/mixed_sieve.py 43
+ python work/degree16/mixed_sieve.py 73
+
+Rational-cusp formal immersion:
+ python work/degree16/run_fi.py
+ python work/degree16/check_fi.py
+The selected jobs use the combined map at43 and index7 at71.
+
+The additional certificates:
+ magma -b work/degree16/known41_lifting.m
+ magma -b work/degree16/known43_cot.m
+ magma -b work/degree16/lift43_14.m
+ python work/degree16/gonality53_rat.py
+ python work/degree16/gonality53_nonrat.py
+ magma -b work/degree16/stabilizers.m
+ magma -b work/degree16/cm_small.m
+ magma -b work/degree16/torsion43_upper.m
+ magma -b work/degree16/torsion43_Q_first.m
+ magma -b work/degree16/torsion43_reduction.m
+ magma -b N:=43 Qs:=3,5,7 Power:=1 DiamondOrder:=7 \
+  MatrixFile:=work/degree16/two43_h7_data.m work/degree16/two43_h7.m
+ magma -b work/degree16/certify_odd_anti.m
+ magma -b work/degree16/quotient193.m
+ magma -b work/degree16/export_new_finite.m
+ magma -b P:=193 Ind:=12 Tn:=2 Q:=3 \
+  Out:=work/degree16/FI/FI193.txt work/degree16/export193.m
+
+The 12 degree2 cusp-pattern checks at193 are simple pair-rank checks and
+are repeated in verify_auxiliary.py. The prior exact native certificates,
+finite-image polynomial data, actual-Jacobian data at53,61,73, and the
+137+254 earlier pair matrices are intentional dependencies, checked by
+the two scripts below. The finite-image data at43 and193 are new.
+
+Independent checking and final result:
+ python work/degree16/verify_ranks.py
+ python work/degree16/verify_auxiliary.py
+ python work/degree16/verify_coverage.py
+ python work/degree16/finalize_result.py
+
+The external gonality theorem and the model of the genus9 quotient at43
+are from Marin Varivoda, hexagon:2610.00219v1. The accompanying repository
+is pinned at 66c5f61e9ead7ea430f6d2c8538237e01a83e652. The needed torsion
+relations are rechecked here with a focused script: one principal
+38-times cusp difference, together with the cyclic permutation of the
+three cusps, gives both needed relations. The discarded full replay
+in torsion43_classes_Q.log is not a proof input.
+
+Exploratory q5/q11 tests, actual-Jacobian two97 computations, native43
+and native53 batches and search43 are not used. In particular, their
+rank defects, resource limits or stopped batches are not exclusions.

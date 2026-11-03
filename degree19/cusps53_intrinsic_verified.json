@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "all_cotangent_entries_rebuilt": true,
+  "quotient_bad_patterns": 7,
+  "lifts_independently_rank_checked": 20444,
+  "rank": 19,
+  "cusp_generator": 2
+}

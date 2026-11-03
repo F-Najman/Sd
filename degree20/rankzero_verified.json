@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "p": 59,
+      "genus": 117,
+      "winding_rank": 117,
+      "status": "PASS",
+      "period_action": "transpose DualHeckeOperator(T2)"
+    },
+    {
+      "p": 71,
+      "genus": 176,
+      "winding_rank": 176,
+      "status": "PASS",
+      "period_action": "transpose DualHeckeOperator(T2)"
+    }
+  ]
+}

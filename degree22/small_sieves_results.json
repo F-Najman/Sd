@@ -1,0 +1,112 @@
+[
+  {
+    "N": 59,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 61,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 71,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 73,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 79,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 83,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 89,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 97,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 101,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 103,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 107,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 109,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 113,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 127,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 131,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 137,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 139,
+    "kind": "pair",
+    "status": "PASS"
+  },
+  {
+    "N": 73,
+    "kind": "mixed_new",
+    "status": "PASS"
+  },
+  {
+    "N": 89,
+    "kind": "mixed_new",
+    "status": "PASS"
+  },
+  {
+    "N": 109,
+    "kind": "mixed_new",
+    "status": "PASS"
+  },
+  {
+    "N": 113,
+    "kind": "mixed_new",
+    "status": "PASS"
+  },
+  {
+    "N": 127,
+    "kind": "mixed_new",
+    "status": "PASS"
+  }
+]

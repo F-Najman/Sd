@@ -1,0 +1,6 @@
+S12_SMALL_SEARCH N=23 found=false
+
+In file "work/degree12/occurrence_small.m", line 14, column 52:
+>>  printf "S12_SMALL_SEARCH N=%o found=%o\n",N,found;assert found;
+                                                      ^
+Runtime error in assert: Assertion failed

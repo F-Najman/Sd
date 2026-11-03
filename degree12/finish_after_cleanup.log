@@ -1,0 +1,10 @@
+FINAL_VERIFICATION_WAITING_FOR_CLEAN_REGENERATION
+FINAL_STAGE_START verify_large.py
+FINAL_STAGE_PASS verify_large.py
+FINAL_STAGE_START verify_coverage.py
+FINAL_STAGE_PASS verify_coverage.py
+FINAL_STAGE_START finalize_result.py
+FINAL_STAGE_PASS finalize_result.py
+FINAL_STAGE_START package_result.py
+FINAL_STAGE_PASS package_result.py
+S12_PROOF_AND_PACKET_COMPLETE

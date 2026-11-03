@@ -1,0 +1,14 @@
+Loading "work/degree22/full97/units_data.m"
+S22_EXTEND97_EIGENFORM dimension=3 accumulated=3 elapsed=2.160
+S22_EXTEND97_EIGENFORM dimension=4 accumulated=7 elapsed=4.180
+S22_EXTEND97_EIGENFORM dimension=4 accumulated=11 elapsed=4.280
+S22_EXTEND97_EIGENFORM dimension=6 accumulated=17 elapsed=6.000
+S22_EXTEND97_EIGENFORM dimension=12 accumulated=29 elapsed=8.130
+S22_EXTEND97_EIGENFORM dimension=14 accumulated=43 elapsed=10.350
+S22_EXTEND97_EIGENFORM dimension=14 accumulated=57 elapsed=12.600
+S22_EXTEND97_EIGENFORM dimension=24 accumulated=81 elapsed=14.990
+S22_EXTEND97_EIGENFORM dimension=24 accumulated=105 elapsed=17.280
+S22_EXTEND97_EIGENFORM dimension=56 accumulated=161 elapsed=20.010
+S22_EXTEND97_EIGENFORM dimension=56 accumulated=217 elapsed=22.400
+S22_EXTEND97_EIGENFORM dimension=128 accumulated=345 elapsed=25.770
+S22_EXTENDED97_BASIS_COMPLETE genus345 oldprecision1768 newprecision3500 elapsed=35.200

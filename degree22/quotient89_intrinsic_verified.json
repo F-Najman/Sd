@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "degree": 22,
+  "genus": 27,
+  "all_invariant_forms_and_operators_rebuilt": true,
+  "Tate_jet_precision": 5,
+  "rational_cusp_blocks": 4,
+  "other_cusp_blocks": 4,
+  "Hecke_primes": [
+    2,
+    3,
+    5
+  ]
+}

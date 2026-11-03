@@ -1,0 +1,4263 @@
+{
+  "degree": 12,
+  "prime_count": 92,
+  "primes": [
+    {
+      "p": 106087,
+      "m": 53043,
+      "omitted_prime": 17681,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 17681,
+      "orders": [
+        17681,
+        53043
+      ]
+    },
+    {
+      "p": 106123,
+      "m": 53061,
+      "omitted_prime": 23,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 23,
+      "orders": [
+        23,
+        69,
+        17687,
+        53061
+      ]
+    },
+    {
+      "p": 106129,
+      "m": 53064,
+      "omitted_prime": 11,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 11,
+      "orders": [
+        11,
+        22,
+        33,
+        44,
+        66,
+        88,
+        99,
+        132,
+        198,
+        264,
+        396,
+        737,
+        792,
+        1474,
+        2211,
+        2948,
+        4422,
+        5896,
+        6633,
+        8844,
+        13266,
+        17688,
+        26532,
+        53064
+      ]
+    },
+    {
+      "p": 106189,
+      "m": 53094,
+      "omitted_prime": 8849,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 8849,
+      "orders": [
+        8849,
+        17698,
+        26547,
+        53094
+      ]
+    },
+    {
+      "p": 106207,
+      "m": 53103,
+      "omitted_prime": 31,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 31,
+      "orders": [
+        31,
+        93,
+        17701,
+        53103
+      ]
+    },
+    {
+      "p": 106243,
+      "m": 53121,
+      "omitted_prime": 17707,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 17707,
+      "orders": [
+        17707,
+        53121
+      ]
+    },
+    {
+      "p": 106279,
+      "m": 53139,
+      "omitted_prime": 17713,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 17713,
+      "orders": [
+        17713,
+        53139
+      ]
+    },
+    {
+      "p": 106291,
+      "m": 53145,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        15,
+        45,
+        5905,
+        17715,
+        53145
+      ]
+    },
+    {
+      "p": 106297,
+      "m": 53148,
+      "omitted_prime": 43,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 43,
+      "orders": [
+        43,
+        86,
+        129,
+        172,
+        258,
+        516,
+        4429,
+        8858,
+        13287,
+        17716,
+        26574,
+        53148
+      ]
+    },
+    {
+      "p": 106357,
+      "m": 53178,
+      "omitted_prime": 8863,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 8863,
+      "orders": [
+        8863,
+        17726,
+        26589,
+        53178
+      ]
+    },
+    {
+      "p": 106363,
+      "m": 53181,
+      "omitted_prime": 19,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 19,
+      "orders": [
+        19,
+        57,
+        171,
+        5909,
+        17727,
+        53181
+      ]
+    },
+    {
+      "p": 106417,
+      "m": 53208,
+      "omitted_prime": 739,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 739,
+      "orders": [
+        739,
+        1478,
+        2217,
+        2956,
+        4434,
+        5912,
+        6651,
+        8868,
+        13302,
+        17736,
+        26604,
+        53208
+      ]
+    },
+    {
+      "p": 106531,
+      "m": 53265,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        15,
+        265,
+        335,
+        795,
+        1005,
+        17755,
+        53265
+      ]
+    },
+    {
+      "p": 132527,
+      "m": 66263,
+      "omitted_prime": 23,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 23,
+      "orders": [
+        23,
+        989,
+        1541,
+        66263
+      ]
+    },
+    {
+      "p": 132623,
+      "m": 66311,
+      "omitted_prime": 7,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 7,
+      "orders": [
+        7,
+        66311
+      ]
+    },
+    {
+      "p": 132689,
+      "m": 66344,
+      "omitted_prime": 8293,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 8293,
+      "orders": [
+        8293,
+        16586,
+        33172,
+        66344
+      ]
+    },
+    {
+      "p": 132701,
+      "m": 66350,
+      "omitted_prime": 5,
+      "m_valuation": 2,
+      "degree_valuation": 0,
+      "order_threshold": 25,
+      "orders": [
+        25,
+        50,
+        33175,
+        66350
+      ]
+    },
+    {
+      "p": 132761,
+      "m": 66380,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        10,
+        20,
+        16595,
+        33190,
+        66380
+      ]
+    },
+    {
+      "p": 132833,
+      "m": 66416,
+      "omitted_prime": 7,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 7,
+      "orders": [
+        7,
+        14,
+        28,
+        56,
+        112,
+        4151,
+        8302,
+        16604,
+        33208,
+        66416
+      ]
+    },
+    {
+      "p": 132887,
+      "m": 66443,
+      "omitted_prime": 13,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 13,
+      "orders": [
+        13,
+        247,
+        3497,
+        66443
+      ]
+    },
+    {
+      "p": 132911,
+      "m": 66455,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        66455
+      ]
+    },
+    {
+      "p": 132989,
+      "m": 66494,
+      "omitted_prime": 33247,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 33247,
+      "orders": [
+        33247,
+        66494
+      ]
+    },
+    {
+      "p": 133103,
+      "m": 66551,
+      "omitted_prime": 61,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 61,
+      "orders": [
+        61,
+        66551
+      ]
+    },
+    {
+      "p": 133121,
+      "m": 66560,
+      "omitted_prime": 2,
+      "m_valuation": 10,
+      "degree_valuation": 2,
+      "order_threshold": 256,
+      "orders": [
+        256,
+        512,
+        1024,
+        1280,
+        2560,
+        3328,
+        5120,
+        6656,
+        13312,
+        16640,
+        33280,
+        66560
+      ]
+    },
+    {
+      "p": 176321,
+      "m": 88160,
+      "omitted_prime": 2,
+      "m_valuation": 5,
+      "degree_valuation": 2,
+      "order_threshold": 8,
+      "orders": [
+        8,
+        16,
+        32,
+        40,
+        80,
+        152,
+        160,
+        232,
+        304,
+        464,
+        608,
+        760,
+        928,
+        1160,
+        1520,
+        2320,
+        3040,
+        4408,
+        4640,
+        8816,
+        17632,
+        22040,
+        44080,
+        88160
+      ]
+    },
+    {
+      "p": 176417,
+      "m": 88208,
+      "omitted_prime": 37,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 37,
+      "orders": [
+        37,
+        74,
+        148,
+        296,
+        592,
+        5513,
+        11026,
+        22052,
+        44104,
+        88208
+      ]
+    },
+    {
+      "p": 176531,
+      "m": 88265,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        635,
+        695,
+        88265
+      ]
+    },
+    {
+      "p": 176549,
+      "m": 88274,
+      "omitted_prime": 19,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 19,
+      "orders": [
+        19,
+        38,
+        437,
+        874,
+        1919,
+        3838,
+        44137,
+        88274
+      ]
+    },
+    {
+      "p": 176651,
+      "m": 88325,
+      "omitted_prime": 5,
+      "m_valuation": 2,
+      "degree_valuation": 0,
+      "order_threshold": 25,
+      "orders": [
+        25,
+        88325
+      ]
+    },
+    {
+      "p": 176677,
+      "m": 88338,
+      "omitted_prime": 14723,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 14723,
+      "orders": [
+        14723,
+        29446,
+        44169,
+        88338
+      ]
+    },
+    {
+      "p": 176777,
+      "m": 88388,
+      "omitted_prime": 19,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 19,
+      "orders": [
+        19,
+        38,
+        76,
+        22097,
+        44194,
+        88388
+      ]
+    },
+    {
+      "p": 176779,
+      "m": 88389,
+      "omitted_prime": 7,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 7,
+      "orders": [
+        7,
+        21,
+        63,
+        161,
+        427,
+        483,
+        1281,
+        1449,
+        3843,
+        9821,
+        29463,
+        88389
+      ]
+    },
+    {
+      "p": 176789,
+      "m": 88394,
+      "omitted_prime": 193,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 193,
+      "orders": [
+        193,
+        386,
+        44197,
+        88394
+      ]
+    },
+    {
+      "p": 176797,
+      "m": 88398,
+      "omitted_prime": 3,
+      "m_valuation": 3,
+      "degree_valuation": 1,
+      "order_threshold": 9,
+      "orders": [
+        9,
+        18,
+        27,
+        54,
+        14733,
+        29466,
+        44199,
+        88398
+      ]
+    },
+    {
+      "p": 176807,
+      "m": 88403,
+      "omitted_prime": 7,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 7,
+      "orders": [
+        7,
+        511,
+        1211,
+        88403
+      ]
+    },
+    {
+      "p": 176887,
+      "m": 88443,
+      "omitted_prime": 31,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 31,
+      "orders": [
+        31,
+        93,
+        279,
+        9827,
+        29481,
+        88443
+      ]
+    },
+    {
+      "p": 176899,
+      "m": 88449,
+      "omitted_prime": 29483,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 29483,
+      "orders": [
+        29483,
+        88449
+      ]
+    },
+    {
+      "p": 176903,
+      "m": 88451,
+      "omitted_prime": 43,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 43,
+      "orders": [
+        43,
+        473,
+        731,
+        5203,
+        8041,
+        88451
+      ]
+    },
+    {
+      "p": 176921,
+      "m": 88460,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        10,
+        20,
+        22115,
+        44230,
+        88460
+      ]
+    },
+    {
+      "p": 176923,
+      "m": 88461,
+      "omitted_prime": 9829,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 9829,
+      "orders": [
+        9829,
+        29487,
+        88461
+      ]
+    },
+    {
+      "p": 176927,
+      "m": 88463,
+      "omitted_prime": 88463,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 88463,
+      "orders": [
+        88463
+      ]
+    },
+    {
+      "p": 176933,
+      "m": 88466,
+      "omitted_prime": 89,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 89,
+      "orders": [
+        89,
+        178,
+        623,
+        1246,
+        6319,
+        12638,
+        44233,
+        88466
+      ]
+    },
+    {
+      "p": 177043,
+      "m": 88521,
+      "omitted_prime": 19,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 19,
+      "orders": [
+        19,
+        57,
+        29507,
+        88521
+      ]
+    },
+    {
+      "p": 177173,
+      "m": 88586,
+      "omitted_prime": 44293,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 44293,
+      "orders": [
+        44293,
+        88586
+      ]
+    },
+    {
+      "p": 177301,
+      "m": 88650,
+      "omitted_prime": 5,
+      "m_valuation": 2,
+      "degree_valuation": 0,
+      "order_threshold": 25,
+      "orders": [
+        25,
+        50,
+        75,
+        150,
+        225,
+        450,
+        4925,
+        9850,
+        14775,
+        29550,
+        44325,
+        88650
+      ]
+    },
+    {
+      "p": 177319,
+      "m": 88659,
+      "omitted_prime": 9851,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 9851,
+      "orders": [
+        9851,
+        29553,
+        88659
+      ]
+    },
+    {
+      "p": 177323,
+      "m": 88661,
+      "omitted_prime": 88661,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 88661,
+      "orders": [
+        88661
+      ]
+    },
+    {
+      "p": 177337,
+      "m": 88668,
+      "omitted_prime": 3,
+      "m_valuation": 3,
+      "degree_valuation": 1,
+      "order_threshold": 9,
+      "orders": [
+        9,
+        18,
+        27,
+        36,
+        54,
+        108,
+        7389,
+        14778,
+        22167,
+        29556,
+        44334,
+        88668
+      ]
+    },
+    {
+      "p": 177347,
+      "m": 88673,
+      "omitted_prime": 359,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 359,
+      "orders": [
+        359,
+        4667,
+        6821,
+        88673
+      ]
+    },
+    {
+      "p": 177379,
+      "m": 88689,
+      "omitted_prime": 17,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 17,
+      "orders": [
+        17,
+        51,
+        629,
+        799,
+        1887,
+        2397,
+        29563,
+        88689
+      ]
+    },
+    {
+      "p": 177383,
+      "m": 88691,
+      "omitted_prime": 2861,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 2861,
+      "orders": [
+        2861,
+        88691
+      ]
+    },
+    {
+      "p": 177409,
+      "m": 88704,
+      "omitted_prime": 2,
+      "m_valuation": 7,
+      "degree_valuation": 2,
+      "order_threshold": 32,
+      "orders": [
+        32,
+        64,
+        96,
+        128,
+        192,
+        224,
+        288,
+        352,
+        384,
+        448,
+        576,
+        672,
+        704,
+        896,
+        1056,
+        1152,
+        1344,
+        1408,
+        2016,
+        2112,
+        2464,
+        2688,
+        3168,
+        4032,
+        4224,
+        4928,
+        6336,
+        7392,
+        8064,
+        9856,
+        12672,
+        14784,
+        22176,
+        29568,
+        44352,
+        88704
+      ]
+    },
+    {
+      "p": 177427,
+      "m": 88713,
+      "omitted_prime": 9857,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 9857,
+      "orders": [
+        9857,
+        29571,
+        88713
+      ]
+    },
+    {
+      "p": 177433,
+      "m": 88716,
+      "omitted_prime": 7393,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 7393,
+      "orders": [
+        7393,
+        14786,
+        22179,
+        29572,
+        44358,
+        88716
+      ]
+    },
+    {
+      "p": 177467,
+      "m": 88733,
+      "omitted_prime": 997,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 997,
+      "orders": [
+        997,
+        88733
+      ]
+    },
+    {
+      "p": 177473,
+      "m": 88736,
+      "omitted_prime": 2,
+      "m_valuation": 5,
+      "degree_valuation": 2,
+      "order_threshold": 8,
+      "orders": [
+        8,
+        16,
+        32,
+        376,
+        472,
+        752,
+        944,
+        1504,
+        1888,
+        22184,
+        44368,
+        88736
+      ]
+    },
+    {
+      "p": 177481,
+      "m": 88740,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        10,
+        15,
+        20,
+        30,
+        45,
+        60,
+        85,
+        90,
+        145,
+        170,
+        180,
+        255,
+        290,
+        340,
+        435,
+        510,
+        580,
+        765,
+        870,
+        1020,
+        1305,
+        1530,
+        1740,
+        2465,
+        2610,
+        3060,
+        4930,
+        5220,
+        7395,
+        9860,
+        14790,
+        22185,
+        29580,
+        44370,
+        88740
+      ]
+    },
+    {
+      "p": 177487,
+      "m": 88743,
+      "omitted_prime": 29581,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 29581,
+      "orders": [
+        29581,
+        88743
+      ]
+    },
+    {
+      "p": 177493,
+      "m": 88746,
+      "omitted_prime": 7,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 7,
+      "orders": [
+        7,
+        14,
+        21,
+        42,
+        14791,
+        29582,
+        44373,
+        88746
+      ]
+    },
+    {
+      "p": 177511,
+      "m": 88755,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        15,
+        305,
+        485,
+        915,
+        1455,
+        29585,
+        88755
+      ]
+    },
+    {
+      "p": 177533,
+      "m": 88766,
+      "omitted_prime": 44383,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 44383,
+      "orders": [
+        44383,
+        88766
+      ]
+    },
+    {
+      "p": 177539,
+      "m": 88769,
+      "omitted_prime": 3061,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 3061,
+      "orders": [
+        3061,
+        88769
+      ]
+    },
+    {
+      "p": 177553,
+      "m": 88776,
+      "omitted_prime": 3,
+      "m_valuation": 4,
+      "degree_valuation": 1,
+      "order_threshold": 27,
+      "orders": [
+        27,
+        54,
+        81,
+        108,
+        162,
+        216,
+        324,
+        648,
+        3699,
+        7398,
+        11097,
+        14796,
+        22194,
+        29592,
+        44388,
+        88776
+      ]
+    },
+    {
+      "p": 177589,
+      "m": 88794,
+      "omitted_prime": 4933,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 4933,
+      "orders": [
+        4933,
+        9866,
+        14799,
+        29598,
+        44397,
+        88794
+      ]
+    },
+    {
+      "p": 177601,
+      "m": 88800,
+      "omitted_prime": 5,
+      "m_valuation": 2,
+      "degree_valuation": 0,
+      "order_threshold": 25,
+      "orders": [
+        25,
+        50,
+        75,
+        100,
+        150,
+        200,
+        300,
+        400,
+        600,
+        800,
+        925,
+        1200,
+        1850,
+        2400,
+        2775,
+        3700,
+        5550,
+        7400,
+        11100,
+        14800,
+        22200,
+        29600,
+        44400,
+        88800
+      ]
+    },
+    {
+      "p": 177623,
+      "m": 88811,
+      "omitted_prime": 88811,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 88811,
+      "orders": [
+        88811
+      ]
+    },
+    {
+      "p": 177647,
+      "m": 88823,
+      "omitted_prime": 12689,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 12689,
+      "orders": [
+        12689,
+        88823
+      ]
+    },
+    {
+      "p": 177677,
+      "m": 88838,
+      "omitted_prime": 1033,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 1033,
+      "orders": [
+        1033,
+        2066,
+        44419,
+        88838
+      ]
+    },
+    {
+      "p": 177743,
+      "m": 88871,
+      "omitted_prime": 491,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 491,
+      "orders": [
+        491,
+        88871
+      ]
+    },
+    {
+      "p": 177797,
+      "m": 88898,
+      "omitted_prime": 44449,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 44449,
+      "orders": [
+        44449,
+        88898
+      ]
+    },
+    {
+      "p": 177929,
+      "m": 88964,
+      "omitted_prime": 23,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 23,
+      "orders": [
+        23,
+        46,
+        92,
+        22241,
+        44482,
+        88964
+      ]
+    },
+    {
+      "p": 265093,
+      "m": 132546,
+      "omitted_prime": 22091,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 22091,
+      "orders": [
+        22091,
+        44182,
+        66273,
+        132546
+      ]
+    },
+    {
+      "p": 265333,
+      "m": 132666,
+      "omitted_prime": 22111,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 22111,
+      "orders": [
+        22111,
+        44222,
+        66333,
+        132666
+      ]
+    },
+    {
+      "p": 265339,
+      "m": 132669,
+      "omitted_prime": 14741,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 14741,
+      "orders": [
+        14741,
+        44223,
+        132669
+      ]
+    },
+    {
+      "p": 265381,
+      "m": 132690,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        10,
+        15,
+        30,
+        22115,
+        44230,
+        66345,
+        132690
+      ]
+    },
+    {
+      "p": 265399,
+      "m": 132699,
+      "omitted_prime": 7,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 7,
+      "orders": [
+        7,
+        21,
+        497,
+        623,
+        1491,
+        1869,
+        44233,
+        132699
+      ]
+    },
+    {
+      "p": 265417,
+      "m": 132708,
+      "omitted_prime": 11059,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 11059,
+      "orders": [
+        11059,
+        22118,
+        33177,
+        44236,
+        66354,
+        132708
+      ]
+    },
+    {
+      "p": 265423,
+      "m": 132711,
+      "omitted_prime": 31,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 31,
+      "orders": [
+        31,
+        93,
+        44237,
+        132711
+      ]
+    },
+    {
+      "p": 265921,
+      "m": 132960,
+      "omitted_prime": 2,
+      "m_valuation": 5,
+      "degree_valuation": 2,
+      "order_threshold": 8,
+      "orders": [
+        8,
+        16,
+        24,
+        32,
+        40,
+        48,
+        80,
+        96,
+        120,
+        160,
+        240,
+        480,
+        2216,
+        4432,
+        6648,
+        8864,
+        11080,
+        13296,
+        22160,
+        26592,
+        33240,
+        44320,
+        66480,
+        132960
+      ]
+    },
+    {
+      "p": 266221,
+      "m": 133110,
+      "omitted_prime": 3,
+      "m_valuation": 3,
+      "degree_valuation": 1,
+      "order_threshold": 9,
+      "orders": [
+        9,
+        18,
+        27,
+        45,
+        54,
+        90,
+        135,
+        153,
+        261,
+        270,
+        306,
+        459,
+        522,
+        765,
+        783,
+        918,
+        1305,
+        1530,
+        1566,
+        2295,
+        2610,
+        3915,
+        4437,
+        4590,
+        7830,
+        8874,
+        13311,
+        22185,
+        26622,
+        44370,
+        66555,
+        133110
+      ]
+    },
+    {
+      "p": 266239,
+      "m": 133119,
+      "omitted_prime": 7,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 7,
+      "orders": [
+        7,
+        21,
+        63,
+        14791,
+        44373,
+        133119
+      ]
+    },
+    {
+      "p": 266269,
+      "m": 133134,
+      "omitted_prime": 22189,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 22189,
+      "orders": [
+        22189,
+        44378,
+        66567,
+        133134
+      ]
+    },
+    {
+      "p": 530597,
+      "m": 265298,
+      "omitted_prime": 11,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 11,
+      "orders": [
+        11,
+        22,
+        341,
+        682,
+        4279,
+        8558,
+        132649,
+        265298
+      ]
+    },
+    {
+      "p": 530669,
+      "m": 265334,
+      "omitted_prime": 132667,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 132667,
+      "orders": [
+        132667,
+        265334
+      ]
+    },
+    {
+      "p": 530693,
+      "m": 265346,
+      "omitted_prime": 181,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 181,
+      "orders": [
+        181,
+        362,
+        132673,
+        265346
+      ]
+    },
+    {
+      "p": 530741,
+      "m": 265370,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        10,
+        35,
+        70,
+        85,
+        170,
+        595,
+        1115,
+        1190,
+        2230,
+        7805,
+        15610,
+        18955,
+        37910,
+        132685,
+        265370
+      ]
+    },
+    {
+      "p": 530753,
+      "m": 265376,
+      "omitted_prime": 2,
+      "m_valuation": 5,
+      "degree_valuation": 2,
+      "order_threshold": 8,
+      "orders": [
+        8,
+        16,
+        32,
+        66344,
+        132688,
+        265376
+      ]
+    },
+    {
+      "p": 530807,
+      "m": 265403,
+      "omitted_prime": 265403,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 265403,
+      "orders": [
+        265403
+      ]
+    },
+    {
+      "p": 530837,
+      "m": 265418,
+      "omitted_prime": 132709,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 132709,
+      "orders": [
+        132709,
+        265418
+      ]
+    },
+    {
+      "p": 530861,
+      "m": 265430,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        10,
+        55,
+        95,
+        110,
+        190,
+        635,
+        1045,
+        1270,
+        2090,
+        6985,
+        12065,
+        13970,
+        24130,
+        132715,
+        265430
+      ]
+    },
+    {
+      "p": 531833,
+      "m": 265916,
+      "omitted_prime": 7,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 7,
+      "orders": [
+        7,
+        14,
+        28,
+        66479,
+        132958,
+        265916
+      ]
+    },
+    {
+      "p": 531911,
+      "m": 265955,
+      "omitted_prime": 5,
+      "m_valuation": 1,
+      "degree_valuation": 0,
+      "order_threshold": 5,
+      "orders": [
+        5,
+        215,
+        6185,
+        265955
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "p": 106087,
+      "order": 17681
+    },
+    {
+      "p": 106087,
+      "order": 53043
+    },
+    {
+      "p": 106123,
+      "order": 23
+    },
+    {
+      "p": 106123,
+      "order": 69
+    },
+    {
+      "p": 106123,
+      "order": 17687
+    },
+    {
+      "p": 106123,
+      "order": 53061
+    },
+    {
+      "p": 106129,
+      "order": 11
+    },
+    {
+      "p": 106129,
+      "order": 22
+    },
+    {
+      "p": 106129,
+      "order": 33
+    },
+    {
+      "p": 106129,
+      "order": 44
+    },
+    {
+      "p": 106129,
+      "order": 66
+    },
+    {
+      "p": 106129,
+      "order": 88
+    },
+    {
+      "p": 106129,
+      "order": 99
+    },
+    {
+      "p": 106129,
+      "order": 132
+    },
+    {
+      "p": 106129,
+      "order": 198
+    },
+    {
+      "p": 106129,
+      "order": 264
+    },
+    {
+      "p": 106129,
+      "order": 396
+    },
+    {
+      "p": 106129,
+      "order": 737
+    },
+    {
+      "p": 106129,
+      "order": 792
+    },
+    {
+      "p": 106129,
+      "order": 1474
+    },
+    {
+      "p": 106129,
+      "order": 2211
+    },
+    {
+      "p": 106129,
+      "order": 2948
+    },
+    {
+      "p": 106129,
+      "order": 4422
+    },
+    {
+      "p": 106129,
+      "order": 5896
+    },
+    {
+      "p": 106129,
+      "order": 6633
+    },
+    {
+      "p": 106129,
+      "order": 8844
+    },
+    {
+      "p": 106129,
+      "order": 13266
+    },
+    {
+      "p": 106129,
+      "order": 17688
+    },
+    {
+      "p": 106129,
+      "order": 26532
+    },
+    {
+      "p": 106129,
+      "order": 53064
+    },
+    {
+      "p": 106189,
+      "order": 8849
+    },
+    {
+      "p": 106189,
+      "order": 17698
+    },
+    {
+      "p": 106189,
+      "order": 26547
+    },
+    {
+      "p": 106189,
+      "order": 53094
+    },
+    {
+      "p": 106207,
+      "order": 31
+    },
+    {
+      "p": 106207,
+      "order": 93
+    },
+    {
+      "p": 106207,
+      "order": 17701
+    },
+    {
+      "p": 106207,
+      "order": 53103
+    },
+    {
+      "p": 106243,
+      "order": 17707
+    },
+    {
+      "p": 106243,
+      "order": 53121
+    },
+    {
+      "p": 106279,
+      "order": 17713
+    },
+    {
+      "p": 106279,
+      "order": 53139
+    },
+    {
+      "p": 106291,
+      "order": 5
+    },
+    {
+      "p": 106291,
+      "order": 15
+    },
+    {
+      "p": 106291,
+      "order": 45
+    },
+    {
+      "p": 106291,
+      "order": 5905
+    },
+    {
+      "p": 106291,
+      "order": 17715
+    },
+    {
+      "p": 106291,
+      "order": 53145
+    },
+    {
+      "p": 106297,
+      "order": 43
+    },
+    {
+      "p": 106297,
+      "order": 86
+    },
+    {
+      "p": 106297,
+      "order": 129
+    },
+    {
+      "p": 106297,
+      "order": 172
+    },
+    {
+      "p": 106297,
+      "order": 258
+    },
+    {
+      "p": 106297,
+      "order": 516
+    },
+    {
+      "p": 106297,
+      "order": 4429
+    },
+    {
+      "p": 106297,
+      "order": 8858
+    },
+    {
+      "p": 106297,
+      "order": 13287
+    },
+    {
+      "p": 106297,
+      "order": 17716
+    },
+    {
+      "p": 106297,
+      "order": 26574
+    },
+    {
+      "p": 106297,
+      "order": 53148
+    },
+    {
+      "p": 106357,
+      "order": 8863
+    },
+    {
+      "p": 106357,
+      "order": 17726
+    },
+    {
+      "p": 106357,
+      "order": 26589
+    },
+    {
+      "p": 106357,
+      "order": 53178
+    },
+    {
+      "p": 106363,
+      "order": 19
+    },
+    {
+      "p": 106363,
+      "order": 57
+    },
+    {
+      "p": 106363,
+      "order": 171
+    },
+    {
+      "p": 106363,
+      "order": 5909
+    },
+    {
+      "p": 106363,
+      "order": 17727
+    },
+    {
+      "p": 106363,
+      "order": 53181
+    },
+    {
+      "p": 106417,
+      "order": 739
+    },
+    {
+      "p": 106417,
+      "order": 1478
+    },
+    {
+      "p": 106417,
+      "order": 2217
+    },
+    {
+      "p": 106417,
+      "order": 2956
+    },
+    {
+      "p": 106417,
+      "order": 4434
+    },
+    {
+      "p": 106417,
+      "order": 5912
+    },
+    {
+      "p": 106417,
+      "order": 6651
+    },
+    {
+      "p": 106417,
+      "order": 8868
+    },
+    {
+      "p": 106417,
+      "order": 13302
+    },
+    {
+      "p": 106417,
+      "order": 17736
+    },
+    {
+      "p": 106417,
+      "order": 26604
+    },
+    {
+      "p": 106417,
+      "order": 53208
+    },
+    {
+      "p": 106531,
+      "order": 5
+    },
+    {
+      "p": 106531,
+      "order": 15
+    },
+    {
+      "p": 106531,
+      "order": 265
+    },
+    {
+      "p": 106531,
+      "order": 335
+    },
+    {
+      "p": 106531,
+      "order": 795
+    },
+    {
+      "p": 106531,
+      "order": 1005
+    },
+    {
+      "p": 106531,
+      "order": 17755
+    },
+    {
+      "p": 106531,
+      "order": 53265
+    },
+    {
+      "p": 132527,
+      "order": 23
+    },
+    {
+      "p": 132527,
+      "order": 989
+    },
+    {
+      "p": 132527,
+      "order": 1541
+    },
+    {
+      "p": 132527,
+      "order": 66263
+    },
+    {
+      "p": 132623,
+      "order": 7
+    },
+    {
+      "p": 132623,
+      "order": 66311
+    },
+    {
+      "p": 132689,
+      "order": 8293
+    },
+    {
+      "p": 132689,
+      "order": 16586
+    },
+    {
+      "p": 132689,
+      "order": 33172
+    },
+    {
+      "p": 132689,
+      "order": 66344
+    },
+    {
+      "p": 132701,
+      "order": 25
+    },
+    {
+      "p": 132701,
+      "order": 50
+    },
+    {
+      "p": 132701,
+      "order": 33175
+    },
+    {
+      "p": 132701,
+      "order": 66350
+    },
+    {
+      "p": 132761,
+      "order": 5
+    },
+    {
+      "p": 132761,
+      "order": 10
+    },
+    {
+      "p": 132761,
+      "order": 20
+    },
+    {
+      "p": 132761,
+      "order": 16595
+    },
+    {
+      "p": 132761,
+      "order": 33190
+    },
+    {
+      "p": 132761,
+      "order": 66380
+    },
+    {
+      "p": 132833,
+      "order": 7
+    },
+    {
+      "p": 132833,
+      "order": 14
+    },
+    {
+      "p": 132833,
+      "order": 28
+    },
+    {
+      "p": 132833,
+      "order": 56
+    },
+    {
+      "p": 132833,
+      "order": 112
+    },
+    {
+      "p": 132833,
+      "order": 4151
+    },
+    {
+      "p": 132833,
+      "order": 8302
+    },
+    {
+      "p": 132833,
+      "order": 16604
+    },
+    {
+      "p": 132833,
+      "order": 33208
+    },
+    {
+      "p": 132833,
+      "order": 66416
+    },
+    {
+      "p": 132887,
+      "order": 13
+    },
+    {
+      "p": 132887,
+      "order": 247
+    },
+    {
+      "p": 132887,
+      "order": 3497
+    },
+    {
+      "p": 132887,
+      "order": 66443
+    },
+    {
+      "p": 132911,
+      "order": 5
+    },
+    {
+      "p": 132911,
+      "order": 66455
+    },
+    {
+      "p": 132989,
+      "order": 33247
+    },
+    {
+      "p": 132989,
+      "order": 66494
+    },
+    {
+      "p": 133103,
+      "order": 61
+    },
+    {
+      "p": 133103,
+      "order": 66551
+    },
+    {
+      "p": 133121,
+      "order": 256
+    },
+    {
+      "p": 133121,
+      "order": 512
+    },
+    {
+      "p": 133121,
+      "order": 1024
+    },
+    {
+      "p": 133121,
+      "order": 1280
+    },
+    {
+      "p": 133121,
+      "order": 2560
+    },
+    {
+      "p": 133121,
+      "order": 3328
+    },
+    {
+      "p": 133121,
+      "order": 5120
+    },
+    {
+      "p": 133121,
+      "order": 6656
+    },
+    {
+      "p": 133121,
+      "order": 13312
+    },
+    {
+      "p": 133121,
+      "order": 16640
+    },
+    {
+      "p": 133121,
+      "order": 33280
+    },
+    {
+      "p": 133121,
+      "order": 66560
+    },
+    {
+      "p": 176321,
+      "order": 8
+    },
+    {
+      "p": 176321,
+      "order": 16
+    },
+    {
+      "p": 176321,
+      "order": 40
+    },
+    {
+      "p": 176321,
+      "order": 80
+    },
+    {
+      "p": 176321,
+      "order": 152
+    },
+    {
+      "p": 176321,
+      "order": 232
+    },
+    {
+      "p": 176321,
+      "order": 304
+    },
+    {
+      "p": 176321,
+      "order": 464
+    },
+    {
+      "p": 176321,
+      "order": 760
+    },
+    {
+      "p": 176321,
+      "order": 1160
+    },
+    {
+      "p": 176321,
+      "order": 1520
+    },
+    {
+      "p": 176321,
+      "order": 2320
+    },
+    {
+      "p": 176321,
+      "order": 4408
+    },
+    {
+      "p": 176321,
+      "order": 8816
+    },
+    {
+      "p": 176321,
+      "order": 22040
+    },
+    {
+      "p": 176321,
+      "order": 44080
+    },
+    {
+      "p": 176417,
+      "order": 37
+    },
+    {
+      "p": 176417,
+      "order": 74
+    },
+    {
+      "p": 176417,
+      "order": 148
+    },
+    {
+      "p": 176417,
+      "order": 296
+    },
+    {
+      "p": 176417,
+      "order": 592
+    },
+    {
+      "p": 176417,
+      "order": 5513
+    },
+    {
+      "p": 176417,
+      "order": 11026
+    },
+    {
+      "p": 176417,
+      "order": 22052
+    },
+    {
+      "p": 176417,
+      "order": 44104
+    },
+    {
+      "p": 176417,
+      "order": 88208
+    },
+    {
+      "p": 176531,
+      "order": 5
+    },
+    {
+      "p": 176531,
+      "order": 635
+    },
+    {
+      "p": 176531,
+      "order": 695
+    },
+    {
+      "p": 176531,
+      "order": 88265
+    },
+    {
+      "p": 176549,
+      "order": 19
+    },
+    {
+      "p": 176549,
+      "order": 38
+    },
+    {
+      "p": 176549,
+      "order": 437
+    },
+    {
+      "p": 176549,
+      "order": 874
+    },
+    {
+      "p": 176549,
+      "order": 1919
+    },
+    {
+      "p": 176549,
+      "order": 3838
+    },
+    {
+      "p": 176549,
+      "order": 44137
+    },
+    {
+      "p": 176549,
+      "order": 88274
+    },
+    {
+      "p": 176651,
+      "order": 25
+    },
+    {
+      "p": 176651,
+      "order": 88325
+    },
+    {
+      "p": 176677,
+      "order": 14723
+    },
+    {
+      "p": 176677,
+      "order": 29446
+    },
+    {
+      "p": 176677,
+      "order": 44169
+    },
+    {
+      "p": 176677,
+      "order": 88338
+    },
+    {
+      "p": 176777,
+      "order": 19
+    },
+    {
+      "p": 176777,
+      "order": 38
+    },
+    {
+      "p": 176777,
+      "order": 76
+    },
+    {
+      "p": 176777,
+      "order": 22097
+    },
+    {
+      "p": 176777,
+      "order": 44194
+    },
+    {
+      "p": 176777,
+      "order": 88388
+    },
+    {
+      "p": 176779,
+      "order": 7
+    },
+    {
+      "p": 176779,
+      "order": 21
+    },
+    {
+      "p": 176779,
+      "order": 63
+    },
+    {
+      "p": 176779,
+      "order": 161
+    },
+    {
+      "p": 176779,
+      "order": 427
+    },
+    {
+      "p": 176779,
+      "order": 483
+    },
+    {
+      "p": 176779,
+      "order": 1281
+    },
+    {
+      "p": 176779,
+      "order": 1449
+    },
+    {
+      "p": 176779,
+      "order": 3843
+    },
+    {
+      "p": 176779,
+      "order": 9821
+    },
+    {
+      "p": 176779,
+      "order": 29463
+    },
+    {
+      "p": 176779,
+      "order": 88389
+    },
+    {
+      "p": 176789,
+      "order": 193
+    },
+    {
+      "p": 176789,
+      "order": 386
+    },
+    {
+      "p": 176789,
+      "order": 44197
+    },
+    {
+      "p": 176789,
+      "order": 88394
+    },
+    {
+      "p": 176797,
+      "order": 9
+    },
+    {
+      "p": 176797,
+      "order": 18
+    },
+    {
+      "p": 176797,
+      "order": 27
+    },
+    {
+      "p": 176797,
+      "order": 54
+    },
+    {
+      "p": 176797,
+      "order": 14733
+    },
+    {
+      "p": 176797,
+      "order": 29466
+    },
+    {
+      "p": 176797,
+      "order": 44199
+    },
+    {
+      "p": 176797,
+      "order": 88398
+    },
+    {
+      "p": 176807,
+      "order": 7
+    },
+    {
+      "p": 176807,
+      "order": 511
+    },
+    {
+      "p": 176807,
+      "order": 1211
+    },
+    {
+      "p": 176807,
+      "order": 88403
+    },
+    {
+      "p": 176887,
+      "order": 31
+    },
+    {
+      "p": 176887,
+      "order": 93
+    },
+    {
+      "p": 176887,
+      "order": 279
+    },
+    {
+      "p": 176887,
+      "order": 9827
+    },
+    {
+      "p": 176887,
+      "order": 29481
+    },
+    {
+      "p": 176887,
+      "order": 88443
+    },
+    {
+      "p": 176899,
+      "order": 29483
+    },
+    {
+      "p": 176899,
+      "order": 88449
+    },
+    {
+      "p": 176921,
+      "order": 5
+    },
+    {
+      "p": 176921,
+      "order": 10
+    },
+    {
+      "p": 176921,
+      "order": 22115
+    },
+    {
+      "p": 176921,
+      "order": 44230
+    },
+    {
+      "p": 176923,
+      "order": 9829
+    },
+    {
+      "p": 176923,
+      "order": 29487
+    },
+    {
+      "p": 176923,
+      "order": 88461
+    },
+    {
+      "p": 177043,
+      "order": 19
+    },
+    {
+      "p": 177043,
+      "order": 57
+    },
+    {
+      "p": 177043,
+      "order": 29507
+    },
+    {
+      "p": 177043,
+      "order": 88521
+    },
+    {
+      "p": 177173,
+      "order": 44293
+    },
+    {
+      "p": 177173,
+      "order": 88586
+    },
+    {
+      "p": 177301,
+      "order": 25
+    },
+    {
+      "p": 177301,
+      "order": 50
+    },
+    {
+      "p": 177301,
+      "order": 75
+    },
+    {
+      "p": 177301,
+      "order": 150
+    },
+    {
+      "p": 177301,
+      "order": 225
+    },
+    {
+      "p": 177301,
+      "order": 450
+    },
+    {
+      "p": 177301,
+      "order": 4925
+    },
+    {
+      "p": 177301,
+      "order": 9850
+    },
+    {
+      "p": 177301,
+      "order": 14775
+    },
+    {
+      "p": 177301,
+      "order": 29550
+    },
+    {
+      "p": 177301,
+      "order": 44325
+    },
+    {
+      "p": 177301,
+      "order": 88650
+    },
+    {
+      "p": 177319,
+      "order": 9851
+    },
+    {
+      "p": 177319,
+      "order": 29553
+    },
+    {
+      "p": 177319,
+      "order": 88659
+    },
+    {
+      "p": 177337,
+      "order": 9
+    },
+    {
+      "p": 177337,
+      "order": 18
+    },
+    {
+      "p": 177337,
+      "order": 27
+    },
+    {
+      "p": 177337,
+      "order": 36
+    },
+    {
+      "p": 177337,
+      "order": 54
+    },
+    {
+      "p": 177337,
+      "order": 108
+    },
+    {
+      "p": 177337,
+      "order": 7389
+    },
+    {
+      "p": 177337,
+      "order": 14778
+    },
+    {
+      "p": 177337,
+      "order": 22167
+    },
+    {
+      "p": 177337,
+      "order": 29556
+    },
+    {
+      "p": 177337,
+      "order": 44334
+    },
+    {
+      "p": 177337,
+      "order": 88668
+    },
+    {
+      "p": 177379,
+      "order": 17
+    },
+    {
+      "p": 177379,
+      "order": 51
+    },
+    {
+      "p": 177379,
+      "order": 629
+    },
+    {
+      "p": 177379,
+      "order": 799
+    },
+    {
+      "p": 177379,
+      "order": 1887
+    },
+    {
+      "p": 177379,
+      "order": 2397
+    },
+    {
+      "p": 177379,
+      "order": 29563
+    },
+    {
+      "p": 177379,
+      "order": 88689
+    },
+    {
+      "p": 177409,
+      "order": 32
+    },
+    {
+      "p": 177409,
+      "order": 64
+    },
+    {
+      "p": 177409,
+      "order": 96
+    },
+    {
+      "p": 177409,
+      "order": 128
+    },
+    {
+      "p": 177409,
+      "order": 192
+    },
+    {
+      "p": 177409,
+      "order": 224
+    },
+    {
+      "p": 177409,
+      "order": 288
+    },
+    {
+      "p": 177409,
+      "order": 352
+    },
+    {
+      "p": 177409,
+      "order": 384
+    },
+    {
+      "p": 177409,
+      "order": 448
+    },
+    {
+      "p": 177409,
+      "order": 576
+    },
+    {
+      "p": 177409,
+      "order": 672
+    },
+    {
+      "p": 177409,
+      "order": 704
+    },
+    {
+      "p": 177409,
+      "order": 896
+    },
+    {
+      "p": 177409,
+      "order": 1056
+    },
+    {
+      "p": 177409,
+      "order": 1152
+    },
+    {
+      "p": 177409,
+      "order": 1344
+    },
+    {
+      "p": 177409,
+      "order": 1408
+    },
+    {
+      "p": 177409,
+      "order": 2016
+    },
+    {
+      "p": 177409,
+      "order": 2112
+    },
+    {
+      "p": 177409,
+      "order": 2464
+    },
+    {
+      "p": 177409,
+      "order": 2688
+    },
+    {
+      "p": 177409,
+      "order": 3168
+    },
+    {
+      "p": 177409,
+      "order": 4032
+    },
+    {
+      "p": 177409,
+      "order": 4224
+    },
+    {
+      "p": 177409,
+      "order": 4928
+    },
+    {
+      "p": 177409,
+      "order": 6336
+    },
+    {
+      "p": 177409,
+      "order": 7392
+    },
+    {
+      "p": 177409,
+      "order": 8064
+    },
+    {
+      "p": 177409,
+      "order": 9856
+    },
+    {
+      "p": 177409,
+      "order": 12672
+    },
+    {
+      "p": 177409,
+      "order": 14784
+    },
+    {
+      "p": 177409,
+      "order": 22176
+    },
+    {
+      "p": 177409,
+      "order": 29568
+    },
+    {
+      "p": 177409,
+      "order": 44352
+    },
+    {
+      "p": 177409,
+      "order": 88704
+    },
+    {
+      "p": 177427,
+      "order": 9857
+    },
+    {
+      "p": 177427,
+      "order": 29571
+    },
+    {
+      "p": 177427,
+      "order": 88713
+    },
+    {
+      "p": 177433,
+      "order": 7393
+    },
+    {
+      "p": 177433,
+      "order": 14786
+    },
+    {
+      "p": 177433,
+      "order": 22179
+    },
+    {
+      "p": 177433,
+      "order": 29572
+    },
+    {
+      "p": 177433,
+      "order": 44358
+    },
+    {
+      "p": 177433,
+      "order": 88716
+    },
+    {
+      "p": 177473,
+      "order": 8
+    },
+    {
+      "p": 177473,
+      "order": 16
+    },
+    {
+      "p": 177473,
+      "order": 376
+    },
+    {
+      "p": 177473,
+      "order": 472
+    },
+    {
+      "p": 177473,
+      "order": 752
+    },
+    {
+      "p": 177473,
+      "order": 944
+    },
+    {
+      "p": 177473,
+      "order": 22184
+    },
+    {
+      "p": 177473,
+      "order": 44368
+    },
+    {
+      "p": 177481,
+      "order": 5
+    },
+    {
+      "p": 177481,
+      "order": 10
+    },
+    {
+      "p": 177481,
+      "order": 15
+    },
+    {
+      "p": 177481,
+      "order": 20
+    },
+    {
+      "p": 177481,
+      "order": 30
+    },
+    {
+      "p": 177481,
+      "order": 45
+    },
+    {
+      "p": 177481,
+      "order": 60
+    },
+    {
+      "p": 177481,
+      "order": 85
+    },
+    {
+      "p": 177481,
+      "order": 90
+    },
+    {
+      "p": 177481,
+      "order": 145
+    },
+    {
+      "p": 177481,
+      "order": 170
+    },
+    {
+      "p": 177481,
+      "order": 180
+    },
+    {
+      "p": 177481,
+      "order": 255
+    },
+    {
+      "p": 177481,
+      "order": 290
+    },
+    {
+      "p": 177481,
+      "order": 340
+    },
+    {
+      "p": 177481,
+      "order": 435
+    },
+    {
+      "p": 177481,
+      "order": 510
+    },
+    {
+      "p": 177481,
+      "order": 580
+    },
+    {
+      "p": 177481,
+      "order": 765
+    },
+    {
+      "p": 177481,
+      "order": 870
+    },
+    {
+      "p": 177481,
+      "order": 1020
+    },
+    {
+      "p": 177481,
+      "order": 1305
+    },
+    {
+      "p": 177481,
+      "order": 1530
+    },
+    {
+      "p": 177481,
+      "order": 1740
+    },
+    {
+      "p": 177481,
+      "order": 2465
+    },
+    {
+      "p": 177481,
+      "order": 2610
+    },
+    {
+      "p": 177481,
+      "order": 3060
+    },
+    {
+      "p": 177481,
+      "order": 4930
+    },
+    {
+      "p": 177481,
+      "order": 5220
+    },
+    {
+      "p": 177481,
+      "order": 7395
+    },
+    {
+      "p": 177481,
+      "order": 9860
+    },
+    {
+      "p": 177481,
+      "order": 14790
+    },
+    {
+      "p": 177481,
+      "order": 22185
+    },
+    {
+      "p": 177481,
+      "order": 29580
+    },
+    {
+      "p": 177481,
+      "order": 44370
+    },
+    {
+      "p": 177481,
+      "order": 88740
+    },
+    {
+      "p": 177487,
+      "order": 29581
+    },
+    {
+      "p": 177487,
+      "order": 88743
+    },
+    {
+      "p": 177493,
+      "order": 7
+    },
+    {
+      "p": 177493,
+      "order": 14
+    },
+    {
+      "p": 177493,
+      "order": 21
+    },
+    {
+      "p": 177493,
+      "order": 42
+    },
+    {
+      "p": 177493,
+      "order": 14791
+    },
+    {
+      "p": 177493,
+      "order": 29582
+    },
+    {
+      "p": 177493,
+      "order": 44373
+    },
+    {
+      "p": 177493,
+      "order": 88746
+    },
+    {
+      "p": 177511,
+      "order": 5
+    },
+    {
+      "p": 177511,
+      "order": 15
+    },
+    {
+      "p": 177511,
+      "order": 305
+    },
+    {
+      "p": 177511,
+      "order": 485
+    },
+    {
+      "p": 177511,
+      "order": 915
+    },
+    {
+      "p": 177511,
+      "order": 1455
+    },
+    {
+      "p": 177511,
+      "order": 29585
+    },
+    {
+      "p": 177511,
+      "order": 88755
+    },
+    {
+      "p": 177553,
+      "order": 27
+    },
+    {
+      "p": 177553,
+      "order": 54
+    },
+    {
+      "p": 177553,
+      "order": 81
+    },
+    {
+      "p": 177553,
+      "order": 108
+    },
+    {
+      "p": 177553,
+      "order": 162
+    },
+    {
+      "p": 177553,
+      "order": 216
+    },
+    {
+      "p": 177553,
+      "order": 324
+    },
+    {
+      "p": 177553,
+      "order": 648
+    },
+    {
+      "p": 177553,
+      "order": 3699
+    },
+    {
+      "p": 177553,
+      "order": 7398
+    },
+    {
+      "p": 177553,
+      "order": 11097
+    },
+    {
+      "p": 177553,
+      "order": 14796
+    },
+    {
+      "p": 177553,
+      "order": 22194
+    },
+    {
+      "p": 177553,
+      "order": 29592
+    },
+    {
+      "p": 177553,
+      "order": 44388
+    },
+    {
+      "p": 177553,
+      "order": 88776
+    },
+    {
+      "p": 177589,
+      "order": 4933
+    },
+    {
+      "p": 177589,
+      "order": 9866
+    },
+    {
+      "p": 177589,
+      "order": 14799
+    },
+    {
+      "p": 177589,
+      "order": 29598
+    },
+    {
+      "p": 177589,
+      "order": 44397
+    },
+    {
+      "p": 177589,
+      "order": 88794
+    },
+    {
+      "p": 177601,
+      "order": 25
+    },
+    {
+      "p": 177601,
+      "order": 50
+    },
+    {
+      "p": 177601,
+      "order": 75
+    },
+    {
+      "p": 177601,
+      "order": 100
+    },
+    {
+      "p": 177601,
+      "order": 150
+    },
+    {
+      "p": 177601,
+      "order": 200
+    },
+    {
+      "p": 177601,
+      "order": 300
+    },
+    {
+      "p": 177601,
+      "order": 400
+    },
+    {
+      "p": 177601,
+      "order": 600
+    },
+    {
+      "p": 177601,
+      "order": 800
+    },
+    {
+      "p": 177601,
+      "order": 925
+    },
+    {
+      "p": 177601,
+      "order": 1200
+    },
+    {
+      "p": 177601,
+      "order": 1850
+    },
+    {
+      "p": 177601,
+      "order": 2400
+    },
+    {
+      "p": 177601,
+      "order": 2775
+    },
+    {
+      "p": 177601,
+      "order": 3700
+    },
+    {
+      "p": 177601,
+      "order": 5550
+    },
+    {
+      "p": 177601,
+      "order": 7400
+    },
+    {
+      "p": 177601,
+      "order": 11100
+    },
+    {
+      "p": 177601,
+      "order": 14800
+    },
+    {
+      "p": 177601,
+      "order": 22200
+    },
+    {
+      "p": 177601,
+      "order": 29600
+    },
+    {
+      "p": 177601,
+      "order": 44400
+    },
+    {
+      "p": 177601,
+      "order": 88800
+    },
+    {
+      "p": 177929,
+      "order": 23
+    },
+    {
+      "p": 177929,
+      "order": 46
+    },
+    {
+      "p": 177929,
+      "order": 92
+    },
+    {
+      "p": 177929,
+      "order": 22241
+    },
+    {
+      "p": 177929,
+      "order": 44482
+    },
+    {
+      "p": 177929,
+      "order": 88964
+    },
+    {
+      "p": 265093,
+      "order": 22091
+    },
+    {
+      "p": 265093,
+      "order": 44182
+    },
+    {
+      "p": 265093,
+      "order": 66273
+    },
+    {
+      "p": 265093,
+      "order": 132546
+    },
+    {
+      "p": 265333,
+      "order": 22111
+    },
+    {
+      "p": 265333,
+      "order": 44222
+    },
+    {
+      "p": 265333,
+      "order": 66333
+    },
+    {
+      "p": 265333,
+      "order": 132666
+    },
+    {
+      "p": 265339,
+      "order": 14741
+    },
+    {
+      "p": 265339,
+      "order": 44223
+    },
+    {
+      "p": 265339,
+      "order": 132669
+    },
+    {
+      "p": 265381,
+      "order": 5
+    },
+    {
+      "p": 265381,
+      "order": 10
+    },
+    {
+      "p": 265381,
+      "order": 15
+    },
+    {
+      "p": 265381,
+      "order": 30
+    },
+    {
+      "p": 265381,
+      "order": 22115
+    },
+    {
+      "p": 265381,
+      "order": 44230
+    },
+    {
+      "p": 265381,
+      "order": 66345
+    },
+    {
+      "p": 265381,
+      "order": 132690
+    },
+    {
+      "p": 265399,
+      "order": 7
+    },
+    {
+      "p": 265399,
+      "order": 21
+    },
+    {
+      "p": 265399,
+      "order": 497
+    },
+    {
+      "p": 265399,
+      "order": 623
+    },
+    {
+      "p": 265399,
+      "order": 1491
+    },
+    {
+      "p": 265399,
+      "order": 1869
+    },
+    {
+      "p": 265399,
+      "order": 44233
+    },
+    {
+      "p": 265399,
+      "order": 132699
+    },
+    {
+      "p": 265417,
+      "order": 11059
+    },
+    {
+      "p": 265417,
+      "order": 22118
+    },
+    {
+      "p": 265417,
+      "order": 33177
+    },
+    {
+      "p": 265417,
+      "order": 44236
+    },
+    {
+      "p": 265417,
+      "order": 66354
+    },
+    {
+      "p": 265417,
+      "order": 132708
+    },
+    {
+      "p": 265423,
+      "order": 31
+    },
+    {
+      "p": 265423,
+      "order": 93
+    },
+    {
+      "p": 265423,
+      "order": 44237
+    },
+    {
+      "p": 265423,
+      "order": 132711
+    },
+    {
+      "p": 265921,
+      "order": 8
+    },
+    {
+      "p": 265921,
+      "order": 16
+    },
+    {
+      "p": 265921,
+      "order": 24
+    },
+    {
+      "p": 265921,
+      "order": 32
+    },
+    {
+      "p": 265921,
+      "order": 40
+    },
+    {
+      "p": 265921,
+      "order": 48
+    },
+    {
+      "p": 265921,
+      "order": 80
+    },
+    {
+      "p": 265921,
+      "order": 96
+    },
+    {
+      "p": 265921,
+      "order": 120
+    },
+    {
+      "p": 265921,
+      "order": 160
+    },
+    {
+      "p": 265921,
+      "order": 240
+    },
+    {
+      "p": 265921,
+      "order": 480
+    },
+    {
+      "p": 265921,
+      "order": 2216
+    },
+    {
+      "p": 265921,
+      "order": 4432
+    },
+    {
+      "p": 265921,
+      "order": 6648
+    },
+    {
+      "p": 265921,
+      "order": 8864
+    },
+    {
+      "p": 265921,
+      "order": 11080
+    },
+    {
+      "p": 265921,
+      "order": 13296
+    },
+    {
+      "p": 265921,
+      "order": 22160
+    },
+    {
+      "p": 265921,
+      "order": 26592
+    },
+    {
+      "p": 265921,
+      "order": 33240
+    },
+    {
+      "p": 265921,
+      "order": 44320
+    },
+    {
+      "p": 265921,
+      "order": 66480
+    },
+    {
+      "p": 265921,
+      "order": 132960
+    },
+    {
+      "p": 266221,
+      "order": 9
+    },
+    {
+      "p": 266221,
+      "order": 18
+    },
+    {
+      "p": 266221,
+      "order": 27
+    },
+    {
+      "p": 266221,
+      "order": 45
+    },
+    {
+      "p": 266221,
+      "order": 54
+    },
+    {
+      "p": 266221,
+      "order": 90
+    },
+    {
+      "p": 266221,
+      "order": 135
+    },
+    {
+      "p": 266221,
+      "order": 153
+    },
+    {
+      "p": 266221,
+      "order": 261
+    },
+    {
+      "p": 266221,
+      "order": 270
+    },
+    {
+      "p": 266221,
+      "order": 306
+    },
+    {
+      "p": 266221,
+      "order": 459
+    },
+    {
+      "p": 266221,
+      "order": 522
+    },
+    {
+      "p": 266221,
+      "order": 765
+    },
+    {
+      "p": 266221,
+      "order": 783
+    },
+    {
+      "p": 266221,
+      "order": 918
+    },
+    {
+      "p": 266221,
+      "order": 1305
+    },
+    {
+      "p": 266221,
+      "order": 1530
+    },
+    {
+      "p": 266221,
+      "order": 1566
+    },
+    {
+      "p": 266221,
+      "order": 2295
+    },
+    {
+      "p": 266221,
+      "order": 2610
+    },
+    {
+      "p": 266221,
+      "order": 3915
+    },
+    {
+      "p": 266221,
+      "order": 4437
+    },
+    {
+      "p": 266221,
+      "order": 4590
+    },
+    {
+      "p": 266221,
+      "order": 7830
+    },
+    {
+      "p": 266221,
+      "order": 8874
+    },
+    {
+      "p": 266221,
+      "order": 13311
+    },
+    {
+      "p": 266221,
+      "order": 22185
+    },
+    {
+      "p": 266221,
+      "order": 26622
+    },
+    {
+      "p": 266221,
+      "order": 44370
+    },
+    {
+      "p": 266221,
+      "order": 66555
+    },
+    {
+      "p": 266221,
+      "order": 133110
+    },
+    {
+      "p": 266239,
+      "order": 7
+    },
+    {
+      "p": 266239,
+      "order": 21
+    },
+    {
+      "p": 266239,
+      "order": 63
+    },
+    {
+      "p": 266239,
+      "order": 14791
+    },
+    {
+      "p": 266239,
+      "order": 44373
+    },
+    {
+      "p": 266239,
+      "order": 133119
+    },
+    {
+      "p": 266269,
+      "order": 22189
+    },
+    {
+      "p": 266269,
+      "order": 44378
+    },
+    {
+      "p": 266269,
+      "order": 66567
+    },
+    {
+      "p": 266269,
+      "order": 133134
+    },
+    {
+      "p": 530597,
+      "order": 11
+    },
+    {
+      "p": 530597,
+      "order": 22
+    },
+    {
+      "p": 530597,
+      "order": 341
+    },
+    {
+      "p": 530597,
+      "order": 682
+    },
+    {
+      "p": 530597,
+      "order": 4279
+    },
+    {
+      "p": 530597,
+      "order": 8558
+    },
+    {
+      "p": 530597,
+      "order": 132649
+    },
+    {
+      "p": 530597,
+      "order": 265298
+    },
+    {
+      "p": 530669,
+      "order": 132667
+    },
+    {
+      "p": 530669,
+      "order": 265334
+    },
+    {
+      "p": 530693,
+      "order": 181
+    },
+    {
+      "p": 530693,
+      "order": 362
+    },
+    {
+      "p": 530693,
+      "order": 132673
+    },
+    {
+      "p": 530693,
+      "order": 265346
+    },
+    {
+      "p": 530741,
+      "order": 5
+    },
+    {
+      "p": 530741,
+      "order": 10
+    },
+    {
+      "p": 530741,
+      "order": 35
+    },
+    {
+      "p": 530741,
+      "order": 70
+    },
+    {
+      "p": 530741,
+      "order": 85
+    },
+    {
+      "p": 530741,
+      "order": 170
+    },
+    {
+      "p": 530741,
+      "order": 595
+    },
+    {
+      "p": 530741,
+      "order": 1115
+    },
+    {
+      "p": 530741,
+      "order": 1190
+    },
+    {
+      "p": 530741,
+      "order": 2230
+    },
+    {
+      "p": 530741,
+      "order": 7805
+    },
+    {
+      "p": 530741,
+      "order": 15610
+    },
+    {
+      "p": 530741,
+      "order": 18955
+    },
+    {
+      "p": 530741,
+      "order": 37910
+    },
+    {
+      "p": 530741,
+      "order": 132685
+    },
+    {
+      "p": 530741,
+      "order": 265370
+    },
+    {
+      "p": 530753,
+      "order": 8
+    },
+    {
+      "p": 530753,
+      "order": 16
+    },
+    {
+      "p": 530753,
+      "order": 32
+    },
+    {
+      "p": 530753,
+      "order": 66344
+    },
+    {
+      "p": 530753,
+      "order": 132688
+    },
+    {
+      "p": 530753,
+      "order": 265376
+    },
+    {
+      "p": 530807,
+      "order": 265403
+    },
+    {
+      "p": 530837,
+      "order": 132709
+    },
+    {
+      "p": 530837,
+      "order": 265418
+    },
+    {
+      "p": 530861,
+      "order": 5
+    },
+    {
+      "p": 530861,
+      "order": 10
+    },
+    {
+      "p": 530861,
+      "order": 55
+    },
+    {
+      "p": 530861,
+      "order": 95
+    },
+    {
+      "p": 530861,
+      "order": 110
+    },
+    {
+      "p": 530861,
+      "order": 190
+    },
+    {
+      "p": 530861,
+      "order": 635
+    },
+    {
+      "p": 530861,
+      "order": 1045
+    },
+    {
+      "p": 530861,
+      "order": 1270
+    },
+    {
+      "p": 530861,
+      "order": 2090
+    },
+    {
+      "p": 530861,
+      "order": 6985
+    },
+    {
+      "p": 530861,
+      "order": 12065
+    },
+    {
+      "p": 530861,
+      "order": 13970
+    },
+    {
+      "p": 530861,
+      "order": 24130
+    },
+    {
+      "p": 530861,
+      "order": 132715
+    },
+    {
+      "p": 530861,
+      "order": 265430
+    },
+    {
+      "p": 531833,
+      "order": 7
+    },
+    {
+      "p": 531833,
+      "order": 14
+    },
+    {
+      "p": 531833,
+      "order": 28
+    },
+    {
+      "p": 531833,
+      "order": 66479
+    },
+    {
+      "p": 531833,
+      "order": 132958
+    },
+    {
+      "p": 531833,
+      "order": 265916
+    },
+    {
+      "p": 531911,
+      "order": 5
+    },
+    {
+      "p": 531911,
+      "order": 215
+    },
+    {
+      "p": 531911,
+      "order": 6185
+    },
+    {
+      "p": 531911,
+      "order": 265955
+    }
+  ],
+  "reused": [
+    {
+      "p": 176321,
+      "order": 32,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176321_n32.log"
+    },
+    {
+      "p": 176321,
+      "order": 160,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176321_n160.log"
+    },
+    {
+      "p": 176321,
+      "order": 608,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176321_n608.log"
+    },
+    {
+      "p": 176321,
+      "order": 928,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176321_n928.log"
+    },
+    {
+      "p": 176321,
+      "order": 3040,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176321_n3040.log"
+    },
+    {
+      "p": 176321,
+      "order": 4640,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176321_n4640.log"
+    },
+    {
+      "p": 176321,
+      "order": 17632,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176321_n17632.log"
+    },
+    {
+      "p": 176321,
+      "order": 88160,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176321_n88160.log"
+    },
+    {
+      "p": 176903,
+      "order": 43,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176903_n43.log"
+    },
+    {
+      "p": 176903,
+      "order": 473,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176903_n473.log"
+    },
+    {
+      "p": 176903,
+      "order": 731,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176903_n731.log"
+    },
+    {
+      "p": 176903,
+      "order": 5203,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176903_n5203.log"
+    },
+    {
+      "p": 176903,
+      "order": 8041,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176903_n8041.log"
+    },
+    {
+      "p": 176903,
+      "order": 88451,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176903_n88451.log"
+    },
+    {
+      "p": 176921,
+      "order": 20,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176921_n20.log"
+    },
+    {
+      "p": 176921,
+      "order": 88460,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176921_n88460.log"
+    },
+    {
+      "p": 176927,
+      "order": 88463,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176927_n88463.log"
+    },
+    {
+      "p": 176933,
+      "order": 89,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176933_n89.log"
+    },
+    {
+      "p": 176933,
+      "order": 178,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176933_n178.log"
+    },
+    {
+      "p": 176933,
+      "order": 623,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176933_n623.log"
+    },
+    {
+      "p": 176933,
+      "order": 1246,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176933_n1246.log"
+    },
+    {
+      "p": 176933,
+      "order": 6319,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176933_n6319.log"
+    },
+    {
+      "p": 176933,
+      "order": 12638,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176933_n12638.log"
+    },
+    {
+      "p": 176933,
+      "order": 44233,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176933_n44233.log"
+    },
+    {
+      "p": 176933,
+      "order": 88466,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p176933_n88466.log"
+    },
+    {
+      "p": 177323,
+      "order": 88661,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177323_n88661.log"
+    },
+    {
+      "p": 177347,
+      "order": 359,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177347_n359.log"
+    },
+    {
+      "p": 177347,
+      "order": 4667,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177347_n4667.log"
+    },
+    {
+      "p": 177347,
+      "order": 6821,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177347_n6821.log"
+    },
+    {
+      "p": 177347,
+      "order": 88673,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177347_n88673.log"
+    },
+    {
+      "p": 177383,
+      "order": 2861,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177383_n2861.log"
+    },
+    {
+      "p": 177383,
+      "order": 88691,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177383_n88691.log"
+    },
+    {
+      "p": 177467,
+      "order": 997,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177467_n997.log"
+    },
+    {
+      "p": 177467,
+      "order": 88733,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177467_n88733.log"
+    },
+    {
+      "p": 177473,
+      "order": 32,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177473_n32.log"
+    },
+    {
+      "p": 177473,
+      "order": 1504,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177473_n1504.log"
+    },
+    {
+      "p": 177473,
+      "order": 1888,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177473_n1888.log"
+    },
+    {
+      "p": 177473,
+      "order": 88736,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177473_n88736.log"
+    },
+    {
+      "p": 177533,
+      "order": 44383,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177533_n44383.log"
+    },
+    {
+      "p": 177533,
+      "order": 88766,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177533_n88766.log"
+    },
+    {
+      "p": 177539,
+      "order": 3061,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177539_n3061.log"
+    },
+    {
+      "p": 177539,
+      "order": 88769,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177539_n88769.log"
+    },
+    {
+      "p": 177623,
+      "order": 88811,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177623_n88811.log"
+    },
+    {
+      "p": 177647,
+      "order": 12689,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177647_n12689.log"
+    },
+    {
+      "p": 177647,
+      "order": 88823,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177647_n88823.log"
+    },
+    {
+      "p": 177677,
+      "order": 1033,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177677_n1033.log"
+    },
+    {
+      "p": 177677,
+      "order": 2066,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177677_n2066.log"
+    },
+    {
+      "p": 177677,
+      "order": 44419,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177677_n44419.log"
+    },
+    {
+      "p": 177677,
+      "order": 88838,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177677_n88838.log"
+    },
+    {
+      "p": 177743,
+      "order": 491,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177743_n491.log"
+    },
+    {
+      "p": 177743,
+      "order": 88871,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177743_n88871.log"
+    },
+    {
+      "p": 177797,
+      "order": 44449,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177797_n44449.log"
+    },
+    {
+      "p": 177797,
+      "order": 88898,
+      "source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/large_orders/p177797_n88898.log"
+    }
+  ]
+}

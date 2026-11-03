@@ -1,0 +1,212 @@
+{
+  "status": "PASS",
+  "degree": 13,
+  "results": [
+    {
+      "N": 41,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 27896884,
+      "independent_expected": 27896884,
+      "relations": 77,
+      "selected_stem": "FI41",
+      "rank_independently_verified": 50,
+      "cusp_index": 20
+    },
+    {
+      "N": 43,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 44549725,
+      "independent_expected": 44549725,
+      "relations": 81,
+      "selected_stem": "FI43_combined",
+      "rank_independently_verified": 52,
+      "cusp_index": 21
+    },
+    {
+      "N": 47,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 107824071,
+      "independent_expected": 107824071,
+      "relations": 75,
+      "selected_stem": "FI47",
+      "rank_independently_verified": 70,
+      "cusp_index": 23
+    },
+    {
+      "N": 53,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 555531,
+      "independent_expected": 555531,
+      "relations": 46,
+      "selected_stem": "FI53",
+      "rank_independently_verified": 39,
+      "cusp_index": 13
+    },
+    {
+      "N": 59,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 1090514059,
+      "independent_expected": 1090514059,
+      "relations": 64,
+      "selected_stem": "FI59",
+      "rank_independently_verified": 117,
+      "cusp_index": 29
+    },
+    {
+      "N": 61,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 1945002,
+      "independent_expected": 1945002,
+      "relations": 42,
+      "selected_stem": "FI61",
+      "rank_independently_verified": 55,
+      "cusp_index": 15
+    },
+    {
+      "N": 67,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 137821,
+      "independent_expected": 137821,
+      "relations": 31,
+      "selected_stem": "FI67",
+      "rank_independently_verified": 42,
+      "cusp_index": 11
+    },
+    {
+      "N": 71,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 11,
+      "tested_relations": 2047,
+      "failures": [],
+      "covered_degree13_tuples": 541,
+      "selected_stem": "FI71",
+      "rank_independently_verified": 26,
+      "cusp_index": 5
+    },
+    {
+      "N": 73,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 282163,
+      "independent_expected": 282163,
+      "relations": 29,
+      "selected_stem": "FI73",
+      "rank_independently_verified": 50,
+      "cusp_index": 12
+    },
+    {
+      "N": 79,
+      "status": "PASS",
+      "method": "complete binary relation enumeration in C++",
+      "relations": 25,
+      "tested_relations": 33554431,
+      "selected_stem": "FI79_i39",
+      "rank_independently_verified": 216,
+      "cusp_index": 39
+    },
+    {
+      "N": 83,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 7,
+      "tested_relations": 127,
+      "failures": [],
+      "covered_degree13_tuples": 41143423250,
+      "selected_stem": "FI83",
+      "rank_independently_verified": 246,
+      "cusp_index": 41
+    },
+    {
+      "N": 89,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 9,
+      "tested_relations": 511,
+      "failures": [],
+      "covered_degree13_tuples": 137821,
+      "selected_stem": "FI89",
+      "rank_independently_verified": 64,
+      "cusp_index": 11
+    },
+    {
+      "N": 97,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 10,
+      "tested_relations": 1023,
+      "failures": [],
+      "covered_degree13_tuples": 154,
+      "selected_stem": "FI97",
+      "rank_independently_verified": 21,
+      "cusp_index": 4
+    },
+    {
+      "N": 101,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 3,
+      "tested_relations": 7,
+      "failures": [],
+      "covered_degree13_tuples": 541,
+      "selected_stem": "FI101",
+      "rank_independently_verified": 34,
+      "cusp_index": 5
+    },
+    {
+      "N": 103,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 6,
+      "tested_relations": 63,
+      "failures": [],
+      "covered_degree13_tuples": 6062899,
+      "selected_stem": "FI103",
+      "rank_independently_verified": 103,
+      "cusp_index": 17
+    },
+    {
+      "N": 107,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 6,
+      "tested_relations": 63,
+      "failures": [],
+      "covered_degree13_tuples": 709992804717,
+      "selected_stem": "FI107",
+      "rank_independently_verified": 319,
+      "cusp_index": 53
+    },
+    {
+      "N": 109,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 7,
+      "tested_relations": 127,
+      "failures": [],
+      "covered_degree13_tuples": 878345557889,
+      "selected_stem": "FI109",
+      "rank_independently_verified": 324,
+      "cusp_index": 54
+    },
+    {
+      "N": 113,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 9,
+      "tested_relations": 511,
+      "failures": [],
+      "covered_degree13_tuples": 1331471553748,
+      "selected_stem": "FI113",
+      "rank_independently_verified": 334,
+      "cusp_index": 56
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+S22_ANTI89_TRIAL order=4 q=3 odd=false elapsed=0.040
+S22_ANTI89_TRIAL order=4 q=5 odd=false elapsed=0.040
+S22_ANTI89_TRIAL order=4 q=7 odd=false elapsed=0.040
+S22_ANTI89_TRIAL order=4 q=11 odd=false elapsed=0.040
+S22_ANTI89_TRIAL order=4 q=13 odd=false elapsed=0.040
+
+In file "work/degree22/anti89_h2.m", line 13, column 2:
+>>  assert found;
+    ^
+Runtime error in assert: Assertion failed

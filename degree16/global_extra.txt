@@ -1,0 +1,13 @@
+The prime127 is excluded using a published stronger spectral bound.
+Booker--Lee--Strombergsson, Twist-minimal trace formulas and the Selberg
+eigenvalue conjecture, Theorem1.1, proves lambda_1(Gamma_1(N))>=1/4 for
+N<=880 (https://doi.org/10.1112/jlms.12349; arXiv:1803.06016v2).
+The Li--Yau/Abramovich inequality gives gon(X_1(127)) >=
+[PSL_2(Z):Gamma_1(127)]/96=(127^2-1)/192=84.
+The prime127 is non-strange. Apply Derickx--Stoll Proposition4.1 with
+ell=2,a=2,n=5,d=16; 5d=80<84. Its rational2-torsion hypothesis is
+provided by Remark4.4. The diamond2 has order7 modulo sign, and acts
+freely on characteristic-zero noncuspidal points. Thus an irreducible
+noncuspidal degree16 divisor would be a union of length7 orbits, which
+is impossible. This exclusion does not require new local certificates
+or an assumed version of Selberg's conjecture.

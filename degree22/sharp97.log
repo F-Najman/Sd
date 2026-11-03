@@ -1,0 +1,13 @@
+Loading "work/degree22/full97/units_data.m"
+Loading "work/degree22/sources97.m"
+Loading "work/degree22/sharp_cotangent.m"
+Loading "work/degree22/strange_eigenvalues_data.m"
+S22_SHARP_OPERATOR p=97 n=2 q=3 rank=234
+S22_SHARP_OPERATOR p=97 n=2 q=5 rank=230
+S22_SHARP_OPERATOR p=97 n=3 q=3 rank=232
+S22_SHARP_OPERATOR p=97 n=3 q=5 rank=228
+S22_SHARP_OPERATOR p=97 n=5 q=3 rank=232
+S22_SHARP_OPERATOR p=97 n=5 q=5 rank=228
+S22_SHARP_SS_RANK p=97 translate=0 rank=16
+S22_SHARP_SS_RANK p=97 translate=1 rank=16
+S22_SHARP_COTANGENT_EXPORT_COMPLETE 97 1.270

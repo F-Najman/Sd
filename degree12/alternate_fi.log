@@ -1,0 +1,2 @@
+{'N': 73, 'status': 'FAIL', 'method': 'complete cusp-prefix enumeration', 'checked': 0, 'independent_expected': 156334, 'relations': 46}
+{'N': 89, 'status': 'PASS', 'method': 'complete binary relation enumeration', 'relations': 8, 'tested_relations': 255, 'failures': [], 'covered_degree12_tuples': 79461}

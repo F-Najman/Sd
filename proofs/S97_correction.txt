@@ -1,0 +1,40 @@
+CORRECTION TO THE LEVEL97 CERTIFICATES IN THE S(15) AND S(16) PROOFS
+29 October 2026
+
+The earlier code used
+             alpha=sigma^6-sigma^4-sigma^2+1,
+where sigma is the primitive diamond at97. This polynomial equals
+(sigma^2-1)*(sigma^4-1) and does not vanish at a primitive12th root.
+It therefore did not supply the finite-rational-image statement asserted
+in the proof. The narrative factorization involving Phi_12 did not
+match those code coefficients.
+
+The corrected computation uses alpha=sigma^12-1 and, on the three
+closed orbits of size24 in degrees10/14, (sigma-1)*Phi12(sigma). Both
+annihilate the
+trivial character and every strange character at97, since the only
+strange character order is12 (Derickx--Stoll, Table2). Consequently
+each operator has finite image on J_1(97)(Q), and composing with the good-prime
+torsion annihilator at3 kills J_1(97)(Q).
+
+All359 ordinary residue orbits through degree17 have been recomputed
+with these valid operators. Every resulting principal-divisor
+obstruction has full rank, independently checked in Sage. Restricting
+to degree<=15 gives89 matrices; restricting to degree<=16 gives176.
+Their modular-form basis and source metadata agree exactly with the
+earlier models. The earlier stored level97 matrices, code and proof
+PDFs have been replaced accordingly, and both complete coverage checks
+pass again with no unresolved primes.
+
+The results S(15)=Primes(43) and S(16)=Primes(37) are unchanged. The
+computations through S(14) used a valid level97 polynomial and are not
+affected by this error. The separate supersingular level97 arguments
+in degree16 are also unaffected.
+
+Authoritative files:
+ work/degree17/full97/sieve.json
+ work/degree17/full97/matrices.json.gz
+ work/degree17/independent_rank_checks.json
+ work/degree17/level97_correction_verified.json
+ work/degree15/verify_coverage_after97_correction.log
+ work/degree16/verify_coverage_after97_correction.log

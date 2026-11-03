@@ -1,0 +1,64 @@
+[
+  {
+    "N": 103,
+    "status": "PASS",
+    "degree": 18,
+    "family_dimension": 1,
+    "relative_rank": 17,
+    "fixed_cusp_degree": 1,
+    "cusp_fiber_degree": 17,
+    "patterns_checked": 17,
+    "ranks": {
+      "17": 17
+    },
+    "sole_small_relation": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "kernel_dimension": 6
+  },
+  {
+    "N": 131,
+    "status": "PASS",
+    "degree": 18,
+    "family_dimension": 1,
+    "relative_rank": 17,
+    "fixed_cusp_degree": 5,
+    "cusp_fiber_degree": 13,
+    "patterns_checked": 6188,
+    "ranks": {
+      "17": 6188
+    },
+    "sole_small_relation": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "kernel_dimension": 6
+  }
+]

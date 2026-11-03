@@ -1,0 +1,5 @@
+S21_FINAL_STAGE_PASS verify_coverage.py
+S21_FINAL_STAGE_PASS package_result.py
+S21_FINAL_STAGE_PASS build_manifest.py
+S21_FINAL_STAGE_PASS verify_manifest.py
+S21_ALL_PROOF_OUTPUTS_AND_MANIFEST_VERIFIED

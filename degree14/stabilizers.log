@@ -1,0 +1,6 @@
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree14/sources53.m"
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree14/sources113.m"
+S14_STABILIZER N=53 degree=13 orbit=1 diamond=4 order=13 verified=true
+S14_STABILIZER N=113 degree=7 orbit=4 diamond=2 order=14 verified=true
+S14_STABILIZER N=113 degree=8 orbit=7 diamond=40 order=8 verified=true
+S14_NEW_STABILIZERS_COMPLETE

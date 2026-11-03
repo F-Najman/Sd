@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "degree": 22,
+  "base_rank": 14,
+  "base_degree": 16,
+  "cusp_degree": 6,
+  "cusp_blocks": 63,
+  "jet_precision": 6
+}

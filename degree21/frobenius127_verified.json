@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "degree": 21,
+  "genus": 610,
+  "point_counts": [
+    63,
+    63,
+    63,
+    63,
+    63,
+    63,
+    126,
+    1071,
+    1260,
+    1323,
+    2835,
+    3087,
+    3339,
+    16674,
+    35028,
+    53487,
+    95382,
+    238644,
+    441756,
+    1095003,
+    2187486
+  ],
+  "ordinary_full_torsion_correction_confirmed": true,
+  "independent_Sage_modular_symbols": true,
+  "results": [
+    {
+      "order": 1,
+      "dimension": 10,
+      "field_degree": 1,
+      "all21_traces_independently_recomputed": true
+    },
+    {
+      "order": 3,
+      "dimension": 9,
+      "field_degree": 2,
+      "all21_traces_independently_recomputed": true
+    },
+    {
+      "order": 7,
+      "dimension": 9,
+      "field_degree": 6,
+      "all21_traces_independently_recomputed": true
+    },
+    {
+      "order": 9,
+      "dimension": 10,
+      "field_degree": 6,
+      "all21_traces_independently_recomputed": true
+    },
+    {
+      "order": 21,
+      "dimension": 9,
+      "field_degree": 12,
+      "all21_traces_independently_recomputed": true
+    },
+    {
+      "order": 63,
+      "dimension": 10,
+      "field_degree": 36,
+      "all21_traces_independently_recomputed": true
+    }
+  ]
+}

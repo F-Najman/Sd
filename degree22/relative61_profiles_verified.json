@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "parameters": [
+    7,
+    15,
+    12,
+    6,
+    3
+  ],
+  "profiles": [
+    {
+      "status": "PASS",
+      "columns": 94,
+      "rank": 76,
+      "known_fiber_relations": 18,
+      "quotient_kernel_dimension": 0,
+      "quotient_basis": [],
+      "min_unexpected_cost": null,
+      "classes_checked": 0,
+      "case": "relative61",
+      "translate": 0,
+      "profile": 0,
+      "caps": [
+        7,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "base_degree": 15,
+      "base_rank": 12,
+      "columns_sha256": "d08f71e079e194112c2db084d8132c80412e295c8dedc9463495638b8235b61a"
+    }
+  ]
+}

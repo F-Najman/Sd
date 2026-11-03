@@ -1,0 +1,7 @@
+S16_INTEGRAL_CHECK true
+S16_XZERO193_CUSP_FI 0 0
+
+In file "work/degree16/fi193.m", line 8, column 47:
+>>  print "S16_XZERO193_CUSP_FI",mode,Rank(rows);assert Rank(rows)eq 2;
+                                                 ^
+Runtime error in assert: Assertion failed

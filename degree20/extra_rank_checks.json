@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "matrices": 21,
+  "results": [
+    {
+      "N": 73,
+      "kind": "mixed_pair_",
+      "status": "PASS",
+      "matrices": 19,
+      "rank": 187
+    },
+    {
+      "N": 109,
+      "kind": "mixed_",
+      "status": "PASS",
+      "matrices": 2,
+      "rank": 442
+    }
+  ]
+}

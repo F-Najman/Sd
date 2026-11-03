@@ -1,0 +1,13 @@
+S19_CHARACTER_TWO163 order=3 coefficient_degree=2 dimension=24 q=3 kernel_dimension=4 A2prime_rank=2 A2_rank=2 elapsed=0.040
+S19_CHARACTER_TWO163 order=3 coefficient_degree=2 dimension=24 q=5 kernel_dimension=4 A2prime_rank=2 A2_rank=2 elapsed=0.050
+S19_CHARACTER_TWO163 order=3 coefficient_degree=2 dimension=24 q=7 kernel_dimension=4 A2prime_rank=2 A2_rank=2 elapsed=0.050
+S19_CHARACTER_TWO163 order=9 coefficient_degree=6 dimension=24 q=3 kernel_dimension=0 A2prime_rank=0 A2_rank=0 elapsed=0.060
+S19_CHARACTER_TWO163 order=9 coefficient_degree=6 dimension=24 q=5 kernel_dimension=0 A2prime_rank=0 A2_rank=0 elapsed=0.060
+S19_CHARACTER_TWO163 order=9 coefficient_degree=6 dimension=24 q=7 kernel_dimension=0 A2prime_rank=0 A2_rank=0 elapsed=0.060
+S19_CHARACTER_TWO163 order=27 coefficient_degree=18 dimension=24 q=3 kernel_dimension=0 A2prime_rank=0 A2_rank=0 elapsed=0.080
+S19_CHARACTER_TWO163 order=27 coefficient_degree=18 dimension=24 q=5 kernel_dimension=0 A2prime_rank=0 A2_rank=0 elapsed=0.080
+S19_CHARACTER_TWO163 order=27 coefficient_degree=18 dimension=24 q=7 kernel_dimension=0 A2prime_rank=0 A2_rank=0 elapsed=0.090
+S19_CHARACTER_TWO163 order=81 coefficient_degree=54 dimension=26 q=3 kernel_dimension=0 A2prime_rank=0 A2_rank=0 elapsed=0.110
+S19_CHARACTER_TWO163 order=81 coefficient_degree=54 dimension=26 q=5 kernel_dimension=0 A2prime_rank=0 A2_rank=0 elapsed=0.120
+S19_CHARACTER_TWO163 order=81 coefficient_degree=54 dimension=26 q=7 kernel_dimension=0 A2prime_rank=0 A2_rank=0 elapsed=0.130
+S19_CHARACTER_TWO163_TEST_COMPLETE

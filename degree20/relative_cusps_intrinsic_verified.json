@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "p": 103,
+      "status": "PASS",
+      "intrinsic_quotient_genus": 120,
+      "relative_rank": 19,
+      "cusp_patterns": 969,
+      "operator": "(diamond(root)-1)(T3-diamond3-3)"
+    },
+    {
+      "p": 131,
+      "status": "PASS",
+      "intrinsic_quotient_genus": 131,
+      "relative_rank": 19,
+      "cusp_patterns": 50388,
+      "operator": "(diamond(root)-1)(T3-diamond3-3)"
+    }
+  ]
+}

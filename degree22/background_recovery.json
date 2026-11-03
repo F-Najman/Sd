@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "detached_controllers": [
+    {
+      "script": "resource_watch.py",
+      "pid": 3154710,
+      "log": "resource_watch.log"
+    },
+    {
+      "script": "run_ordinary163.py",
+      "pid": 3154711,
+      "log": "run_ordinary163.log"
+    },
+    {
+      "script": "run_full163_sieve.py",
+      "pid": 3154712,
+      "log": "run_full163_sieve.log"
+    },
+    {
+      "script": "archive_native_chunks.py",
+      "pid": 3154715,
+      "log": "archive_native_chunks.log"
+    },
+    {
+      "script": "check_sequences.py",
+      "pid": 3154716,
+      "log": "check_sequences_resumed.log"
+    },
+    {
+      "script": "verify_ranks_resume.py",
+      "pid": 3154758,
+      "log": "verify_ranks_resumed.log"
+    },
+    {
+      "script": "finalize_when_ready.py",
+      "pid": 3154787,
+      "log": "finalize_when_ready.log"
+    }
+  ],
+  "already_live_driver": 2433838,
+  "already_live_large_verifier": 2433839,
+  "CPU_limit_logical": 24,
+  "processes_limited": 34,
+  "completed_rank_archive_hashes_rechecked_before_reuse": true
+}

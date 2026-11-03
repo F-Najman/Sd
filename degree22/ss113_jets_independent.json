@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "case": "ss_pair113",
+      "sources": [
+        1
+      ],
+      "records": 2,
+      "hecke_targets": 1,
+      "all_jet_coefficients_verified": true,
+      "independent_isogenies_verified": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "status": "RESUMED_EXACT_HASH_BOUND_VERIFIED_ARCHIVES",
+  "old_pid": 3844968,
+  "completed": 44,
+  "old_source_sha256": "0878a102e4d8dc23a8c7ba0fb8752c27e9f08b4aa4b61f2a87ce7f6566cf5b50",
+  "fix": "Mixed batches use mixed_new_sieve.log; matrix inputs and Sage rank algorithm unchanged."
+}

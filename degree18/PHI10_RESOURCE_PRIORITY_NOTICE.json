@@ -1,0 +1,11 @@
+{
+  "request": "User prioritized Phi(10); keep two host cores idle.",
+  "degree18_limits": {
+    "large_order_batch.py": 6,
+    "run_new_ordinary.py": 4,
+    "run_ordinary131.py": 2
+  },
+  "special_limit": 2,
+  "audit_report": "/home/fnajman/Documents/Codex/2026-10-21/on-this-computer-there-are-files/work/deg10/continuation_20261029b/resource_handoff/handoff.json",
+  "note": "Old workers completed; completed logs are reused. Do not restore previous oversubscribed concurrency while Phi(10) work is active."
+}

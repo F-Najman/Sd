@@ -1,0 +1,82 @@
+{
+  "status": "ADOPTED",
+  "workers": [
+    {
+      "pid": 1717970,
+      "stage": "cpp",
+      "p": 262007,
+      "order": 131003,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/large_orders/p262007_n131003_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/large_orders/p262007_n131003_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1718450,
+      "stage": "cpp",
+      "p": 262027,
+      "order": 9,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/large_orders/p262027_n9_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/large_orders/p262027_n9_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1718497,
+      "stage": "export",
+      "p": 262049,
+      "order": 16,
+      "args": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "P:=262049",
+        "OrderToTest:=16",
+        "SparseOut:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/large_orders/p262049_n16_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/export_large_sparse.m"
+      ]
+    },
+    {
+      "pid": 1718619,
+      "stage": "cpp",
+      "p": 262027,
+      "order": 131013,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/large_orders/p262027_n131013_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/large_orders/p262027_n131013_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1718622,
+      "stage": "export",
+      "p": 262049,
+      "order": 304,
+      "args": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "P:=262049",
+        "OrderToTest:=304",
+        "SparseOut:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/large_orders/p262049_n304_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/export_large_sparse.m"
+      ]
+    },
+    {
+      "pid": 1718905,
+      "stage": "bm",
+      "p": 262007,
+      "order": 487,
+      "args": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "Raw:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/large_orders/p262007_n487_cpp_raw.m",
+        "Final:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/large_orders/p262007_n487_sequence.m",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/finish_cpp.m"
+      ]
+    }
+  ],
+  "worker_limit": 8,
+  "export_limit": 2,
+  "cpp_limit": 8
+}

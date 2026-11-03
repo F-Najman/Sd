@@ -1,0 +1,163 @@
+{
+  "status": "AUDITED COMPUTER-ASSISTED PROOF COMPLETE",
+  "degree": 11,
+  "S11": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31
+  ],
+  "effective_prime_bound": 103,
+  "unresolved_primes": [],
+  "fresh_ordinary_orbits": 206,
+  "fresh_supersingular_orbits": 4,
+  "fresh_ordinary_obstruction_matrices": 202,
+  "independent_decic_cusp_ranks": 18,
+  "rational_cusp_configurations": 2717157222,
+  "fresh_large_character_tests": 73,
+  "gonality43_proved_lower_bound": 16,
+  "cases": [
+    {
+      "prime": 37,
+      "canonical_genus": 40,
+      "ordinary_orbits": 25,
+      "fresh_Hecke_exclusions": 21,
+      "remaining_ordinary_branches": "stabilizers and decic-plus-cusp formal immersion",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 41,
+      "canonical_genus": 51,
+      "ordinary_orbits": 23,
+      "fresh_Hecke_exclusions": 23,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 43,
+      "canonical_genus": 57,
+      "ordinary_orbits": 17,
+      "fresh_Hecke_exclusions": 17,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 47,
+      "canonical_genus": 70,
+      "ordinary_orbits": 15,
+      "fresh_Hecke_exclusions": 15,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 53,
+      "canonical_genus": 92,
+      "ordinary_orbits": 13,
+      "fresh_Hecke_exclusions": 13,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 59,
+      "canonical_genus": 117,
+      "ordinary_orbits": 15,
+      "fresh_Hecke_exclusions": 15,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 61,
+      "canonical_genus": 126,
+      "ordinary_orbits": 11,
+      "fresh_Hecke_exclusions": 11,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 67,
+      "canonical_genus": 155,
+      "ordinary_orbits": 16,
+      "fresh_Hecke_exclusions": 16,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 71,
+      "canonical_genus": 176,
+      "ordinary_orbits": 15,
+      "fresh_Hecke_exclusions": 15,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 73,
+      "canonical_genus": 187,
+      "ordinary_orbits": 7,
+      "fresh_Hecke_exclusions": 7,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 79,
+      "canonical_genus": 222,
+      "ordinary_orbits": 5,
+      "fresh_Hecke_exclusions": 5,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 83,
+      "canonical_genus": 247,
+      "ordinary_orbits": 14,
+      "fresh_Hecke_exclusions": 14,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 89,
+      "canonical_genus": 287,
+      "ordinary_orbits": 7,
+      "fresh_Hecke_exclusions": 7,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 97,
+      "canonical_genus": 345,
+      "ordinary_orbits": 5,
+      "fresh_Hecke_exclusions": 5,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 101,
+      "canonical_genus": 376,
+      "ordinary_orbits": 8,
+      "fresh_Hecke_exclusions": 8,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    },
+    {
+      "prime": 103,
+      "canonical_genus": 392,
+      "ordinary_orbits": 10,
+      "fresh_Hecke_exclusions": 10,
+      "remaining_ordinary_branches": "none",
+      "all_branches_closed": true
+    }
+  ],
+  "prior_degree9_and_degree10_exclusion_results_required": false,
+  "software": [
+    "Magma V2.30-1",
+    "Sage Python",
+    "mdmagma (bundled)"
+  ],
+  "mathematical_proof": "outputs/S11_proof_audited.txt"
+}

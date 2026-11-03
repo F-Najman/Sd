@@ -1,0 +1,31 @@
+{
+  "status": "PROVED_WITH_COMPUTER_ASSISTANCE",
+  "degree": 18,
+  "S": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31,
+    37,
+    41,
+    43
+  ],
+  "proof": "S18_proof.pdf",
+  "manifest": "../work/degree18/proof_manifest.json",
+  "manifest_files": 3782,
+  "manifest_sha256": "141f778b34ec5a2032fa29cd7cdaee7860975c508d367a8322ba483623815a14",
+  "replay": "../work/degree18/REPLAY.txt",
+  "coverage": "../work/degree18/final_coverage.json",
+  "support_coverage": "../work/degree18/support_coverage.json",
+  "new_independent_matrices": 11854,
+  "inherited_independent_matrices": 9413,
+  "selected_character_orders": 615,
+  "unresolved_primes": []
+}

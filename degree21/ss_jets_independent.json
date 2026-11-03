@@ -1,0 +1,67 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "case": "ss73",
+      "sources": [
+        1
+      ],
+      "records": 3,
+      "hecke_targets": 2,
+      "all_jet_coefficients_verified": true,
+      "independent_isogenies_verified": true
+    },
+    {
+      "case": "ss109",
+      "sources": [
+        4
+      ],
+      "records": 3,
+      "hecke_targets": 2,
+      "all_jet_coefficients_verified": true,
+      "independent_isogenies_verified": true
+    },
+    {
+      "case": "ss113",
+      "sources": [
+        1
+      ],
+      "records": 2,
+      "hecke_targets": 1,
+      "all_jet_coefficients_verified": true,
+      "independent_isogenies_verified": true
+    },
+    {
+      "case": "ss127",
+      "sources": [
+        20,
+        21
+      ],
+      "records": 10,
+      "hecke_targets": 8,
+      "all_jet_coefficients_verified": true,
+      "independent_isogenies_verified": true
+    },
+    {
+      "case": "ss5_127",
+      "sources": [
+        22,
+        25
+      ],
+      "records": 14,
+      "hecke_targets": 12,
+      "all_jet_coefficients_verified": true,
+      "independent_isogenies_verified": true
+    },
+    {
+      "case": "ss7_127",
+      "sources": [
+        24
+      ],
+      "records": 9,
+      "hecke_targets": 8,
+      "all_jet_coefficients_verified": true,
+      "independent_isogenies_verified": true
+    }
+  ]
+}

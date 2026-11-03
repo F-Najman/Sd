@@ -1,0 +1,65 @@
+{
+  "status": "PASS",
+  "parent": "../degree19/finite_FI_polynomials.m",
+  "active_polynomials": [
+    {
+      "p": 67,
+      "hecke_index": 2,
+      "identical_integral_polynomial": true
+    },
+    {
+      "p": 67,
+      "hecke_index": 3,
+      "identical_integral_polynomial": true
+    },
+    {
+      "p": 67,
+      "hecke_index": 5,
+      "identical_integral_polynomial": true
+    },
+    {
+      "p": 73,
+      "hecke_index": 2,
+      "identical_integral_polynomial": true
+    },
+    {
+      "p": 73,
+      "hecke_index": 3,
+      "identical_integral_polynomial": true
+    },
+    {
+      "p": 73,
+      "hecke_index": 5,
+      "identical_integral_polynomial": true
+    },
+    {
+      "p": 79,
+      "hecke_index": 2,
+      "identical_integral_polynomial": true
+    },
+    {
+      "p": 83,
+      "hecke_index": 2,
+      "identical_integral_polynomial": true
+    },
+    {
+      "p": 89,
+      "hecke_index": 2,
+      "identical_integral_polynomial": true
+    },
+    {
+      "p": 97,
+      "hecke_index": 5,
+      "identical_integral_polynomial": true
+    },
+    {
+      "p": 103,
+      "hecke_index": 2,
+      "identical_integral_polynomial": true
+    }
+  ],
+  "unused_raw_cases": [
+    53,
+    101
+  ]
+}

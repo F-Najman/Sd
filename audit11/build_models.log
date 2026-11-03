@@ -1,0 +1,13 @@
+AUDIT_MODEL {'N': 47, 'status': 'PASS', 'exit': 0, 'elapsed': 1.071875736117363}
+AUDIT_MODEL {'N': 41, 'status': 'FAIL', 'exit': 1, 'elapsed': 1.3236624989658594}
+AUDIT_MODEL {'N': 37, 'status': 'PASS', 'exit': 0, 'elapsed': 1.3348271208815277}
+AUDIT_MODEL {'N': 43, 'status': 'PASS', 'exit': 0, 'elapsed': 1.3484671011101454}
+AUDIT_MODEL {'N': 53, 'status': 'PASS', 'exit': 0, 'elapsed': 1.6496884990483522}
+AUDIT_MODEL {'N': 59, 'status': 'PASS', 'exit': 0, 'elapsed': 1.8988917330279946}
+AUDIT_MODEL {'N': 61, 'status': 'PASS', 'exit': 0, 'elapsed': 3.149635826004669}
+AUDIT_MODEL {'N': 67, 'status': 'PASS', 'exit': 0, 'elapsed': 3.4557331311516464}
+AUDIT_MODEL {'N': 71, 'status': 'PASS', 'exit': 0, 'elapsed': 3.9543121450114995}
+AUDIT_MODEL {'N': 73, 'status': 'PASS', 'exit': 0, 'elapsed': 4.995279332855716}
+AUDIT_MODEL {'N': 79, 'status': 'PASS', 'exit': 0, 'elapsed': 6.0594340530224144}
+AUDIT_MODEL {'N': 83, 'status': 'PASS', 'exit': 0, 'elapsed': 7.5444898849818856}
+AUDIT_MODEL {'N': 89, 'status': 'PASS', 'exit': 0, 'elapsed': 12.698570378124714}

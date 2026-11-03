@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "packet_sha256": "8d301753a4a3d152aef47a6e3a7c55c55c8b4f2323c1688db78b9511e36c46c6",
+  "extracted_root": "/tmp/S13_packet_check_u197r9ft",
+  "original_manifest_files_verified": 683,
+  "numerical_files_unchanged": 78,
+  "logs": [
+    {
+      "args": [
+        "python",
+        "relocate.py"
+      ],
+      "exit": 0,
+      "stdout": "Relocated 47 text files; numerical arrays unchanged.\n",
+      "stderr": ""
+    },
+    {
+      "args": [
+        "g++",
+        "-O3",
+        "-std=c++17",
+        "work/degree13/relation_check.cpp",
+        "-o",
+        "work/degree13/relation_check"
+      ],
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "args": [
+        "python",
+        "work/degree13/verify_dyadic.py"
+      ],
+      "exit": 0,
+      "stdout": "S13_DYADIC_BOUND_VERIFIED 8374 matrices 156 rank 26 published_excluded 1018 remaining [41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113]\n",
+      "stderr": ""
+    },
+    {
+      "args": [
+        "python",
+        "work/degree13/verify_auxiliary.py"
+      ],
+      "exit": 0,
+      "stdout": "S13_SAGE_MIXED_MATRICES_VERIFIED 21 tangents; 3 nonprincipality\nS13_SAGE_FI_RANKS_VERIFIED 18\nS13_SAGE_TWO53_KERNEL_ZERO_VERIFIED 184\n",
+      "stderr": ""
+    },
+    {
+      "args": [
+        "python",
+        "work/degree13/verify_coverage.py"
+      ],
+      "exit": 0,
+      "stdout": "S13_FINAL_COVERAGE PASS 1048 / 1048 S13 [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37]\n",
+      "stderr": ""
+    }
+  ],
+  "elapsed": 4.074546706164256
+}

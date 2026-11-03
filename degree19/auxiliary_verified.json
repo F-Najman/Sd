@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "degree": 19,
+  "dyadic_rank": 38,
+  "dyadic_classes": 180,
+  "relative_maps_rebuilt": [
+    53,
+    61,
+    73
+  ]
+}

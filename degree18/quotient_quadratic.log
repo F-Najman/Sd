@@ -1,0 +1,26 @@
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-19 j=[-884736,0] split_prime=5 theta=1 trace=-1 exponent=18 determinant=56
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-1 j=[287496,0] split_prime=29 theta=12 trace=10 exponent=18 determinant=21
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-1 j=[1728,0] split_prime=37 theta=6 trace=2 exponent=36 determinant=4
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-2 j=[8000,0] split_prime=17 theta=7 trace=-6 exponent=18 determinant=56
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-3 j=[0,0] split_prime=7 theta=2 trace=-1 exponent=18 determinant=56
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-3 j=[54000,0] split_prime=7 theta=2 trace=-4 exponent=18 determinant=56
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-3 j=[-12288000,0] split_prime=7 theta=2 trace=-1 exponent=18 determinant=56
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-1 j=[-12288000,0] split_prime=13 theta=5 trace=5 exponent=18 determinant=21
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-67 j=[-147197952000,0] split_prime=23 theta=5 trace=5 exponent=18 determinant=19
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-31 j=[-75276530483988147885303471/18889465931478580854784,-218623729131479023842537441/18889465931478580854784] split_prime=47 theta=4 trace=-1 exponent=18 determinant=21
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-31 j=[1809/4,-6561/4] split_prime=47 theta=4 trace=1 exponent=18 determinant=21
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=73 D=-127 j=[81450017206599109708140525/18889465931478580854784,14758692270140155157349165/18889465931478580854784] split_prime=13 theta=4 trace=2 exponent=18 determinant=21
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=127 D=-67 j=[-147197952000,0] split_prime=17 theta=1 trace=-1 exponent=18 determinant=49
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=127 D=-3 j=[54000,0] split_prime=13 theta=6 trace=2 exponent=18 determinant=45
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=127 D=-3 j=[-12288000,0] split_prime=13 theta=6 trace=5 exponent=18 determinant=45
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=127 D=-7 j=[16581375,0] split_prime=11 theta=2 trace=4 exponent=18 determinant=3
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=127 D=-7 j=[-3375,0] split_prime=11 theta=2 trace=4 exponent=18 determinant=3
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=127 D=-3 j=[0,0] split_prime=13 theta=6 trace=5 exponent=18 determinant=45
+S18_QUADRATIC_QUOTIENT_EXCLUDED p=127 D=-43 j=[-884736000,0] split_prime=11 theta=1 trace=1 exponent=18 determinant=56
+S18_CM_DEGREE18_EXCLUDED p=73 j=0 q=5 trace=0 exponent=108 determinant=54
+S18_CM_DEGREE18_EXCLUDED p=97 j=1728 q=3 trace=0 exponent=72 determinant=53
+S18_CM_DEGREE18_EXCLUDED p=109 j=0 q=2 trace=0 exponent=108 determinant=4
+S18_CM_DEGREE18_EXCLUDED p=109 j=1728 q=3 trace=0 exponent=72 determinant=29
+S18_CM_DEGREE18_EXCLUDED p=113 j=1728 q=3 trace=0 exponent=72 determinant=49
+S18_CM_DEGREE18_EXCLUDED p=127 j=0 q=2 trace=0 exponent=108 determinant=72
+S18_ALL_QUADRATIC_QUOTIENT_AND_BRANCH_CM_EXCLUSIONS_COMPLETE

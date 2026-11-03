@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "old_driver": 2065541,
+  "old_verifier": 2065381,
+  "new_driver": 2433838,
+  "new_verifier": 2433839,
+  "frozen_sources_and_binaries": {
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/krylov_packed": "de3b9e73a46445e45c9cb40d663ebae82b0d4f42630f1c9a1805a5eb060d6e12",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/krylov_packed.cpp": "f9bfacaab32115f59ded14e5bb10158b297a2dc462efa226c0d931e8ad8ed240",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/krylov_simd": "cd3888d2b73f6c25095198d023d8b98aa3abc0d3c30d61fb1cfbaba7d48792b9",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/krylov_simd.cpp": "f02c2852eef4ef7a70537e0ac3e964ed35e446b31077fb4f3387f940557799ab",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/run_characters.py": "8d01a2e731577acb22395eb27ac67c149f462c01db4ae21fa74ca79359df515b",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/run_characters_simd.py": "631c40941f8c4196fa8f4a04bae60ade1ead877389f74bb37a69be57562ae5e2",
+    "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/verify_large_simd.py": "2a3b09ffccb2a7b0ddfedb316e3f65803b157d8e7c960cfeb3685f4f1fff6ed6"
+  },
+  "all_full_replays_passed_before_handoff": true,
+  "completed_packed_raw_outputs_reused_with_identical_regenerated_plan_hashes": true,
+  "original_safety_check_was_overstrict_about_a_transient_readonly_auditor_child": true,
+  "resumed_only_after_all_arithmetic_children_drained": true
+}

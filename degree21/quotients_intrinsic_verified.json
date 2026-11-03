@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "degree": 21,
+  "quotient_genus": 88,
+  "all_invariant_form_entries_rebuilt": true,
+  "tate_jets_rebuilt": 5,
+  "pure_cusp_patterns": 1140,
+  "supersingular_cusp_patterns": 27,
+  "relative127_base_rank": 14,
+  "relative127_cusp_blocks": 63
+}

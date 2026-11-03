@@ -1,0 +1,1 @@
+SetQuitOnError(true);SetColumns(0);for d in[18..20]do F:=GF(2^d);cs:=Sort([Integers()!#E:E in Twists(EllipticCurveFromjInvariant(F!0))]);printf "S20_SUPERSINGULAR_ORDERS degree=%o orders=%o\n",d,cs;end for;print "S20_BOUND_TWISTS_COMPLETE";quit;

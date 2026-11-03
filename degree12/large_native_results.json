@@ -1,0 +1,5115 @@
+{
+  "status": "PASS",
+  "characters": 603,
+  "results": [
+    {
+      "p": 106087,
+      "order": 17681,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 58.46546455100179,
+      "sequence_sha256": "83a85ec90a5d46fdc28c2546e0c7e4d96cc37922547f9dc8b58378c0c494ebec"
+    },
+    {
+      "p": 106087,
+      "order": 53043,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 51.9689606630709,
+      "sequence_sha256": "384566cb2eb231f6f002c4544b7c39619eca359f7eb63f9ecb3eac673cdb7b92"
+    },
+    {
+      "p": 106123,
+      "order": 23,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 50.451279886066914,
+      "sequence_sha256": "6e6a0834fd1631aa05e384ce2f58a83619a0c2d65d01ccb95d56c5bcbe5c723d"
+    },
+    {
+      "p": 106123,
+      "order": 69,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 51.73360517900437,
+      "sequence_sha256": "f43ff7c9617b656e36c6282dbcfbbef66ce7b5065fee49c62d1105c04cb16726"
+    },
+    {
+      "p": 106123,
+      "order": 17687,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 47.68277091300115,
+      "sequence_sha256": "2eb8bd21115eb00fc53081a7c404b007b59fdf84f72a6141c44072e79e6bbf60"
+    },
+    {
+      "p": 106123,
+      "order": 53061,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 55.063592775026336,
+      "sequence_sha256": "c052dcad8d216e6a01afff3dab38ea0ed8c12d7feb4d43d4982741aed014469e"
+    },
+    {
+      "p": 106129,
+      "order": 11,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 67.25097172800452,
+      "sequence_sha256": "ebe4f6fa4830f0d18a67c6f6b4cce2357be5c12ae680df6bca93c7feb4d7bebc"
+    },
+    {
+      "p": 106129,
+      "order": 22,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 60.26820542407222,
+      "sequence_sha256": "9fe555b84b101b4b6f147c6d701ed0c17e8103c0075cab26bb8c0d37f0e4954b"
+    },
+    {
+      "p": 106129,
+      "order": 33,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 55.9420346331317,
+      "sequence_sha256": "329209b68ebe8fd93ca6be875cf1fac3fd05c1cb1c55efc646e4c9c96597d7aa"
+    },
+    {
+      "p": 106129,
+      "order": 44,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 58.1500203309115,
+      "sequence_sha256": "c289523e1e674876a6e2d7f4f9989494b9781f85adce51b0a0ee3fe8fba2bbd1"
+    },
+    {
+      "p": 106129,
+      "order": 66,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 57.900684454943985,
+      "sequence_sha256": "ac1d211739137c89c7bdba7fc4068b8970cef94f36468ef6498661c4ec41b5b2"
+    },
+    {
+      "p": 106129,
+      "order": 88,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 58.498415262205526,
+      "sequence_sha256": "2c69c63d56541cfe07e700ed37ce91e27af93934d7c9fe01a0c07332627d20dd"
+    },
+    {
+      "p": 106129,
+      "order": 99,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 62.65944869397208,
+      "sequence_sha256": "0f1b1589262ff859550db30f2076e1d130cff7617731017564b8dc4445b264ff"
+    },
+    {
+      "p": 106129,
+      "order": 132,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 59.421398328151554,
+      "sequence_sha256": "e4b833c7608ac1656872faa5fb6b1386be12039e5b71869cefc336d3bda5f3be"
+    },
+    {
+      "p": 106129,
+      "order": 198,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 54.017373918090016,
+      "sequence_sha256": "ec65dfac7bdf8ac4563303e2665dd331a5e67be916ba4d4a355b54c94319852a"
+    },
+    {
+      "p": 106129,
+      "order": 264,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 55.951210991013795,
+      "sequence_sha256": "9142234760eb84331a76702c25fe63980e0945faf7edd6a2dc25e592982647e5"
+    },
+    {
+      "p": 106129,
+      "order": 396,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 59.38712407113053,
+      "sequence_sha256": "96a032b6af769c736b3fef3433536c795de3f536abd369cac48df97c1277ba09"
+    },
+    {
+      "p": 106129,
+      "order": 737,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 59.41570983105339,
+      "sequence_sha256": "c1a4627335a298331d277453c3b721c7ce0dfa0b54cab362a9645c97cd6e175d"
+    },
+    {
+      "p": 106129,
+      "order": 792,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 50.27572328411043,
+      "sequence_sha256": "368f5d0e39718a46d68afe046114d2eee92df622e17bccdfdb61b642ac79d803"
+    },
+    {
+      "p": 106129,
+      "order": 1474,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 44.567604237934574,
+      "sequence_sha256": "d29212abde4e66ad656a0f7754f5f96c649f6c2a6284cf462edcdc2e74418d34"
+    },
+    {
+      "p": 106129,
+      "order": 2211,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 50.006560866953805,
+      "sequence_sha256": "25965ff037fb45953b39b7a47c028fe6c8b086007547db3c0229462ab8826fe8"
+    },
+    {
+      "p": 106129,
+      "order": 2948,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 44.975493479985744,
+      "sequence_sha256": "cb81fd378cf241189bacc581b9aaf38eade52d3234b2e98d2e38578a7f9eec35"
+    },
+    {
+      "p": 106129,
+      "order": 4422,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 46.69811825500801,
+      "sequence_sha256": "296bedd2f5cd4e9d92f60da8a1d5558863bf634baa63bb01541f2bdd2fd22a3d"
+    },
+    {
+      "p": 106129,
+      "order": 5896,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 50.83583262306638,
+      "sequence_sha256": "7fcc1f106cc124f69deb4eeadc71237593ceef8be639de7470a76fe9e72872a6"
+    },
+    {
+      "p": 106129,
+      "order": 6633,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 42.66469082213007,
+      "sequence_sha256": "7bbff9ade331bd1c6f8724c14b34008732052e0679b56fbce622d9dfe26c8e83"
+    },
+    {
+      "p": 106129,
+      "order": 8844,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 47.199766173027456,
+      "sequence_sha256": "171fb5e481aba1a962584f1d77ad01fa9c6682ee999b3392ff8d961db2a11c76"
+    },
+    {
+      "p": 106129,
+      "order": 13266,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 49.76459543197416,
+      "sequence_sha256": "3cab7e986b780f9edd05d5b3f366a477057ab5e70efcb24d48d5a80e31f91df3"
+    },
+    {
+      "p": 106129,
+      "order": 17688,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 48.231486957054585,
+      "sequence_sha256": "ba746f4be7ccc413411e596db5b8bac26ea3a38cae2311de0054ca5d55ce4c70"
+    },
+    {
+      "p": 106129,
+      "order": 26532,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 45.57891687913798,
+      "sequence_sha256": "720280de33137dec1336252566e42cd12188616daab7ffc72a06271cfba477c3"
+    },
+    {
+      "p": 106129,
+      "order": 53064,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 50.997507391963154,
+      "sequence_sha256": "5960cb7625cac374212f95d8f91ee6491ab5c9bdfcad1fca9da9a407d1255965"
+    },
+    {
+      "p": 106189,
+      "order": 8849,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 40.94865422602743,
+      "sequence_sha256": "1fed87bfcf311957c3240e62a8e1e78cf2c89f641032f2b4586ad373b5363c6f"
+    },
+    {
+      "p": 106189,
+      "order": 17698,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 40.04376418609172,
+      "sequence_sha256": "b2962b331d3fc2ffaaab5f5f7b67f68036675a29d02cc52907c36238f7c6dbcb"
+    },
+    {
+      "p": 106189,
+      "order": 26547,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 45.72938778297976,
+      "sequence_sha256": "35c3992b5ac0bda78d512103a32f4d7d36f495f3c97135ce50e99bbc4ada0d3e"
+    },
+    {
+      "p": 106189,
+      "order": 53094,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 47.80622418504208,
+      "sequence_sha256": "e1222f7caa9a93f90a78f3f33e372ecff7e12e58c0f15f055cd0e39ffca94cc8"
+    },
+    {
+      "p": 106207,
+      "order": 31,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 39.64748332207091,
+      "sequence_sha256": "dc3cedeea7bfa70cd74789ffc6a989d84c7b6c9740848454aaffa246eed370f0"
+    },
+    {
+      "p": 106207,
+      "order": 93,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 36.30321304500103,
+      "sequence_sha256": "1bf5f033096492484f3ea011409874c2862aea047f80a22da1d85e2710f30355"
+    },
+    {
+      "p": 106207,
+      "order": 17701,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 25.848980591166764,
+      "sequence_sha256": "a984066da2197e4ce05652edbbed06c1017f352c0617750c035d696ee21b17cb"
+    },
+    {
+      "p": 106207,
+      "order": 53103,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 35.65756151708774,
+      "sequence_sha256": "287b21005d3c0512ced698200a556d16fc49db51d3d6e61df44c0bcc31c6cf7f"
+    },
+    {
+      "p": 106243,
+      "order": 17707,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 35.84608150087297,
+      "sequence_sha256": "96808cc437d7f9d0dbfd6588ec4698e0cc59afc846e8d99399fac8667ae8a42f"
+    },
+    {
+      "p": 106243,
+      "order": 53121,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 44.14230083813891,
+      "sequence_sha256": "f4e51086970d6e7037c59e786f68fe441cb5983bba9d4e97164552dad578a691"
+    },
+    {
+      "p": 106279,
+      "order": 17713,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 44.010156543925405,
+      "sequence_sha256": "6eb12da7a7476ddab93d3c311a3cab5b084a70cfc3ae605a965c335d1854dd50"
+    },
+    {
+      "p": 106279,
+      "order": 53139,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 29.527280416805297,
+      "sequence_sha256": "7fe11d2b1617090179a0b5a63039d2cfcc77fd3180dd9a26165c15f47ba0cce9"
+    },
+    {
+      "p": 106291,
+      "order": 5,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 32.18971186806448,
+      "sequence_sha256": "0b9e20f41d260bbf07b4d7e4ea32dbd4029421a42ed5f458e17957a1ac9443bb"
+    },
+    {
+      "p": 106291,
+      "order": 15,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 38.678843528963625,
+      "sequence_sha256": "4a26545f9245daf18da7b17d746b7f15d9ac104de7f033bcc802c5b3871acc0a"
+    },
+    {
+      "p": 106291,
+      "order": 45,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 29.129311508964747,
+      "sequence_sha256": "a82f8d622954cc3ae6682008e16464da72e2d59a7c9c6cdc7a993aec25e17f52"
+    },
+    {
+      "p": 106291,
+      "order": 5905,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 36.10609956807457,
+      "sequence_sha256": "e5930199ef760842fe2ca9e21d329cb5f5004bab8fee03d183bab09ee0cc63a2"
+    },
+    {
+      "p": 106291,
+      "order": 17715,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 46.160545222926885,
+      "sequence_sha256": "149f2bc1e51e9acf8c7b739a72f4c423828a332e1193f7ec3957f3e528c7bf9a"
+    },
+    {
+      "p": 106291,
+      "order": 53145,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 37.64396463311277,
+      "sequence_sha256": "380efb2009ecb6ad63a45dc1a698999fb8ba65951e4facee1df96892cd4efb5a"
+    },
+    {
+      "p": 106297,
+      "order": 43,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 27.924198536900803,
+      "sequence_sha256": "2f9dbe180da797367d26af0faf714bd69012fd5345b14d79a549c3e48ea63221"
+    },
+    {
+      "p": 106297,
+      "order": 86,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 38.84532126807608,
+      "sequence_sha256": "0944230a0febf03909524bdc5ca86ae60c8c7617fdc7325361f27767abf716a6"
+    },
+    {
+      "p": 106297,
+      "order": 129,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 36.29450869187713,
+      "sequence_sha256": "0be662b2e11d2b13e1cfc487dc1e76f36a0ed14e972d2e7e9dc446fe11089836"
+    },
+    {
+      "p": 106297,
+      "order": 172,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 38.898493353044614,
+      "sequence_sha256": "d21593ed69da311c0d2a788774988863348ba6746c9e46982e7d7d68582097e6"
+    },
+    {
+      "p": 106297,
+      "order": 258,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 37.07773995306343,
+      "sequence_sha256": "18b322a33c93ea6db49b65424e22c1e53495b37059e24b6f61596c9163185f34"
+    },
+    {
+      "p": 106297,
+      "order": 516,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 37.2631656001322,
+      "sequence_sha256": "3e86815a13db4e2cfba53dfd5dffd75c9ab3dbad7c783e47879911649320a1ea"
+    },
+    {
+      "p": 106297,
+      "order": 4429,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 32.27837685798295,
+      "sequence_sha256": "a14dd4f19be9c8e8bfe46b9a859400ea6135858e52b4bc8d2c6b3984982554a8"
+    },
+    {
+      "p": 106297,
+      "order": 8858,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 30.25998584809713,
+      "sequence_sha256": "580e72b3565e6ac286ed926cd950a63e66b492a6df5479e4edcb7ace24495009"
+    },
+    {
+      "p": 106297,
+      "order": 13287,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 28.490800734842196,
+      "sequence_sha256": "a4eec653e754f38ce97c86b9220a6be4951f8b6c16ff2ba6c74f22163b748b24"
+    },
+    {
+      "p": 106297,
+      "order": 17716,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 30.527060101972893,
+      "sequence_sha256": "9199c558639aee2bcb09f44bd04b0856c357255d0af1dd828f7e01b0451ec638"
+    },
+    {
+      "p": 106297,
+      "order": 26574,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 33.7532181260176,
+      "sequence_sha256": "3a99fcb649028b376757abb0f05493c1a242302d768a10390fb1130d223694a7"
+    },
+    {
+      "p": 106297,
+      "order": 53148,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 34.10770810698159,
+      "sequence_sha256": "d7c84bc4173a2d41df820a21132e6563c59b6d4ff84a1b9213275383d5e5d241"
+    },
+    {
+      "p": 106357,
+      "order": 8863,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 31.899208907969296,
+      "sequence_sha256": "a40ee6c56108b794f8a400672df91eae845ba868be61e359eadd979a5c1598cc"
+    },
+    {
+      "p": 106357,
+      "order": 17726,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 29.704567775130272,
+      "sequence_sha256": "95bfedcf842d9085b4a3e4305433e36b454b119b80dcfecfdc5c7b994cb395cd"
+    },
+    {
+      "p": 106357,
+      "order": 26589,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 39.55319482483901,
+      "sequence_sha256": "330053cfea22f1631fad4ccd1a2eae89cd004291d14f174bba8cc66d16b2622e"
+    },
+    {
+      "p": 106357,
+      "order": 53178,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 38.58123411098495,
+      "sequence_sha256": "075fb6f6c656099c8a1b9b750fd052bcbf9353591165fdce15327847e554f00e"
+    },
+    {
+      "p": 106363,
+      "order": 19,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 25.55311516695656,
+      "sequence_sha256": "30f1584492254134b6f4e72447ab663948df53fe0cc0ffbf4d4c1a59e880286e"
+    },
+    {
+      "p": 106363,
+      "order": 57,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 35.05960857705213,
+      "sequence_sha256": "8bcacbf0bdf8cc5defebdb609702979c5fe0bfc9842fb4679e7ce8dc4b34c0d7"
+    },
+    {
+      "p": 106363,
+      "order": 171,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 26.09110688813962,
+      "sequence_sha256": "bc82c3331f416e5001e563cfc0d17c828fb470c7fc13e327bb5509118be50452"
+    },
+    {
+      "p": 106363,
+      "order": 5909,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 29.31350297201425,
+      "sequence_sha256": "6511c8ae6959b44fa6e5b4c22e7c5e7c997580a3c25f7fb1e65207392d14b3c9"
+    },
+    {
+      "p": 106363,
+      "order": 17727,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 35.53291534120217,
+      "sequence_sha256": "894b037cdda3586e350c55c951dc21cdbc81b99a70b5506a0364102721578343"
+    },
+    {
+      "p": 106363,
+      "order": 53181,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 38.72139373002574,
+      "sequence_sha256": "dc3902820ea66acd83fe15d18ce3eb4bfc40998314aea6f068cf66c71b62b221"
+    },
+    {
+      "p": 106417,
+      "order": 739,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 30.811296604806557,
+      "sequence_sha256": "929438e793246455a9403a9659c2c9a9bafdb26d8ede48d43940a1aee6e94b4c"
+    },
+    {
+      "p": 106417,
+      "order": 1478,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 44.40525964810513,
+      "sequence_sha256": "b92faec0c80bac51ff2f8760ee37c1cdf8c9a1fc966f1ddc62f7b3d13f7c45e4"
+    },
+    {
+      "p": 106417,
+      "order": 2217,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 44.06281847599894,
+      "sequence_sha256": "016c11719707f99f61d0f740b0c3529ef170c85d90e17ac940387ee02972ea5c"
+    },
+    {
+      "p": 106417,
+      "order": 2956,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 35.59736799681559,
+      "sequence_sha256": "d950e223756212fbfde0bb025582495e2c39a822f363a2493b1a42c06393130d"
+    },
+    {
+      "p": 106417,
+      "order": 4434,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 47.36152524803765,
+      "sequence_sha256": "aa6c1afc0758b382be4beae515c9358ff552dc690abe55c5ab40f4739d0be20f"
+    },
+    {
+      "p": 106417,
+      "order": 5912,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 39.04135814192705,
+      "sequence_sha256": "42fa49ab5f1c85bda47fbe6ff11937016aa616ef112f5b2d2020a01cf2629bbb"
+    },
+    {
+      "p": 106417,
+      "order": 6651,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 47.76809366303496,
+      "sequence_sha256": "9a79d4373518cfcc5f51c3875e6653e6c9da2a1459d5663b51e5faf9c26f5693"
+    },
+    {
+      "p": 106417,
+      "order": 8868,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 45.561730379005894,
+      "sequence_sha256": "3152b41a638feed0d607abab20c3c4d7675c88768f58cd4bf08d5c5afeb29d5e"
+    },
+    {
+      "p": 106417,
+      "order": 13302,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 43.183908814098686,
+      "sequence_sha256": "426afdaa92cdef24b224a640eeb86e30e68f1798c50cc7545c4b7f461cd93dce"
+    },
+    {
+      "p": 106417,
+      "order": 17736,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 28.969908894971013,
+      "sequence_sha256": "3fade5f95e9cf65e8fcd8ba6233cc8bc2974cd0addc6583ff15dddfb8b15bd8a"
+    },
+    {
+      "p": 106417,
+      "order": 26604,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 42.18900435208343,
+      "sequence_sha256": "77fbb119ccd2b10d9883460a5da59dbcfb726755fd166d20c2f6a8acbc25bfd8"
+    },
+    {
+      "p": 106417,
+      "order": 53208,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 30.654159646015614,
+      "sequence_sha256": "2f617d515a37aa93cf7a64499a6681f9a5d6b0b75041d5fdee3ac69bb8335bec"
+    },
+    {
+      "p": 106531,
+      "order": 5,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 27.182917184894904,
+      "sequence_sha256": "b0792e7d5a9abc6d318e741986aed5daf3ccfb2521ce143980307541a98d0076"
+    },
+    {
+      "p": 106531,
+      "order": 15,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 35.88200636417605,
+      "sequence_sha256": "1d2dde0090c034f338125361928a0ff79cab127443392abc1b47cc05948b7150"
+    },
+    {
+      "p": 106531,
+      "order": 265,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 27.696742509957403,
+      "sequence_sha256": "43c468e5d812e96a79ce7039c05643cb67fc31501f421526bb4f31691e3211fb"
+    },
+    {
+      "p": 106531,
+      "order": 335,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 39.85830493317917,
+      "sequence_sha256": "20d0a39bfe08bc5f11a388ede3bae164907fec1af0519a38cea6e49901363e9e"
+    },
+    {
+      "p": 106531,
+      "order": 795,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 37.86235671513714,
+      "sequence_sha256": "0834c632e6682c3305fb4b3cf970f2e2bc62b5af8d0cdbe03a249b8fa864bee6"
+    },
+    {
+      "p": 106531,
+      "order": 1005,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 39.389710468938574,
+      "sequence_sha256": "220cff9b373bf26e8bcf3cf03fc99376aee990e0f4d1818c500aa33ead3d3927"
+    },
+    {
+      "p": 106531,
+      "order": 17755,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 38.65968781989068,
+      "sequence_sha256": "b807dd035ce3e117d688bdb69f4d6130c278f0c491d8ed02053a343fea33a2a2"
+    },
+    {
+      "p": 106531,
+      "order": 53265,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 34.25235414598137,
+      "sequence_sha256": "1683eea9a829dfd57478be6d78ed6305155f9b483f634778c6d0547a4c946c08"
+    },
+    {
+      "p": 132527,
+      "order": 23,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 41.4704749090597,
+      "sequence_sha256": "606e02e7712fb456905120219adcc470dd71012f7a524a9b5bd2378defbad662"
+    },
+    {
+      "p": 132527,
+      "order": 989,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 35.41748703503981,
+      "sequence_sha256": "2c4c1da20fbd49950271a10df39b8e3b507b5eca14b1ed2bcfed0ee96a837bdf"
+    },
+    {
+      "p": 132527,
+      "order": 1541,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 54.44485833495855,
+      "sequence_sha256": "7bb92ac397c864593c94e32c7ecb9710b8b70f213cf494dfb598811e65ad8a7a"
+    },
+    {
+      "p": 132527,
+      "order": 66263,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 49.473826779052615,
+      "sequence_sha256": "e62e63ce048008ad10ccc50f600aae79bc748bdfccfe5d2392cd0704cf65cad6"
+    },
+    {
+      "p": 132623,
+      "order": 7,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 46.556105855852365,
+      "sequence_sha256": "90debcde6f0d9e646885b84b2c7f987bfa1ec93c32171f90a0d1ac37d711211e"
+    },
+    {
+      "p": 132623,
+      "order": 66311,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 61.87212987593375,
+      "sequence_sha256": "8df68a5e016c6de3bf367a631868335b9b3d5b0c20c59309a29028fdc36ecd55"
+    },
+    {
+      "p": 132689,
+      "order": 8293,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 61.62309994501993,
+      "sequence_sha256": "9341767cc8a1729ecd502484c0380d74512e8e97331fcc2b6eaa7dd04fd38b89"
+    },
+    {
+      "p": 132689,
+      "order": 16586,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 55.179844013182446,
+      "sequence_sha256": "20062dacdbc36a868401cb6aeabb123f963bec3f8df071ba629922afe8a390cf"
+    },
+    {
+      "p": 132689,
+      "order": 33172,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 46.601047680014744,
+      "sequence_sha256": "3c3619f7bbab590742e30bc6e53aac29ddabf88141fe17fdf4448c09ce70c88d"
+    },
+    {
+      "p": 132689,
+      "order": 66344,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 61.6012648048345,
+      "sequence_sha256": "7da52bd3aaa4cdf9aaebf0b85bcf7145be49dab0c645f49f3d90579a0a219ff3"
+    },
+    {
+      "p": 132701,
+      "order": 25,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 70.5861088000238,
+      "sequence_sha256": "bfec18f88ac060259e6b5f9d441076be27835e63228817eb9ff35537e91e92b3"
+    },
+    {
+      "p": 132701,
+      "order": 50,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 68.87265745201148,
+      "sequence_sha256": "8e0203fafa74935f9ef2dd20e350f483e113cbd87aa055ffcfaf5871c1088c41"
+    },
+    {
+      "p": 132701,
+      "order": 33175,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 71.14030650397763,
+      "sequence_sha256": "09275cd04aac100f5cc6110e358d57c730d0c3a5cb52dcc5bdbaa185b75d7f46"
+    },
+    {
+      "p": 132701,
+      "order": 66350,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 62.683541861129925,
+      "sequence_sha256": "fc3693f7fde4f90dab8bf897fe227996a9ef46930d8916c0aa7e1b1b338a6252"
+    },
+    {
+      "p": 132761,
+      "order": 5,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 65.54761674092151,
+      "sequence_sha256": "ee5bc6509e1cab3d9942eb5f319ce4dd3a690c58318cabd62d580085719cd64e"
+    },
+    {
+      "p": 132761,
+      "order": 10,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 43.936231109080836,
+      "sequence_sha256": "4ab00dd6de08444878c0402b6bdd95ead67a09e9d3088412f5424b7acc2a76cd"
+    },
+    {
+      "p": 132761,
+      "order": 20,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 53.566405173856765,
+      "sequence_sha256": "2fea85387eb18219f9a9b8d06340179f8db00e2adecfef4a56d671cc032692fc"
+    },
+    {
+      "p": 132761,
+      "order": 16595,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 61.5767240030691,
+      "sequence_sha256": "658bda5efa5fe6964d3ad3d8424b3b0cf63ab53f44178a9fe9e417b2d0328de9"
+    },
+    {
+      "p": 132761,
+      "order": 33190,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 56.47531860694289,
+      "sequence_sha256": "3a3d76009b7545f042634b82d98a2055e4f61438ed48e0b6c9289997ba533ed7"
+    },
+    {
+      "p": 132761,
+      "order": 66380,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 65.36232238006778,
+      "sequence_sha256": "10073bfeb5120b7f92e3ac720c1cf65a97b25a9aa764d7e8859f0202334ae606"
+    },
+    {
+      "p": 132833,
+      "order": 7,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 68.38748901407234,
+      "sequence_sha256": "c2d0730dc1c54616f482528bd22022c2a21bb57769963a5f79b3e2e79e398f95"
+    },
+    {
+      "p": 132833,
+      "order": 14,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 66.71563958609477,
+      "sequence_sha256": "1161bdf7e2132adac4970296a31d17fed19fff886c47567e606639e6acd3e753"
+    },
+    {
+      "p": 132833,
+      "order": 28,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 79.50477649318054,
+      "sequence_sha256": "0930fc4b9e23f70b1b2ebe0339bf63864ea7469bd06030c9a0d751bdecfc790e"
+    },
+    {
+      "p": 132833,
+      "order": 56,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 87.0075271751266,
+      "sequence_sha256": "4827c8cb3d06a6f823074738b72e07d4e31a46d4434fdcf3a59377a0b3ffa1d4"
+    },
+    {
+      "p": 132833,
+      "order": 112,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 90.60709372488782,
+      "sequence_sha256": "9c9d396a9c0b5a56812ed567d539a15d6126f97c2fa5ce3831d930c4cfd3ca17"
+    },
+    {
+      "p": 132833,
+      "order": 4151,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 84.24420026596636,
+      "sequence_sha256": "6fc5deac68f7ac4473a94d7c13d15f339ea42fd846235cbb94b06bee18a334f4"
+    },
+    {
+      "p": 132833,
+      "order": 8302,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 78.14417336182669,
+      "sequence_sha256": "bf45cfa57c24b568623fe3ac88e40554778b0a0b9648c3fd8686d6f44b883a16"
+    },
+    {
+      "p": 132833,
+      "order": 16604,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 96.01370777492411,
+      "sequence_sha256": "ee0f5293610e567af430071eda022c0c14fe965470f261380fd95c5e7fc86587"
+    },
+    {
+      "p": 132833,
+      "order": 33208,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 91.79869606392458,
+      "sequence_sha256": "50d05739fe5a4e1fc0785107fdd1810bf58445863af34aba2a8b2fb8588acac1"
+    },
+    {
+      "p": 132833,
+      "order": 66416,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 109.18411578820087,
+      "sequence_sha256": "f0feaeb4ee224ad33fbaf396b8a40a73b5ec37fe2e6cfb78b31481817dc79b01"
+    },
+    {
+      "p": 132887,
+      "order": 13,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 125.47578099905513,
+      "sequence_sha256": "415d23e4484895d7edebc30943d8ea0bf43b4dd3c52fcc1883ace3d7c355ff31"
+    },
+    {
+      "p": 132887,
+      "order": 247,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 114.73248021188192,
+      "sequence_sha256": "4d7e92898cb01fc7e01df47334cd1dfcd2f6039dce835e3e1dcb6967020a598d"
+    },
+    {
+      "p": 132887,
+      "order": 3497,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 92.27482707798481,
+      "sequence_sha256": "447497721552c31729bcef0954c781d7f954338001e2f66ea283eaae4ee0755d"
+    },
+    {
+      "p": 132887,
+      "order": 66443,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 111.41651929612271,
+      "sequence_sha256": "a997d0ece279c46845127e468ce1244afccb8a5bb91437b696fe6bb6131885f1"
+    },
+    {
+      "p": 132911,
+      "order": 5,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 92.86337107396685,
+      "sequence_sha256": "02e719cd756598975615911c837b514a0f2c18249feda581e6c95d08e7008cf8"
+    },
+    {
+      "p": 132911,
+      "order": 66455,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 119.61981117795222,
+      "sequence_sha256": "62b4958d52a66d0bd087aac3501ea284597b5698c96ac60075878a4357ed4768"
+    },
+    {
+      "p": 132989,
+      "order": 33247,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 151.75454540899955,
+      "sequence_sha256": "75ebcdc2462b30b86be3535e8542cc9f88da0b68a8274e1828f4cc22aea8bbf6"
+    },
+    {
+      "p": 132989,
+      "order": 66494,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 118.00520355906337,
+      "sequence_sha256": "86ca4cc0977e566ce179a2b034e19c585af650f1dc6645bd04c9b7859696accf"
+    },
+    {
+      "p": 133103,
+      "order": 61,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 123.07341312197968,
+      "sequence_sha256": "556847c2d90a8ed97f094eeb5ceea08d3208de20fe9b9ad895a08f31dffbace9"
+    },
+    {
+      "p": 133103,
+      "order": 66551,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 113.04070399212651,
+      "sequence_sha256": "9b6da13098850890631c0ab0ff6c77fe8d569d3b72435240ff45d54af7013398"
+    },
+    {
+      "p": 133121,
+      "order": 256,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 140.10262521496043,
+      "sequence_sha256": "3edce48273a6d92458cbed6af1aa3866b9da652b83cc608f4b8db04dcdf9a684"
+    },
+    {
+      "p": 133121,
+      "order": 512,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 105.40262168599293,
+      "sequence_sha256": "b5f06b8d9c88ada2780978297e1d359d480d27b154d0d3ecf164f96e60450717"
+    },
+    {
+      "p": 133121,
+      "order": 1024,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 127.2677226678934,
+      "sequence_sha256": "9b4c5bd9ba848bc31b06c0043d7043b7589bfa75cdb84dacc6976e38432d59dc"
+    },
+    {
+      "p": 133121,
+      "order": 1280,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 137.5344689108897,
+      "sequence_sha256": "84f84c4e51ae705ad9dee7e4a843e138e406657ab3251ea633bcf156e94d219e"
+    },
+    {
+      "p": 133121,
+      "order": 2560,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 133.98946026503108,
+      "sequence_sha256": "45793bbd2d686922587e5b961aa154287017e3669a5441854eda090a5715f70e"
+    },
+    {
+      "p": 133121,
+      "order": 3328,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 132.94005122897215,
+      "sequence_sha256": "7f079498ef90ad3cd62e2aedfef2d107b7172d2d41405d50036de351f6f7043c"
+    },
+    {
+      "p": 133121,
+      "order": 5120,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 131.12049446697347,
+      "sequence_sha256": "5a020cec58a59de489a2645ce4d74f2ed5826082fe9b70c9397880c214c31222"
+    },
+    {
+      "p": 133121,
+      "order": 6656,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 121.11702078999951,
+      "sequence_sha256": "7d73cfe204450ca619ce18b417c35e228c1246aa098546110008c62411d047bd"
+    },
+    {
+      "p": 133121,
+      "order": 13312,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 121.5262666628696,
+      "sequence_sha256": "6f98dc792149906292af2db2782db573ab7bae9ac7ffa3d15d6b004a2abc2cbf"
+    },
+    {
+      "p": 133121,
+      "order": 16640,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 117.8311457131058,
+      "sequence_sha256": "49e1ed42c6061351e837fb8d387de66eeb4b807551471313646879495d115d93"
+    },
+    {
+      "p": 133121,
+      "order": 33280,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 122.81186764198355,
+      "sequence_sha256": "7ac39e9dfa0d0fc0fe84a8c45ea5ec27dffefeef1e51b5adb53537f21a2b69e9"
+    },
+    {
+      "p": 133121,
+      "order": 66560,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 115.7193032039795,
+      "sequence_sha256": "31ab0708b3fb31c85af27f05ec77977d85c8e6f3add76e6cc5db3e1df1b6590a"
+    },
+    {
+      "p": 176321,
+      "order": 8,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 176.80977486004122,
+      "sequence_sha256": "b53579c9a0379b34a6161abe3a02c578ecd944b292c89a8fc82de27b14373945"
+    },
+    {
+      "p": 176321,
+      "order": 16,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 168.33761428296566,
+      "sequence_sha256": "cc44783448c4b1ef54248e267c20b057b3b211dd9eb3648034306a2466e7bf40"
+    },
+    {
+      "p": 176321,
+      "order": 40,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 177.8823522918392,
+      "sequence_sha256": "28f2487e7f987110ab8624309b2d596ea3810916498d132fc5d1eece25abb4ce"
+    },
+    {
+      "p": 176321,
+      "order": 80,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 173.4892524969764,
+      "sequence_sha256": "d99fcc96aa9ab153f05fb1b06e7df731ea035319dc341cb183194933312a442c"
+    },
+    {
+      "p": 176321,
+      "order": 152,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 181.0130564670544,
+      "sequence_sha256": "729b61098bc83b5c25345761636bf1322e039ee05512777cbc50df42f440e725"
+    },
+    {
+      "p": 176321,
+      "order": 232,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 162.5460221450776,
+      "sequence_sha256": "0de1f418988505f0b99e4e3ca6c9af49c45ad40b8d10be3e61262505e6bc25dd"
+    },
+    {
+      "p": 176321,
+      "order": 304,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 152.35232244804502,
+      "sequence_sha256": "9032a380ab71a5fcf1f5306b8916a7b8d5c15fac146fb5792851652ab5d480fe"
+    },
+    {
+      "p": 176321,
+      "order": 464,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 157.27212739898823,
+      "sequence_sha256": "43539bb1c48b3dded77f46d66908f6ef3033acdc0276e055234cf22d9670c963"
+    },
+    {
+      "p": 176321,
+      "order": 760,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 149.835804464994,
+      "sequence_sha256": "1e737cab617bd82d6088f4c79268af2175fa3a555f9ce65714572831717b75a7"
+    },
+    {
+      "p": 176321,
+      "order": 1160,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 154.48009237507358,
+      "sequence_sha256": "eb4d3a4ba0e77e6ed9772f3725446e4e15a9eae10e39bde8b4b7dfc79c4ca5ec"
+    },
+    {
+      "p": 176321,
+      "order": 1520,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 142.9414367871359,
+      "sequence_sha256": "80e566c6d23e9023838002fd3b6faec2eca60d756b6ab382c7f578cc806cecee"
+    },
+    {
+      "p": 176321,
+      "order": 2320,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 144.38418797310442,
+      "sequence_sha256": "20f0259d4d28b9ab96800154cf200baef6e4ee46ebd6a11baba0144970144165"
+    },
+    {
+      "p": 176321,
+      "order": 4408,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 148.29682359611616,
+      "sequence_sha256": "3bdf16072a03256c822a7809403ab1b099cf2f748e30425b0c14e2d7f8a086cf"
+    },
+    {
+      "p": 176321,
+      "order": 8816,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 136.7250636438839,
+      "sequence_sha256": "337c1a16bc1c117b6474a40e4d2f66798b89270499131bbf69345369bf617fb7"
+    },
+    {
+      "p": 176321,
+      "order": 22040,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 142.68630650709383,
+      "sequence_sha256": "40f55c75766627cda327be7ca9843df387ecc870729b995c08646655203f17d5"
+    },
+    {
+      "p": 176321,
+      "order": 44080,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 144.67248603492044,
+      "sequence_sha256": "e402a93cc9f7f5e699bba7982c741813ddf8b1bd19a5c2e7f06b53f2f2b98ac1"
+    },
+    {
+      "p": 176417,
+      "order": 37,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 108.88925342378207,
+      "sequence_sha256": "2f86e5fe84e65f8a88594689796ed4df21149266ef87da2bcf7e1b2bb087c5e8"
+    },
+    {
+      "p": 176417,
+      "order": 74,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 107.66283252695575,
+      "sequence_sha256": "dfcfbc5a954220544e883964b10d094e4fd3c289cb4a264c20b92807ec3da682"
+    },
+    {
+      "p": 176417,
+      "order": 148,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 74.53382635000162,
+      "sequence_sha256": "9579488ac1c60d2f2c569c5aa7923ea73de8d081d015f7870c8e1bd3884db8cc"
+    },
+    {
+      "p": 176417,
+      "order": 296,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 109.04493745113723,
+      "sequence_sha256": "4d1f0c2f2a33f13cb1ff571ef52535f60c6396ddcff89d4134c5b9a9c91c98e0"
+    },
+    {
+      "p": 176417,
+      "order": 592,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 95.86740610189736,
+      "sequence_sha256": "8ecbba690366e8ad12d8bce47cd4e545cd2f6b053093dadb1a9fef750c12c88e"
+    },
+    {
+      "p": 176417,
+      "order": 5513,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 100.93951417901553,
+      "sequence_sha256": "0e09961a3224860976d28a23fa327f8eaa997f35475f28a66f37b30f6bff697d"
+    },
+    {
+      "p": 176417,
+      "order": 11026,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 97.4557037439663,
+      "sequence_sha256": "a2213a218c01dd7a77346c1d09f772411a4d9fd38ffeb04aab54045f382f565b"
+    },
+    {
+      "p": 176417,
+      "order": 22052,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 73.4220515920315,
+      "sequence_sha256": "ba430b73def8fb6bc5c558b1f923f49c4f2712293b728abc16e5f35152d5b255"
+    },
+    {
+      "p": 176417,
+      "order": 44104,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 120.01682589412667,
+      "sequence_sha256": "3d19376644ba936c7608feacd7023873aa8aa29adcd366d35ff7871460f21e04"
+    },
+    {
+      "p": 176417,
+      "order": 88208,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 111.45905622001737,
+      "sequence_sha256": "05cf47f356ffc2df69c71c5ec3ecefd58bb202ad159e3407baed05504ef892fb"
+    },
+    {
+      "p": 176531,
+      "order": 5,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 101.38946111290716,
+      "sequence_sha256": "e3b29ec1ed2e76450838f7dc98565eb02b70f0b6d557d62d8c7b9c2b920fe2bb"
+    },
+    {
+      "p": 176531,
+      "order": 635,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 90.57610158994794,
+      "sequence_sha256": "776d6c8cf404b0a8a0cb40a30d949b4a98ba83b24e49ca3c2ce250c8ae478bd3"
+    },
+    {
+      "p": 176531,
+      "order": 695,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 117.69333828403614,
+      "sequence_sha256": "a099fe8211d637612b184109bd016ee7adc4cdf839b4c100b981cd7340b67b35"
+    },
+    {
+      "p": 176531,
+      "order": 88265,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 119.29660923709162,
+      "sequence_sha256": "b4f23dc6d369a21088e0a54abb8608761eb57bf159bd8f0674dbe5053d19250c"
+    },
+    {
+      "p": 176549,
+      "order": 19,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 78.77566168201156,
+      "sequence_sha256": "facaa98dc3eb279bc33633bf850a9a09237962dd348b43c596df08b66ab3dd80"
+    },
+    {
+      "p": 176549,
+      "order": 38,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 105.50177861307748,
+      "sequence_sha256": "70d36c6335ad76b666691df7c9583aaa048f53eab462dae6a57c0af5830a7fa1"
+    },
+    {
+      "p": 176549,
+      "order": 437,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 102.56985961599275,
+      "sequence_sha256": "cdf7052bd9bfad292965d9e193a8d38dd2643599d62dd92582e00c7cbbb2460a"
+    },
+    {
+      "p": 176549,
+      "order": 874,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 79.81272631394677,
+      "sequence_sha256": "e53abd18764f3e9f528171b39525072b8ead674ab3067d97da9f66ea233426f6"
+    },
+    {
+      "p": 176549,
+      "order": 1919,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 124.08024604502134,
+      "sequence_sha256": "9438701b0a2d90b21ac4464e28f6b0748ca2fb9ffe5555fbf7490fdec26af5dd"
+    },
+    {
+      "p": 176549,
+      "order": 3838,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 124.16438036994077,
+      "sequence_sha256": "20c11563f7f7fd828b09753e9efe8a14a8a5053dab57101dcd2276d809738247"
+    },
+    {
+      "p": 176549,
+      "order": 44137,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 96.34107514680363,
+      "sequence_sha256": "abd5b98f2716cfd2849d129b161d30ebed15a9dbddf42acc2ae4949f940ae228"
+    },
+    {
+      "p": 176549,
+      "order": 88274,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 114.33682215888985,
+      "sequence_sha256": "d46eed7d6f74d13e75b8028b00d622c0faf7fa2be53eefff37d0d3cab6054b26"
+    },
+    {
+      "p": 176651,
+      "order": 25,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 119.77032824908383,
+      "sequence_sha256": "19fc24e422dbfa748c142cadef5f1af74b48b69875bbf6e1d7eb35f04bad60e6"
+    },
+    {
+      "p": 176651,
+      "order": 88325,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 109.9554119289387,
+      "sequence_sha256": "f8d80d105303d477263767c35bc97b72baf49d820153183be1e6b3add20863c1"
+    },
+    {
+      "p": 176677,
+      "order": 14723,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 123.79654455184937,
+      "sequence_sha256": "ab6f0fbe927bebec4152ff7739270049702f7b8031a016dc28d09ea46f7d48b5"
+    },
+    {
+      "p": 176677,
+      "order": 29446,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 111.72461557202041,
+      "sequence_sha256": "5b0fcd9d5cf267871464b6c2ac467e811c6502805ad6357ccbf01ca9183200f2"
+    },
+    {
+      "p": 176677,
+      "order": 44169,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 90.6416473290883,
+      "sequence_sha256": "a149337b5bd24f5698d5701e434daf33ef1d109b1177d266a26005219b76797a"
+    },
+    {
+      "p": 176677,
+      "order": 88338,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 86.03621515701525,
+      "sequence_sha256": "d24d892732ab3a5729238181cd589977efe399538c0a96356cd1d342cae33e89"
+    },
+    {
+      "p": 176777,
+      "order": 19,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 76.6706614298746,
+      "sequence_sha256": "9c99b1f969eaf642e30fad0c5fb42602c61cc0b96c4d4d89a56a0988ba9a4fe5"
+    },
+    {
+      "p": 176777,
+      "order": 38,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 99.12148357508704,
+      "sequence_sha256": "f906d73d25c22ac07e8dd9e1e1e712459d8501e902339b8ad9bd2945c770eace"
+    },
+    {
+      "p": 176777,
+      "order": 76,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 114.20222838199697,
+      "sequence_sha256": "72b6b4230c572757f7f91774831405ea19ba4c9b294640305a94b8dbdd3b4022"
+    },
+    {
+      "p": 176777,
+      "order": 22097,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 109.60851750103757,
+      "sequence_sha256": "b000b6137e65ed79098803277d0cce0dd2e286e56d8c6e966c86f4afc72fa75e"
+    },
+    {
+      "p": 176777,
+      "order": 44194,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 107.3403647961095,
+      "sequence_sha256": "e96d617d5f7108f5957512a9cd23827f1591d22a78a7eccc400bca5d804b0baa"
+    },
+    {
+      "p": 176777,
+      "order": 88388,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 119.46050436701626,
+      "sequence_sha256": "d68adb75091e28ceead75fd3f24c5b0256025e1be929700408d2e10f512987dc"
+    },
+    {
+      "p": 176779,
+      "order": 7,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 131.7127280270215,
+      "sequence_sha256": "2d70b5fa8f5a477affd02c8d5e91e466d6fdbd48699fed0f9eb320ba6fd9949f"
+    },
+    {
+      "p": 176779,
+      "order": 21,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 120.43442729883827,
+      "sequence_sha256": "d7eec2330cf3eeff43049813f78ebcc6a3a8abb08f2c2c9a45bb149656638497"
+    },
+    {
+      "p": 176779,
+      "order": 63,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 123.18180739693344,
+      "sequence_sha256": "218b9aa7cd2f53b9ef9b2bde6545fbfc3911a526d9d0818db5e46391aa5d7ccd"
+    },
+    {
+      "p": 176779,
+      "order": 161,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 138.22251797211356,
+      "sequence_sha256": "a202cf40846a4a72debab48606986a8098e04ae602cd5a006441f41fe2d121bc"
+    },
+    {
+      "p": 176779,
+      "order": 427,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 142.25516346585937,
+      "sequence_sha256": "a39337f17102344b55a5d4979bf59db19eabeeb3fb1a1b71cf3a8b5c3e329078"
+    },
+    {
+      "p": 176779,
+      "order": 483,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 145.08285640901886,
+      "sequence_sha256": "d507ac17f83095c103e72f84c4f779b09f969685d439e0ca63b8b213794cb211"
+    },
+    {
+      "p": 176779,
+      "order": 1281,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 126.31361420801841,
+      "sequence_sha256": "cd9c68806ae5b321dc7da83b9dd3854711c6ccfb2cf9ce48f8ff6b05ca2f0c0d"
+    },
+    {
+      "p": 176779,
+      "order": 1449,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 117.3230773198884,
+      "sequence_sha256": "d4f2f0109aaf58a89b473fae4d326152d173e48568049489aa970fd739aacfe7"
+    },
+    {
+      "p": 176779,
+      "order": 3843,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 154.07929393299855,
+      "sequence_sha256": "bc00e1d6670c9e9cd1f594b779d88c0d7a983fb09aa0edcb68451a23aecc09ec"
+    },
+    {
+      "p": 176779,
+      "order": 9821,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 121.00609681895003,
+      "sequence_sha256": "aa11c50dfca9b387d9437d690de160c712a6a0f5129feb0d4b55c8a4ef9085e7"
+    },
+    {
+      "p": 176779,
+      "order": 29463,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 129.09064366016537,
+      "sequence_sha256": "1d3bed3526c0b5df372a8e7994bd8941c7e8fb799b28a83622b548d1bce24a04"
+    },
+    {
+      "p": 176779,
+      "order": 88389,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 126.6690657439176,
+      "sequence_sha256": "41ccfc35d65e6e1badf76ba963a7eee172e37f5a8619f86ba48e5539f7f21499"
+    },
+    {
+      "p": 176789,
+      "order": 193,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 105.55448663397692,
+      "sequence_sha256": "6c9c78d51c8c4e6ae4e97607c1beb9b4bba413e1168b64f8592f0945b4567d91"
+    },
+    {
+      "p": 176789,
+      "order": 386,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 132.88097498496063,
+      "sequence_sha256": "41a61cdc8cf37240246589ae6fcf1f96ef80a156408ce070475965b1a28c9f5b"
+    },
+    {
+      "p": 176789,
+      "order": 44197,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 94.01540573383681,
+      "sequence_sha256": "9071f906b22f7e56d0d68fcc494d28783f37c610394e8fa55eb7e762370c5ccd"
+    },
+    {
+      "p": 176789,
+      "order": 88394,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 126.84388349507935,
+      "sequence_sha256": "2f83d846abc46cea869fedde683fb240171e51a73e33ae6c86408c177d2d41a6"
+    },
+    {
+      "p": 176797,
+      "order": 9,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 89.17556237312965,
+      "sequence_sha256": "d4a5b498036050fd3939574927944ec0bdba8f7e0f213a7df1817abedb8eb492"
+    },
+    {
+      "p": 176797,
+      "order": 18,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 111.78643759107217,
+      "sequence_sha256": "d7c493f4189a8563cf0b05e375da64ede34b0d77d9df73b819551adc026700f2"
+    },
+    {
+      "p": 176797,
+      "order": 27,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 91.85793372802436,
+      "sequence_sha256": "a033a92fbf070952c9c6c53d99a0bf7159b1d667229d25802cbe71ba58f73470"
+    },
+    {
+      "p": 176797,
+      "order": 54,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 94.36385293491185,
+      "sequence_sha256": "d24ec2299cc99096f5ffbae8639b33d5337ddab73de1242048f75440b54e26aa"
+    },
+    {
+      "p": 176797,
+      "order": 14733,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 73.3789898911491,
+      "sequence_sha256": "73c9bd1236c3f6d4ed169b400af14944542b1641f7b4002338868e2a57afa348"
+    },
+    {
+      "p": 176797,
+      "order": 29466,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 135.83849957305938,
+      "sequence_sha256": "5a0b3dc657d1a859017970043ae3ee399e75440b8eb3fb6963c6b4aabae140e4"
+    },
+    {
+      "p": 176797,
+      "order": 44199,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 134.5259784469381,
+      "sequence_sha256": "3d2453f2962c0790efdbd5eb3f3a700da77d226583597b8e072afab83fdabf90"
+    },
+    {
+      "p": 176797,
+      "order": 88398,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 133.37638987298124,
+      "sequence_sha256": "985bec20702352d28294dc5212c19d4cb0210d0176f4fe02d68fe95f51a91bb4"
+    },
+    {
+      "p": 176807,
+      "order": 7,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 206.0172014478594,
+      "sequence_sha256": "e07b25043fd5fc90d23401bccc2af0c43b0726fe1161a7f8dfb89a82798f174c"
+    },
+    {
+      "p": 176807,
+      "order": 511,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 167.19494841620326,
+      "sequence_sha256": "d7fa327c02b606e854db3bad71fec84c5875fb5693b8118b871c2c1cddeff447"
+    },
+    {
+      "p": 176807,
+      "order": 1211,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 123.78629362001084,
+      "sequence_sha256": "67d9a811e3ecdc6fd54a77978608aead02b6b0ecf02346bc45e2fc827bb25c0c"
+    },
+    {
+      "p": 176807,
+      "order": 88403,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 183.16736468905583,
+      "sequence_sha256": "06e7901bafc88ba5c7139dde00e669b6907eb9b679192759253338aece82740d"
+    },
+    {
+      "p": 176887,
+      "order": 31,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 88.61815647617914,
+      "sequence_sha256": "ba41854ed2ab93d507ece89536ede1f5bc78d06d8cc2bdca4439193be79bd119"
+    },
+    {
+      "p": 176887,
+      "order": 93,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 159.07910105097108,
+      "sequence_sha256": "0b7c919e0c66befcab7b0d4523511f38e8ff9219a133dd2b97d2aab337d098cf"
+    },
+    {
+      "p": 176887,
+      "order": 279,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 119.58459205599502,
+      "sequence_sha256": "ce20a4fa46270a3c42e2917808b82fb5b9df4a587d9d5a3bc94e957781212179"
+    },
+    {
+      "p": 176887,
+      "order": 9827,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 102.01925212191418,
+      "sequence_sha256": "0cb3069c5118f3e1c1c49209dd050061e339f613af08985bd3f7a49d8b6a62e4"
+    },
+    {
+      "p": 176887,
+      "order": 29481,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 143.75910650682636,
+      "sequence_sha256": "1ba66083ac05720aee0cb1bd9cb7c45cb9bf461a0d78abf6b2327ca6f642581f"
+    },
+    {
+      "p": 176887,
+      "order": 88443,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 136.0528551659081,
+      "sequence_sha256": "e9d3ac614d068bacac26c3bb6c2c115685a08f4285ee8d8f29646bdc22005a22"
+    },
+    {
+      "p": 176899,
+      "order": 29483,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 137.50555513007566,
+      "sequence_sha256": "67a4b486721c354699d2e0e35a6832510e3ff021d2e4c8e43105e402596ded2b"
+    },
+    {
+      "p": 176899,
+      "order": 88449,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 178.60931514482945,
+      "sequence_sha256": "909f013bbde3017766573b4070d7d506817da1afc2bbdf01e24e2885f4f63269"
+    },
+    {
+      "p": 176921,
+      "order": 5,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 187.94443201902322,
+      "sequence_sha256": "b6a4faea9e8825c6512c0412d003257ec31f31d611e05f1ed426ca6918f53ee9"
+    },
+    {
+      "p": 176921,
+      "order": 10,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 183.5618962580338,
+      "sequence_sha256": "5174ca2b5657cc6a537c944ad29f36914c07a9d7ec778dfef4a84ded959e1399"
+    },
+    {
+      "p": 176921,
+      "order": 22115,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 207.40431284112856,
+      "sequence_sha256": "613c6576b5d8f92c0e0c0299983a3ac8d8af7a7fbf67aadf29245c2cbe95fd36"
+    },
+    {
+      "p": 176921,
+      "order": 44230,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 198.48548887390643,
+      "sequence_sha256": "f0ad08187a068ae6a7e0d80be52deeeea799f4bb4fc954c068a6cd70e0b689c9"
+    },
+    {
+      "p": 176923,
+      "order": 9829,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 169.21541381906718,
+      "sequence_sha256": "330494984e6c55afca624453f70c6883bb4aa83633e9d474d6683255bd2d6bad"
+    },
+    {
+      "p": 176923,
+      "order": 29487,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 170.25927814794704,
+      "sequence_sha256": "c35d14ea4606b985400249c5044710a3e9326413b265f0a54ee47c40a96f4f3d"
+    },
+    {
+      "p": 176923,
+      "order": 88461,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 174.36289775907062,
+      "sequence_sha256": "6711ac17b6ecf8b03d5fd5d28a3ec5d08456088593b29145c80e7dbe72e4f1a7"
+    },
+    {
+      "p": 177043,
+      "order": 19,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 164.85007512802258,
+      "sequence_sha256": "1e65309fc177fbaaf18bda7199c3a13b129719924b23779dccd4a16907b1a4f1"
+    },
+    {
+      "p": 177043,
+      "order": 57,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 156.86356662097387,
+      "sequence_sha256": "4ade985aee0d231242d4b01b734d6dc8bda59ce2cf68d6da58b2f0bc10d5e26d"
+    },
+    {
+      "p": 177043,
+      "order": 29507,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 151.8734028271865,
+      "sequence_sha256": "0c4afb7cffbc737c192a9dd5fe7f8e4732326b8de38e71a771c7ed1e1f45a2ef"
+    },
+    {
+      "p": 177043,
+      "order": 88521,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 132.23829247010872,
+      "sequence_sha256": "b57a4f15c79db65382122718190599c745b84e4294b6fd7f680278689eb2196b"
+    },
+    {
+      "p": 177173,
+      "order": 44293,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 140.92518281005323,
+      "sequence_sha256": "747b6daa778aa2e9df612b4581d66ae3b682391e81dc1c3a29a27427ad456ed2"
+    },
+    {
+      "p": 177173,
+      "order": 88586,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 155.2854307189118,
+      "sequence_sha256": "5adf1524a56b6ef8c3f84eb886f734c1e6049cb089aa568ec37c2cde800ea4d2"
+    },
+    {
+      "p": 177301,
+      "order": 25,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 146.52982552000321,
+      "sequence_sha256": "e06105580a4660ac2a1ec16a38583f19db54fbf30d7969ad91931093f9337a94"
+    },
+    {
+      "p": 177301,
+      "order": 50,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 135.00646149902605,
+      "sequence_sha256": "33efb8a47e0625f23689227d15cbe02db2a61c6b461f74167d5a26ba2f0887d8"
+    },
+    {
+      "p": 177301,
+      "order": 75,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 138.47038519289345,
+      "sequence_sha256": "aae6dbfea32a46cb07cc7fd1f706fc2c3b9184dec32a60c7fb96386fed2c9813"
+    },
+    {
+      "p": 177301,
+      "order": 150,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 115.29413807205856,
+      "sequence_sha256": "4fee6c0ebba1c43fe4de3470b5b74d8cf53fc70a956e56a62ff30ffb32739e70"
+    },
+    {
+      "p": 177301,
+      "order": 225,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 132.47544984007254,
+      "sequence_sha256": "b9a1d29593a8ff14e14a94325811228526cb024dcdaff48c1b189555cbaee395"
+    },
+    {
+      "p": 177301,
+      "order": 450,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 156.01810584100895,
+      "sequence_sha256": "1b9dcc70a331b079a8d09a13ce4cf6d6e3b8399c763f164a292ab4553134f4d1"
+    },
+    {
+      "p": 177301,
+      "order": 4925,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 135.9118651819881,
+      "sequence_sha256": "be8bc8522a4d909a60598a07476d3584297eda7ef4a3a8ec814199e7d5cdcf48"
+    },
+    {
+      "p": 177301,
+      "order": 9850,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 175.25229022093117,
+      "sequence_sha256": "ca6532fa33a767ff260c3d2ff9f72b418eb1726ed3fd4a1cdf1aaf9e7cb5937f"
+    },
+    {
+      "p": 177301,
+      "order": 14775,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 182.94990859297104,
+      "sequence_sha256": "c0549a52f88a94dbe6f31fcc1358d2d553edadf51d3efcceeb88091734cff60d"
+    },
+    {
+      "p": 177301,
+      "order": 29550,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 174.6804768918082,
+      "sequence_sha256": "b8b0faa9701779edf3a82e4f3b3a3fa2fb9360204bc716340ec765ff97d9995a"
+    },
+    {
+      "p": 177301,
+      "order": 44325,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 128.51521878503263,
+      "sequence_sha256": "77956e5629040249db12db564882055c028c4ea52076df637a61a25a913b349c"
+    },
+    {
+      "p": 177301,
+      "order": 88650,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 124.30073594185524,
+      "sequence_sha256": "c0b6117e952ef94e38868be00b1a549c41cc1a107d8f4c2d692ee92efd833c41"
+    },
+    {
+      "p": 177319,
+      "order": 9851,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 130.08158313087188,
+      "sequence_sha256": "33d18ee140bf4e968caeb6b317db880dd7105c24f0bacf7f901731b96d275aad"
+    },
+    {
+      "p": 177319,
+      "order": 29553,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 136.96339844493195,
+      "sequence_sha256": "9c70f3a25f1f4d3f20d03cd37b06c33853140c3bc1eee725c2ac98b871b2b99b"
+    },
+    {
+      "p": 177319,
+      "order": 88659,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 188.16507584485225,
+      "sequence_sha256": "987799144cfaaa3642d2c764fddde942e2c872835fefcb34e68ee131de0cf31a"
+    },
+    {
+      "p": 177337,
+      "order": 9,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 160.07204432506114,
+      "sequence_sha256": "d4f344f9cebab827d9aeeac2792b4e71b332758a91258f2f9e752847a97bd3cb"
+    },
+    {
+      "p": 177337,
+      "order": 18,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 117.84995772084221,
+      "sequence_sha256": "110ed9c449e6997aafc3a5714a875c79108ab1fc596c4f04e2728862d12369f0"
+    },
+    {
+      "p": 177337,
+      "order": 27,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 135.0443396777846,
+      "sequence_sha256": "a81fd2197e10d504880ab08c363dbb4193f1c822074ece481fda57940387c3cc"
+    },
+    {
+      "p": 177337,
+      "order": 36,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 127.94004792696796,
+      "sequence_sha256": "8c70c805812b9f8067f75ccc48d6a34c198600ee6bcfa710b9914ca085aa1b66"
+    },
+    {
+      "p": 177337,
+      "order": 54,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 116.46434560907073,
+      "sequence_sha256": "3bc6784974c0c1640e8d34ea69d91a9d52e635f1de8d0e411d91ab06d5448152"
+    },
+    {
+      "p": 177337,
+      "order": 108,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 108.96332794497721,
+      "sequence_sha256": "afb07c4094a3a6105f81cb4f7f3acaba0e6c111572b31400da7661c4470f2ab2"
+    },
+    {
+      "p": 177337,
+      "order": 7389,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 160.35537579399534,
+      "sequence_sha256": "575c4762cdeb662d479d75271373bf748b443bc9586b474ad7a84999907da9f1"
+    },
+    {
+      "p": 177337,
+      "order": 14778,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 179.30683408514597,
+      "sequence_sha256": "bd498e981de0a2b9a2d488e2bfe86d9c18a8a7b95b4fbb5850c0e2bcc9b535a2"
+    },
+    {
+      "p": 177337,
+      "order": 22167,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 169.14095864095725,
+      "sequence_sha256": "542c2dee07cbe75a43c8b99e754527141426c088a618d840840f8da5d728cf8d"
+    },
+    {
+      "p": 177337,
+      "order": 29556,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 2.006844389019534,
+      "sequence_sha256": "f7bba680e255d34190d4ffeceef20833394b01e4df611a64538f8e1ea2f862cb"
+    },
+    {
+      "p": 177337,
+      "order": 44334,
+      "status": "PASS",
+      "returncode": 0,
+      "seconds": 122.22229623398744,
+      "sequence_sha256": "df1895c36e154bcee9576bd452001f33f1f7e48123669340e6118b541c3abf57"
+    },
+    {
+      "p": 177337,
+      "order": 88668,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 40.018649307778105,
+      "sequence_sha256": "6f82e913e3c7ffda4a169eabd6065cb2c045d18a9d6bd53b447cb7304f9edb84"
+    },
+    {
+      "p": 177379,
+      "order": 17,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 56.057923960033804,
+      "sequence_sha256": "2ccf3c8418725a8af718e286e01989e691984e678d617674074fc91a8d13b9a0"
+    },
+    {
+      "p": 177379,
+      "order": 51,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 68.0619207310956,
+      "sequence_sha256": "f01faf82eee3b7ef1cff32f0ddda1dc2b06c5feded2596f7a8d37ae9618f237c"
+    },
+    {
+      "p": 177379,
+      "order": 629,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 72.04242954496294,
+      "sequence_sha256": "0c2ed07ff77ae863a48a2b64f54305f37674fc9557d43214ae454f043d041997"
+    },
+    {
+      "p": 177379,
+      "order": 799,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 80.03551463386975,
+      "sequence_sha256": "48a25e348d5512ffd879d342a43896e5076c1c9dff60564d33ae2579bd5f9f01"
+    },
+    {
+      "p": 177379,
+      "order": 1887,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 88.03917830600403,
+      "sequence_sha256": "28f4823574e1978f221b6283b1d61f0b9ea32884ba8050032d26388fe5779c6d"
+    },
+    {
+      "p": 177379,
+      "order": 2397,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 52.03858738997951,
+      "sequence_sha256": "af16034f279d547847d85d48ed2fbdd8860a189036ec8ea541ffd0977a8974e6"
+    },
+    {
+      "p": 177379,
+      "order": 29563,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 90.03691908111796,
+      "sequence_sha256": "eb02c1f5177bd4d278dbacfd01384aa1cd058d30db2cf60f37894e9d1f0ccc80"
+    },
+    {
+      "p": 177379,
+      "order": 88689,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 92.051141675096,
+      "sequence_sha256": "ce6ae0b70498ba14757e151599e8603a78afccd71cf867351fa4676a5fcc0191"
+    },
+    {
+      "p": 177409,
+      "order": 32,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 132.05903956084512,
+      "sequence_sha256": "1c07a8c0f5a56e72e21bd23adf252cf4f0efefaa9842ef91c83e45386a46190f"
+    },
+    {
+      "p": 177409,
+      "order": 64,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 126.04815447400324,
+      "sequence_sha256": "7d7904d2dde7187576f66dc6f4420c5b92ee94b45743397ed2fb325e36027a0c"
+    },
+    {
+      "p": 177409,
+      "order": 96,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 132.04723155195825,
+      "sequence_sha256": "37d0cbe118adf3ca510b3f606b221e4fd8efeed97952344c3a8db354eb79b986"
+    },
+    {
+      "p": 177409,
+      "order": 128,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 142.08354496699758,
+      "sequence_sha256": "fcd7d78503fb29f891547c618c141c353e8f28583393a281420098fc45e46e59"
+    },
+    {
+      "p": 177409,
+      "order": 192,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 120.11277919518761,
+      "sequence_sha256": "dc26199e7b1875c56909015b709f79d9949c8fb98c79a40d57859b62bd424fe6"
+    },
+    {
+      "p": 177409,
+      "order": 224,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 174.07577775721438,
+      "sequence_sha256": "f9635cc0fbab952973d4efbc28c48a02f0701fe528b9fe9014832d25b2c21e6d"
+    },
+    {
+      "p": 177409,
+      "order": 288,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 182.16291236015968,
+      "sequence_sha256": "0df3fe7ad753feffd95975eeb1d356acbbeb5c6019d0f79cd05567c0e372df42"
+    },
+    {
+      "p": 177409,
+      "order": 352,
+      "status": "PASS",
+      "method": "adopted native Magma",
+      "seconds": 182.0796523450408,
+      "sequence_sha256": "f72cdd169f2c4a7898c04b524af8a5ab1b233522449d0b31c1d030bc8ee526d5"
+    },
+    {
+      "p": 177409,
+      "order": 384,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 306.6234469730407,
+      "sequence_sha256": "3bf6d106f23eb48cf690a3ab38166cde95842765b1d9b7ba7f419d40774d6ab0"
+    },
+    {
+      "p": 177409,
+      "order": 448,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 310.27126076282,
+      "sequence_sha256": "01faff2eacf469bbf3338ff35f77c5189a791d6db50bede4a1ec0bc90d58b358"
+    },
+    {
+      "p": 177409,
+      "order": 576,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 300.4162863860838,
+      "sequence_sha256": "59ef94c70b4f33acd7586098db70ade77f0b3a99ad009a47cec165797ddcbedd"
+    },
+    {
+      "p": 177409,
+      "order": 672,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 284.2674666522071,
+      "sequence_sha256": "e7b50ead56d3371f58859d02ae954305180a1bd5e8c3cc84a926348852640053"
+    },
+    {
+      "p": 177409,
+      "order": 704,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 294.17211325396784,
+      "sequence_sha256": "c8b87785247c021928261d9eecc6b055a318ab05a6b8e71ba26a053cb3083ca3"
+    },
+    {
+      "p": 177409,
+      "order": 896,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 264.5261881488841,
+      "sequence_sha256": "b8163effdca67b9b47b64cedb92b7f54601fd68f3b5cf32528609c15448889e4"
+    },
+    {
+      "p": 177409,
+      "order": 1056,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 268.7085466149729,
+      "sequence_sha256": "681ffde61334a0f4af5e45712070efd0d92c42b0da94ea14c0d9001e0f831c3d"
+    },
+    {
+      "p": 177409,
+      "order": 1152,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 292.1150617930107,
+      "sequence_sha256": "206381ce05d940e6802f62d178c6240987c070988e317e38811f19f539278a67"
+    },
+    {
+      "p": 177409,
+      "order": 1344,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 250.89570752787404,
+      "sequence_sha256": "78af876b38c1bb0e74a606b456a5a4c48156e67b6369dbd3c5e86da86ded2480"
+    },
+    {
+      "p": 177409,
+      "order": 1408,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 250.75883559696376,
+      "sequence_sha256": "09c7935efacc980ec609d5b08338c1b9e9af0ce5201c723806d273bd780b50ee"
+    },
+    {
+      "p": 177409,
+      "order": 2016,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 243.09113413118757,
+      "sequence_sha256": "fd9d1192ef6a52a83b199e3c22cea7ed500509febdd5c96d57701fe96e059595"
+    },
+    {
+      "p": 177409,
+      "order": 2112,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 258.94666876783594,
+      "sequence_sha256": "bdfaf1bb76f8ac3ca6147e1a5547f70a85b4a29af5f0ecffcfb3126b03ece497"
+    },
+    {
+      "p": 177409,
+      "order": 2464,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 258.2159765311517,
+      "sequence_sha256": "1dfff7694a6cbedcbc1d5f9288d367733ca8707e3623a2d53eca8f541f8a6967"
+    },
+    {
+      "p": 177409,
+      "order": 2688,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 243.17232535313815,
+      "sequence_sha256": "ff26e54943ddfc75c3af9ca3e01feedb045a12a72973dffcf6b0662c446ceb24"
+    },
+    {
+      "p": 177409,
+      "order": 3168,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 255.753028096864,
+      "sequence_sha256": "ad56d8d67cd7b5d9849c57b7a66fec54b711ad890d583904759e5141e3b81ff8"
+    },
+    {
+      "p": 177409,
+      "order": 4032,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 235.493168160785,
+      "sequence_sha256": "a3423262e0e933baf5486f43acc6f2f131d8b5355862a07da8c15a44ba850bf4"
+    },
+    {
+      "p": 177409,
+      "order": 4224,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 229.85851443582214,
+      "sequence_sha256": "e27422857a232eb95cb1a83633c05606659f9303be5ffd0022306d23e83a962f"
+    },
+    {
+      "p": 177409,
+      "order": 4928,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 229.621682128869,
+      "sequence_sha256": "1b4ad78014285ee8363f389b643a8b07deade9f17a32de41e5589a4735f11ad0"
+    },
+    {
+      "p": 177409,
+      "order": 6336,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 210.63382054306567,
+      "sequence_sha256": "07279bec841e634c27ead05d6cea284aafc2d2ada96f5ffe0fa17e74914491e4"
+    },
+    {
+      "p": 177409,
+      "order": 7392,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 204.5781428650953,
+      "sequence_sha256": "5726c3bfcc50f3a3424cb022a077950d98ff55ab2c1f0d727221d864b75a4ecc"
+    },
+    {
+      "p": 177409,
+      "order": 8064,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 62.90471614385024,
+      "sequence_sha256": "05b6fcc37b27187de31f8e7b82e5e888b865d758345594e5edd206c3e7d6becb",
+      "sparse_export_sha256": "58df353b8d6540b69dd980216ee082ff7265902a48f840e3f07d4b07b5856a7e"
+    },
+    {
+      "p": 177409,
+      "order": 9856,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 84.3601156489458,
+      "sequence_sha256": "755622e7382e76927613758dec07542e36e914933767ebb182d0bb25d84c18a9",
+      "sparse_export_sha256": "13549121ffad5b45dfa95a0c3bb7fd07173343a080571d8b384e819533cddca8"
+    },
+    {
+      "p": 177409,
+      "order": 12672,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 74.57434199610725,
+      "sequence_sha256": "4325454843fa2c5ebe00e38c9995551adec349b69b8c6d05419b67f7fc6d86e9",
+      "sparse_export_sha256": "f982610fc357e17dee442982e30fd37a3faa81b67510ae43567703af99896bc2"
+    },
+    {
+      "p": 177409,
+      "order": 14784,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 75.65647270111367,
+      "sequence_sha256": "285bf470d00163c54690d373e2572437677ac0d4f76cc970559fc80283a12f0d",
+      "sparse_export_sha256": "ce97e22fba9f45896321c94ac48ef6a13a785afb2420325d99627a4792f22397"
+    },
+    {
+      "p": 177409,
+      "order": 22176,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 84.10498849512078,
+      "sequence_sha256": "225df7fe03018026d1fd8a78c604bc780fd276e8097c9112363d988b8bc916e9",
+      "sparse_export_sha256": "d91bc435a74e1b6bbaa12c5a3e301ce8f5821dd39182050725df5c053b4f5d50"
+    },
+    {
+      "p": 177409,
+      "order": 29568,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 65.07122659892775,
+      "sequence_sha256": "a49fc47d4e4d0a3118ba3604ad9c7540f46a87f974a14e403ebb8088b1634900",
+      "sparse_export_sha256": "55c06672acc16eb6ea676379a0e7bb2b0a9f35649a68d532386c9d483e98923c"
+    },
+    {
+      "p": 177409,
+      "order": 44352,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 81.61374582210556,
+      "sequence_sha256": "3a86f295c80d3ca2925c685e722522895fda99838450acb400c0cf5c7ba8fb12",
+      "sparse_export_sha256": "a78a6d4f8c84634dcfbb555ce8218a631a6ba3cd1dab0282635af1f4032d2ca8"
+    },
+    {
+      "p": 177409,
+      "order": 88704,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 72.95886445511132,
+      "sequence_sha256": "1372a3f9286074069db864465bf146298baf31e10b7e1ca903e1d4ad69cd9790",
+      "sparse_export_sha256": "5d0ad04c9661684c0d4e41cf52767550fb457e94e3d7474d859bed5688850c7e"
+    },
+    {
+      "p": 177427,
+      "order": 9857,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 69.89136238000356,
+      "sequence_sha256": "4454ca26573f5e81decf13c3efc54690bfb845fa2587ff40aa60cb49d8fb9c5b",
+      "sparse_export_sha256": "65c08f6332de856ea2e67b3adcdf2c84dfa0a651e0999ab4e93e91b89ba608d1"
+    },
+    {
+      "p": 177427,
+      "order": 29571,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 76.37309223413467,
+      "sequence_sha256": "0220591787da9956f0911bc1c45f541ba8461c345d44133170aeae27206759c7",
+      "sparse_export_sha256": "81d625b594f7771b54729b7f9445baf812778641e6c97edaf7ae8fd49d19001f"
+    },
+    {
+      "p": 177427,
+      "order": 88713,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 90.03272367687896,
+      "sequence_sha256": "aa7132ebac7355e0730ce68b21c809126a232eca30049f15025a83b7598f23b0",
+      "sparse_export_sha256": "8935b5fefd94b9b8830df5caf4ece8840292c3e6a73653dd51ca01971f522488"
+    },
+    {
+      "p": 177433,
+      "order": 7393,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 77.14724066411145,
+      "sequence_sha256": "37e7d154361e94d856e5f23278ca14509443e2ebd4af41d08cb35da6807b6c99",
+      "sparse_export_sha256": "28a67899902ba189afd0e44c23954ab55d66352d91f617298482b02150023654"
+    },
+    {
+      "p": 177433,
+      "order": 14786,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 69.33639061381109,
+      "sequence_sha256": "4d6978aa577a396ed98f3769f94b8cf3ffdc1cae5d6c3dfbdb0e4bbfbceb553d",
+      "sparse_export_sha256": "5de8f402961a1e45cda1fd00599bbdf7ccbe5e08034ce1594f50a1f70459354b"
+    },
+    {
+      "p": 177433,
+      "order": 22179,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 75.38518445193768,
+      "sequence_sha256": "a37358a58241b38d999cd0732e1e16a5273974c38db76be5a9edb62485dff4da",
+      "sparse_export_sha256": "151bef8f2f75a6d3dbd5dd06c680ffb67bbf39e1cfa7a67ac7ec68912e4eb71f"
+    },
+    {
+      "p": 177433,
+      "order": 29572,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 62.307724341982976,
+      "sequence_sha256": "8a7118788035617cea077cfaa70bd89db7c803be2df5e383017d0fe3ea013cd1",
+      "sparse_export_sha256": "894e35144d0206244fc86a27808a1283dfb57fb6c6acabeff9696908b1de8b67"
+    },
+    {
+      "p": 177433,
+      "order": 44358,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 68.27855930710211,
+      "sequence_sha256": "51eb7fbae451109f30f22e95971501ebbda5b0eb665a5c9e1eccd7a3b3d91743",
+      "sparse_export_sha256": "49a0cd3146a7d30ce2044971a2fd13c0e35456b9a372d6edc21889f20ea9bd41"
+    },
+    {
+      "p": 177433,
+      "order": 88716,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 64.97309844801202,
+      "sequence_sha256": "aa0c1c608490f7bff26f161c0a721ac4dc6651c3d392218b66342fd756ac9a06",
+      "sparse_export_sha256": "951e93f467f8b636ab5deacc806c7d9670f5e773503b19bf519ffb6f3fba26e5"
+    },
+    {
+      "p": 177473,
+      "order": 8,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 55.79210457508452,
+      "sequence_sha256": "46208cba5b179d6961f480c1281c57b2f79caf2627a5bcf222942037409aa64c",
+      "sparse_export_sha256": "aea65a611ad13d1dd10ff051111380a87addb0d3892137016fee1baec1bce958"
+    },
+    {
+      "p": 177473,
+      "order": 16,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 58.5392687919084,
+      "sequence_sha256": "efcd4b16d9a2e930805afcb93bc2027575e050ee3afc5ba45d0f843520d843b6",
+      "sparse_export_sha256": "1a004896c01502d1e77a4a11c1348327bbde683901ecfb578ae5ad175a550755"
+    },
+    {
+      "p": 177473,
+      "order": 376,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 55.72259417013265,
+      "sequence_sha256": "19521b8f372c4ae5dd45f3408d307c79939ed9841ace892a8e2a530eecd43b37",
+      "sparse_export_sha256": "a5cbfe3346a50e6259cc58eafa736f361311cabbcb038dae7bfc39a74f2a097d"
+    },
+    {
+      "p": 177473,
+      "order": 472,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 59.68254274409264,
+      "sequence_sha256": "fadaa56da209e62784f864b3b2a3098c50db13b2e2f4abc662057752c2989579",
+      "sparse_export_sha256": "ed07ae509746f95c04c4bb28a9503f29bd8184f2c88b275fda932513531d8b1b"
+    },
+    {
+      "p": 177473,
+      "order": 752,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 59.6630268630106,
+      "sequence_sha256": "34d1e9feb40b581694beb95bf3c8ebec6b5e9192b4fe6cfc45e9f7f37065fbe0",
+      "sparse_export_sha256": "83189b59260ee952f51d4d0cbc2d9222827caf7d320fa387445f47db58760507"
+    },
+    {
+      "p": 177473,
+      "order": 944,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 63.019390465924516,
+      "sequence_sha256": "f32bfe7d2f7aeba17ea361bb0ed7f6cf48894ea05cd87b0940508893bac76c3a",
+      "sparse_export_sha256": "7883577828acbbde7ac838d4eb348d919be2953fb8574aff50322475d8b0984e"
+    },
+    {
+      "p": 177473,
+      "order": 22184,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 69.28792892419733,
+      "sequence_sha256": "c66be4e9f6b5a67b721e779c3e66decb38c3edfe165e77b4ef560f81bcba0f42",
+      "sparse_export_sha256": "13d3867b3e178f1b0aac2dbe741a446d28e6312caf8a3e90a93f3a2a0d87e5c6"
+    },
+    {
+      "p": 177473,
+      "order": 44368,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 66.16796804615296,
+      "sequence_sha256": "b9ab1027b4d6a8e82a7a72f666aa7ce52cdbdc9f70759d9b00f79529f0e5bbbb",
+      "sparse_export_sha256": "348b721d8f754055eee0ee36da1a13c003d173169585b49f6b6079aed2904e49"
+    },
+    {
+      "p": 177481,
+      "order": 5,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 74.11394363595173,
+      "sequence_sha256": "92c303d271280a0b40101e02d22899ddda8694238ac5dbb799896e402d3f8d45",
+      "sparse_export_sha256": "909f84c7f90d1c7da35c77dece431eaff7a907019f8f6dea419b8ddff9ccad1e"
+    },
+    {
+      "p": 177481,
+      "order": 10,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 67.7018269279506,
+      "sequence_sha256": "0c9e68ad5658ded9b42baba0c078248eb77e1779ab45aad015df953b84cc0711",
+      "sparse_export_sha256": "cb85410f128092237e30b1277fc5413487a77bfadc844d1eba64a914d1b28837"
+    },
+    {
+      "p": 177481,
+      "order": 15,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 54.73551441705786,
+      "sequence_sha256": "4e59f6a15fcacb9bfd5238a9f1b371ccb8cadd4b70d096ab8e233a87cbd35768",
+      "sparse_export_sha256": "0b9a26218c2b4333d33f7717c145e6b254d73ef3193d7d6698a22db5dc212f0b"
+    },
+    {
+      "p": 177481,
+      "order": 20,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 64.3049215900246,
+      "sequence_sha256": "15936c8fbe46835f8a6b4124efe14c4b7640b753697dee80403fc0ec08acf46b",
+      "sparse_export_sha256": "2908999d901445db00654de8dcc29f7dbb0e7d263947e119821033ec4cd90ef0"
+    },
+    {
+      "p": 177481,
+      "order": 30,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 61.790928113041446,
+      "sequence_sha256": "c458e385735dce7c621403eead91741850b6d568ba6504eb3b0b77faba222123",
+      "sparse_export_sha256": "27b01a6c3de92cb8fae517812f2d84d75158c712bf7c3cf940c140d2f721aa36"
+    },
+    {
+      "p": 177481,
+      "order": 45,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 65.54060736601241,
+      "sequence_sha256": "af099e65bf374ebb84d1026fe297ffde4bf17ba18c761bf100286d576f475fac",
+      "sparse_export_sha256": "080ee49b273eda6e6850b284ac5ee4be82e07c672f0258854addc0431af65934"
+    },
+    {
+      "p": 177481,
+      "order": 60,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 74.26776935299858,
+      "sequence_sha256": "8b38c87f72389768d01afa01834cdbe68e03daa1edd8efd49e01eae7f3420c63",
+      "sparse_export_sha256": "daffebaa5f6cd9f93886c041a3a1da1f6ae68ff44e747aec3daadf492c99ef1f"
+    },
+    {
+      "p": 177481,
+      "order": 85,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 97.59025824000128,
+      "sequence_sha256": "1e570107b72b12f24e96ad3086a6618d83d85e5614a1ff0bf33f2c1b9a643d65",
+      "sparse_export_sha256": "19b1e6deeb517b58bca14e5c0326baa626d5be979c88663b4987229535ebd13c"
+    },
+    {
+      "p": 177481,
+      "order": 90,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 87.77547794301063,
+      "sequence_sha256": "4f5a9783d27dcc9644498b8b917b6458e90fa678d82148073038660fc317383a",
+      "sparse_export_sha256": "4d2426bffbb7d934948810fa7e8190eac1cfec2927cb70743411136b5afbe164"
+    },
+    {
+      "p": 177481,
+      "order": 145,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 77.36476385989226,
+      "sequence_sha256": "953e69bd04ed267a7af7b2181d9f902363f7e81408b1ea1a3a1013bcae5f68ea",
+      "sparse_export_sha256": "1afb9a0957b79791ac9cd66edba9c82b7fa83e1561fd3749765c7c9b356373c6"
+    },
+    {
+      "p": 177481,
+      "order": 170,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 79.38366353791207,
+      "sequence_sha256": "d3a98877ae7ed98ab42fe261f88d1dd6c94a4913b3b4911bca6d0533495d0b53",
+      "sparse_export_sha256": "2e8326cdf0fcddb0dd7a3095cb0292cd14dfb0c4a32be57beb95151ef05b5aef"
+    },
+    {
+      "p": 177481,
+      "order": 180,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 97.728863571072,
+      "sequence_sha256": "cbe4934dbf5d0bbabe693043541563012a0c66813eeeeabe178cd4d477888954",
+      "sparse_export_sha256": "6724beaa7b3049666083a29ca5c14f778d59878a9a07db00db9bd0245eb9f78e"
+    },
+    {
+      "p": 177481,
+      "order": 255,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 81.83815211895853,
+      "sequence_sha256": "bdcadd010792f344f1bfc605e8b5d9f985c31005f50a5dc7e3564faf76ea00a0",
+      "sparse_export_sha256": "ff13f4659f27a1ad559842c934b7b6d5ab8bf55d60cb1723cb49e7055afc333c"
+    },
+    {
+      "p": 177481,
+      "order": 290,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 90.2178808520548,
+      "sequence_sha256": "d754eddcd1864d4863f7a53e1b875e91a61960b267e94665394d9b296261ede2",
+      "sparse_export_sha256": "a3cd94027c07024923145c8a1bd5e4063697bb3cb08bae079e5285e132a6418c"
+    },
+    {
+      "p": 177481,
+      "order": 340,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 107.01885235100053,
+      "sequence_sha256": "b7858714333cf872d76ff34f736f532f3d97856f365a99376dfb90e2dd8289b4",
+      "sparse_export_sha256": "e1eb275fad691e51a3fc27050f5087896b0a20f5dd620607710f53f8fbaa311e"
+    },
+    {
+      "p": 177481,
+      "order": 435,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 93.0533178159967,
+      "sequence_sha256": "e4218d7b38b5c52f2ca04daa12d116afd718b81eadcd8ac4e48c2ea35faa57e4",
+      "sparse_export_sha256": "9a35514d600b8edcb53d0fe2c382da8514348f09c7f40bcc0b849ed5c91abd00"
+    },
+    {
+      "p": 177481,
+      "order": 510,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 93.64794506505132,
+      "sequence_sha256": "06b69bec14ae3c12c791b13a672c75f93d12c353b8f819e97ea00804b58fe94e",
+      "sparse_export_sha256": "afa2532bc023ea22f8ff41dddd5805dfbfb10cae34f81b392a6fccd01b73ac01"
+    },
+    {
+      "p": 177481,
+      "order": 580,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 86.10835316195153,
+      "sequence_sha256": "f55ef3c3f93fa783f5b86fb35ef194faf3eb4ec779c091d0c7667e8334a03443",
+      "sparse_export_sha256": "d495bfb40a782477f9b5d9809c59fcbff9608b26aea1502c0f9854b0497437ae"
+    },
+    {
+      "p": 177481,
+      "order": 765,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 90.42848791088909,
+      "sequence_sha256": "941dbbaa674f7e0e55791eaf78dd03ea13962e1474ff8f96b88393e6f19b8635",
+      "sparse_export_sha256": "0b34e52b57d992e7368b8342fd5633030a962580929ed628ab8b07b6c4d4fadc"
+    },
+    {
+      "p": 177481,
+      "order": 870,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 102.6214350471273,
+      "sequence_sha256": "a7a48712a142a01b8426421b5953176ea558b6ea707700665ea66e3e616a573e",
+      "sparse_export_sha256": "65291424f98b991e69d382f7b945c149b1bfa6c144a7205a39cb7217ffc55541"
+    },
+    {
+      "p": 177481,
+      "order": 1020,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 119.05622845911421,
+      "sequence_sha256": "4d3d9d03e995a422535a31e2f0e3a95cfb76382c95efa052bcec32081ef7c3ba",
+      "sparse_export_sha256": "8880d0a07a2672f42420e14964129120eed97d0ca8256e7280c1760ab680e655"
+    },
+    {
+      "p": 177481,
+      "order": 1305,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 110.96645219717175,
+      "sequence_sha256": "cfb298d72507cdc639e4c26790fcb6400c1a052d1169d1f5d077d2254ebcae87",
+      "sparse_export_sha256": "551492728ced96aa9ea786e70e6320c7c310ad44a9db6db9771e613c25cd30af"
+    },
+    {
+      "p": 177481,
+      "order": 1530,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 98.50727022299543,
+      "sequence_sha256": "b04b3b2bd8e45e321110f30196837bb7ffb4b0fe99b61fdfbf791740344e6514",
+      "sparse_export_sha256": "e8c5047129db7156ddad22c69d72bf6b2d89c0fcf01961d1d665d4e021c3ff0d"
+    },
+    {
+      "p": 177481,
+      "order": 1740,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 109.7056346880272,
+      "sequence_sha256": "ee860573bf64b28491368862c80e8cef7d1f831b78a5a76f479395241a7c09ad",
+      "sparse_export_sha256": "76fdc9fc7a7c52bb5134d89665fd62bae8bdcc6f6945b8be7d3d73dbb671de62"
+    },
+    {
+      "p": 177481,
+      "order": 2465,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 111.06312001287006,
+      "sequence_sha256": "62b7bab0bbaacba99f2df196eff66697635c369da5878f4db6afcaa1fb6de955",
+      "sparse_export_sha256": "234f268f1b63829ce125efd3ba2e2cf93d280c059925175ea90d65f5ebfa7394"
+    },
+    {
+      "p": 177481,
+      "order": 2610,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 128.6154113090597,
+      "sequence_sha256": "e526123ee2b30396a25f128eeef17f843222e0442766602c82c8c543785426b1",
+      "sparse_export_sha256": "254c07867d618f45be6c5674f2483b491fd895c304486e1bb6066f1441bf18e6"
+    },
+    {
+      "p": 177481,
+      "order": 3060,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 120.80658401781693,
+      "sequence_sha256": "939ad4120ec35d9009fbfca527dd4557e1c9926db76abf8c7c124ff8328e1636",
+      "sparse_export_sha256": "a30c16eb00681bdae209907a4f5d01c64a4c9ecd695a84a746fba1c9551ea9f9"
+    },
+    {
+      "p": 177481,
+      "order": 4930,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 116.66814665915444,
+      "sequence_sha256": "b88749fe203f5dd61b3cee14854684619c60d157258eab0954437a08a59b7319",
+      "sparse_export_sha256": "511c749421c5940b5def07458d7298fdad3bc6c505389415496bce39fb94e3fb"
+    },
+    {
+      "p": 177481,
+      "order": 5220,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 125.88844271190464,
+      "sequence_sha256": "8f6192c8cdd07b3e27d9d7a1127ef7ea771e56b302e04a033e77004e2e1c40f2",
+      "sparse_export_sha256": "4a281072a59c99c8d7af6164bc4ba430cd37e06c14ae0a1671517f25cae2a4d7"
+    },
+    {
+      "p": 177481,
+      "order": 7395,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 115.10281507507898,
+      "sequence_sha256": "08d832cab4b16aaca5cc86cbeb08c300f59a1ff48b0f9df6a82bb33e847ad1bb",
+      "sparse_export_sha256": "6af21a120b1aaa261300187424fd848e2f26f8164bf23c68b401ca9ea6570540"
+    },
+    {
+      "p": 177481,
+      "order": 9860,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 100.14597149495967,
+      "sequence_sha256": "7a80ce56a89983ba09335ca2d70662ded11c7dcb714dc0612a7a5de6ce6cf6c3",
+      "sparse_export_sha256": "2253d1908045b79d6278e18fa343c2abc6324b6adaaa945f66d6fc3d2ca3366b"
+    },
+    {
+      "p": 177481,
+      "order": 14790,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 124.14328848011792,
+      "sequence_sha256": "703e567406db25503227df11a0e8482466cf8ee59cb4d15608f2ed0e771fc929",
+      "sparse_export_sha256": "155dce3d0779658bf0b3ef6850176af603a89a94748f8277ef4d0d4024473e07"
+    },
+    {
+      "p": 177481,
+      "order": 22185,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 126.51347241108306,
+      "sequence_sha256": "b03f8bbe5dfc9f4edb357136eb1bb053b75c1c5a52c431715af100bfa3299d4e",
+      "sparse_export_sha256": "2560b916246acf1add4722b2a0069cb12a7d7824839436da5a82c00ba9250502"
+    },
+    {
+      "p": 177481,
+      "order": 29580,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 130.4986206740141,
+      "sequence_sha256": "99a66e9914f8b15e4ce1f91bab2e434c327a9c1450a4dc6d87fedd804609fb48",
+      "sparse_export_sha256": "311de14f12e82c596f633183aa976debd6c3bf116017c9914b0569e1984cc8ed"
+    },
+    {
+      "p": 177481,
+      "order": 44370,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 118.17848189896904,
+      "sequence_sha256": "1198ea48455a390ac9f4db853a48ea837ec83044e5a2fd5867dae3ad798af442",
+      "sparse_export_sha256": "807fb19414715a8cf7ff29debde8e4a7875783669beed8edd192ff99c704e84e"
+    },
+    {
+      "p": 177481,
+      "order": 88740,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 94.9455914341379,
+      "sequence_sha256": "1f5678c626b92285c1b28f22c0a9d03cf07c21852212849abdc8a3406b4733b1",
+      "sparse_export_sha256": "69807f5074f4e03af2f83985ed0d6e4b6434d5e4756e67020c2e49c658ab887c"
+    },
+    {
+      "p": 177487,
+      "order": 29581,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 137.24645593902096,
+      "sequence_sha256": "f4d9f0f92893dc090ccdb61848b214ce7e667f7ed4e6557f80b2d86429bbb88a",
+      "sparse_export_sha256": "f8407c894549daaa3c712a7366aec010a15949938d39e5e2e25887467e1df2de"
+    },
+    {
+      "p": 177487,
+      "order": 88743,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 151.36090888595209,
+      "sequence_sha256": "5ade0c056e45093f958c5dda60e02a83e9dff4c701dabdc3f91af2451042b4fc",
+      "sparse_export_sha256": "99181d67bd916a7931c200eb9a21f6996508d99cec583f3836131c12b7da1482"
+    },
+    {
+      "p": 177493,
+      "order": 7,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 117.56855578394607,
+      "sequence_sha256": "80230f216953edf135af257965463ebfbcd141e3def467e8634269ceb02ed082",
+      "sparse_export_sha256": "40adb916596e76b183977763ec6963d6bf9ad33c83771e5f41227049cdd820c1"
+    },
+    {
+      "p": 177493,
+      "order": 14,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 126.43880233704112,
+      "sequence_sha256": "7444b676b541914ac9859b36ac775ae41808eb10d29c918b82eda4fb501f499d",
+      "sparse_export_sha256": "1babd0b58a29084bde63e1d84fffc8bb222a0c7332d39199e39cf25d0c2d6906"
+    },
+    {
+      "p": 177493,
+      "order": 21,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 152.46130165504292,
+      "sequence_sha256": "259bebc7cf6f41202c2cdfce1bc693e3c5684fc597cdb0fa3e9298bbcb1dc6b8",
+      "sparse_export_sha256": "1617ceaddbba761f8d731656dce80216b6379543ef8a04a78538a475c455cb51"
+    },
+    {
+      "p": 177493,
+      "order": 42,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 125.85828699008562,
+      "sequence_sha256": "9079ae46fcc8847e89b8fac231880022ed59bbd991da722c82da37aa62378e74",
+      "sparse_export_sha256": "0d5e8768b23aae8daa7e508b5d56960556bb046b8589eacea71ef61ade1fed8d"
+    },
+    {
+      "p": 177493,
+      "order": 14791,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 145.7239140800666,
+      "sequence_sha256": "e1b37523aa5169d459be785784f290b772096262a5a6690a7ecbb9e90634bd9f",
+      "sparse_export_sha256": "d2ebd276207fd47bf4eec5b05795a977c8f6e09800c7a8aa5144034883841642"
+    },
+    {
+      "p": 177493,
+      "order": 29582,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 150.51317919697613,
+      "sequence_sha256": "8d7cc43b758b76ca0bd6f2c60a1e90d7f8d667d1d820b48b99b330899358317c",
+      "sparse_export_sha256": "62a614eb7fdea84343aa4b870887bde4621a736a1be930eecd851820fcc6b61c"
+    },
+    {
+      "p": 177493,
+      "order": 44373,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 132.9759172089398,
+      "sequence_sha256": "ba986e5dd9778eeae74bca7a6bb95dc60ae6fcb1d0f6cb2d0b891e02082c31df",
+      "sparse_export_sha256": "7f0ab5550c839213b8a0728915b9f55e4fd3891c606143a44c7b8c6d2c038ef2"
+    },
+    {
+      "p": 177493,
+      "order": 88746,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 146.8214299241081,
+      "sequence_sha256": "96523bdc5682e169dc29e7a79df456db5f1e134b16490061b86c2989f2c90ee9",
+      "sparse_export_sha256": "f3e0f3eccd8e72583813e55c19328212d6a8f80f0dd568e110bfb6ddbe27b663"
+    },
+    {
+      "p": 177511,
+      "order": 5,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 127.17225082591176,
+      "sequence_sha256": "70023c65ee4e179fe938bc0b31002d029e9806d91bada80b583b95217132c08c",
+      "sparse_export_sha256": "a80fc5d55dd6da1cb0f868942711662dcd52c28cb8d06c2dbaf70e02a723b780"
+    },
+    {
+      "p": 177511,
+      "order": 15,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 148.84942265902646,
+      "sequence_sha256": "933e1bbfbfa6332d0fd189f4a72063b51f6553ffbdab795835e97a5117b647a4",
+      "sparse_export_sha256": "a3a5c811df57378a710a4d89a758722fc65f60de0f80ab5b172338f8e476c622"
+    },
+    {
+      "p": 177511,
+      "order": 305,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 149.77818146790378,
+      "sequence_sha256": "68a96a79952f01fa3fdf26d89eb3ceba7b86d67b7f4f945cdd318aa2e4c7a370",
+      "sparse_export_sha256": "5a6f4fa25a63115f31e2e7a2719e6ba84443a439cc7970cd0913a4fb121e4c51"
+    },
+    {
+      "p": 177511,
+      "order": 485,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 131.31905801594257,
+      "sequence_sha256": "24e6a8f3e47ff88d7d44632327fa57c8c807b2456c25d54a8243125b2d70b99f",
+      "sparse_export_sha256": "b1a081714ab7706f393218e6aab12d111c4cba9fdfa4a251a2147c017d137d96"
+    },
+    {
+      "p": 177511,
+      "order": 915,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 138.09257009602152,
+      "sequence_sha256": "15fd34d996bdeeaf96f9bbc0589f056241e972c4835bc22626790855a8d7b440",
+      "sparse_export_sha256": "e29875a3c00a3993a19824af195dcddaff171cec73a4d7192eae30b4629e71e1"
+    },
+    {
+      "p": 177511,
+      "order": 1455,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 142.86554687400348,
+      "sequence_sha256": "dad0a98f61b1ec5c0a739f425e0fe79edde0bfc10e550313ddf15d9087db6377",
+      "sparse_export_sha256": "61a057173ec6b609aea69ab754277909ebb6fa8ce3d79b38b330cc3708b6d368"
+    },
+    {
+      "p": 177511,
+      "order": 29585,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 130.42184276110493,
+      "sequence_sha256": "265f75957d741467643389452ef058a5c99a99d812b5362ae3faaf82ad1ebc0b",
+      "sparse_export_sha256": "33619a2c0379a9375c389ad3423c408b49a8d7379a3bffc4466047893579924d"
+    },
+    {
+      "p": 177511,
+      "order": 88755,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 144.0724622060079,
+      "sequence_sha256": "c9c58ae9676e6c184fea3632e38fda43ea778ac99c0139557d8fb19fddf242dd",
+      "sparse_export_sha256": "45bc0b7958bb3eac267a30b3673d9f2edf7539dbf676d5b1012838e19d8bcb70"
+    },
+    {
+      "p": 177553,
+      "order": 27,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 142.01899332297035,
+      "sequence_sha256": "e516ac17ee6e51c84db273a85561977cfc014c24c5e9a3955fe1dd45fe637840",
+      "sparse_export_sha256": "32b20abdd0b0acc7e153e82fd9ea26ec3f1a4980e8ce894f4d26d8550f382f5f"
+    },
+    {
+      "p": 177553,
+      "order": 54,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 146.42818106198683,
+      "sequence_sha256": "a40c71d299588a06eaccb698a301a85998bb44942446aa0b951df1c01951a07e",
+      "sparse_export_sha256": "d80556bf3a580f2a86a154660aff05e5d9e40148c54f63ef0365d9ff2f878aa5"
+    },
+    {
+      "p": 177553,
+      "order": 81,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 153.20636889408343,
+      "sequence_sha256": "abf1b52936fc6b2e18c49513bb35db83405b1a561439d4cadc22795b57e10885",
+      "sparse_export_sha256": "47d55ae1d8ec4330680cf8b908208e1b6f14510caf82cf7aae22fd7a67408738"
+    },
+    {
+      "p": 177553,
+      "order": 108,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 129.69728367193602,
+      "sequence_sha256": "1fe1a9a33b667baf4856310f7dab2f118acb0cc101f275ccb24ee305d56f14ed",
+      "sparse_export_sha256": "ab71b7b444c21075c89361e1d34fb0ab0a00199c103363ff4d5b3edb2c3e75c4"
+    },
+    {
+      "p": 177553,
+      "order": 162,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 125.66775603592396,
+      "sequence_sha256": "4afdf7167c8ad0349dc3afe9de462e37c12535f97524c42f74889e164e257d17",
+      "sparse_export_sha256": "1870552ba48b7626f3a8ade770395f2151a6455ac180a24c382462e91ff37716"
+    },
+    {
+      "p": 177553,
+      "order": 216,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 133.06445852806792,
+      "sequence_sha256": "f7a3c7d181018a83fa6b4d479f27224e169877b53c7ddcb398f1c87a726a378b",
+      "sparse_export_sha256": "0bd8c3ebc6c1749b191c2eba4847f6e432ab5a3db5b5f3510c4a59c16c72a91d"
+    },
+    {
+      "p": 177553,
+      "order": 324,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 129.9613073989749,
+      "sequence_sha256": "bf0d00c43dc6262db3716bf82d78758bdc74240ca66375d37d9cae8a1354e454",
+      "sparse_export_sha256": "4ee40ee81ab546895aacebaee30a4c6eebd0dd852db92e1cc6403ed755c5cc11"
+    },
+    {
+      "p": 177553,
+      "order": 648,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 138.49087770609185,
+      "sequence_sha256": "11777bcc6003d9ff534633e297612ccd336eb7a0f08c92c02f9afba1640e5eda",
+      "sparse_export_sha256": "5c7fb333c941c7ed224f88457dba2d222a84ff8c1f6e9f379045a8ca6a735c2b"
+    },
+    {
+      "p": 177553,
+      "order": 3699,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 116.38124323799275,
+      "sequence_sha256": "bd45b3111b0f559b8b241ca68ac46491cf9f287328eff817ea3e9d5714675f61",
+      "sparse_export_sha256": "875927a9c33aece5fd5c59eb9837baeeb13f08d5ebb872bb0573d76119574069"
+    },
+    {
+      "p": 177553,
+      "order": 7398,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 137.87014517304488,
+      "sequence_sha256": "d75145256acdf2b95fda16f615e548c21bcd99bf60dc36c2ed515c2646e0b9a2",
+      "sparse_export_sha256": "4cd04f658d63ff279962e766730b031f170b8661e8fe00bd5b17a8c5bd382ab9"
+    },
+    {
+      "p": 177553,
+      "order": 11097,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 117.47777059604414,
+      "sequence_sha256": "781c484d10e5df43a01172624545227671fed86c245b1b22c406d6231c2d4232",
+      "sparse_export_sha256": "743860e495f74bb631ea3a7a3595af8b3ba6ba661a943023f53d4906f8365431"
+    },
+    {
+      "p": 177553,
+      "order": 14796,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 128.01933434419334,
+      "sequence_sha256": "2610982712bf44ef0f4cf6865acb6c3326fde2b9a20c4970aba19f7aebaa2023",
+      "sparse_export_sha256": "3bed8423020c5edb12ae98036955e959d5ce1faa57989e6aaf07fdbd0dc85f79"
+    },
+    {
+      "p": 177553,
+      "order": 22194,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 138.27518860506825,
+      "sequence_sha256": "698aff41904aac487b44f43a7464e3deb53abe5e115a658d5ec46ac56b04ec26",
+      "sparse_export_sha256": "86533baaaf07de927834963369f94942b5d4751cf22072d0bd970857e4a754d1"
+    },
+    {
+      "p": 177553,
+      "order": 29592,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 111.95121438289061,
+      "sequence_sha256": "069a66aa0c5a4e1547a929b057f7c1104e47a3654b3b996a83b1402b30bae7dd",
+      "sparse_export_sha256": "c5649d7c5d4140ed739d05bfbe9692f0249f9f95c077213cf9b3a85efa77b033"
+    },
+    {
+      "p": 177553,
+      "order": 44388,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 134.28047593310475,
+      "sequence_sha256": "ec0b43b3a5d4e715b6c5ab687e0c320fbf6d9d7385bf2a66af54ec6b5e7c919c",
+      "sparse_export_sha256": "28d054ad44515fd78b812394252c5f82c0de5c218eb8a0b94132ad43b24a795b"
+    },
+    {
+      "p": 177553,
+      "order": 88776,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 122.54255293100141,
+      "sequence_sha256": "6d42adba66a91312bd424282814f8f60a731943107a8de5bbd221e75d2070dfd",
+      "sparse_export_sha256": "e192a2657e8e869eb6fd6884e149473de5d1aeb042fd9febb52d8447332e9601"
+    },
+    {
+      "p": 177589,
+      "order": 4933,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 127.23310420801863,
+      "sequence_sha256": "b43548244d352b3ce8fd1325069157f3e4adee8fe451507002a527adb2af6e87",
+      "sparse_export_sha256": "fafe87a1f6af06edece522e2777ae6a36787e10db5e040181b8b76c2ff0a772d"
+    },
+    {
+      "p": 177589,
+      "order": 9866,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 127.86199960904196,
+      "sequence_sha256": "c81d876402ba2e4af32a53422e7e72dc7f151c40d86a9b0a328f9ab265ec0d6b",
+      "sparse_export_sha256": "000e96a3f6d3bdd18c490918ebadffe1689d005acca61d3073fb300896a2b2c0"
+    },
+    {
+      "p": 177589,
+      "order": 14799,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 133.06212944095023,
+      "sequence_sha256": "e89ae0b6b9668ca215f1f0a8b5a24848dd30661cf50183af8242dabf2ac09154",
+      "sparse_export_sha256": "8383840af55fe0839865772e32659721172fc43b0bc5668f6a1568b2300d6a52"
+    },
+    {
+      "p": 177589,
+      "order": 29598,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 123.30089276307262,
+      "sequence_sha256": "3a9d4e4f3f535cd61fcedf652c82f3058d0638334334320ba88bfd3fd7cf8c43",
+      "sparse_export_sha256": "484ea20fc84440ff021b323a9028d4906b0778f35f178af600289ca8b83ed7f2"
+    },
+    {
+      "p": 177589,
+      "order": 44397,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 130.4508613748476,
+      "sequence_sha256": "c8a248e24ec07d76afa9d07731a39dfc0d2baf94cd03c2c08b1f4d13e4fef04d",
+      "sparse_export_sha256": "b2951b88bbba7982a7512021494c572557b48b7a065a32829a790e9fe40c9564"
+    },
+    {
+      "p": 177589,
+      "order": 88794,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 114.15520939207636,
+      "sequence_sha256": "c73326ebb6d3b162544ee5375b9cbefbd8db5b04594ba688e876e050ef4eb7ba",
+      "sparse_export_sha256": "97184e160b4e92147af138696678471534ca7f5b280e1241a8ba04865fcfc556"
+    },
+    {
+      "p": 177601,
+      "order": 25,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 112.50632591289468,
+      "sequence_sha256": "d7a390c952417d25e20ec4cfe500c7396c0962ec849cbeff12afd4767d60450a",
+      "sparse_export_sha256": "6598e6b7d0c9f044aa3138e2b4e6d12856f74eeef0ca99194851e3c11b82b5b1"
+    },
+    {
+      "p": 177601,
+      "order": 50,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 112.7067019417882,
+      "sequence_sha256": "6eccb4ca0f128c8708632fb889c1bc091c89b2ce066b7d718018b325d567825e",
+      "sparse_export_sha256": "21b29015983d88e9f7fe4d41c70d4cba357b01c83bbcb67358f95b56b904b8ea"
+    },
+    {
+      "p": 177601,
+      "order": 75,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 129.08835497009568,
+      "sequence_sha256": "baa9b55a88bd75597f36d2dfc33b9a61af5cc1ce21403f5cc051c44fc71dcbaa",
+      "sparse_export_sha256": "eb1cb3ec5a6ce8e45b3c8fd371eef91a63ab0117e92fa11c6cfb1df6a3168cd5"
+    },
+    {
+      "p": 177601,
+      "order": 100,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 112.47102553606965,
+      "sequence_sha256": "f00c38c7cdf00ceed2c94513a026f78b3c7039d552ae402c4cb779cb67201668",
+      "sparse_export_sha256": "789067e992d2f1a2651ca6041df22d8efd3f351cf464c05895c7d6087447b74d"
+    },
+    {
+      "p": 177601,
+      "order": 150,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 115.63103371788748,
+      "sequence_sha256": "01836eb7bdbb17c85f9fc247947c65c3747ad6c9b97c640b888d0ce6375e5999",
+      "sparse_export_sha256": "62cc75477d8f25deff592b1b8ba72e3aa3165f558c449dbdf163727c1c4c2d6d"
+    },
+    {
+      "p": 177601,
+      "order": 200,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 128.22014217986725,
+      "sequence_sha256": "445dd9dfe0e73ba2092e795a8d0f0dd48550e33960d517d2c025b8bb615520ee",
+      "sparse_export_sha256": "28b1d019e40e98b462b53bf7ac7fa5d62fd957316eb11f99266ea15ea98544d9"
+    },
+    {
+      "p": 177601,
+      "order": 300,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 124.78403967898339,
+      "sequence_sha256": "7575b2f236a4de83cc4f3075dd3493c4836490c4ec50872cbe4b7b7ae674b0ea",
+      "sparse_export_sha256": "3bc4bd3410b1dfd9d8a402dee9afb49ac1d7e8097b9d2b3fe28d96e46b36e30d"
+    },
+    {
+      "p": 177601,
+      "order": 400,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 117.73549950495362,
+      "sequence_sha256": "4fad095f5525eeb251c2658f15d928c16afc327217506f6fcd27018634055ba5",
+      "sparse_export_sha256": "2722c8f448dd0c9858f86ebf956e3a448389b3223f2d510149af87f57b61f075"
+    },
+    {
+      "p": 177601,
+      "order": 600,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 118.49890645197593,
+      "sequence_sha256": "438fc7255cd95d69872243b98c108219a21edc36cd4606cbc6872d0ec333c009",
+      "sparse_export_sha256": "5a71cbddf2bece6ee9b5aaed8c6fd7ad2ffdf8bbc63290778370d4dc92a346c0"
+    },
+    {
+      "p": 177601,
+      "order": 800,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 118.35342398402281,
+      "sequence_sha256": "ef50b92e603f34cd3662c734c1c87352d7505c7235230eaaa150bf805557c4d0",
+      "sparse_export_sha256": "f4ed9f1ebbbc685e48964e6f7f0fd609fb084a58ca9eb767c7459b47e0b4a4a5"
+    },
+    {
+      "p": 177601,
+      "order": 925,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 115.84209975600243,
+      "sequence_sha256": "8c8cb2d079605e44cccfcdb52efda0526e0bcb3bbfd576654866b83aa220737c",
+      "sparse_export_sha256": "c7e45f8904885575b590be7737915696d79ea00ee811e87f8e97240b529d1a2b"
+    },
+    {
+      "p": 177601,
+      "order": 1200,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 112.58331370190717,
+      "sequence_sha256": "618219e6616d74d7fcf0a99de3ee7ca4b7785a7c387a5df640a8951b97528158",
+      "sparse_export_sha256": "4feb54b608fa7c65fb5e93c3d557cd8a0d453f8da49a9c9c7a78538453b3afd0"
+    },
+    {
+      "p": 177601,
+      "order": 1850,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 110.53798157395795,
+      "sequence_sha256": "bd180474ee6d9a9f1c60b7d06951ea724a3bb766b2cd16629cdd8e4c3c736e3d",
+      "sparse_export_sha256": "2b18c0e41d04d05565d452349244bb39ba4d3abfa221b548418ed6f19f61587a"
+    },
+    {
+      "p": 177601,
+      "order": 2400,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 112.69614896317944,
+      "sequence_sha256": "e77e0f9abe35a5c3922554b4390279c91fe3ebcfcffc56ccf546c80c18685bce",
+      "sparse_export_sha256": "0abb86e4ab4e5ab4bfd831be550658e26edec47353c52bd6210bd204e782141b"
+    },
+    {
+      "p": 177601,
+      "order": 2775,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 105.2701607060153,
+      "sequence_sha256": "af6f39b6681605dd6811730c59a1a927e0c409e3e1d38aeea01fc55d3dbcf7c3",
+      "sparse_export_sha256": "278b894a1f7207359ab665b1a38696eee0784df053dcc58b27b53d2e8b139262"
+    },
+    {
+      "p": 177601,
+      "order": 3700,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 110.18098594318144,
+      "sequence_sha256": "36fc4dea438b7e891cc754e988ff3d477428d569ecc1dd3cca0680364390482d",
+      "sparse_export_sha256": "8016de04ca6be5e6c78b9e6dbc1be6d0e59b98e4deff22077058b9c770d76371"
+    },
+    {
+      "p": 177601,
+      "order": 5550,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 108.88305032509379,
+      "sequence_sha256": "28af8a8cc41915dff37fdb859ea7408426da6bfb56da39eed066807ee5c01728",
+      "sparse_export_sha256": "6a3ce755bba974bfc794d43ec7899defc3ced5b2ddbf1d62ed254cc989d1c5f7"
+    },
+    {
+      "p": 177601,
+      "order": 7400,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 102.82789111882448,
+      "sequence_sha256": "f0ab21a83f36882a1daca68156d3e7d6de4e9bbe5ac14ace034440e9e69bcea4",
+      "sparse_export_sha256": "e0b32b9df8e65ac9b5e551e7bcdd21b7728f45d22dbd36e28ef6c7f25a472c82"
+    },
+    {
+      "p": 177601,
+      "order": 11100,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 105.33454066095874,
+      "sequence_sha256": "d139648e7201729f7cc04a8fdc9b311c987dfcfcf3c32462c16562713657fe5f",
+      "sparse_export_sha256": "64a35b8c319a713653a66f47a59936b2be9d169a1fd02a26d5aa9833dd836f14"
+    },
+    {
+      "p": 177601,
+      "order": 14800,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 108.98619924695231,
+      "sequence_sha256": "0144374e4669e830a1dbf9ba8e7a8efdc8c9bebe10e20a51edc4d7d18f584a8b",
+      "sparse_export_sha256": "7b850a2fca72e6c145881786b6b7b5eed8f5f61b76c915f058821d9439b7c1ad"
+    },
+    {
+      "p": 177601,
+      "order": 22200,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 108.36983899679035,
+      "sequence_sha256": "d494f1e768e6d6cd05d88addf23375e80906066ee5363912a6d80ade2a24465b",
+      "sparse_export_sha256": "95b671ce428f527a737ac9c4f573ee68af53e11f0468994a3b9c5a35ea42ea3d"
+    },
+    {
+      "p": 177601,
+      "order": 29600,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 102.13620982598513,
+      "sequence_sha256": "b771cd7db9a6060954987fa5d6ad42783994287adf5ec865207c5d60d22991e1",
+      "sparse_export_sha256": "70255fddd464cdf98c3ce57b9aaf02d0058066a409b10e40777e4b7f8a712937"
+    },
+    {
+      "p": 177601,
+      "order": 44400,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 97.15998568106443,
+      "sequence_sha256": "7364ccf27762971baf5905b73fbf82ccc0f5ce22c68097c4f4bad7fc6243ca49",
+      "sparse_export_sha256": "c5101b5fe4743e3a0198bfff855f05107b8578f8872a9d33ecc28fcea113986e"
+    },
+    {
+      "p": 177601,
+      "order": 88800,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 92.07177723897621,
+      "sequence_sha256": "8b8ee98b58aa32843daac34c8ec80b3e2d1f929cf87224905d69011f51053169",
+      "sparse_export_sha256": "81a81799e7a680d7fe81bd4862696413b9175422b57468fd35f492a031a257a4"
+    },
+    {
+      "p": 177929,
+      "order": 23,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 85.6613861208316,
+      "sequence_sha256": "5d541e393d4d1594a6499a7e0c28ec608c822146c906b1c6ace98e0ca5f90d55",
+      "sparse_export_sha256": "c3dbe23a007b7d8132d6eed186c6463d41d55e3fb2964a9162e6560beb568d6a"
+    },
+    {
+      "p": 177929,
+      "order": 46,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 78.57148275896907,
+      "sequence_sha256": "b8a8fcececf3e321709bb118fa2c4d5dd7361aa24902ba1d0886b0554307bfea",
+      "sparse_export_sha256": "5c5384b5977159a9e47c0379c88b6b822d1c29b8f5fc0703e446ee691d0e5167"
+    },
+    {
+      "p": 177929,
+      "order": 92,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 68.49173951684497,
+      "sequence_sha256": "c14f77bb5ff0a38f493c9ffe39fb40da79d14e7da78c86f393765c2b7986182b",
+      "sparse_export_sha256": "01f91b4bfbd18eeff2fbda41a7905c804e7f975dd243cfbda20a08df9caf0f3c"
+    },
+    {
+      "p": 177929,
+      "order": 22241,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 70.10695519298315,
+      "sequence_sha256": "371fcc8773beb8c88a21b950247a27be6f92ca79d8f9de3da46f11593a390b47",
+      "sparse_export_sha256": "964cc6d0905d20ba959eaf065d021eed34e1b60677cfe2dff9d393d4910a9822"
+    },
+    {
+      "p": 177929,
+      "order": 44482,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 71.22151962481439,
+      "sequence_sha256": "16939205a1b034d00e999468680f4ae11211efa907681ad2f78fc4c408763e45",
+      "sparse_export_sha256": "91e856bea4389bd741c0b7b2af4b1a98f6e74c06a076a8ded6782ef353b6e74a"
+    },
+    {
+      "p": 177929,
+      "order": 88964,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 66.95920328609645,
+      "sequence_sha256": "be2b32da1039e3dbdd20bc9ccc5a61b66d9bfbae793765fc59988a4c977bbc4f",
+      "sparse_export_sha256": "d0b999756b642e305b198f27342fad5a54202a595af226900e067f3fb79be9a7"
+    },
+    {
+      "p": 265093,
+      "order": 22091,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 246.88793621514924,
+      "sequence_sha256": "443a160626612c3cad6171714a7f34695e64e77a2509e7b167047d8ec416859e",
+      "sparse_export_sha256": "7af45d4fef553f0da0cb142f9b6dd29d8b3227690bc93cb8ad997c32a72d47a5"
+    },
+    {
+      "p": 265093,
+      "order": 44182,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 271.7607434189413,
+      "sequence_sha256": "620146bf85e6bd2230cf35bc48fb7d64579d2095d21357f08a94688fda0f5cbf",
+      "sparse_export_sha256": "afd546254ba2fb4083e97588126916b4193c8fa444790c46b5a22302baf98016"
+    },
+    {
+      "p": 265093,
+      "order": 66273,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 265.7349133628886,
+      "sequence_sha256": "d063a490f64a9e5c29733a1ec8aa44656ea4d6a154ef1a623ffadc17eea87ef7",
+      "sparse_export_sha256": "112157f1faed08723667d2fe287d56b7445283484e55ee36b3854ff7974926e1"
+    },
+    {
+      "p": 265093,
+      "order": 132546,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 290.7881266409531,
+      "sequence_sha256": "d1856a6fa27cdcd9bfc1a9a0581b8205287df1700360765966868e6aad9e7dc4",
+      "sparse_export_sha256": "589ddd7cf49a3fb69dfe4a8d86f3e26a50eb4a54493f5230cf99d6bfebd32fd2"
+    },
+    {
+      "p": 265333,
+      "order": 22111,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 246.793864433188,
+      "sequence_sha256": "27cd728dc6acd9cc856b4a93957b40190983236e9a0b642e214df67d5b67ccf2",
+      "sparse_export_sha256": "34cb97e7404dfb69c2657c3c6b0c4b1ff992aea89ebaf183d70ceaf7e38e8c88"
+    },
+    {
+      "p": 265333,
+      "order": 44222,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 234.56166952801868,
+      "sequence_sha256": "93e500ca33ca345b76263c9660a98730ce25aa7393073cd2d1f93bc5ceae0af2",
+      "sparse_export_sha256": "d7061a57f8fe4a297cac2a4c7304d8a350211e8bf7c9b0d2f1195233543c6f93"
+    },
+    {
+      "p": 265333,
+      "order": 66333,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 199.1220643001143,
+      "sequence_sha256": "9e1fa9e583b2b69c16de4bdb98cf544b1eab9affdb0bd6e95ec9cec040bc6767",
+      "sparse_export_sha256": "f40e3a8af1c3f73305480caa52b4c8032157e7f4acba057ba83c6084896050e6"
+    },
+    {
+      "p": 265333,
+      "order": 132666,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 199.3917589529883,
+      "sequence_sha256": "b1b479dcca58bd03326c7383e0f3e0c5065a3e86fdeda6f6f489554c8e9f1d7b",
+      "sparse_export_sha256": "3407bb127ea82c76e4e8fc01ac26c81fa92dbc696a2d65545cc0d27672449248"
+    },
+    {
+      "p": 265339,
+      "order": 14741,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 277.2164424629882,
+      "sequence_sha256": "9194304b9475e16fc849350afd6fa7ebd59ecec07c2226e0474758f114ccb48a",
+      "sparse_export_sha256": "71bcb78464cf34cb31653ea607e7a26c9809820be9aa0b514a78b069fe3b82f3"
+    },
+    {
+      "p": 265339,
+      "order": 44223,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 237.51247770292684,
+      "sequence_sha256": "487ad8e77a76fff19736bd962e3000f98b36d0ad051c2113554f93a01cb72868",
+      "sparse_export_sha256": "17f473872ce8c03f1aa0fa00c58f5a4b1b7bcb40452cf74a20f6a3fd2e0edc83"
+    },
+    {
+      "p": 265339,
+      "order": 132669,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 264.1398747540079,
+      "sequence_sha256": "275cba1033513839a594c3dc79028622e9173949329d3c6bad37cfa25280879a",
+      "sparse_export_sha256": "2bc76300a7ee2cd1b2b571ff515168542072b0d61846547d10635ba32d7b8a27"
+    },
+    {
+      "p": 265381,
+      "order": 5,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 304.58796898601577,
+      "sequence_sha256": "8538a83eecd5144d551210fc04f0011fa1a883798d45173de497f650e13884f8",
+      "sparse_export_sha256": "122cae2b8e3dc9150d6ee3cd9331cf5676406b0e4639c4096419196fc492ede7"
+    },
+    {
+      "p": 265381,
+      "order": 10,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 332.9248007531278,
+      "sequence_sha256": "647ab0ae8502a635e616343839778936f4317fee78d6a540373a3d66a245fc51",
+      "sparse_export_sha256": "f8ed0a9afbba726fdd49027fb7fd3b0105bf28c368f72d8fee483685e6428a4d"
+    },
+    {
+      "p": 265381,
+      "order": 15,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 366.71133113396354,
+      "sequence_sha256": "cb8066dbda2e8cc0630c0a28fdbf842fa3966414e416104fb332727213dda864",
+      "sparse_export_sha256": "a782959ce2471da2e35ea4419e905c6805587928a93fa7a6282e9e05a24e3270"
+    },
+    {
+      "p": 265381,
+      "order": 30,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 314.5690251640044,
+      "sequence_sha256": "7d29dc13cc683e1b3232aa609ff81350b0675892696873eb5f15b451f96ce2ad",
+      "sparse_export_sha256": "06bf6b163998468d8eadfe6b8bd15c8dcfb082df2c19f1643381510f456b379c"
+    },
+    {
+      "p": 265381,
+      "order": 22115,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 292.36291200411506,
+      "sequence_sha256": "c11f401760f229faaea9feed83a0029dc591ee788c244f162209399a78f302f7",
+      "sparse_export_sha256": "1dc5e3d946dcdd22f37492ca5d6696c9dda4c76d260e0f299b24c4efbd58161b"
+    },
+    {
+      "p": 265381,
+      "order": 44230,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 352.80294351791963,
+      "sequence_sha256": "69fd7b22c3f37828ba7d6e5ef3fe0b3fe5da69b8104aeecc749eb2bfa8e5e1eb",
+      "sparse_export_sha256": "3b93a411bae363eb8b3e4f82caa2b06c8424a4b657758a557ebaa0519c99c4aa"
+    },
+    {
+      "p": 265381,
+      "order": 66345,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 358.3736954701599,
+      "sequence_sha256": "0f20bcd5ff802f33daff17ebc2605746fadf0ca62c00954b253bee60a4b4667b",
+      "sparse_export_sha256": "ee10b58fd6292b52a645145de23a081c9b81dcc428e84d3b91e3a24ace22774f"
+    },
+    {
+      "p": 265381,
+      "order": 132690,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 354.03038870100863,
+      "sequence_sha256": "04b193f1c800976ff7813ca8071786a270e21e669685c91e04d99ce1249acf66",
+      "sparse_export_sha256": "ba29e0826c847c63ecd7f02a7199537c6fcaf9523c4e87edb20ee0f6bb8725ae"
+    },
+    {
+      "p": 265399,
+      "order": 7,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 242.02636740496382,
+      "sequence_sha256": "63e9fa6074b6c05bee442271bc624a539e0fecb569c852c648b4b22cbaefed9d",
+      "sparse_export_sha256": "47648558e7728c06999566d9cbf3f5f21370ed0f99f77f168885cf23adbf76fd"
+    },
+    {
+      "p": 265399,
+      "order": 21,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 227.38228245312348,
+      "sequence_sha256": "461e4b09f86e1b837c215d36dfd8c527401d64e8e574fcf502b30946634a5afe",
+      "sparse_export_sha256": "2f18a387c90ac8be7d71a23528bc52332b8b945340bde8c6214f1c2c68670e29"
+    },
+    {
+      "p": 265399,
+      "order": 497,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 243.24233821802773,
+      "sequence_sha256": "b69e5b79afa9c206fc6201ac9dca43833a435d2af2d2a4718662fa8532337008",
+      "sparse_export_sha256": "b9149ed8821e45e93a3ea7c7cc2e82d4d143a8ffb4337508791244ee57c13071"
+    },
+    {
+      "p": 265399,
+      "order": 623,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 243.2577516550664,
+      "sequence_sha256": "259c8e25faaef7a525832639474f4158e7d5f62da9bd5d23f29afd024fa6b158",
+      "sparse_export_sha256": "c69e4faecceafd1e1d50c4331a108079b5f3cb60316abab181d098c40069b7b3"
+    },
+    {
+      "p": 265399,
+      "order": 1491,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 253.67255011503585,
+      "sequence_sha256": "c2e517c3d61ae6be0c02cf6fe9e036c8382eab176cfb74a15ef3898c0c781826",
+      "sparse_export_sha256": "09ba2a696ae9879b5388946269d377f6b0c0f827398c1acb257f1177cf7c1474"
+    },
+    {
+      "p": 265399,
+      "order": 1869,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 258.6761814840138,
+      "sequence_sha256": "4f6adb4a6dd6eb35d313fc0f7e4b575a869f75b7e0056838960add4ec3df27fc",
+      "sparse_export_sha256": "83e653a5acd613bff479764228e5527090e4a9019da6b2c2571853a6090f5267"
+    },
+    {
+      "p": 265399,
+      "order": 44233,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 241.27661165199243,
+      "sequence_sha256": "eae0c394e46646ff920a5c001a5381282594c5971c580ebbaf002ee277d5793a",
+      "sparse_export_sha256": "ef3f7449c342abda6ba60be8e7bc4bb7a49be84d1f49654357cc11829c172f37"
+    },
+    {
+      "p": 265399,
+      "order": 132699,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 260.35064565902576,
+      "sequence_sha256": "c89b8b2a769b06f5cbb76277f04ffdb3fe037527ae728832654c51de02301c6a",
+      "sparse_export_sha256": "7a9ff241804b2475099e559148e62ece7544332486dd08cd304740c6201ca73b"
+    },
+    {
+      "p": 265417,
+      "order": 11059,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 238.8859191138763,
+      "sequence_sha256": "954f94402fe2147314b396874fb1c06aa0044e56ee5377a5d02f86be6644c63e",
+      "sparse_export_sha256": "cc8ea363d5e407b2e46a38e6576e870071c9798cf9fc1e91738839771461afec"
+    },
+    {
+      "p": 265417,
+      "order": 22118,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 272.02378112403676,
+      "sequence_sha256": "48e1cc44aadb1aaa1606b5796c8e5b1ae4ba49a3c33e6e279799810403b11558",
+      "sparse_export_sha256": "82f9e502b40aa1ae5009cb48d26642b446a9719b0e3484dbe4f6549fdb9eeba6"
+    },
+    {
+      "p": 265417,
+      "order": 33177,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 267.22950555593707,
+      "sequence_sha256": "dc63b8c626c07126e756cffab5f024e5ba22e753c105c0891606aa91058f4af2",
+      "sparse_export_sha256": "66e1adab547970e394923d2ce1a9bacfe5622677a8e3ae8e4c78aba319d22daa"
+    },
+    {
+      "p": 265417,
+      "order": 44236,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 257.50030572805554,
+      "sequence_sha256": "ffd50caa1f66708c55d4c7eeeecade9826fd4a235886714a29f85932a7624460",
+      "sparse_export_sha256": "3ddbb8ac1d48d95ccdfae63774315e4248ec2a0c7ceb7eefd2aab96b699c4af2"
+    },
+    {
+      "p": 265417,
+      "order": 66354,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 240.36805582395755,
+      "sequence_sha256": "b91d56ca0a3e62b9caf00d4907ca9e93b4b2f37e8eec16d283f3c68c597b96f0",
+      "sparse_export_sha256": "7cbdb904dc3a43fd863afcf677a316a69cb65a2f9893ce1ae40d1f1f160a4379"
+    },
+    {
+      "p": 265417,
+      "order": 132708,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 244.4167353438679,
+      "sequence_sha256": "a9dec0e16e148dd214972d539ed189058645644cb8d63463cb22c0a0b18a3603",
+      "sparse_export_sha256": "724ccf779707f22dfcb6c9fcb2656ae9881ca90d81bbf9a7e7c88e1c16ec093c"
+    },
+    {
+      "p": 265423,
+      "order": 31,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 233.69067231588997,
+      "sequence_sha256": "e6d4182677fa8edcb195e5895d5f4b53544107743d11d560a020c94b792be386",
+      "sparse_export_sha256": "d79687eb012bca8f7c23235b150c67ef34796b0c83a2d6141ab52a2059142f1a"
+    },
+    {
+      "p": 265423,
+      "order": 93,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 231.98353042802773,
+      "sequence_sha256": "615bfe7a1deeb32cadca019fa72ae0d37721fe6bb8da8fcb7f805b38e5bab1ad",
+      "sparse_export_sha256": "f714067728f3e15cc3818c7f0f54a1ed443d3498f798fefa0746107c59925afd"
+    },
+    {
+      "p": 265423,
+      "order": 44237,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 254.27911891881377,
+      "sequence_sha256": "d90e879323b5c678a43048c0649a0efc4419acd9b300c92df804e92bf1db12cc",
+      "sparse_export_sha256": "86998d071f36cc219ecf1bcaabfefe7fce59294a5f4098c596fa46196bf988d6"
+    },
+    {
+      "p": 265423,
+      "order": 132711,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 228.14104718598537,
+      "sequence_sha256": "552e2df3024915a9aa5e9143e49bd11be3522c20a5482b6bd5e2c03dd0771de9",
+      "sparse_export_sha256": "bf2f180d69795f836b3c19f7eebdf61cce5c403df07512288a01fe2dabd474d1"
+    },
+    {
+      "p": 265921,
+      "order": 8,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 249.6414475031197,
+      "sequence_sha256": "ea9c528f0bed56a169d83fb828b4a85fbd98f4511e3f138d4772594212e46fd9",
+      "sparse_export_sha256": "49e47bd5fdc63d379ca5ebb652ff4dc8125862322adb6cc95be5fd2ec55aca1e"
+    },
+    {
+      "p": 265921,
+      "order": 16,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 230.27807244309224,
+      "sequence_sha256": "cd0047a4c854a4df339d5547dcd39ac91792424f1f61db15ad3c379868979bcd",
+      "sparse_export_sha256": "79d5ecbd9348db0d6c8def8c05915a1e5a93de7367ff7a9bc4a96c21f344abe6"
+    },
+    {
+      "p": 265921,
+      "order": 24,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 253.05063306516968,
+      "sequence_sha256": "0cb530f4d2ac83ab6a8aaca64947009a6463fa02a51a0cb7c67800f183bd2167",
+      "sparse_export_sha256": "48570d8ceaef90c58214eaf7482a843cd002fa96be1b87d4dc47a2d21f8a8692"
+    },
+    {
+      "p": 265921,
+      "order": 32,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 237.75437375693582,
+      "sequence_sha256": "7aab086eb2c398b07d281187d41ade9ce90aae0b5e8802dd14152d63dd40fbcd",
+      "sparse_export_sha256": "b35d2fb5cf0115a38d7005798867db82a131b744ae1ab474c4e16fda725d4f53"
+    },
+    {
+      "p": 265921,
+      "order": 40,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 226.05505025200546,
+      "sequence_sha256": "9f019fb08dabb7d4580c69d254a81db552af2203cd0b868f399a3ac2ce96fbe1",
+      "sparse_export_sha256": "0b7a98b5777e28c1eee43582d553d16715210a8010fe45a5126dece2bdc878ee"
+    },
+    {
+      "p": 265921,
+      "order": 48,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 241.12412941409275,
+      "sequence_sha256": "74e00a303e56cc9efd0ceaf949fe06eaa6dc3c586f550a98f86d1a7d20bd6370",
+      "sparse_export_sha256": "050dce32bd240ffabc90166decb2f217f779a6a32a4dfbaf0ad9cd34b3e3b73d"
+    },
+    {
+      "p": 265921,
+      "order": 80,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 221.26245766691864,
+      "sequence_sha256": "e3885e41b0ae04c008dc7059485f7f6621f8d2748a7b0e98239cdbfc3fc22fa7",
+      "sparse_export_sha256": "5172f4aa2eb0972853059ca370c522cf7b6616a6b00e39bfc82f46da5460ef31"
+    },
+    {
+      "p": 265921,
+      "order": 96,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 244.40334824612364,
+      "sequence_sha256": "68a044a806da08c373519c23e254c039d020d720640c8f0dc7b6df7727b83582",
+      "sparse_export_sha256": "d3c397f9b108c04367c0689d16c05fe6ac1e18cf7c9691e5043433c36785f204"
+    },
+    {
+      "p": 265921,
+      "order": 120,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 263.4244776060805,
+      "sequence_sha256": "6df83a0f8ee925477a9f34b1eb502fc9d8c4a01e256361bf7bb74927921b3c77",
+      "sparse_export_sha256": "d239e1a2775b39faca6907f8ab8ec87e0627e12bb9936cd190d67a9edd3b3d7e"
+    },
+    {
+      "p": 265921,
+      "order": 160,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 237.126940415008,
+      "sequence_sha256": "e0d7849fab3cec0c88b27f7b77539ea24eac40d6378876b7ff1ed1cc69fed202",
+      "sparse_export_sha256": "f00157a4cefeb37ac3ecc5bdbc7f921ce806e3343ce809a54a8e831f2381904c"
+    },
+    {
+      "p": 265921,
+      "order": 240,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 253.319279959891,
+      "sequence_sha256": "0d34beaed48434a079d2fb207b62c1b483d472768978bb62ed31fb233d1372fc",
+      "sparse_export_sha256": "e9ab56c8949c078ec3f9f795aa1384da04fa2f3514d7ca6b54fafa1abebdcedd"
+    },
+    {
+      "p": 265921,
+      "order": 480,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 238.65369656984694,
+      "sequence_sha256": "5d25e9e1a36efe272210308bcceeb35a1379c0097d106dc4693bf6b06bb97fd9",
+      "sparse_export_sha256": "81289db5136ba64c8090c9e6a4e620cc5a1bfd3753ec7f494d1e81f196ffe495"
+    },
+    {
+      "p": 265921,
+      "order": 2216,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 253.51618516887538,
+      "sequence_sha256": "6f4df456346995bc7d7e0053c6ec5ea6da074569fde1ce1bd57951dc9ed53034",
+      "sparse_export_sha256": "cdd287f60a43553656a5930dddbb1666c58f085d1c53384549004902b7cb834a"
+    },
+    {
+      "p": 265921,
+      "order": 4432,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 233.43858021893539,
+      "sequence_sha256": "5a5c62f6c086a318ce067ad51eb1cabb83ba6830ab65133d0e4d33dbed236bc0",
+      "sparse_export_sha256": "649460d9b22be40f57fccecdfa71a3174d733f27c3a9cf34d1a52a18a8cf7942"
+    },
+    {
+      "p": 265921,
+      "order": 6648,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 254.28207939700224,
+      "sequence_sha256": "1259352b6d62f9fae70ab0cbfb8d958d80483d83b58015ba66ecbdfd8677a979",
+      "sparse_export_sha256": "0e9cf668e7f5c32e79b69758dda5976f183581bf23f24991f483ce355b124843"
+    },
+    {
+      "p": 265921,
+      "order": 8864,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 247.60136113478802,
+      "sequence_sha256": "2c313564f0248586fa9f223f107bf3dbafa1bb6c333f637c51b6fcb8939d8a62",
+      "sparse_export_sha256": "9a64e7cd36f17f3091ed78ccc6b1f521c2b64fd4f364e002b7194c9c7771ffaf"
+    },
+    {
+      "p": 265921,
+      "order": 11080,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 251.0262169020716,
+      "sequence_sha256": "c4174f1a215be1c07e739d2f7af37cf441ea014ec1e5cb490d9097887e093f51",
+      "sparse_export_sha256": "0e27814c741e4201bcccc631abf4a48ed8c624a13a253e06831d167e2c615b0e"
+    },
+    {
+      "p": 265921,
+      "order": 13296,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 233.01127712684684,
+      "sequence_sha256": "d0f78f005364381124c65f9566cde74d1b8a6b95d700a5eaa9a9b10faf550a88",
+      "sparse_export_sha256": "b791fadbfcb93face5e577f1beb2949a0f18e76ab610958ee681677b2c18a0e3"
+    },
+    {
+      "p": 265921,
+      "order": 22160,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 254.32021931698546,
+      "sequence_sha256": "f6ee9743f91e3fe8d11e837b162e654f529d7d2bffa0935bbf5be60129b60464",
+      "sparse_export_sha256": "703b470d81c9857336486ad607e0b351e24ae12f28365a494e05ccc65ef2422e"
+    },
+    {
+      "p": 265921,
+      "order": 26592,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 227.86116878315806,
+      "sequence_sha256": "1739bfc0ca278e9c638def0f5e7ec66e0aae9b32ac832933c9fe5c6ca50070eb",
+      "sparse_export_sha256": "34ffed54274feabd33c0669e20d9bcdcdaf1722e1a2b4aa7d7ef75426b2c4dc0"
+    },
+    {
+      "p": 265921,
+      "order": 33240,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 229.95286011206917,
+      "sequence_sha256": "1493e6333793e73b6d91f074eefe3e6c3ac82549e93e1ee1e4158d62dfa6e58c",
+      "sparse_export_sha256": "15c5bbcd29201ec04607954259b19eb6004ffe61576067513c1ea57c98b2230d"
+    },
+    {
+      "p": 265921,
+      "order": 44320,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 243.4478110850323,
+      "sequence_sha256": "ed24125c5703944068247bd715a3958fc333bc02baec27870be45225927b3c98",
+      "sparse_export_sha256": "736288174a4a76bf6943e59e22ed39bceed9e6aa09b5a6103f281d7b3d733068"
+    },
+    {
+      "p": 265921,
+      "order": 66480,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 222.10107633378357,
+      "sequence_sha256": "e9574c7d61d83f1109c4e9fef18762095027d05a94fc9603e9ead11afd22a01b",
+      "sparse_export_sha256": "3d603bdd4544be4d434d2225a6e64a412fd0eb6270d3651ae42ce9b124f15dea"
+    },
+    {
+      "p": 265921,
+      "order": 132960,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 218.087004016852,
+      "sequence_sha256": "939546dfa1e50b729395e2ccd22cfef64648be87beaca75d8fb4c265e2aaafb3",
+      "sparse_export_sha256": "8cdcd73b5052fed71be695865bf0f856e847c41554a93b85fbbcab1349d5a72a"
+    },
+    {
+      "p": 266221,
+      "order": 9,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 196.80967163201421,
+      "sequence_sha256": "a2acc3a6027e10c448d41245bc50bd34d3e5dbaf045c99ee8b6d03bd5b3b125c",
+      "sparse_export_sha256": "dcddc33442d4185766917e8fbda9a226252ce2be60b29493d4de3ff4fdafa146"
+    },
+    {
+      "p": 266221,
+      "order": 18,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 184.98886951897293,
+      "sequence_sha256": "0b8dbad72a0d17d668110d25440350cf73d791dbbb108897f61b64d90858fbff",
+      "sparse_export_sha256": "a4fcf7fbeee5f174cca6e1e5935ba1ef239efbd2067b7e106bf231428a8e6b97"
+    },
+    {
+      "p": 266221,
+      "order": 27,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 308.7086441810243,
+      "sequence_sha256": "087056fb38f23fb29cf68bf97da331f5919521320e883e1ed96fd2b17710cff3"
+    },
+    {
+      "p": 266221,
+      "order": 45,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 284.73461444093846,
+      "sequence_sha256": "7f113d10383f9c9b1e9b2f622573b000dd1961e5d29fb4895c93b8291b8792d1"
+    },
+    {
+      "p": 266221,
+      "order": 54,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 283.09655989683233,
+      "sequence_sha256": "0c516a6d0588c3ea61983b4112e112a5aeb177a99d2ee10b63980072b1a4fff1"
+    },
+    {
+      "p": 266221,
+      "order": 90,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 265.92047074995935,
+      "sequence_sha256": "3ce3366027012dc6643af49cd51b47b9e744f18726a61ac118ae45a7d658cee1"
+    },
+    {
+      "p": 266221,
+      "order": 135,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 272.25903773796745,
+      "sequence_sha256": "1baf085f30f77a4a140dbbaf5bd558fa587735b14991166fb5f9ee0485ccd33c"
+    },
+    {
+      "p": 266221,
+      "order": 153,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 280.64250331604853,
+      "sequence_sha256": "787d84d59696689f57788a13f5a54877b0965cefdac7861612bcc782e3442fdd"
+    },
+    {
+      "p": 266221,
+      "order": 261,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 286.73995801992714,
+      "sequence_sha256": "a6bd747b6a198a69fb7ebb2011f0923bd26d72a901be8a2785d19e4721a6164c"
+    },
+    {
+      "p": 266221,
+      "order": 270,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 286.03601212310605,
+      "sequence_sha256": "a3812c6b67cc4eca396150f3ced23d2f38b281fe4838a0ff954033f2639767c9"
+    },
+    {
+      "p": 266221,
+      "order": 306,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 270.68886682600714,
+      "sequence_sha256": "4197732de60950d7febf2363405b176c4fc799758bbf2ebd5bba217f20e827ec"
+    },
+    {
+      "p": 266221,
+      "order": 459,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 289.95025431807153,
+      "sequence_sha256": "6fde7a1a27a9901e50226bc7c69cb3955eb2d0dcd96dbf580973c1ff6404cb0d"
+    },
+    {
+      "p": 266221,
+      "order": 522,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 294.7921660589054,
+      "sequence_sha256": "ae61682ea3dcf97cad49ca48642b4174a151536ab4524a637b20ede3bf6520d6"
+    },
+    {
+      "p": 266221,
+      "order": 765,
+      "status": "PASS",
+      "method": "native Magma fallback",
+      "seconds": 272.5770186299924,
+      "sequence_sha256": "3fe7e2edb7509dd09f8c7223e4b227d2a681b77b5f4ace1ea814a1288f20282b"
+    },
+    {
+      "p": 266221,
+      "order": 783,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 346.1506567799952,
+      "sequence_sha256": "a262ee97e2477877ef5d8406962558bf1ed3048ce679119c132127abb5d50e24",
+      "sparse_export_sha256": "0d056f42782e8028d9fcf27fdbf41571119c07700443ce6ce5544d5986fdfce0"
+    },
+    {
+      "p": 266221,
+      "order": 918,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 382.58592134714127,
+      "sequence_sha256": "c82a6307e62ca00cf4537bc8a506f8c40f9b8c1c5a2337e920d482b1ebdfd054",
+      "sparse_export_sha256": "8a974e097cb2dbdcbdbb938374e470e0a4985868a5b484714e7f98ddf64b9ee8"
+    },
+    {
+      "p": 266221,
+      "order": 1305,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 330.85920159099624,
+      "sequence_sha256": "8f292a318bac0218d02fb207b21beb65531a08f7d5a4ba12880f06ba81394933",
+      "sparse_export_sha256": "d425f3be415ed36aa4f64b9f4f92c788415edc9145a55bdecf35716ced1b4b1b"
+    },
+    {
+      "p": 266221,
+      "order": 1530,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 392.45862183510326,
+      "sequence_sha256": "64ca786b1602f5f63b5895eee0de9f3ad709e708d3ebe212adff566ff50275f6",
+      "sparse_export_sha256": "04e6906a127d9014bb58012dee23449840b8a33eebb9d14ddbe063f5f4db3c7a"
+    },
+    {
+      "p": 266221,
+      "order": 1566,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 296.2427510640118,
+      "sequence_sha256": "26750821fac4f591bb060905762aeac4cec1e865cdd43696dadc6d6dd42b91dd",
+      "sparse_export_sha256": "e2dbc41b5dbb208c9b2b1af03b62ff8a397a3fc2d534d39b8f75233d4b24343d"
+    },
+    {
+      "p": 266221,
+      "order": 2295,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 336.2771405680105,
+      "sequence_sha256": "df03bb27f7823160a77c67356e4ff4191febd40bfc64121fc27000688e7993d9",
+      "sparse_export_sha256": "6c4bc9676d45909d32174b050d6e0460f2fdcd6f1dd94136acb55ee2d0b85abf"
+    },
+    {
+      "p": 266221,
+      "order": 2610,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 274.3381908349693,
+      "sequence_sha256": "4f95c1d24e2f904994a9888ca65cf93c6d5d8c07b6c061c53c78bdedf6547c7e",
+      "sparse_export_sha256": "5c1f2c5ce071129b4c3e426a5aa15331916ef251b2e7f7b4bd01cebc74b2ace6"
+    },
+    {
+      "p": 266221,
+      "order": 3915,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 313.59920146502554,
+      "sequence_sha256": "ab1c4117a378a571c49663913b803ced50600a3012d6ee32d006fd7ac70c061b",
+      "sparse_export_sha256": "1227365590612816057669e0dc3089ba665b7537fbff2f0954efa31788870e68"
+    },
+    {
+      "p": 266221,
+      "order": 4437,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 228.4255779280793,
+      "sequence_sha256": "7d6dfcbce752dcb46f7ad608be4db78eef9fd774a0225804a3e33337ebbab428",
+      "sparse_export_sha256": "d66cc7586f3abca6c2408ea37402ae55156cd43ca91e31994d3196757812854a"
+    },
+    {
+      "p": 266221,
+      "order": 4590,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 217.96433055121452,
+      "sequence_sha256": "448fbfdf1084550224e003c7025cea8112aff514596283be59d5c7e742ade05f",
+      "sparse_export_sha256": "d8818c2e1bad1ec1ab4816ab9743b5e16c5a844b6044844da4adc852e4d21fa4"
+    },
+    {
+      "p": 266221,
+      "order": 7830,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 156.44586131395772,
+      "sequence_sha256": "27abac10bfc6ecb386b97e48534b441c8a13e3c168bc0514eafcc28f982ab0ed",
+      "sparse_export_sha256": "cd7f21eef11c454fd8c7a35e4577e92a2f1c27b8db32cbafef304d7e65b54564"
+    },
+    {
+      "p": 266221,
+      "order": 8874,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 221.6132365989033,
+      "sequence_sha256": "1d38a824fac0a59722499078f51819287cc02fdada5d5fcd2b562b46d02eafb1",
+      "sparse_export_sha256": "a17a9b610ded34840feeba6f225e1ef9642cabfeee7f4c514da8a2c5536c2b39"
+    },
+    {
+      "p": 266221,
+      "order": 13311,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 192.3600557660684,
+      "sequence_sha256": "e2c8128f1af52ecddd685d81363e097e3f944f89e7914f33530fc0f910cf2a55",
+      "sparse_export_sha256": "cfb5f53686da3c5d8173a55213db884bc1ebe3a69f0158c7587796aef529d58f"
+    },
+    {
+      "p": 266221,
+      "order": 22185,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 196.77588894497603,
+      "sequence_sha256": "edabacb1ea76f69f2dc95be48dc37bf2c7cb54c9f55bec92325e1e2e03d1d724",
+      "sparse_export_sha256": "1bf23997291872fb35456f980ae1a58bf85dce28e94a76324b77b27c7c16f498"
+    },
+    {
+      "p": 266221,
+      "order": 26622,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 161.88302272814326,
+      "sequence_sha256": "12432790d353a6794d973351ab266a999c5198adfe4ca812545152a561bcaec4",
+      "sparse_export_sha256": "f0a655c58c88fc951a5f5aad1fff967068f51e9f2457e003dfe00aaac542d224"
+    },
+    {
+      "p": 266221,
+      "order": 44370,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 173.12782372301444,
+      "sequence_sha256": "6e064070feb98ecf1d5746670bee28496837e901c21a65068b925c3928a9b3fd",
+      "sparse_export_sha256": "0f7f562927e2a8aa6e1ea425fa2fec9270ba1f114f6f0352f4c39f922915174a"
+    },
+    {
+      "p": 266221,
+      "order": 66555,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 184.62844115798362,
+      "sequence_sha256": "38e879546e7d84be75f364875ddef81268da1e36c74649975fae48c61148608d",
+      "sparse_export_sha256": "d462bdb3bcdacf250234aec18f09632dcecb0774e53e8fd4adf4555978f3d669"
+    },
+    {
+      "p": 266221,
+      "order": 133110,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 163.83805405790918,
+      "sequence_sha256": "bff72c22602445959cfcc884048f42090f26d2194571ee7a7016919f3262f00d",
+      "sparse_export_sha256": "42639b78615fb955444619428072001b28f2be750a071839c895c0c10ab95348"
+    },
+    {
+      "p": 266239,
+      "order": 7,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 224.18968769093044,
+      "sequence_sha256": "d122b031f56e8a461205c1680ac442c63a8cd962f757104601fec71c615c4a46",
+      "sparse_export_sha256": "91e744f1b8d98f478fe3220e5d0efb72f54e2f203c018d999719dce8473f17d8"
+    },
+    {
+      "p": 266239,
+      "order": 21,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 204.08627711306326,
+      "sequence_sha256": "10517a618bdf9609cc4168c43fd94076884fc73536168de7a6c7f0d39d40808b",
+      "sparse_export_sha256": "3bebf833e96413f5cd26020fa359c92901f4519005489e5c94a1959c824e1d2c"
+    },
+    {
+      "p": 266239,
+      "order": 63,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 165.23050972796045,
+      "sequence_sha256": "ffe949aa6ecf075f69cb9e7bef010d0cf7ccabd4ee60809c6883b8368665666d",
+      "sparse_export_sha256": "b7ccb05ba5e9603c4436dae9d9c55f721b93d85b25613a709d18ab3c69c2550d"
+    },
+    {
+      "p": 266239,
+      "order": 14791,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 161.4834570940584,
+      "sequence_sha256": "7251c067cb69f3e9414cc2a5411071dfa92efeb1d147e82bc1ac0d7c572862f7",
+      "sparse_export_sha256": "3e4c9ba3eefb37ba6645a0ee753099795c4a513be5278ce4b88231949428fa1a"
+    },
+    {
+      "p": 266239,
+      "order": 44373,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 159.72985755093396,
+      "sequence_sha256": "f776991a8526cf49cf87631dc575218df1becd5e156952fea6f169309b040e72",
+      "sparse_export_sha256": "4785b7fffbfbcf5085eac416390da404cfb7cdca13bc966c97f356cbf4b8d36a"
+    },
+    {
+      "p": 266239,
+      "order": 133119,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 156.15344600914977,
+      "sequence_sha256": "a80ab4fe916af008a101b42e0e9fef965741bb8684be26db08177710ab4579bf",
+      "sparse_export_sha256": "1377a0f51a31a9b612dd81219c3d84a2bd4a43e23c6effc57918acb5107f4ea6"
+    },
+    {
+      "p": 266269,
+      "order": 22189,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 146.2250348359812,
+      "sequence_sha256": "ac73044b46666b900a81e5941c8202ca9166f2b67b344a3fb3ddb100f99fb91c",
+      "sparse_export_sha256": "04f7733164883d3095a10eac6b0ada478e7e36de9733ba57ba76f9b20aa974c3"
+    },
+    {
+      "p": 266269,
+      "order": 44378,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 137.56420727306977,
+      "sequence_sha256": "bb5306f12f9565e65a0b38a1bb4b65e85efda8c44807192e140cb120ef791ace",
+      "sparse_export_sha256": "b79355a86863dc43c6eb8f3568cb83251fa78f3712e058c7684ffd1ea41ec5b8"
+    },
+    {
+      "p": 266269,
+      "order": 66567,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 142.221337758936,
+      "sequence_sha256": "e8dd22948592862b551167d7e88c28be187a34ea02af7ce1016aa63d6be3ebd0",
+      "sparse_export_sha256": "fa0576a3023543e11dd9a0b0967fd4c9781d0de304d1b551ba7878a9e0a26658"
+    },
+    {
+      "p": 266269,
+      "order": 133134,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 135.8025425998494,
+      "sequence_sha256": "2cf1d762ea31709958b1d1ccc029019c3ee1d815c7acf9598f8c6883779ea330",
+      "sparse_export_sha256": "171eb697789e18e6f60c64ec09d227ff3f344b395266bc8030cb4d3c93f5fa08"
+    },
+    {
+      "p": 530597,
+      "order": 11,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 519.6492253218312,
+      "sequence_sha256": "8a2a15b31b381c1717957bd6c46f4fb8d9c3c5be4905b23e16b2c2c1c888c7af",
+      "sparse_export_sha256": "520bd25108d1c380be86f24b0fcd39fe8d5a509e8658b0bd232fb153b58c2cae"
+    },
+    {
+      "p": 530597,
+      "order": 22,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 668.9999960619025,
+      "sequence_sha256": "9302d3c4d3ade5a8ece980501080b97a25cc74d16ea03987cc45b5d45bbe1a27",
+      "sparse_export_sha256": "f42f2e9a3f75ed90b9063a7feb5f9c617adec34a61dce20e7756000468b243fe"
+    },
+    {
+      "p": 530597,
+      "order": 341,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 529.8045471189544,
+      "sequence_sha256": "8177a1bff7f48c8dc21c0d26bd89eef8f062a747520341afd426983e8da4a7a4",
+      "sparse_export_sha256": "e160ff691693696d61e59fbb7a68827858fa87b5469514ddf23c05fbe26c310b"
+    },
+    {
+      "p": 530597,
+      "order": 682,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 941.895521922037,
+      "sequence_sha256": "d9709a8f546ee6e22e9553eaf59d1619fc9b728bf7b7a515de719ad0dd6f45a8",
+      "sparse_export_sha256": "c96875b9d7b15e7f01c54aeed28b7d04b422f725b8b1be79d00d2ed5bbb96244"
+    },
+    {
+      "p": 530597,
+      "order": 4279,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 814.3660379128996,
+      "sequence_sha256": "6bec724be9e5dbf7f24ba7aa133c5b70691f8355ed073eab686b6a39372656fb",
+      "sparse_export_sha256": "b7140c192734dbadaea827645b75592ed70ba29c6ae7cd54af75d43f13dff73b"
+    },
+    {
+      "p": 530597,
+      "order": 8558,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 814.5847395102028,
+      "sequence_sha256": "466838d9413e304495873316112bf7c09f9e3e00ae0700ef895db7f6eb40ce38",
+      "sparse_export_sha256": "e8eb3b7d5b4fb7cf1e10c1e03ecbe1b579330caee38a455e648f63e053da336c"
+    },
+    {
+      "p": 530597,
+      "order": 132649,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 550.6295331201982,
+      "sequence_sha256": "aa19dda78c8020f89e305120377bd546b94a14375dfe3fbc9e29cce1ab53f8a9",
+      "sparse_export_sha256": "93c38dc84f2260e9cf1eb4d5c128c7e022146d462e3ad38cd985088c61d6c944"
+    },
+    {
+      "p": 530597,
+      "order": 265298,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 695.9207032900304,
+      "sequence_sha256": "d9e1650774070905bc20abcef2429497521888d4824bf39c6b871857f2c84d1b",
+      "sparse_export_sha256": "5b6eba1ea8e53051ed3cfcf3247159edf6a760b217b90cf7ac52264399159ee0"
+    },
+    {
+      "p": 530669,
+      "order": 132667,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 568.7215004458558,
+      "sequence_sha256": "8b2058205d60e59731caec31dd22114843f764f168039d62b5577295c56a7264",
+      "sparse_export_sha256": "f7987b46670c6ca27dcb6d76c8bf3d0457d5e82beff83f1a43b2e5168b3f4077"
+    },
+    {
+      "p": 530669,
+      "order": 265334,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 823.4297335811425,
+      "sequence_sha256": "2b667242192246c11ce266e5e29159e571484bd41164b7455028e21a67a9a3f9",
+      "sparse_export_sha256": "0e2fa34c01cfae390bc2d036e4bf42798a37945d2e94dea3af5de8e4c2bba75a"
+    },
+    {
+      "p": 530693,
+      "order": 181,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 727.1969502659049,
+      "sequence_sha256": "954f0c5e4db4c7c5b2557c51c36c76f7814b93ce925abdfab551030ad8c3f6e4",
+      "sparse_export_sha256": "28bd6f9771873e181a04502adc202c7a8ce6d0084bf6cfe7cabbe68f7fe35890"
+    },
+    {
+      "p": 530693,
+      "order": 362,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 596.5188193619251,
+      "sequence_sha256": "8d0a09fce2f28577cad3dfbd69d4e41930fbd101d6dd26b2a8f83694b68678c4",
+      "sparse_export_sha256": "452215300e5bec2ffacf78276a0f2a4536e7e2e583f6ea6b68a5b67444367d7b"
+    },
+    {
+      "p": 530693,
+      "order": 132673,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 547.7776718221139,
+      "sequence_sha256": "59d138cbe40256ef93adcc5602818deed781b47346e12f8018ca4de20a7e096a",
+      "sparse_export_sha256": "e65b38d4b5ad21e541e8f6bb7698b85b37104234f4b4994197b7eaef6df71b76"
+    },
+    {
+      "p": 530693,
+      "order": 265346,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 721.1211816740688,
+      "sequence_sha256": "214a6b9a779ca8b9fae7d65c294b7a9d52be08e0e772761eeb9795bf0c394a35",
+      "sparse_export_sha256": "96d122d55b24115d6f2804320f91b22cd789213ae4e4dac3b309fef4aaf80723"
+    },
+    {
+      "p": 530741,
+      "order": 5,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 795.5348087439779,
+      "sequence_sha256": "b8e5c73a62f12b6e61db5a18576a24539d5a3caf7250b4d892f75f5f3dce0c32",
+      "sparse_export_sha256": "e01a7c4e56ec09b1c3d8fae415deb4862789f64f3f53a35810678434b7574cb9"
+    },
+    {
+      "p": 530741,
+      "order": 10,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 740.938050477067,
+      "sequence_sha256": "115b346dafe1dd3ff07896d57319da59cb36b8c965de0bda3067cee81d741d9a",
+      "sparse_export_sha256": "468cb1a66ab19293fe81f8c2cc8ebd82c5708c835cac64dc3754acd828b09013"
+    },
+    {
+      "p": 530741,
+      "order": 35,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 678.6950273059774,
+      "sequence_sha256": "a3b4a4946ba305609f5b201351143b30aa517bffb05a2e5df27c127d9012eb65",
+      "sparse_export_sha256": "62825802b13105173a3abb5c213afd2c99e8acade4bcae30ada0fdff72dfc736"
+    },
+    {
+      "p": 530741,
+      "order": 70,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 779.4437095778994,
+      "sequence_sha256": "9097ec1e499f308731ba3af4d0ca243cd2fd718a6871722fd5fb3b0a22818441",
+      "sparse_export_sha256": "c9c2c76953a744871f4ba1999b94a37ff8d76b96f0b7b61fd2c2d051750d60c0"
+    },
+    {
+      "p": 530741,
+      "order": 85,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 630.184162680991,
+      "sequence_sha256": "027aeb4325d1c86c17c40c9584d503ba8a0599d73ec0f4c7ce207199b241f53d",
+      "sparse_export_sha256": "fafdb949a9a2a3bba2f2638586081eb0329c123bbf95183426f66e944085b36f"
+    },
+    {
+      "p": 530741,
+      "order": 170,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 692.0807854961604,
+      "sequence_sha256": "eeba3c1d7995a47fb8369b0e308f5bd0e071d11e6e52320d6088da09f989f173",
+      "sparse_export_sha256": "937250d07b4e1b013f520a3e038e07044085dabc35c778caf578a63f9f6eb2a0"
+    },
+    {
+      "p": 530741,
+      "order": 595,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 710.1489456680138,
+      "sequence_sha256": "d8e0b82039fba04c024d017074e6e7706d21b68e913ecc0acdb677ae4f232813",
+      "sparse_export_sha256": "573e2489cd4fd0122f222d819272485b0719628068efec73f5cf3ef22b08c314"
+    },
+    {
+      "p": 530741,
+      "order": 1115,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 682.3671171579044,
+      "sequence_sha256": "27096066f116125ad227df20665a1a5ddb2ec810b73a81ee168cd29ced526d39",
+      "sparse_export_sha256": "b510ee3f0eb8c74c10eabc8130d0573c372a4690186f60d4b7936a2831a3364f"
+    },
+    {
+      "p": 530741,
+      "order": 1190,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 689.244835749967,
+      "sequence_sha256": "5057bf50ed28f7c9b3f3fbe63764c0ac9e158353fecdbeebe34dbf50f591f67a",
+      "sparse_export_sha256": "fe563eac8ef3cc69f7ebd424b4d68504d993a9f3988752e443139af09a4868c9"
+    },
+    {
+      "p": 530741,
+      "order": 2230,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 821.4324933520984,
+      "sequence_sha256": "cd43043d8bf01d6bee8c36cb40e77d063be677768379d46c7382306a0a9bb397",
+      "sparse_export_sha256": "3c991306fac5a7fab15cbd1fe24d3384d5961f106b46634c6e3d05beea6ea886"
+    },
+    {
+      "p": 530741,
+      "order": 7805,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 729.6575088298414,
+      "sequence_sha256": "1c4b2e987042195c0699dfaa18cb81739b87d05afe3288ff3f315320d4eaabe5",
+      "sparse_export_sha256": "dcd5b80bafff88589e133e22ae045a48a2071c38ba55f0563435f54616cf3034"
+    },
+    {
+      "p": 530741,
+      "order": 15610,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 809.8856411881279,
+      "sequence_sha256": "fc41340caa0fb164ed7bef9eb55cff6dd12667cf31d2b585ba902197198edeee",
+      "sparse_export_sha256": "c3c596eecc60a39b50a5b52d9fb4adca6b2e5560e9cf4f3c1310bf7c50c3852d"
+    },
+    {
+      "p": 530741,
+      "order": 18955,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 576.0398869980127,
+      "sequence_sha256": "eba951b5ced5c84d7dec41c59971e711796465eb21740ef3dceb4437680a4581",
+      "sparse_export_sha256": "c1758455d5207c959b2e831ee92140945a827b1a056f44b1f8e4f7c5152c7f56"
+    },
+    {
+      "p": 530741,
+      "order": 37910,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 747.7492992959451,
+      "sequence_sha256": "96dfca37e34b14af1f34ee111f93740913ce3c4b08dc97b0251f19bbbf91a31f",
+      "sparse_export_sha256": "2fc4b243392286636f15ff99f2e7ec2f8e23edbe567ac521d2c7ffa6d6e09b00"
+    },
+    {
+      "p": 530741,
+      "order": 132685,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 816.9131426371168,
+      "sequence_sha256": "cfe9cef2413ba34366e560f3911be0e575d9f7d7e7b190b95109bc43fa9358c8",
+      "sparse_export_sha256": "f102bd7e8f1ff6c8162a0c1a540c4531aaee542e1a17dfe6d5cda52981e0362e"
+    },
+    {
+      "p": 530741,
+      "order": 265370,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 675.2472571369726,
+      "sequence_sha256": "1f45f2b4d3b487ae4ebbdad797d5a7a3bf5116bf56d4fd2c42028cfeb153cb81",
+      "sparse_export_sha256": "a2260168aec4df978b341dc53809d836021fe61227e8da7fcb09181252391d00"
+    },
+    {
+      "p": 530753,
+      "order": 8,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 607.5035554689821,
+      "sequence_sha256": "0a11e78be197d837ab800032516c3ff5ca573eb860975242a22dde276dc60d45",
+      "sparse_export_sha256": "d9f4c318a047bdef263823d05a8cb6fc0da8e0e6fb64e9d54c16e702a41e97e1"
+    },
+    {
+      "p": 530753,
+      "order": 16,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 629.9675450569484,
+      "sequence_sha256": "a110752059438b6fd607e778368d59cdd2f76fc79ccaccea9a0cef10d8930c07",
+      "sparse_export_sha256": "d20bf3177c1fc286da315f33fa7dcb7972578701ae9c46e509b39ae6d752999a"
+    },
+    {
+      "p": 530753,
+      "order": 32,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 685.372760376893,
+      "sequence_sha256": "cfc75ef149fb34a4af1ba5d8dee64d754191b93430eca5178acde23ac1f4269d",
+      "sparse_export_sha256": "c5d534a1bd6901856f9fae40a7edca125fa8f200c2398d0c2a1b6b1a7afd52fa"
+    },
+    {
+      "p": 530753,
+      "order": 66344,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 561.7066248299088,
+      "sequence_sha256": "eaedee3732c5d07388a8f5a9638c9681abbeffcaa5caf9f2d4107c28ad6d6f70",
+      "sparse_export_sha256": "b14335a2cec3665abd8ceb258d26a60947b2afa154c90f324b6914a655e519cb"
+    },
+    {
+      "p": 530753,
+      "order": 132688,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 789.5974302571267,
+      "sequence_sha256": "a9fdae41d7d1f89d40b6a9256d5527161c4024df3d4a065a9fa5df9f9f99186c",
+      "sparse_export_sha256": "437edafa931d16db4e91f6a5d99a86c7d67dea7a4c5d500b163e178ad11a6278"
+    },
+    {
+      "p": 530753,
+      "order": 265376,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 862.8016874450259,
+      "sequence_sha256": "0d0315004890594c5ac09a1f48a6eaf4685afa87db59753e791d27ad9a21b279",
+      "sparse_export_sha256": "484fb8cbc1bbc2ef0bf96a3c24f9043cf1caa36f7cf7f4e3388d082f438c5d32"
+    },
+    {
+      "p": 530807,
+      "order": 265403,
+      "status": "PASS",
+      "source": "timed benchmark",
+      "returncode": 0
+    },
+    {
+      "p": 530837,
+      "order": 132709,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 1139.171386458911,
+      "sequence_sha256": "d71f66900edc025f9639a849329800afe6e478668ceb76e7f232e18d65c25470",
+      "sparse_export_sha256": "9a6ba62bf34ccb2f21cf5d948877f025aea5443d9204865c853de68f0e23dd8e"
+    },
+    {
+      "p": 530837,
+      "order": 265418,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 903.3311095610261,
+      "sequence_sha256": "7583d6549b1a104a5fcd12e63edfe17314a801cb7c33f44ad0d66239f5052bb5",
+      "sparse_export_sha256": "a9ce3fdc9e10f72c7eec076d3f175b6281fff82af9e24dff844b08a89ce40d24"
+    },
+    {
+      "p": 530861,
+      "order": 5,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 593.1116870769765,
+      "sequence_sha256": "f62365acc3ff8c1df83967c20e01586f08f5273fa83d654d28078bc667c5f1c3",
+      "sparse_export_sha256": "6fff65a662fae9b58dda0e00a647b10c3b99cb20f378d4775b447290d658810a"
+    },
+    {
+      "p": 530861,
+      "order": 10,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 689.1995360939763,
+      "sequence_sha256": "edae34f3729901097eb21cf8a37a1008d9128f4e161f11151542439b49778636",
+      "sparse_export_sha256": "61d23e06e79febad3b04bf95ee440b440459487a9872ec03f2c59ce580cf1d46"
+    },
+    {
+      "p": 530861,
+      "order": 55,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 813.9387797550298,
+      "sequence_sha256": "06402d88a23ccadf5699e7bedec5d4bfd51c0ad5936b4c8c988af5d097299083",
+      "sparse_export_sha256": "299584e4354ebcc9a509d9c6c4e9872e2cf65371a7e560c877056c409dfffb02"
+    },
+    {
+      "p": 530861,
+      "order": 95,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 687.9754789359868,
+      "sequence_sha256": "aaae8136eddad85035c9b8feb329b743804d4fdee02ac16464b781b39449729f",
+      "sparse_export_sha256": "1120aba3073667e39fced5654a355b1faa731f08c1c0e694c6afc4448035f768"
+    },
+    {
+      "p": 530861,
+      "order": 110,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 622.4765397389419,
+      "sequence_sha256": "a4ad943c2abe6bdc38e4aa24f0a1cf705b79f4096bc56594d5e7e38bb3c338df",
+      "sparse_export_sha256": "8e8117783e912c1e1ae38103a1090af8fd8fdf9a8c94c27d9c83bdf6734e8413"
+    },
+    {
+      "p": 530861,
+      "order": 190,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 729.7438058350235,
+      "sequence_sha256": "71f873b1348cce9b7717e26035d006f830be63a3a008f0668f61b04824573ced",
+      "sparse_export_sha256": "21ae9b445afdbc9608416f80df26612a0e40522a24530d63ce14d197b2c9fc14"
+    },
+    {
+      "p": 530861,
+      "order": 635,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 641.9778132990468,
+      "sequence_sha256": "65f6ce0dd5ed01b96211c8930dd948199a1f3367b60b33d69f1841b394b61092",
+      "sparse_export_sha256": "bf442af8865b0ee67fdf93695275b4c9b4fd322cce4c3505d9c739e7e3e7c882"
+    },
+    {
+      "p": 530861,
+      "order": 1045,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 669.5344729449134,
+      "sequence_sha256": "a7456df40412f5f718d7d4d8f886ad0318e1244ba88b4f02d530ffc0f491f5e9",
+      "sparse_export_sha256": "a0191c90183b562d330f2a26642d5e151f8f08198d13cbc86b131882f72ee159"
+    },
+    {
+      "p": 530861,
+      "order": 1270,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 501.7402437319979,
+      "sequence_sha256": "315b8c7ec6765575758c7c7f020e9e7be864f0c44b56fb4952f5df8cb3228d11",
+      "sparse_export_sha256": "f189ec853917ceeec9392e28298651654c54ec84d14ecf22bf462836b348559e"
+    },
+    {
+      "p": 530861,
+      "order": 2090,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 556.5189010920003,
+      "sequence_sha256": "0a4b40f3dfe4c95fb48fbb55d4706742bd52ab2489d55d95360a31b44b3ccef0",
+      "sparse_export_sha256": "b90cde009446e46ca67a9c0e8f3aae170bbe6f00d51204215428379344dedff6"
+    },
+    {
+      "p": 530861,
+      "order": 6985,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 587.1838602770586,
+      "sequence_sha256": "2a103f591c183ecd2da45f9297a1be6578537228063f0faaa3277489416277e4",
+      "sparse_export_sha256": "9a3efc209d4951f1fd3446b84604c46f6f7fc37b639748e103f7be9f699962b0"
+    },
+    {
+      "p": 530861,
+      "order": 12065,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 681.7420776530635,
+      "sequence_sha256": "bda2f0459fddee4c60b40ba8e0ebfd61f629129b6670ab8426ed4a0bb553e679",
+      "sparse_export_sha256": "9c61b1c2fc573620469d4ea14dc16e47ce87305a4e3c891f9f16e768101f75a5"
+    },
+    {
+      "p": 530861,
+      "order": 13970,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 548.6303621318657,
+      "sequence_sha256": "e08cfb8b7dba854735c0cc7c627b0eb801657c51ff38a25048b63e57f2a32dc4",
+      "sparse_export_sha256": "bad97714f8e2603af557c209d90e68a170f2f74f072ecb238575b553da9c8afa"
+    },
+    {
+      "p": 530861,
+      "order": 24130,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 593.0753021689598,
+      "sequence_sha256": "19bd5f5f3a8af1fe2a736c0a24612476602fd3a5855d09b6427735098a928cf0",
+      "sparse_export_sha256": "cbc4232d334c53ecfdef47e6999104f82e138a6adde59ad2e21992a19826624c"
+    },
+    {
+      "p": 530861,
+      "order": 132715,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 553.1683527252171,
+      "sequence_sha256": "f5fe8ef09c9152c64b4cfdd02c19f520b6de6de003ac8bcfccc1931481098828",
+      "sparse_export_sha256": "7e2e5f5f8a981a351ba7fe842556ee3c590d98012cc7f06da35daa8556c31a16"
+    },
+    {
+      "p": 530861,
+      "order": 265430,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 555.0639964779839,
+      "sequence_sha256": "f41f69edb9b906d16ddd373cc605b52db975af35704050e56b15ac103ac57f91",
+      "sparse_export_sha256": "babd714ca05a96fc30067ff79bff5d51e1c95f68a742fae04639884ce7eef8e6"
+    },
+    {
+      "p": 531833,
+      "order": 7,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 635.4161673099734,
+      "sequence_sha256": "5ac7e6d11df3550f6f0d20fac8ef22f7f658f4af7efc96f3d2d8e40f103a6318",
+      "sparse_export_sha256": "eb4d7cf183114de69ef862de8dc8ad8a02d0292d36ee05b5ce80d001d2bdcb8f"
+    },
+    {
+      "p": 531833,
+      "order": 14,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 549.2251967550255,
+      "sequence_sha256": "2997f8b6f1b568aaaceccab1cf7b9b83b78a08b0d23e7e0c546210f69bb78087",
+      "sparse_export_sha256": "7aa07cab891a1b77dfb3bfe082e6f7eb7649d5bc15fd7a22b00d0a57d3514d23"
+    },
+    {
+      "p": 531833,
+      "order": 28,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 617.9269105019048,
+      "sequence_sha256": "8b0da571bfe98cfb289b8e230bac42849a336094fe526fb4200ee020ba96b785",
+      "sparse_export_sha256": "36a03169e986c7bddfc959e24ac3d8a7d50229bc3cacaa2bb2dcf820174fa483"
+    },
+    {
+      "p": 531833,
+      "order": 66479,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 546.6406342920382,
+      "sequence_sha256": "22cfc54e9bb406a24a4a1a4730f6561331e04e69851e1500c41683642e0e6c34",
+      "sparse_export_sha256": "814888f020fd3d3ff6d32f5343494617c9562078b011daa7d9e5d42dd19ea64b"
+    },
+    {
+      "p": 531833,
+      "order": 132958,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 593.1507900869474,
+      "sequence_sha256": "8e380fb3c3cd7f0cf8852e5b33f364d48c8667e49a0fd0831786ec0999c2a2af",
+      "sparse_export_sha256": "1cb40db197d853b0d88ac969ba6133b0ce598fa1fe8c25b6d772f2ab77b922bc"
+    },
+    {
+      "p": 531833,
+      "order": 265916,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 609.2793428369332,
+      "sequence_sha256": "dbacc71e40b72a6dc6df86e8b5491501ddeee8042580f1a7ca098c8b242a4c82",
+      "sparse_export_sha256": "0779028ec32cdb7e111956ba30a5fee382eb65cd72f539dd5b939bff4be79fc0"
+    },
+    {
+      "p": 531911,
+      "order": 5,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 563.0121399371419,
+      "sequence_sha256": "3451e1965a83638dffc6083b30ebe0fb9ab3a11fa27a8536ad071434072695ee",
+      "sparse_export_sha256": "bf0fc5f69954cad7dc68cd51731ae07403e00df67c5af6e5d84b6e6e68d77021"
+    },
+    {
+      "p": 531911,
+      "order": 215,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 576.4469084339216,
+      "sequence_sha256": "0f0a1f5c8d83086dcbf64d4153a5c0b93e23ff23ce93ce39cc7468b5c95f33e9",
+      "sparse_export_sha256": "a53a8582142c3d0db03eb138e7a3d36265072cc973d5b0ca3d512c9d219785d6"
+    },
+    {
+      "p": 531911,
+      "order": 6185,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 575.7549588961992,
+      "sequence_sha256": "3fc04766d93fd70924ba17e45dfb7687beabeba10208cb904fb061f76af650d1",
+      "sparse_export_sha256": "d65d7499b016c2589f939b39f367a6356165c3699deb0bf013ec9ddfa02337fa"
+    },
+    {
+      "p": 531911,
+      "order": 265955,
+      "status": "PASS",
+      "method": "Magma sparse export; C++ exact arithmetic; Magma Berlekamp-Massey",
+      "seconds": 567.8356018050108,
+      "sequence_sha256": "a521cdd0bd77cb203db7d823f89696919b761efe364a59fa5cbf5b9bce40ca9c",
+      "sparse_export_sha256": "ed33a7871c381bac1ed5d68e4cae3d324fd7f12f5b09ddb91e52a08bbb170e31"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "status": "PASS",
+  "degree": 21,
+  "results": [
+    {
+      "case": "full_cusps71",
+      "status": "PASS",
+      "profiles": 12360,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "full_cusps127",
+      "status": "PASS",
+      "profiles": 7875,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative53",
+      "status": "PASS",
+      "profiles": 26,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "full_cusps53",
+      "status": "PASS",
+      "profiles": 78626,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative61",
+      "status": "PASS",
+      "profiles": 1,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative61_ss20",
+      "status": "PASS",
+      "profiles": 1,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative73",
+      "status": "PASS",
+      "profiles": 284,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative73_nc",
+      "status": "PASS",
+      "profiles": 144,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative109",
+      "status": "PASS",
+      "profiles": 162,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative113_ordinary",
+      "status": "PASS",
+      "profiles": 392,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative97_sharp",
+      "status": "PASS",
+      "profiles": 2,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "full_cusps101_sharp",
+      "status": "PASS",
+      "profiles": 1373,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI59",
+      "status": "PASS",
+      "profiles": 7603,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI79",
+      "status": "PASS",
+      "profiles": 3003,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI83",
+      "status": "PASS",
+      "profiles": 3321,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI89",
+      "status": "PASS",
+      "profiles": 231,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI97_i8",
+      "status": "PASS",
+      "profiles": 120,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI103",
+      "status": "PASS",
+      "profiles": 561,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI107",
+      "status": "PASS",
+      "profiles": 5565,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI109",
+      "status": "PASS",
+      "profiles": 5778,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI113",
+      "status": "PASS",
+      "profiles": 6216,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI131",
+      "status": "PASS",
+      "profiles": 325,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI137",
+      "status": "PASS",
+      "profiles": 9180,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "FI139",
+      "status": "PASS",
+      "profiles": 9453,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "relative73_multiple",
+      "status": "PASS",
+      "profiles": 46,
+      "entire_relation_spaces": true
+    }
+  ]
+}

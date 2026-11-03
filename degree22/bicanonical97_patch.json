@@ -1,0 +1,18 @@
+[
+  {
+    "source": "full_sieve.py",
+    "before_sha256": "120be08c47f35c4960777529f808d1fd50ecb2dd272056a994b8c74650ed7a97",
+    "after_sha256": "9a4d4ba23342ce1ef145d9006607514b411dfead8322498a9b2717bd1699029b",
+    "changed_only_for_level": 97,
+    "section_degree": 2,
+    "required_precision": 3500
+  },
+  {
+    "source": "pair_sieve.py",
+    "before_sha256": "6e7c35697e722b06cfa656cda04df1bd1920a17833aa3300fbbaf8cf1208f85e",
+    "after_sha256": "22c9960483bb7e8e0b3c15fd9a3a561e9e2de18c48c29f583976ae7c675b11c3",
+    "changed_only_for_level": 97,
+    "section_degree": 2,
+    "required_precision": 3500
+  }
+]

@@ -1,0 +1,131 @@
+{
+  "status": "PASS",
+  "ordinary_obstruction_matrices": 202,
+  "results": [
+    {
+      "N": 37,
+      "matrices": 21,
+      "rank": 117,
+      "status": "PASS"
+    },
+    {
+      "N": 41,
+      "matrices": 23,
+      "rank": 150,
+      "status": "PASS"
+    },
+    {
+      "N": 43,
+      "matrices": 17,
+      "rank": 168,
+      "status": "PASS"
+    },
+    {
+      "N": 47,
+      "matrices": 15,
+      "rank": 207,
+      "status": "PASS"
+    },
+    {
+      "N": 53,
+      "matrices": 13,
+      "rank": 92,
+      "status": "PASS"
+    },
+    {
+      "N": 59,
+      "matrices": 15,
+      "rank": 117,
+      "status": "PASS"
+    },
+    {
+      "N": 61,
+      "matrices": 11,
+      "rank": 126,
+      "status": "PASS"
+    },
+    {
+      "N": 67,
+      "matrices": 16,
+      "rank": 155,
+      "status": "PASS"
+    },
+    {
+      "N": 71,
+      "matrices": 15,
+      "rank": 176,
+      "status": "PASS"
+    },
+    {
+      "N": 73,
+      "matrices": 7,
+      "rank": 187,
+      "status": "PASS"
+    },
+    {
+      "N": 79,
+      "matrices": 5,
+      "rank": 222,
+      "status": "PASS"
+    },
+    {
+      "N": 83,
+      "matrices": 14,
+      "rank": 247,
+      "status": "PASS"
+    },
+    {
+      "N": 89,
+      "matrices": 7,
+      "rank": 287,
+      "status": "PASS"
+    },
+    {
+      "N": 97,
+      "matrices": 5,
+      "rank": 345,
+      "status": "PASS"
+    },
+    {
+      "N": 101,
+      "matrices": 8,
+      "rank": 376,
+      "status": "PASS"
+    },
+    {
+      "N": 103,
+      "matrices": 10,
+      "rank": 392,
+      "status": "PASS"
+    }
+  ],
+  "rational_two_bounds": [
+    {
+      "N": 37,
+      "upper_bound_dimension": 0,
+      "diamond_action_trivial": true
+    },
+    {
+      "N": 43,
+      "upper_bound_dimension": 6,
+      "diamond_action_trivial": true
+    },
+    {
+      "N": 67,
+      "upper_bound_dimension": 2,
+      "diamond_action_trivial": true
+    },
+    {
+      "N": 71,
+      "upper_bound_dimension": 0,
+      "diamond_action_trivial": true
+    },
+    {
+      "N": 73,
+      "upper_bound_dimension": 6,
+      "diamond_action_trivial": true
+    }
+  ],
+  "decic_cusp_matrices": 18,
+  "decic_cusp_rank": 11
+}

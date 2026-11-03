@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "total_homology_dimension": 2054,
+  "results": [
+    {
+      "character_order": 3,
+      "coefficient_degree": 2,
+      "homology_dimension": 24,
+      "common_kernel_dimension": 4,
+      "diamond8_trivial_on_kernel": true
+    },
+    {
+      "character_order": 9,
+      "coefficient_degree": 6,
+      "homology_dimension": 24,
+      "common_kernel_dimension": 0,
+      "diamond8_trivial_on_kernel": true
+    },
+    {
+      "character_order": 27,
+      "coefficient_degree": 18,
+      "homology_dimension": 24,
+      "common_kernel_dimension": 0,
+      "diamond8_trivial_on_kernel": true
+    },
+    {
+      "character_order": 81,
+      "coefficient_degree": 54,
+      "homology_dimension": 26,
+      "common_kernel_dimension": 0,
+      "diamond8_trivial_on_kernel": true
+    }
+  ],
+  "note": "Exploratory comparison; final proof uses odd anti-Jacobian determinant on both Betti signs."
+}

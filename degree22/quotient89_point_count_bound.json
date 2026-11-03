@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "quotient": "X1(89)/H11",
+  "genus": 27,
+  "field_size": 4,
+  "rational_points": 38,
+  "gonality_F2_lower_bound": 8,
+  "gonality_Q_lower_bound": 8,
+  "proof": "Any degree-d map over F2 gives a map over F4, so38<=5d. The odd-order quotient has good reduction at2; specialization bounds rational gonality below by F2 gonality.",
+  "independent_frobenius_verification": "frobenius89_verified.json"
+}

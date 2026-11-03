@@ -1,0 +1,86 @@
+{
+  "status": "REQUIRED",
+  "reason": "Conservative clean regeneration of the first 20 large-prime pipeline jobs after overlapping scheduling processes. All other jobs were outside the overlap.",
+  "jobs": [
+    {
+      "p": 530597,
+      "order": 11
+    },
+    {
+      "p": 530597,
+      "order": 22
+    },
+    {
+      "p": 530597,
+      "order": 341
+    },
+    {
+      "p": 530597,
+      "order": 682
+    },
+    {
+      "p": 530597,
+      "order": 4279
+    },
+    {
+      "p": 530597,
+      "order": 8558
+    },
+    {
+      "p": 530597,
+      "order": 132649
+    },
+    {
+      "p": 530597,
+      "order": 265298
+    },
+    {
+      "p": 530669,
+      "order": 132667
+    },
+    {
+      "p": 530669,
+      "order": 265334
+    },
+    {
+      "p": 530693,
+      "order": 181
+    },
+    {
+      "p": 530693,
+      "order": 362
+    },
+    {
+      "p": 530693,
+      "order": 132673
+    },
+    {
+      "p": 530693,
+      "order": 265346
+    },
+    {
+      "p": 530741,
+      "order": 5
+    },
+    {
+      "p": 530741,
+      "order": 10
+    },
+    {
+      "p": 530741,
+      "order": 35
+    },
+    {
+      "p": 530741,
+      "order": 70
+    },
+    {
+      "p": 530741,
+      "order": 85
+    },
+    {
+      "p": 530741,
+      "order": 170
+    }
+  ]
+}

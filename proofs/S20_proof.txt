@@ -1,0 +1,565 @@
+S(20): DYADIC REDUCTION AND RELATIVE FORMAL IMMERSIONS
+30 October 2026
+
+Theorem. For elliptic curves over number fields of exact degree 20,
+ S(20) = {2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,61}.
+This is a computer-assisted proof. Every local exclusion, selected
+character family, independent rank and Pade check, and the complete
+prime and support coverage ledger has passed without an unresolved case.
+
+1. EXISTENCE AND WEIGHTED MODULAR TRACES
+
+For every prime through 7, a rational elliptic curve with the required
+point extends to a field of degree 20. Direct examples and the
+irreducibility of t^20-2 are checked in verify_small_occurrences.m.
+For p=11,13,17,19, X_1(p) has a rational cusp and genus 1,2,5,7.
+Both 19 and 20 exceed 2g-2, so Riemann--Roch gives a function with its
+only pole of exact order 20 at that cusp. Hilbert irreducibility and
+the fine moduli interpretation give noncuspidal points of degree 20
+and hence the desired elliptic curves.
+
+Explicit witnesses for 23,29,31,37,41,43,47,61 are retained in
+occurrences.json and verify_occurrences.m. The latter proves the field polynomials
+irreducible, checks nonsingularity, and verifies that the specified
+nonzero point is killed by the prime. The first four fields have degree
+10 and admit extensions of relative degree 2. The last four have degree
+20. The 61 witness has j=0. The data were taken from local low-degree-place
+results, but only the validity of the individual witnesses is used.
+
+Conversely, suppose E,P are defined over a field K of degree 20, with P
+of prime order p>47, p!=61. The associated modular point x has degree
+r dividing 20. Use the rational effective divisor
+ D=(20/r)*Tr_Q(x)
+ on X_1(p). It has degree 20, no cuspidal support, Galois-transitive
+geometric support, and constant geometric multiplicity. In particular,
+if a rational diamond h fixes D, all h-orbits on its support have the
+same length, dividing r and thus dividing 20. No assumption that x itself
+has degree 20 is made. All symmetric-power and principal-divisor tests
+below allow nonreduced divisors.
+
+2. THE IMPROVED DYADIC BOUND
+
+We use the previously established dyadic winding-quotient theorem in
+its integral form, with cotangent lattices satisfying
+ 2M subset L subset M.
+Equality of these lattices is not assumed. For m=40=2*20 and M=229,
+all 228 matrices
+ (epsilon(na)-epsilon(nu/a))_(n,a),
+ 1<=n<=40, 1<=a<=228, 1<=u<=228,
+have rank 40 over F_2. Division is modulo 229; epsilon is 1 on residues
+115,...,228 and zero on residues 1,...,114. The retained matrices are
+independently reconstructed entry by entry and ranked in Sage. The
+resulting threshold is
+ p>2*40*229=18320.
+
+The reduction kernel on rational dyadic torsion has exponent 2. Doubling
+the degree 20 trace therefore gives a degree 40 divisor whose image is
+zero. In symmetric cusp coordinates, if the divisor polynomial is
+1+2B(t), its double has polynomial
+ (1+2B(t))^2=1+4(B(t)+B(t)^2).
+The doubled point is thus in the formal neighborhood modulo 4. Target
+functions have linear terms 2x_i and integral terms of degree at least 2.
+For a nonzero x in 4Z_2^40, let k>=2 be the smallest coordinate valuation.
+The corresponding linear term has valuation k+1<2k and cannot cancel.
+This proves that the zero fiber in this neighborhood consists only of
+the cuspidal point. The theorem excludes a trace whose specialization
+on X_0(p) is a multiple of one rational cusp, including ramified traces.
+
+An ordinary elliptic curve over F_(2^f) has even group order. At f=20,
+its Hasse upper bound is 1050625; hence an odd prime factor is at most
+525312. The complete supersingular orders for f=18,19,20 are
+ 18: 261121,261633,262145,262657,263169;
+ 19: 523265,524289,525313;
+ 20: 1046529,1047553,1048577,1049601,1050625.
+Every twist is retained and counted independently in Sage. The degree
+20 orders have no prime factor above 100000. For f<=17, ordinary parity
+and the supersingular order lists give no prime above 100000; for f<=16
+the Hasse bound alone suffices. Split and nonsplit multiplicative identity
+components have orders 2^f-1 and 2^f+1. The degree 20 toric orders likewise
+have only small prime factors. Additive reduction cannot support these
+large odd primes.
+
+Consequently p>525313 would force every dyadic specialization onto a
+nonidentity multiplicative component and hence onto the same rational
+cusp of X_0(p), contrary to the dyadic theorem. Thus p<=525313.
+Above 100000 the complete parity/Hasse, supersingular, and toric screen
+leaves 444 primes. Ordinary orders in degrees 18,19,20 are all tested as
+even multiples of p; the degree 20 possibilities include 2p,4p,6p,8p,10p.
+The prime 524287 is included in the character screen: the special
+single-toric-place argument from degree 19 is not used in degree 20.
+
+3. GLOBAL DIAMOND AND CHARACTER EXCLUSIONS
+
+We use Derickx--Stoll, Prime order torsion on elliptic curves over number
+fields, Part I: Asymptotics, arXiv:2505.14109v1, Theorem 3.3, Proposition
+4.1, Table 2, Remark 4.4 and Corollary 7.5. Table 2 is used only in its
+proved range p<100000. Rational 2-primary torsion is assumed cuspidal
+only in the proved range p<=157.
+
+Write str(p) for the order of the group generated by strange characters.
+If p^2>(2^19/325)*20+1 and (p-1)/(2*str(p)) does not divide 20, Corollary
+7.5 excludes p, except for its explicit even-degree CM possibilities.
+Formally apply it to the least divisor e of 20 at which p occurs newly;
+its size condition holds since e<=20, and a divisor that does not divide
+20 cannot divide e. For all e|20 the only exceptional CM prime above
+47 is 61, already in the lower bound.
+
+Together with Proposition 4.1 and
+ gon_Q(X_1(p)) >= 325*(p^2-1)/65536,
+these criteria leave 21 small residual primes:
+ 53,59,67,71,73,79,83,89,97,101,103,107,109,113,127,131,137,139,
+ 151,163,167.
+The last three have global certificates.
+
+At 151, diamond 2 has order 15. Its rational Jacobian image is finite,
+and the proved rational cuspidal 2-primary result permits Proposition
+4.1 with ell=2, n=5: 100<gon(X_1(151)). Noncuspidal orbits have length 15
+or 5. The remaining length 5 forces j=0. For the standard j=0 curve at
+q=5, Frobenius has characteristic polynomial X^2+5. The matrices
+ F^(6f)-1
+are invertible modulo 151 for every 1<=f<=20, as checked exactly. This
+excludes the j=0 branch even over fields of degree dividing 20.
+
+Here is the twist justification for this Frobenius test. For p>3 a
+nonidentity automorphism of an elliptic curve with j=0 or 1728 cannot
+fix a nonzero p-torsion point. Thus inertia of a twist must be trivial
+if such a point is defined over the local field. Twisted Frobenius is
+cF^f, where c belongs to the cyclic automorphism group of order w=6 or
+4. Frobenius acts on this group by 1 or -1, and (cF^f)^w=F^(wf).
+Therefore invertibility of F^(wf)-1 excludes all twists. The analogous
+q=3, w=4 test at p=113 excludes the j=1728 branches used below.
+
+At 163 put h=diamond 8, of order 27, and B=im(h-1). Its full rational
+homology consists of character orders 9,27,81, with coefficient degrees
+6,18,54 and full sign-zero homology dimensions 24,24,26. Their total is
+ 6*24+18*24+54*26=1980=2*990.
+On every component A_3=T_3-diamond3-3 has odd integral determinant norm.
+The exact determinants and norms are independently checked in Sage.
+Thus A_3 on B is an odd-degree isogeny. Since (h-1)J(Q) is finite and
+killed by A_3, it has odd order. Proposition 4.1 with ell=2, a=8, n=6
+applies since 120<gon(X_1(163)). The possible noncuspidal h-orbits have
+length 27 or 9, neither dividing 20.
+
+At 167 use h=diamond 2 of order 83. B=im(h-1) has full sign-zero homology
+of dimension 26 over the degree 82 character field, hence rational
+homology dimension 2132=2*1066. An exact A_3 determinant has odd integral
+norm, independently recomputed in Sage. The same argument supplies the
+2-primary hypothesis without a rational-torsion conjecture. Proposition
+4.1 with n=5 gives invariance because 100<gon(X_1(167)); every
+noncuspidal orbit has length 83, which cannot divide 20.
+
+For each of the 444 large primes set m=(p-1)/2. Choose a prime ell with
+v=v_ell(m)>w=v_ell(20), and screen every order n|m divisible by
+ell^(v-w). If all these orders are non-strange, then
+ v_ell(str(p))<=v-w-1,
+so m/str(p) cannot divide 20. The size condition of Corollary 7.5 holds
+throughout this range. There are 3020 required character orders: 1069
+inherited exact certificates and 1951 fresh calculations. Every family
+of divisors is checked explicitly; no table extrapolation is used.
+
+The fresh calculations use modular symbols and the cuspidal winding
+element e'. For the k-dimensional cuspidal space, a scalar sequence
+u(T_2^i e') of length 2k has certified minimum recurrence length k.
+This proves that the winding element generates the entire space under
+T_2 and has nonzero projection on every relevant characteristic-zero
+factor. The Hecke action is the native Heilbronn action. All arithmetic
+is exact, the exported sequence checks native initial terms, and every
+64-bit accumulation has an explicit bound. Independent Sage checks
+construct coprime Pade certificates C*S=A modulo X^(2k), with C(0)=1,
+deg(A)<k, deg(C)<=k and max(deg(A)+1,deg(C))=k. Coprimality excludes a
+shorter recurrence. Random choices find exact witnesses and are not a
+probabilistic assumption of the proof.
+
+4. THE COMPLETE DYADIC CENSUS AND GLOBAL SECTION CERTIFICATES
+
+For each of the remaining 18 levels, the finite-field census enumerates
+all j-invariants in degrees <=20, all twists, and every relevant cyclic
+p-torsion subgroup. When full E[p] is rational it includes all p+1 lines.
+Proper j-fields are retained. Exact Frobenius orbits and complete diamond
+orbits distinguish ordinary, supersingular and nonrational cusp support.
+An additional independent census check uses Schoof's class-number
+formula for ordinary elliptic curves, with class numbers enumerated
+unconditionally by reduced binary quadratic forms. Supersingular counts
+are independently obtained from the 24 Hurwitz units and the Frobenius
+coset i+j on F_p^2 minus zero. All counts agree in every degree 1,...,20.
+
+The local census gives 370 support-degree multisets, including repetitions
+and a rational cusp complement to degree 20. It is reproduced directly
+in the final coverage script. Ordinary points have degree at least 7,
+so there are at most two ordinary components. At 73 three-component
+supports, including O7+O7+SS6, are explicitly included.
+
+The degree 19 packet is inherited only after matching actual Tate
+normal-form diamond orbits. Its 11327-file manifest is unchanged.
+For 17 levels the canonical models are byte-identical to their inherited
+models. Level 139 has a fresh model of genus 737, precision 3600, and
+modular-unit pole degrees 253 and 265. All global q-series and unit
+identities pass. The integral cotangent lattice is proved saturated by
+the geometric zero bound for differentials: a minimal denominator would
+give a nonzero mod 2 differential vanishing beyond 2g-2. No optimal
+winding-quotient lattice equality is assumed. The verified canonical
+product dimension 3g-3 rules out a hyperelliptic special fiber.
+
+All 22403 degree 20 ordinary sources at inherited levels and ordinary
+sources at 139 receive new jet and principal-divisor tests. Together
+with the matched inherited sources these cover 45391 ordinary orbits. Lower-degree
+ordinary sources and pairs are inherited through the actual orbit
+matches. Actual 3-isogenies provide the Hecke target records, whose
+weighted degrees sum to four times the source degree. Every jet equation
+and precision requirement is asserted. The finite-image annihilators
+are alpha*A_3, with alpha=1 at 59,71;
+ alpha=(sigma-1)(sigma^6+1) at 97;
+ alpha=(sigma-1)(sigma^5+1) at 101;
+ alpha=sigma-1 otherwise.
+The shorter valid polynomial at 97 kills its order 12 positive-rank
+character factor and permits the required degree 20 tests.
+
+For a resulting rational divisor U-V over F_2 use L=K^2 at 53,67 and
+L=K at other levels. Choose a nonzero f in H^0(L(-U)). If U-V=div(u),
+then g=f/u is a nonzero section of L(-V), and h*g lies in f*H^0(L) for
+every h in H^0(L(-U)). The exact multiplication tensor and jet conditions
+therefore give necessary linear conditions on g. A full-rank matrix
+of these conditions proves nonprincipality. The sections and matrices
+are retained and independently ranked in Sage. There are 37905 new
+full-rank obstruction matrices, all independently verified.
+
+The bicanonical choice at 67 is necessary: the ordinary degree 20
+annihilator may have positive degree 160, larger than genus 155.
+Here dim H^0(K^2)=462 and dim H^0(K^4)=1078. Although precision 1300 is
+below the weight 8 modular-form Sturm bound, it exceeds the geometric
+bound for these particular sections: a product of four holomorphic
+differentials is a section of 4K of degree 8g-8=1232. Vanishing of its
+q-coefficients through precision 1300 gives differential vanishing order
+at least 1296>1232. All multiplication identities are therefore global.
+
+Fresh pairs cover every relative diamond position of total degree 20;
+at 139 all pair totals <=20 are new. Mixed delta2 tests cover SS6+O14
+at 73, NC11+O9 at 89, SS9+O11 at 109, SS7+O13 at 113 and NC7+O13 at 127.
+The added divisor is delta2 invariant, so only the ordinary portion enters
+the obstruction. The same observation applies to lower mixed tests,
+including SS6+SS6+O7 and NC9+O11 at 73. The new O7+O7+SS6 case at 73
+has its own delta2 pair test in all 19 relative positions. These 21
+additional matrices, including the two O11 sources at 109, have separate
+independent Sage rank checks.
+
+For the actual elliptic 3-isogeny correspondence, the divisor convention
+is A_3=T_3-1-3*diamond3. On the q-form model its Fricke transport is
+T_3-diamond3-3 up to an invertible diamond factor. Thus the divisor
+tests and the cotangent tests below use the same torsion annihilator
+in their respective conventions. Such a factor does not change a
+kernel, cotangent rank, or isogeny-degree parity used in this proof.
+
+5. ABSOLUTE AND RELATIVE FORMAL IMMERSIONS
+
+Pure cusp disks use the integral DKSS endomorphism criterion, including
+its characteristic 2 form. Independence in the integral Hecke algebra
+is established by its matrices on modular symbols. Every raw operator
+row is reconstructed from the compression, so row compression is
+injective. Independence after a combined-map projection is used only
+in the direction implying independence of the actual operators.
+
+The active finite-image polynomials are checked anew on J_0(p), using
+the correct transpose-dual Hecke action on period coordinates. Exact
+rational matrix ranks show their images lie in the rank-zero winding
+part. The proved strange-character table shows that no nontrivial
+positive-rank character descends to any active intermediate quotient.
+All eleven active polynomial checks have independent Sage rank checks.
+At 59 and 71 the full Jacobians are separately certified to have rank
+zero: their winding spans have the full dimensions 117 and 176, with
+both exact rational ranks independently checked in Sage. This justifies
+the rank-zero cases where arbitrary integral polynomials are used.
+
+After moving a maximal cusp to position zero, complete dominating
+multiplicity profiles cover all distributions of degree 20. At the
+smaller indices, cap 6 patterns and every pattern with a second cusp
+of multiplicity >=7 are included. At larger indices the full relation
+spaces on cap 4 or cap 5 dominating profiles are computed. At 103 and
+131 the only low-cost relations are the known full simple cusp fibers.
+Raw failures at the old 53 quotient and the old 101 index 5 map are not
+used; both are replaced by the full-curve maps described below.
+
+The relative formal lemma is integral. Let S be smooth of relative
+dimension d over Z_2 and L a smooth closed formal family of dimension r.
+Suppose an actual integral map Phi:S->A to a smooth group scheme vanishes
+on L and has cotangent rank d-r. Choose normal parameters v for L.
+Suitable target functions lie in the ideal (v) and equal a matrix of
+power series times v, with invertible constant matrix. Their formal
+zero locus is exactly L. No integration denominator or quotient-cotangent
+saturation assertion is needed.
+
+Our maps are actual integral endomorphisms of the Jacobian, transported
+by Fricke. Odd Hecke torsion factors kill their finite rational images
+and rational cusp base terms. Their cotangent matrices have the form
+ (D_h-1)(T_q-D_q-q),
+or the explicitly stated sharper variants. Coefficient and trace-pairing
+matrices at a closed point differ by an invertible field-basis change.
+If L contains a fixed nonzero cusp divisor R, a noncuspidal trace D
+cannot lie on L.
+
+Canonical-coordinate ratios differ from differential coefficients by
+a common invertible local power series. Multiplication by that series
+gives an invertible triangular transformation on each finite jet space.
+Thus the stored normalized jets give the same vanishing conditions and
+cotangent ranks, including the first two jets at a repeated SS point.
+This uses no integration in characteristic 2. In the repeated SS73 case,
+the verified nonzero projective first derivative also certifies that
+the chosen elliptic deformation parameter is unramified on the modular
+curve, so it is a valid local parameter for this jet calculation.
+
+At 53, SS13+C7 uses the free order 13 pullback and a fixed R7. The base
+rank is 12 and the relative family has dimension 1. Pure cusp disks
+are handled directly on the full curve by the order 13 diamond difference
+and the A_3,A_5 maps. All 63926 cap 3 profiles pass modulo the known
+fiber-jet relations. A degree 20 cusp divisor contains at most one full
+simple 13-fiber; extracting it leaves R of degree 20 or 7.
+
+At 73 let H9=<2>. Its tame order 3 subgroup fixes the SS6 points with
+nontrivial tangent action, giving unique fixed lifts Z0. For SS6+C14
+the family is Z0+R+pi^*Y, with zero or one cusp fiber and deg(R)=14 or 5.
+For NC9+C11 the NC divisor is itself a free H9 fiber; the base rank is
+8 and extracting zero or one additional cusp fiber leaves R11 or R2.
+
+The new double SS6+C8 disk is treated by relative immersion, not by an
+insufficient gonality inequality. At a repeated point the first two
+jets are obtained from a genuine elliptic deformation and verified
+against native division polynomials and all unit equations. The base
+rank is 12, for each of the three relative offsets and all four
+simultaneous translates. These 12 checks cover every unordered pair of
+the four closed SS6 points while the cusp normalization is fixed.
+On the symmetric square at a repeated tame fixed point the weights
+are zeta and zeta^2, so the fixed lift remains isolated. All relative
+cusp profiles have full normal rank 20, with fixed R8.
+
+At 109, SS9+C11 uses the free order 9 subgroup, base rank 8, and a
+one-dimensional quotient pullback. Extracting zero or one cusp 9-fiber
+leaves R11 or R2. At 113, SS7+C13 uses the free order 7 subgroup, base
+rank 6, leaving R13 or R6. The old doubled gonality inequalities for
+these two disks are insufficient in degree 20; they are not used.
+
+The exceptional O8+C12 disk at 113 uses the free order 8 action, base
+rank 7, and 392 profiles across all seven closed translates. A free
+action of the constant finite group near this orbit is an etale torsor
+even in characteristic 2. Thus the quotient pullback family is smooth
+without averaging invariant lattices. Extracting zero or one cusp
+8-fiber leaves R12 or R4. The A_2,A_3 maps are justified by the proved
+rational cuspidal 2-primary result at 113.
+
+The O9+NC7+C4 exception at 127 uses the product of the order 9 and order
+7 diamond differences, with A_2,A_3. The same proved rational-torsion
+result applies at 127. The two quotient pullbacks give a smooth family
+of dimension 2 and base rank 14. Every one of 720720 cusp patterns has
+relative rank 18. The whole four-jet relation code has 252 columns and
+kernel dimension 60, generated by the two families of fibers. Each
+jet-level code is the 7-by-9 row/column code, with minimum nonzero
+Hamming weight 7; no four selected columns are dependent. The two
+closed diamond-orbit lengths are 7 and 9, so the Chinese remainder
+theorem normalizes both supports simultaneously, and every cusp
+complement is included. The fixed R4 gives the contradiction.
+
+At 103 and 131 use the odd-order quotient subgroups of orders 3 and 5.
+Their intrinsic invariant differential spaces have genera 120 and 131.
+All nonfiber cusp patterns pass absolute immersion. A full cusp fiber
+has degree 17 or 13; adding a fixed complement of degree 3 or 7 gives
+normal rank 19 in all 969 or 50388 patterns. The family is R+pi^*Y and
+has dimension 1. Pushforward of the weighted trace is allowed; a cusp
+in that pushforward forces a cusp in the original divisor.
+
+All these cotangent maps, including every support and cusp entry, are
+independently rebuilt in Sage from the canonical model. Every retained
+quotient relation basis is checked to span the entire kernel modulo
+the known fiber relations. All its nonzero classes are enumerated and
+the minimum prefix cost is computed over every known-fiber mask. The
+cost exceeds the available degree, so only the stated pullback-family
+relations can occur. In total 105240 dominating profiles pass the
+independent relation-space checks.
+
+6. SHARPER MAPS AT 97 AND 101
+
+For p=97 and 101 the sole relevant nontrivial positive-rank character
+has order 12 and 10, respectively. For each n=2,3,5,7 the integral
+polynomial a_n(D) describing its Hecke eigenvalue is retained. Put
+ beta_n=T_n-a_n(D).
+The order 12 or 10 factor has dimension one over its degree 4 character
+field. An exact dual-period winding-image computation verifies that
+the image of each beta_n is in the rank-zero winding part. All eight
+number-field rank computations are independently repeated in Sage.
+Together with the proved strange-character table, this shows that
+ (h-1) beta_n
+has finite image on J(Q) when h kills the trivial character part.
+Composing with odd A_q therefore gives an actual rational-point
+annihilator, not a presumed optimal-quotient cotangent lattice.
+
+At 97 take h of order 3, which fixes the SS16 geometric points. Their
+tame fixed lifts form Z0. For the sharper maps the SS base rank is 16
+at both closed diamond positions. The C4 profiles pass modulo order
+3 cusp fibers. Extracting zero or one such fiber leaves R4 or R1; the
+relative family Z0+R+pi^*Y has the required normal rank. The old direct
+principal-divisor rank 344/345 calculation is unused.
+
+At 101 take h generating the full diamond group of order 50. The same
+sharper maps give 197 complete cusp profiles of full rank 20 modulo
+the full-group fiber-jet relations. No 50-fiber fits into degree 20,
+so every pure cusp disk is excluded. This replaces the unsuccessful
+index 5 cusp calculation. The actual Hecke matrices are reconstructed
+from full-rank q-expansion truncations, and every sharper cotangent
+entry is independently rebuilt.
+
+7. STABILIZERS AND ALL REMAINING DISKS
+
+Write Z=D-C, where C is the fixed rational cusp complement, and let
+ y=[hZ-Z].
+This is a degree zero divisor class even when deg(Z)>0. If h has order
+m and N_h=1+h+...+h^(m-1), then
+ m*y=(h-1)[mZ-N_h Z].
+The right-hand image is finite, so y is torsion. Special-fiber
+invariance gives reduction zero, hence 2y=0. If
+ gon(X_1(p))>2*(20+deg(C)),
+comparison of the effective parts of 2(hD-D-hC+C) forces hD-D=hC-C.
+Their noncuspidal and cuspidal supports are disjoint, so hD=D.
+
+At 73 a fresh export uses the actual JOne(73) integral homology of rank
+374, with both Betti signs. The A_3,A_5 kernel intersection modulo 2 has
+dimension 6 and bounds the actual rational J[2]. Diamond 2 fixes this
+entire upper bound, as independently checked in Sage. Since N_h*y=0
+and m=9 is odd, y=0. At 89 fresh exact calculations on both Betti signs
+give odd determinants on the order 11 anti-Jacobian, of dimension 260.
+The computed T_3-1-3*D_3 differs from T_3-D_3-3 by 2*(1-D_3).
+Both are integral endomorphisms preserving the actual anti-Jacobian,
+so their degree parities agree on its integral homology. Fricke
+transport preserves parity up to an invertible diamond. The proper
+torsion annihilator therefore has odd degree and kills the relevant
+rational 2-torsion, giving y=0. Both determinants are independently
+checked in Sage. These cases require only gon>20+deg(C). All strict
+inequalities below are checked rationally.
+
+At 73, nonrational total 18 with C2 and SS6+NC9 with C5 satisfy the
+undoubled inequalities 22 or 25<gon. H9-orbits have lengths 9 or 3,
+neither dividing 20. The double SS6+C8 disk uses the relative test of
+Section 5. At 89, NC11+C9 has 29<gon and H11 invariance, impossible for
+20. At 109, SS12+C8 and total 18+C2 satisfy doubled bounds 56 and 44;
+H18-orbits have lengths 18,9,6, none dividing 20. SS9+C11 is relative.
+
+At 113, total 14+C6 gives the doubled bound 52 and H14 invariance;
+lengths 14 or 7 do not divide 20. Pairs of exceptional O8 components have C4 and
+bound 48; H8-invariance could have orbit length 4 only at j=1728,
+already excluded by the Frobenius test. A single exceptional O8 is
+handled by relative immersion. For SS7+O8+C5 the doubled bound is 50,
+so diamond 98, an involution, fixes D. Its generic fixed points have
+j=1728 and are excluded. Otherwise D is a sum of free involution pairs,
+with the common multiplicity allowed by a weighted trace. Each pair
+specializes with even multiplicity at every fixed special-fiber point.
+But the SS7 component has multiplicity one at all its geometric points,
+which are fixed by the involution. This is impossible. No odd-degree
+or wild quotient-lattice argument is used.
+
+At 127, NC7+C13 and total 14+C6 have doubled bounds 66 and 52, giving
+H7 invariance. Exceptional O9+C11 and pairs of exceptional O9 with C2 have bounds 62 and
+44, giving H9 invariance. The possible orbit lengths 7, or 9 and 3,
+do not divide 20. The mixed exceptional O9+NC7 disk is relative.
+At 137, SS17+C3 and the inherited exceptional ordinary O17+C3 both
+have bound 46<gon. Their stabilizers have orders 34 and 17, with orbit
+lengths 34 or 17, incompatible with 20. All stabilizers are verified
+on actual Tate normal forms, without assuming their action from a
+residue-degree label alone.
+
+8. COMPLETENESS AND REPLAY
+
+Every one of the 370 local support-degree multisets has an explicit
+principal-divisor, absolute-immersion, relative-immersion, or stabilizer
+argument. Fresh actual-orbit matches connect inherited certificates to
+the new representatives. The global ledger checks every prime up to
+525313 and every selected character-order family. The ledger has passed for all 43465 primes in the finite range and all
+370 local support types. This proves the theorem.
+
+REPLAY.txt records the verification commands. The certificate index
+links the exact models, witnesses, source jets, matrices, independent
+checks and coverage ledgers. The final manifest includes every frozen
+parent proof input and the new proof inputs. Unused exploratory failures
+are identified above and are not premises of the proof.
+
+References: the previously proved integral dyadic theorem and inherited
+audit; Derickx--Kamienny--Stein--Stoll, Torsion points on elliptic curves
+over number fields of small degree, Algebra & Number Theory 17 (2023),
+Corollary 5.2 and Proposition 5.3; Derickx--Stoll, arXiv:2505.14109v1,
+Theorem 3.3, Proposition 4.1, Remark 4.4, Table 2 and Corollary 7.5;
+Schoof, Families of curves and weight distributions of codes,
+Proposition 5.2, for the independent ordinary point-count check.
+
+9. EXACT GRAPH CERTIFICATES FOR THE FRESH CHARACTER CALCULATIONS
+
+The faster character implementation uses a larger sparse representation,
+with a verified quotient argument; it does not infer winding generation
+from an arbitrary scalar sequence on that larger space.
+
+Fix a nontrivial even character chi of prime conductor p, and an auxiliary
+prime q congruent to 1 modulo p-1. Let S be the F_q-vector space on Manin
+symbols after imposing the two-term S and complex-conjugation relations
+with sign +1. The native two-term quotient algorithm fixes its basis.
+Let A have as rows every three-term Manin relation in that basis, with
+proportional duplicates removed. Thus the actual relative modular-symbol
+space is exactly M=S/row(A). The raw operator R is the four-term Cremona
+Heilbronn action of determinant 2, followed only by the two-term reduction.
+It induces the usual T_2 on M; equivalently, it preserves the remaining
+Manin relation subspace. This is the standard Manin-symbol presentation
+and Hecke action, with the same character convention as the native code.
+The fast implementation caches the native character value list and uses
+the same projective-line reduction, rather than changing any relation.
+
+Every column of the retained A has at most two nonzero entries; this is
+asserted on each actual matrix. Regard its rows as vertices. A two-entry
+column is a weighted edge; a one-entry column joins its vertex to a dummy
+anchor, and a zero column is free. A spanning forest provides one leaf
+pivot for every tree edge. In each component without an anchor, choose
+nonzero weights lambda satisfying
+ lambda_v*a_(v,e)+lambda_w*a_(w,e)=0
+on all tree edges, with lambda=1 at the root. A nontree edge has reduced
+coefficient gamma_e=sum_v lambda_v*a_(v,e). If some gamma_e is nonzero,
+that chord provides the remaining root pivot. If all gamma_e vanish,
+lambda is an explicit left-null vector. These left-null vectors have
+disjoint nonempty support in the balanced components and are independent.
+Consequently the lower rank from the tree and chord pivots equals the
+upper rank from these left-null vectors. Both certificates are checked
+independently, for every actual character matrix, in verify_graph.py.
+This proves rank(A) exactly, not a probabilistic lower bound.
+
+A column functional u is constructed with A*u=0. All of these equations
+are checked independently in Python and again in Magma. Write e_0 for
+the identity Manin symbol representing {0,infinity}, and set
+ e'=e_0*(R-(2*chi(2)+1))*(R-(chi(2)+2)).
+For a nontrivial character of prime conductor, the boundary has dimension
+2, and T_2 has precisely these two Eisenstein eigenvalues on it. Hence
+the image of e' lies in the cuspidal subspace of M, of dimension
+ k=dim(S)-rank(A)-2.
+The scalar sequence e'*R^i*u therefore factors through the actual
+k-dimensional cuspidal modular-symbol space, even though R acts on a
+larger ambient space. Its certified minimum recurrence length k proves
+full winding generation exactly as in Section 3. The scalar functional
+need not be chosen canonically: all its relation equations are exact
+certificates, and randomness only searches for a convenient witness.
+
+The field q is prime, splits the character values, and is coprime to
+6p(p-1). The character summand of relative homology and its boundary
+therefore have the usual good integral specialization. A full-rank
+winding witness modulo q lifts to characteristic zero. No conjecture
+on analytic ranks or rational torsion is used in this step.
+
+Each fresh graph job retains the complete A and R matrices, the spanning
+forest and chord rank certificate, the functional, and the prepared
+winding vector. The complete input files are compressed losslessly;
+their compressed and decompressed hashes are checked separately. Magma
+independently reconstructs e', checks all functional relations, and
+verifies 64 scalar terms before the C++ sequence is accepted. The C++
+accumulation bound uses the larger actual ambient dimension. Jobs for
+which this bound would fail are routed to the original smaller native
+quotient representation; no overflowing calculation is used.
+
+For the actual required character p=525253, order 1014, the graph has
+131314 generators, 87541 independent three-term relations, and quotient
+dimension 43773, agreeing with the native full quotient. All 131314 raw
+Hecke rows agree with the native construction. Using the same descended
+functional, all 87542 sequence terms agree with the original quotient
+sequence, not merely the initial 64 terms. Every byte of the fast
+exported graph also agrees with the slower native graph construction.
+These comparisons are retained as implementation audits; the quotient,
+rank, functional and Eisenstein arguments above justify the method for
+each character on its own exact data.

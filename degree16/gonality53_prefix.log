@@ -1,0 +1,11 @@
+DECIC_PREFIX_CHECK level=53 degree=10 rank=66 checked=12982006 status=PASS seconds=0.193197
+prefix=1 count=2042975
+prefix=2 count=9689900
+prefix=3 count=12246350
+prefix=4 count=12839500
+prefix=5 count=12958255
+prefix=6 count=12978730
+prefix=7 count=12981655
+prefix=8 count=12981980
+prefix=9 count=12982005
+prefix=10 count=12982006

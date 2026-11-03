@@ -1,0 +1,182 @@
+EXCLUSION OF 61 FROM S(15): THE GENUS-8 QUOTIENT
+29 October 2026
+
+Result. There is no irreducible noncuspidal degree15 point on X_1(61)
+whose reduction at2 is the supersingular degree15 closed point.
+Together with the previously verified local exclusions at61, this proves
+61 is not in S(15). Consequently
+             S(15)={2,3,5,7,11,13,17,19,23,29,31,37,43}.
+The result uses exact computer assistance, as specified below.
+
+1. THE PREVIOUS LOCAL INPUT
+
+The complete finite-field census and local certificates in work/degree15
+leave just one possible reduction for an irreducible degree15 divisor D
+on X=X_1(61): the unique supersingular closed point P15 of degree15.
+Rational-cusp reductions, all149 ordinary source orbits, all16 degree7+7
+configurations with a rational cusp, and all90 degree7+8 configurations
+have already been excluded. There are no other supersingular or
+nonrational-cusp configurations of total degree15 at61. The main proof
+work/degree15/PROOF.txt explains these certificates and their coverage.
+
+In particular, the present argument only has to exclude red(D)=P15.
+The degree15 condition is exact: a point over a degree15 field has degree
+1,3,5, or15, and the first three degrees cannot support61-torsion by the
+known rational, cubic and quintic classifications.
+
+Write delta_a for the geometric diamond (E,P) -> (E,aP), and put
+ Delta=(Z/61Z)^*/{+1,-1},
+ H5=<delta_3>=<delta_2^6>, H15=<delta_4>,
+ Y=X/H5, Z=X/H15, C=X_0(61).
+The successive degrees in X -> Y -> Z -> C are5,3,2. Their genera are
+respectively126,26,8,4. Let s be the involution of Z induced by delta_2.
+Thus Z/<s>=C. All curves, maps and diamond actions are defined over Q.
+
+2. EXACT JACOBIAN AND REDUCTION CERTIFICATES
+
+The following properties are verified by the supplied calculations:
+ (i)  (delta_3-1)J_X(Q) is finite;
+ (ii) (s-1)J_Z(Q) is finite;
+ (iii) J_X(Q)[2]=0;
+ (iv) delta_2 and delta_3 fix P15 as a closed divisor.
+
+For (i) and (ii), finite_diamonds.m works in the sign+ cuspidal modular
+symbol spaces of dimensions126 and8. In projected period coordinates,
+the Hecke action is the transpose of DualHeckeOperator. The script
+checks compatibility with the ambient Hecke action through the exact
+projection matrix; it does not identify matrices in different bases.
+It recovers D2=(T2^2-T4)/2 and uses the projected winding vector e.
+The rows e*T2^k, 0<=k<g, span spaces of dimensions123 and7. The images
+of D2^6-1 and D2-1, respectively of dimensions100 and4, lie in these
+winding spaces. This is checked by rational matrix ranks. The winding
+rank-zero theorem therefore gives (i) and (ii). Inverting the diamond
+convention changes neither the relevant kernels nor their images.
+
+For (iii), two61_data.m contains integral matrices on the actual
+sign0 Betti homology lattice of JOne(61), of rank252. For q=3,5,7,
+the matrices A_q=T_q-1-q*<q> annihilate rational2-torsion, by good
+reduction and Eichler--Shimura. Their common kernel modulo2 has
+dimension0. This calculation uses the actual Jacobian lattice, not a
+Jacobian that is merely isogenous to it. The generating script is
+work/audit11/rational_two.m; the original log is work/degree15/two61.log.
+
+For (iv), verify_reduction.m reconstructs the actual elliptic curve
+and61-point representing P15. Its Tate coordinates have degree15.
+On these coordinates delta_2, delta_3 and delta_4 act as Frobenius to
+the powers2,12 and4, respectively. In particular H15 acts transitively
+on the15 geometric points of P15, so P15 maps to a rational point on
+the special fibre of Z. The weaker assertion (iv) suffices below.
+
+All these computations are exact. verify_sage.py independently checks
+the exported rational inclusions, common mod2 kernel, genera and the
+quadric calculation used in Section4. independent_checks.json records
+PASS. This independent linear-algebra check is not a separate agent audit.
+
+The curve X has good reduction at2, and H5,H15 have odd order. Their
+tame quotients Y,Z therefore have good reduction at2, with the quotient
+maps and diamond actions extending over Z_2. The map f:X -> Z has
+degree15. Since f_* f^*=[15], its pullback is injective on2-torsion.
+It follows from (iii) that J_Z(Q)[2]=0 as well.
+
+For an abelian scheme over Z_2, the torsion in the kernel of reduction
+on Q_2-points is killed by2: doubling carries this kernel into the
+modulo4 formal subgroup, on which the formal logarithm is injective.
+Consequently rational torsion reduction is injective on both J_X and
+J_Z. No assertion of injectivity on all rational points is needed.
+
+3. DESCENT TO AN IRREDUCIBLE CUBIC DIVISOR ON Z
+
+Suppose such a D exists. Choose a rational cusp c on X, and put
+ h=delta_3. Then
+ [hD-D]=(h-1)[D-15c]+15[hc-c]
+is rational torsion, by (i) and Manin--Drinfeld. It reduces to zero,
+by (iv). Hence [hD-D]=0. A nonzero principal divisor hD-D would give
+a rational function over Q of degree at most15. This is impossible,
+since gon_Q(X)>=325*(61^2-1)/65536>15. Thus hD=D as divisors.
+
+The order5 group H5 acts freely on characteristic-zero noncuspidal
+points of X: a diamond stabilizer there can only have order dividing
+2 or3, from the extra elliptic automorphisms. Therefore D is the
+pullback of an irreducible cubic divisor D_Y on Y. Its image D_Z on Z
+has degree1 or3. Degree1 would give a rational noncuspidal point on
+X_0(61), forbidden by Mazur's rational prime-isogeny theorem. Thus
+D_Z is irreducible of degree3, and f_*D=5D_Z.
+
+Reduction commutes with f and the diamonds. Since delta_2 fixes P15,
+we obtain 5*(s red(D_Z)-red(D_Z))=0 in the divisor group of the special
+fibre of Z. That group is torsion-free, so red(D_Z) is s-invariant.
+(The transitive H15 action above also gives red(D_Z)=3S for one
+rational point S.) Choose a rational cusp c_Z of Z. Then
+ [sD_Z-D_Z]=(s-1)[D_Z-3c_Z]+3[sc_Z-c_Z]
+is rational torsion by (ii) and Manin--Drinfeld on the quotient.
+It reduces to zero, hence [sD_Z-D_Z]=0 by injectivity of torsion
+reduction on J_Z.
+
+4. THE RATIONAL GONALITY OF Z IS AT LEAST4
+
+First C=X_0(61) has no Q-map to P^1 of degree at most3. An exact
+smooth canonical model, returned by Magma's SmallModularCurve(61),
+is a complete intersection of degrees2 and3 in P^3. Its quadric is
+ Q=x2^2-x1*x3+x1*x4+x3*x4.
+Its symmetric Gram matrix has rank4 and determinant -1/4. Adjunction
+identifies O(1) with the canonical sheaf, so C is nonhyperelliptic.
+A rational degree3 pencil would give a rational ruling of this quadric:
+the canonical spans of the general fibres are lines contained in Q.
+But the nonsquare discriminant means the two rulings are exchanged
+over Q(i), and neither is defined over Q. This excludes a Q-map of
+degree3. Genus4 excludes degree1. This also agrees with the published
+classification: Hasegawa--Shimura, Trigonal modular curves, and
+Jeon, Modular curves with infinitely many cubic points, Theorem2.3.
+The latter is available at https://doi.org/10.1016/j.jnt.2020.09.006 .
+Here rational gonality is essential; C is trigonal over Q(i).
+
+Suppose Z had a Q-map u:Z -> P^1 of degree d=2 or3. Since g(Z)=8
+exceeds (d-1)^2, its degree-d pencil is unique, by the
+Castelnuovo--Severi inequality. For these prime degrees, two distinct
+pencils give a birational map to a bidegree(d,d) curve in P^1 x P^1,
+which would have genus at most(d-1)^2.
+
+Thus u s=alpha u for alpha in PGL_2(Q), with alpha^2=1. If alpha=1,
+u factors through C. This is impossible for d=3 by parity, and for
+d=2 because it would give a degree1 map C -> P^1. If alpha is a
+nontrivial involution, pass to quotients to obtain a Q-map
+C -> P^1/<alpha> of degree d. The quotient of P^1 is rational over Q
+(for example by Luroth's theorem), so this contradicts the preceding
+paragraph. Degree1 is excluded by genus. Therefore gon_Q(Z)>=4.
+
+5. THE CONTRADICTION
+
+The principal divisor sD_Z-D_Z has positive part of degree at most3.
+The gonality bound from Section4 forces it to be zero. Thus sD_Z=D_Z.
+The three distinct geometric points of D_Z form one Galois orbit, and
+s commutes with Galois. All its orbits on those three points have the
+same length. Since the length divides2 and must divide3, it is1.
+All three points are fixed by s.
+
+Riemann--Hurwitz for the double cover Z -> C gives exactly
+       (2*g(Z)-2)-2*(2*g(C)-2)=14-12=2
+geometric fixed points of s in characteristic zero. Three fixed points
+are impossible. This excludes the last reduction at61 and proves
+61 is not in S(15).
+
+6. REPLAY AND SCOPE
+
+Run from the workspace root, with Magma and Sage available:
+ magma work/degree15/quotient61/verify_small_quotient.m
+ magma work/degree15/quotient61/finite_diamonds.m
+ magma work/degree15/quotient61/verify_reduction.m
+ python work/degree15/quotient61/verify_sage.py
+ python work/degree15/verify_coverage.py
+Each Magma command should be logged to its corresponding .log file.
+The reduction script uses the installed mdmagma library at the absolute
+AttachSpec path in that script. The Sage checker also reads the prior
+actual-Jacobian export two61_data.m. To regenerate that export, run:
+ magma N:=61 Qs:=3,5,7,11 Power:=6 DiamondOrder:=5 \
+   MatrixFile:=work/degree15/two61_data.m work/audit11/rational_two.m
+and save its output to work/degree15/two61.log.
+
+The scope of the new checks is the exclusion in Sections2--5. The
+previous local-certificate and global-bound checks remain necessary
+for the full determination of S(15). The completed proof and final
+coverage ledger include them. Failed experiments in ss61 are historical
+explorations and are not used in this proof.

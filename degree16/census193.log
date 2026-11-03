@@ -1,0 +1,17 @@
+S16_CENSUS N=193 degree=1 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.000
+S16_CENSUS N=193 degree=2 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.000
+S16_CENSUS N=193 degree=3 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.000
+S16_CENSUS N=193 degree=4 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.010
+S16_CENSUS N=193 degree=5 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.010
+S16_CENSUS N=193 degree=6 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.010
+S16_CENSUS N=193 degree=7 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.010
+S16_CENSUS N=193 degree=8 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.020
+S16_CENSUS N=193 degree=9 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.050
+S16_CENSUS N=193 degree=10 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.180
+S16_CENSUS N=193 degree=11 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.540
+S16_CENSUS N=193 degree=12 closed_points=0 diamond_orbits=0 j_degrees=[] elapsed=0.680
+S16_CENSUS N=193 degree=13 closed_points=1344 diamond_orbits=14 j_degrees=[ 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13 ] elapsed=1.330
+S16_CENSUS N=193 degree=14 closed_points=1152 diamond_orbits=12 j_degrees=[ 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14 ] elapsed=2.750
+S16_CENSUS N=193 degree=15 closed_points=1728 diamond_orbits=18 j_degrees=[ 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15 ] elapsed=4.360
+S16_CENSUS N=193 degree=16 closed_points=3168 diamond_orbits=33 j_degrees=[ 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16 ] elapsed=6.370
+S16_ALL_FINITE_SOURCE_ORBITS_COMPLETE

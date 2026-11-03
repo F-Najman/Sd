@@ -1,0 +1,69 @@
+{
+  "status": "ADOPTED",
+  "workers": [
+    {
+      "pid": 1921436,
+      "stage": "cpp",
+      "p": 174851,
+      "order": 1345,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p174851_n1345_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p174851_n1345_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1921544,
+      "stage": "cpp",
+      "p": 174851,
+      "order": 3497,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p174851_n3497_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p174851_n3497_cpp_raw.m"
+      ]
+    },
+    {
+      "pid": 1921545,
+      "stage": "export",
+      "p": 174851,
+      "order": 17485,
+      "args": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "P:=174851",
+        "OrderToTest:=17485",
+        "SparseOut:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p174851_n17485_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/export_large_sparse.m"
+      ]
+    },
+    {
+      "pid": 1921805,
+      "stage": "export",
+      "p": 174851,
+      "order": 87425,
+      "args": [
+        "/opt/magma-2.30-1/magma.exe",
+        "-b",
+        "P:=174851",
+        "OrderToTest:=87425",
+        "SparseOut:=/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p174851_n87425_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/export_large_sparse.m"
+      ]
+    },
+    {
+      "pid": 1921806,
+      "stage": "cpp",
+      "p": 174851,
+      "order": 6725,
+      "args": [
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/krylov",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p174851_n6725_sparse.txt",
+        "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p174851_n6725_cpp_raw.m"
+      ]
+    }
+  ],
+  "worker_limit": 16,
+  "export_limit": 2,
+  "cpp_limit": 16
+}

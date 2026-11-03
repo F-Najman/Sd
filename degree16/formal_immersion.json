@@ -1,0 +1,329 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "N": 41,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 130,
+      "rank_cap6": 50,
+      "kernel_dimension": 80,
+      "exceptional_counts": {
+        "8+8": 19,
+        "9+7": 19,
+        "8+7+1": 342,
+        "7+7+2": 342,
+        "7+7+1+1": 2907
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 303660642,
+      "detail": "8\nprefix=11 count=303651787\nprefix=12 count=303659102\nprefix=13 count=303660432\nprefix=14 count=303660622\nprefix=15 count=303660641\nprefix=16 count=303660642\nDECIC_PREFIX_CHECK level=41 degree=16 rank=50 checked=303660642 status=PASS seconds=13.1393\n"
+    },
+    {
+      "N": 43,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 136,
+      "rank_cap6": 53,
+      "kernel_dimension": 83,
+      "exceptional_counts": {
+        "8+8": 20,
+        "9+7": 20,
+        "8+7+1": 380,
+        "7+7+2": 380,
+        "7+7+1+1": 3420
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 529735644,
+      "detail": "14\nprefix=11 count=529725018\nprefix=12 count=529733873\nprefix=13 count=529735413\nprefix=14 count=529735623\nprefix=15 count=529735643\nprefix=16 count=529735644\nDECIC_PREFIX_CHECK level=43 degree=16 rank=53 checked=529735644 status=PASS seconds=22.577\n"
+    },
+    {
+      "N": 47,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 148,
+      "rank_cap6": 70,
+      "kernel_dimension": 78,
+      "exceptional_counts": {
+        "8+8": 22,
+        "9+7": 22,
+        "8+7+1": 462,
+        "7+7+2": 462,
+        "7+7+1+1": 4620
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 1522879977,
+      "detail": "x=11 count=1522865027\nprefix=12 count=1522877677\nprefix=13 count=1522879701\nprefix=14 count=1522879954\nprefix=15 count=1522879976\nprefix=16 count=1522879977\nDECIC_PREFIX_CHECK level=47 degree=16 rank=70 checked=1522879977 status=PASS seconds=73.3277\n"
+    },
+    {
+      "N": 53,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 88,
+      "rank_cap6": 39,
+      "kernel_dimension": 49,
+      "exceptional_counts": {
+        "8+8": 12,
+        "9+7": 12,
+        "8+7+1": 132,
+        "7+7+2": 132,
+        "7+7+1+1": 660
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 3094090,
+      "detail": " count=3087902\nprefix=11 count=3092270\nprefix=12 count=3093635\nprefix=13 count=3093999\nprefix=14 count=3094077\nprefix=15 count=3094089\nprefix=16 count=3094090\nDECIC_PREFIX_CHECK level=53 degree=16 rank=39 checked=3094090 status=PASS seconds=0.149566\n"
+    },
+    {
+      "N": 59,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 184,
+      "rank_cap6": 117,
+      "kernel_dimension": 67,
+      "exceptional_counts": {
+        "8+8": 28,
+        "9+7": 28,
+        "8+7+1": 756,
+        "7+7+2": 756,
+        "7+7+1+1": 9828
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 24733568602,
+      "detail": "nt=24733532642\nprefix=12 count=24733564107\nprefix=13 count=24733568167\nprefix=14 count=24733568573\nprefix=15 count=24733568601\nprefix=16 count=24733568602\nDECIC_PREFIX_CHECK level=59 degree=16 rank=117 checked=24733568602 status=PASS seconds=934.597\n"
+    },
+    {
+      "N": 61,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 100,
+      "rank_cap6": 55,
+      "kernel_dimension": 45,
+      "exceptional_counts": {
+        "8+8": 14,
+        "9+7": 14,
+        "8+7+1": 182,
+        "7+7+2": 182,
+        "7+7+1+1": 1092
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 13280042,
+      "detail": "3268414\nprefix=11 count=13276982\nprefix=12 count=13279362\nprefix=13 count=13279922\nprefix=14 count=13280027\nprefix=15 count=13280041\nprefix=16 count=13280042\nDECIC_PREFIX_CHECK level=61 degree=16 rank=55 checked=13280042 status=PASS seconds=0.577275\n"
+    },
+    {
+      "N": 67,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 76,
+      "rank_cap6": 42,
+      "kernel_dimension": 34,
+      "exceptional_counts": {
+        "8+8": 10,
+        "9+7": 10,
+        "8+7+1": 90,
+        "7+7+2": 90,
+        "7+7+1+1": 360
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 614801,
+      "detail": "refix=10 count=611798\nprefix=11 count=613800\nprefix=12 count=614515\nprefix=13 count=614735\nprefix=14 count=614790\nprefix=15 count=614800\nprefix=16 count=614801\nDECIC_PREFIX_CHECK level=67 degree=16 rank=42 checked=614801 status=PASS seconds=0.024522\n"
+    },
+    {
+      "N": 71,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 52,
+      "rank_cap6": 36,
+      "kernel_dimension": 16,
+      "exceptional_counts": {
+        "8+8": 6,
+        "9+7": 6,
+        "8+7+1": 30,
+        "7+7+2": 30,
+        "7+7+1+1": 60
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 12327,
+      "detail": "PASS relations=16 tested=65535\n"
+    },
+    {
+      "N": 73,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 82,
+      "rank_cap6": 50,
+      "kernel_dimension": 32,
+      "exceptional_counts": {
+        "8+8": 11,
+        "9+7": 11,
+        "8+7+1": 110,
+        "7+7+2": 110,
+        "7+7+1+1": 495
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 1410356,
+      "detail": " count=1405988\nprefix=11 count=1408991\nprefix=12 count=1409992\nprefix=13 count=1410278\nprefix=14 count=1410344\nprefix=15 count=1410355\nprefix=16 count=1410356\nDECIC_PREFIX_CHECK level=73 degree=16 rank=50 checked=1410356 status=PASS seconds=0.055189\n"
+    },
+    {
+      "N": 79,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 244,
+      "rank_cap6": 216,
+      "kernel_dimension": 28,
+      "exceptional_counts": {
+        "8+8": 38,
+        "9+7": 38,
+        "8+7+1": 1406,
+        "7+7+2": 1406,
+        "7+7+1+1": 25308
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 1027476462299,
+      "detail": "PASS relations=28 tested=268435455\n"
+    },
+    {
+      "N": 83,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 256,
+      "rank_cap6": 246,
+      "kernel_dimension": 10,
+      "exceptional_counts": {
+        "8+8": 40,
+        "9+7": 40,
+        "8+7+1": 1560,
+        "7+7+2": 1560,
+        "7+7+1+1": 29640
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 1957648834466,
+      "detail": "PASS relations=10 tested=1023\n"
+    },
+    {
+      "N": 89,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 76,
+      "rank_cap6": 64,
+      "kernel_dimension": 12,
+      "exceptional_counts": {
+        "8+8": 10,
+        "9+7": 10,
+        "8+7+1": 90,
+        "7+7+2": 90,
+        "7+7+1+1": 360
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 614801,
+      "detail": "PASS relations=12 tested=4095\n"
+    },
+    {
+      "N": 97,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 58,
+      "rank_cap6": 45,
+      "kernel_dimension": 13,
+      "exceptional_counts": {
+        "8+8": 7,
+        "9+7": 7,
+        "8+7+1": 42,
+        "7+7+2": 42,
+        "7+7+1+1": 105
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 36445,
+      "detail": "PASS relations=13 tested=8191\n"
+    },
+    {
+      "N": 101,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 40,
+      "rank_cap6": 34,
+      "kernel_dimension": 6,
+      "exceptional_counts": {
+        "8+8": 4,
+        "9+7": 4,
+        "8+7+1": 12,
+        "7+7+2": 12,
+        "7+7+1+1": 12
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 1036,
+      "detail": "PASS relations=6 tested=63\n"
+    },
+    {
+      "N": 103,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 112,
+      "rank_cap6": 106,
+      "kernel_dimension": 6,
+      "exceptional_counts": {
+        "8+8": 16,
+        "9+7": 16,
+        "8+7+1": 240,
+        "7+7+2": 240,
+        "7+7+1+1": 1680
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 50162595,
+      "detail": "PASS relations=6 tested=63\n"
+    },
+    {
+      "N": 107,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 328,
+      "rank_cap6": 322,
+      "kernel_dimension": 6,
+      "exceptional_counts": {
+        "8+8": 52,
+        "9+7": 52,
+        "8+7+1": 2652,
+        "7+7+2": 2652,
+        "7+7+1+1": 66300
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 57541734380876,
+      "detail": "PASS relations=6 tested=63\n"
+    },
+    {
+      "N": 109,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 334,
+      "rank_cap6": 327,
+      "kernel_dimension": 7,
+      "exceptional_counts": {
+        "8+8": 53,
+        "9+7": 53,
+        "8+7+1": 2756,
+        "7+7+2": 2756,
+        "7+7+1+1": 70278
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 73972444627837,
+      "detail": "PASS relations=7 tested=127\n"
+    },
+    {
+      "N": 113,
+      "status": "PASS",
+      "degree": 16,
+      "rows_cap6": 346,
+      "rank_cap6": 337,
+      "kernel_dimension": 9,
+      "exceptional_counts": {
+        "8+8": 55,
+        "9+7": 55,
+        "8+7+1": 2970,
+        "7+7+2": 2970,
+        "7+7+1+1": 78705
+      },
+      "exceptional_failures": [],
+      "normalized_tuples_cap6": 120845465711383,
+      "detail": "PASS relations=9 tested=511\n"
+    }
+  ]
+}

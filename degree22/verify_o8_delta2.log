@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/verify_o8_delta2.py", line 8, in <module>
+    a=json.loads((H/'o8_delta2_sieve.json').read_text());assert a['status']=='PASS'and not a['exceptions']and a['nonprincipal']==a['source_orbits']==1
+                                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "degree": 21,
+  "results": [
+    {
+      "case": "full_cusps61_sharp",
+      "status": "PASS",
+      "profiles": 8295,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "full_cusps89",
+      "status": "PASS",
+      "profiles": 3828,
+      "entire_relation_spaces": true
+    },
+    {
+      "case": "full_cusps97_sharp",
+      "status": "PASS",
+      "profiles": 4560,
+      "entire_relation_spaces": true
+    }
+  ]
+}

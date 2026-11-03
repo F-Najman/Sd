@@ -1,0 +1,13 @@
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/sources37.m"
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/sources67.m"
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/sources71.m"
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/audit11/sources73.m"
+AUDIT_STABILIZER N=37 degree=6 orbit=3 diamond=8 verified=true
+AUDIT_STABILIZER N=37 degree=9 orbit=2 diamond=4 verified=true
+AUDIT_STABILIZER N=37 degree=9 orbit=1 diamond=4 verified=true
+AUDIT_STABILIZER N=37 degree=10 orbit=9 diamond=6 verified=true
+AUDIT_STABILIZER N=67 degree=9 orbit=11 diamond=38 verified=true
+AUDIT_STABILIZER N=71 degree=7 orbit=5 diamond=32 verified=true
+AUDIT_STABILIZER N=73 degree=6 orbit=4 diamond=2 verified=true
+AUDIT37_DECIC_WITNESS_MATCH source=12 verified=true
+AUDIT_ALL_STABILIZERS_AND_WITNESS_MATCH_COMPLETE

@@ -1,0 +1,12 @@
+S19_FINALIZER_WAITING_FOR_ALL592_CHARACTERS_AND_PADE_CERTIFICATES
+S19_FINALIZER_RUNNING verify_large.py
+S19_FINALIZER_RUNNING verify_coverage.py
+S19_FINALIZER_RUNNING package_result.py
+S19_FINALIZER_RUNNING build_manifest.py
+Traceback (most recent call last):
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/finalize_after_characters.py", line 15, in <module>
+    assert r.returncode==0,(name,log)
+           ^^^^^^^^^^^^^^^
+AssertionError: ('build_manifest.py', PosixPath('/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/build_manifest.log'))
+S19_RECOVERY_PARENT_MANIFEST_PATHS_NORMALIZED
+S19_FINAL_PROOF_AND_CERTIFICATE_PACKET_COMPLETE

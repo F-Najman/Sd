@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "affected_degrees": [
+    15,
+    16
+  ],
+  "universal_ordinary_orbits": 359,
+  "corrected_operators": [
+    "sigma^12-1",
+    "(sigma-1)*Phi12(sigma)"
+  ],
+  "records": [
+    {
+      "degree": 15,
+      "status": "PASS",
+      "ordinary97_orbits": 89,
+      "corrected_operators": [
+        "sigma^12-1",
+        "(sigma-1)*Phi12(sigma)"
+      ],
+      "certificate_sha256": "e2d3cbef1fe508c22d9c957f0834fb0064ef9163aa0753ff0d8a1f9e95f0edab",
+      "subset_of_independently_verified_degree17_certificate": true
+    },
+    {
+      "degree": 16,
+      "status": "PASS",
+      "ordinary97_orbits": 176,
+      "corrected_operators": [
+        "sigma^12-1",
+        "(sigma-1)*Phi12(sigma)"
+      ],
+      "certificate_sha256": "d14f390f52bf01d2db1e5b784cd1178677247778303ae06b9f700d1741637ef9",
+      "subset_of_independently_verified_degree17_certificate": true
+    }
+  ]
+}

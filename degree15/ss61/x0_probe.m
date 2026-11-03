@@ -1,0 +1,1 @@
+SetQuitOnError(true);SetColumns(0);X:=SmallModularCurve(61);print "X0_MODEL",Genus(X),Dimension(Ambient(X)),DefiningEquations(X);w:=AtkinLehnerInvolution(X,61,61);print "W61",DefiningEquations(w);Y:=BaseChange(X,GF(2));print "X0_F2",IsNonsingular(Y),Genus(Y),#Points(Y);E:=X0Nplus(61);print "EPLUS",Genus(E),DefiningEquations(E);print "X0_PROBE_COMPLETE";quit;

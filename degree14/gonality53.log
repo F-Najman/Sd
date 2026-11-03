@@ -1,0 +1,1 @@
+{'status': 'PASS', 'independent_expected_tuples': 76256, 'gonality_lower_bound': 16, 'rational_cusps': 26, 'no_other_places_degree_at_most': 6, 'base_rank': 26, 'extra_rank': 66, 'maximum_excess_degree': 6, 'pigeonhole_distinct_rational_poles': 9, 'prefix_result': 'DECIC_PREFIX_CHECK level=53 degree=6 rank=66 checked=76256 status=PASS seconds=0.00152407\n'}

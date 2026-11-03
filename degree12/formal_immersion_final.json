@@ -1,0 +1,141 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "N": 41,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 11543033,
+      "independent_expected": 11543033,
+      "relations": 76
+    },
+    {
+      "N": 47,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 40569972,
+      "independent_expected": 40569972,
+      "relations": 74
+    },
+    {
+      "N": 53,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 296084,
+      "independent_expected": 296084,
+      "relations": 45
+    },
+    {
+      "N": 59,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 349638322,
+      "independent_expected": 349638322,
+      "relations": 63
+    },
+    {
+      "N": 61,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 961110,
+      "independent_expected": 961110,
+      "relations": 41
+    },
+    {
+      "N": 67,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 79461,
+      "independent_expected": 79461,
+      "relations": 30
+    },
+    {
+      "N": 71,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 10,
+      "tested_relations": 1023,
+      "failures": [],
+      "covered_degree12_tuples": 419
+    },
+    {
+      "N": 73,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 156334,
+      "independent_expected": 156334,
+      "relations": 28
+    },
+    {
+      "N": 79,
+      "status": "PASS",
+      "method": "complete cusp-prefix enumeration",
+      "checked": 296084,
+      "independent_expected": 296084,
+      "relations": 24
+    },
+    {
+      "N": 83,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 6,
+      "tested_relations": 63,
+      "failures": [],
+      "covered_degree12_tuples": 10495087090
+    },
+    {
+      "N": 89,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 8,
+      "tested_relations": 255,
+      "failures": [],
+      "covered_degree12_tuples": 79461
+    },
+    {
+      "N": 97,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 9,
+      "tested_relations": 511,
+      "failures": [],
+      "covered_degree12_tuples": 127
+    },
+    {
+      "N": 101,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 2,
+      "tested_relations": 3,
+      "failures": [],
+      "covered_degree12_tuples": 419
+    },
+    {
+      "N": 103,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 6,
+      "tested_relations": 63,
+      "failures": [],
+      "covered_degree12_tuples": 2784103
+    },
+    {
+      "N": 107,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 6,
+      "tested_relations": 63,
+      "failures": [],
+      "covered_degree12_tuples": 152538845733
+    },
+    {
+      "N": 109,
+      "status": "PASS",
+      "method": "complete binary relation enumeration",
+      "relations": 7,
+      "tested_relations": 127,
+      "failures": [],
+      "covered_degree12_tuples": 186230004617
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+S20_FINITE101_POLYNOMIAL n=2 pol=x winding_rank=7 quotient_dimension=1 verified=true
+S20_FINITE101_POLYNOMIAL n=3 pol=x + 2 winding_rank=7 quotient_dimension=1 verified=true
+S20_FINITE101_POLYNOMIAL n=5 pol=x + 1 winding_rank=7 quotient_dimension=1 verified=true
+S20_FINITE101_POLYNOMIAL n=7 pol=x + 2 winding_rank=7 quotient_dimension=1 verified=true
+S20_FINITE101_CERTIFICATES_COMPLETE

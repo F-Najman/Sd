@@ -1,0 +1,473 @@
+S(21) IN PROGRESS. No complete determination yet.
+Uses frozen degree20 parent; do not modify earlier proofs.
+Initial resource limit: 10 low-priority workers because other degree10 jobs are active.
+
+31 Oct, active S21 work. NO EXACT S21 CLAIM YET. Conjectured Primes(47), lower bound verified all47 via rational2..7 + RR11..19 + explicit23degree7 extension3 +29,31,37,41,43,47degree21. verify_occurrences.log PASS.
+Bound prepare_bound.py PASS m42 M229 cutoff19236 cap1050024. all primes<100000 Table2+Cor7.5+Prop4.1 leave53,59,61,67,71,73,79,83,89,97,101,103,107,109,113,127,131,137,139,163,167,181. Local19levels through139 excluding163167181. Large850 primes, selected5289 characters =2815fresh +2474inherited11,12,18,19,20. Reuse parent19+20 results by individual SF hash; final verifier still needs adapt.
+S20 packet frozen untouched; full37906 parentmanifest includes all19 parent certificates, including61 older model/sources. S21 model units bytecopied20 except61from19. Newordinaryjets5723chunks, 457xx new sources;61needs BOTH20and21, othersonly21. run_new_ordinary.py3workers session71589; pipeline_sieves.py1worker session60754. Active 0..dynamic affinity nice8. setup_local.py generated matches all19; run_matches.py NOT STARTED YET. All source census21complete and independent classnumber+quaternion counts PASS19levels. Census has FULL127torsion in21, all128cyclicgroups. Updated count formula m*(sumH(D)+p sumH(D/p²)) wherefullconditionq=1modp, p²|q+1-t,(t-2)%p=0. verified exactly. New independent native modular-symbol Frobenius127 data/log PASS, not yet Sage independentlychecked. Gives all21counts via charorders1,3,7,9,21,63 and tracesHf=T2Hf-1-2chi2Hf-2. Total g610. Use to strengthen fulltorsioncount proof.
+Support inventory477types (19levels), full sources degree1..21. NOTE inventory field ordinary_orbits MISNAMED sumorbitcounts (closedpointcount); change to ordinary_closedpoints. SS61NEWdegree20 orbit1 in additionSS15 orbit1! OthersSS unchangedS20. NeedRFI61_ss20 rank16 onbase20, c1, h3order5mod±.
+
+Computations active:
+- character run_characters_fast.py session97406 PID3636188 (old parent3595615 safely KILLED after SIGSTOP + ALL childrenzombie; checkpointJSON). 24taskthreads,4exports,24cpp,4fastfinish,2prep; overall S21 affinity capped dynamically by resource_watch.py session43829. Watch adjusts to min24,30-ceil(otherCPU), nice8; externalPhi10 priority and2idlelogicalcores. Do not mutate engines in use.
+- check_sequences_fast.py session68032 independent FLINT certificate replay1worker. Native fast Padé uses NTL XHalfGCD construction; FLINT full congruence/gcd/degrees independent; older ~7 initial records have nativeMagmaBM + independentSageEuclid, all cached untouched.
+- initial run_characters.py S20markers, initial run_characters_initial.py snapshot. initial C++ krylov primary copied20safe uint32indices. New krylov_blocked.cpp/binary exact safe boundedpartials for unsafe dot; v2 uses actual maxcol to use fast64columnsum and blocked dot, both versionfiles retained, testedagainst Python allterms inclq4294967291overflow. Future unsafe jobs v2; cachedoldcpp v1 autodetected. Metadata cpp_binary_name, blocked_accumulation, source/binary SHA. Initial7metas may lack binary_name but infer fromflags.
+- optimization/prepare_graph.cpp/binary modified S20 to use safe block sums in act+64prefix, rank/kernel graph algorithm unchanged. Native prefix tool unchanged. verify_graph.py removed old ns*q²bound (Pythonbigint safe); per-instance allR/A/rank/u/e exactchecker. Blocked preparer graph101 output byteidenticalold. Source export_graph_fast.m unchanged and loads frozen20 strange_primes_export.magma. fast_graph_implementation_verified.json copied20 exportSHA remainsvalid. Retain parent graph theorem benchmark. Full final verify_large_parallel.py mustbe copied/adapted; handle new CPPversions and fastfinish, q bound peractualengine, all requiredfamily coverage, inherited19+20 individualsourceparent lookup. Archives gz both raw/prepared retained perjob; metadata atomicPASS AFTERallchecks. No final large pass yet.
+- finish_fast.cpp/binary NTL compiledwithrpathSage env; parses raw scalarseq, XHalfGCD(M,x2k,S,k+1), C=M11,A=V, normC0, exactgcd/CS-Amodx2k/degrees verify. outputsSF +_fast_pade.json. Validated87500dim entireSFrecurrence+numerator+denominator againstnativeMagmaBM/independentSageEuclid onp1050013n175002. Newcheck_sequences_fast.py checkscertificate in FLINT; no quadratic Euclid newjobs. NTLfinishredundantconstructioncheck vsverificationexact fine. Keep thisproofexplicit.
+- run_fi.py finished19exports BUT initial61index5 WRONG and corrected via separate native export index15 Tn2,3,5 Q3,5,7 +compress. All FI d21stride10. check_cusp_profiles.py all59,71,79,83,89,97,103,107,109,113,127,131,137,139 PASS/PASS_RELATIVE (look JSON); 53 and101 use specialfullprofiles. 61,67,73 cap5kerneltoo big, instead check_fi.py direct cap6DFS+high7partitions (handles7+7+7new) PASS all3. FI61index15rank55 checks199062772 normalizedcap6patterns;67rank42 checks4759390;73rank50 checks13023430. Source finite_FI_polynomials copied20 actually parent19polys applicable61Ind15 (not5), required final finiteimage replayadapt.
+- setup_small.py 88chunks2workers session59111 almostdone, nativejets forpairs/triples+newmixed; sourceprecision16 for59,61,67,71,73,97,101, else8, bounded672/d. Newpair_sieve.py tasks total21 (61total20AND21) +allunordered7+7+7tripleorbits underG for59,61,67,71,73. Triplescanonicalized brute simultaneous G translate of triples of(sourceindex,position) inclrepeats; allmin7 sourceorbits enumerated, including71shortGorbits. Need final independent coverage rebuild. run_small_sieves.py session91210 waits smalljets, thenpair_sieve alllevels + mixed_new_sieve. Mixed_new must run73degrees12and15 (12withNC9,15withSS6),89d10,109d12,113d14,127d14. Justmodifiedfilter with f-stringbraceexpression--checksyntax/actual filterbeforeexecution (replacement may failmatch). It outputs mixed_sieve.json despite log mixed_new_sieve.log, don'toverwriteold neededdata inrootfrozen? onlyS21fine.
+
+New mathematical simplification: diamondG acts FREELY on X1(p)(R) forp>3: fixedreal(E,P) givesunique realAut(E) fromfine moduli, only±1. Odddegree x hasrealconjugate; since rationaldiamonds commuteGal, h orbit lengths allfullordh onGalois-transitiveodddegree support. Thus hD=D impliesordh|21, no /2 or /3 exceptions. Weightedtrace D=(21/r)Trx validr|21.
+Stabilizerlemma: specialnonrat Z fixedh, C rationalcusp complement, y=[h(D-C)-(D-C)] torsion evennonzerodeg viaordh*y=(h-1)[ordh Z-NhZ], reductionkernel exponent2; gon>2(21+c) =>hD=D. Undoubled73 uses actualJOne73[2] fixedh2 andoddord9 =>y0;89 oddantiH11 A3cert givesy0. Parent73/89actualtorsioncerts frozen, canreuse withupdated inequalities.
+163h8ord27 oddA3matrixnorm certparent20;6*21=126<gon131.7, ord27∤21. 167h2ord83parentoddA3norm;5*21=105<gon138;83∤21. 181NEW anti181.m/log/data PASS allorders5,9,10,15,18,30,45,90, totalhomology2388. q11odd for5/10, q3oddallothers. h=2^6=64ord15, finiteimage because strangeorder6only. Construct integral beta: r=diamond2generatorG90; u=r²ord45; E=5N_(u^5)-N_u =45projectoroddcharacterorder5. beta=E*A11+(45-E)*A3 killsrationaltorsion, determinantoddonB=im(h-1), soBQ2primaryzero. Prop4.1 q2 n6 applies126<gon162;ord15∤21. NeedindependentSageNFdet/norm andprojector/dimension checks, updateproof. No conjectures rationaltorsion>157.
+
+SS experiments (all proofstatus exact matrices asordinary butnotallyet independentlySage-ranked):
+ss113/sieve.json PASS SS7 allαsigma-1 A3 NONPRINCIPALrank477, excludesSS7+rationalcusps14. Stage2SSdeformsa1=u (generaldivisionpolys), nativevalidatesallsources/T3targets. Need independentjetderivative/normalizationasserts andrankreplay. SS109:SS12 NONPRINCIPALrank442;SS9 UNRESOLVED441 ->useRFI109updatedc12. SS73SS6 UNRESOLVED186 ->RFIneeded. SS127T3:SS14sixsourceindices20..25;20,21 NONPRINCIPAL610;22,23,24,25 unresolved609. SS5_127T5 all6sources:20,21,22,25 NONPRINCIPAL610;23(orb3),24(orb9)unresolved609. T5native uses6degree2factors ψ5 eachcyclickernel definedF14, targetall14. SS7_127T7 native sources23,24 done (8cubicfactorψ7 allkerneldefinedF14), targetall14; first Pythonrunfailed hardcodedmaxjet8 atk9, fixedss7_sieve evaluationk<=actualjetlen24, rerunactive session54983. Needinspectresults. q5/q7sieves must assert degrees6d/8d, sourcecoeff -5δ5 or-7δ7, inverseDlogs; αsigma1 finite127nonstrange. CanonicaltensorK g610, prec2888>Sturmweight4 2688. No needK².
+SS127+NC7 case (exact21,48relativepositions): **SOLVED via freshdirectmixed obstruction** ss_nc127_sieve.py inputss127 T3records + NCjet5. All48 NONPRINCIPALrank610, exceptionsnone. Geometry: rationalcuspsA3kills, nonratcuspT3=3+δ3 soA3=T3-1-3δ3 contributes2(1-δ3); addthisNCtermtoSSalphaA3. InFricke canonicalDpointaction actualdiamondinverse, soNCindexdk=-log3sameasSS. AllrelativeNCpositionsgcd(SSclosedorbit,9):five9+one3=48. Outputss127/mixed_nc_sieve.json andmixed_nc_matrices.json.gz. DoesnotdependSSalonepassing. IndependentSageall48ranksstillneeded.
+
+**NEW quotient127 cusp proof SOLVED**:
+PureNC supportsNC7+C14,2NC7+C7,3NC7: h2ord7closedstabilizesNC, gon>2(21+c) evenmax70<80 =>D invariantH7 (allowedord7|21). H7 free onwholemodularcurve(allAutordersdivide24 inchar2 and6char0), D=pi7^*D' rationaldegree3 onY=X1(127)/H7 genus88. CuspspecialC mustalsoH7invariant, soD' reduces to3cusps among18 F2rationalcusps:9rationalcuspimages+9nonratimages(Frob2∈H7). quote127_cusps.m and5.m/data export fullcanonical invariantbasisV=ker(D^9-I), rank88, RC/NCjets. NC TateE(u),Pζ127 inF2^7, solveunitrelations canonicalzjets; quotient ratiosnormalizedbyVform haveallcoeffF2. NativeTatecurveequations+allunitrelationcoeff asserted. NCunramuniformizerq valid. NeedindependentSageentryreconstruction/jetverification andcompare allcoeff. **Useendomorphisms (D-1)(Tq-Dq-q)(Tq-1-qDq)**, q2and3available, annihilateallcuspidaldivisors (bothEisensteinfactors) andrationalJQ (Aqkillsfiniteαimage; forq2 useproved2primarycuspidal≤157 +odddegree7cover pullbackinjectiveon2torsion). ThuszeroatALLlocalcuspidallifts, essential becauseNCcuspsnotgloballyrational. Cotangentall1140unorderedlength3multisets inclrepeats on18cusps rank3 PASS inquotient127_cusps_verified.json. AbsoluteFI=>zeroformalpointmustcuspidal. NeedprooftheoremforfiniteimageonY followspi* oddkernel7 andnon-strangetable127. Datawasextendedfrom3jetsto5viaquotient127_cusps5.m; first3entriesunchanged, check scriptagainPASS. fullNC5 canonicaljets alsoforSSmixed48.
+
+Relativeexports:
+Current run_relative.py readsrelative_jobs.json, mostrecentrun_relative_strong.log session82054 ACTIVE. Earlierodd-onlyexportslogs overwrittenwhenstrongreruncompletes; source*_odd.m backups unused. Strong versionallstandardrelative53/full53/61/61_ss20/73/73_nc/109/113_ordinary useq2,3,5,7 withproperfullranktruncatedcanonicalprefix, factorGF2(q) included! This addsq2 legitimatelyalllocalp≤157 provenfull2primarycuspidal. Priorq3-only61_ss20rank16base20c1 oneoperator, strongcanonlyhelp. Strongrunneralsoexportsrelative127cusp5, sharp97c5 NOWFIXED (wasc4hardcoded), sharp101c21. Watchrelativefilecconstants andarguments:
+53P53H10SS13,full53same;61P61H3SS15;61_ss20P61H3SS20;73P73H2SS6;73_ncP73H2SS9;109P109H93SS9;113_ordinaryP113H40SS8;127none;sharp97/101wrappersnone.
+check_relative_all.py session55964 waitsstrongcomplete, verifiesprofiles withknownfibers viaexactcompletekernels andminprefixcost, cases:
+(relative53 c8 bd13 br12 step2cap3),full53c21br0 step2cap3,
+61c6bd15br12step6cap3,61_ss20c1bd20br16step6cap1,
+73c15bd6br6step4cap5;73_ncc12bd9br8step4cap5,
+109c12bd9br8step6cap5,
+113ordc13bd8br7step7cap5,
+97sharpc5bd16br16step16cap3,
+101sharpc21bd0step1cap6.
+NeedinspectPASS/FAIL; modelstrongextraA2mighteliminateunexpectedrelations. RFIproof nonzeroresidualcusps: allfamilyfibersorders13,5,9,8,3leaveR>0ford21 except73doubleSS6+C9 canextract9fiberR0 (fixedtameSSliftdegree12 containsCMj0nonreal, contradictodddegreeGaloistransitivity);73SS6+NC9+C6 newmixedbase rankexpected14norm20/r1, neednewcombinedRFI;73tripleSS6+C3 newbase18 normalrank? fixedtamelifts0dim, cusp3nonzero, neednativecotangentjets upto3 andallrelativepositions. ParentS20ss73double/nativejets24couldreusebasis(modelidentical) andfreshstrongAA; do freshnewprofiles incldouble12+C9, triple18+C3,SS6+NC9+C6.
+Needalso quotientcusps103/131 d21purecovers: initialFIcompressed PASS_RELATIVE groupindex17/13 knownfiber. Quotientinvarianttangent relative rank20 forfullfiber +R4(103)/R8(131). Adaptverify_relative_cusps_intrinsic.py from20 (d21 not20), allpositivecuspconfig andSageindependent. 4845patterns103,125970patterns131 expectedcomb; usebinaryrankefficient.
+Needrelative127two-pullback c5: base16rank14dim2, normal19, full5jetcodeexpected75relations, row/col7x9code minHamming7 ->any5columnsindependent; extendverify_relative127.py from20c4 to5 andcodeproof. All63cusps, cannotnormalizecusp0afterCRTnormalizingordinaryO9andNC7closedorbitscoprime7/9. Maxcuspjets5 nowexported; usecodeallprefixpatterns maybeC(67,5)=9m, butcodeproofmin7strong coversany5cols iffull5jetkerneldecomposesperjetrow/colcode. S20code60rels4jets; new75rels5jets.
+Otherinheritedstabilizersodddegree:
+73SS18+C3 undoubledactual2torsion24<gon26.4,H9ord9∤21;doubleNC9+C3 similarly;SS6NC9+C6 undoubled27>gonFAILnewRFIneeded. 109SS12+C9 directNONPRINCIPAL;109total18C3and21C0 H18evenbounds48/42<59 exclude;109NC18C3same.113SS7+C14 directNONPRINCIPAL;alltotal14C7or21C0 SS/NC useH14even bound56/42<63 andodddegreefreeaction =>excluded.113O8+C13RFI, O8pairC5 H8evenbound52<63;SS7+O8C6 H2evenbound54<63 excludes.127O9C12H9bound66<80,9∤21;O9pairC3bound48<80.127SS14+C7:directSS T3/T5/T7 ifallpassotherwisemustnewRFIonremaining.127SS14+NC7 solved48mixed.137SS17C4 H34evenbound50<93, O17C4H17bound50,17∤21.
+
+Remaining work: inspectongoingbatches, finishhardSS127remainingcase(s) ifT7fails; new73multiSS/mixedRFI; allprofileindependentSageentry/rankreplays; actualtorsion+sharpfinite+finiteFIsourcecertreplayadaptold20, fullparentmanifestverify37906; sourceorbitmatchesrunall19 (61parent19else20), dyadicindepPASScheck; freshlocalordinary/pair/mixed sourcecoverage andmatrixranks; global181NFand127FrobSage; largefullverification; writeproofREPLAYcoverageguards, PDF+result+manifest+indepmanifestverifyonlyWHENallrequiredPASS. NoexactSclaimuntilthen.
+
+LATEST (supersedes earlier pending gaps):
+- ALL new nonordinary mathematical gaps now have native/combinatorial certificates. SS73 multiple export/check PASS46profiles: doubleSS6+C9 all10multisets, tripleSS6+C3 all20multisets (OPTIONAL, not needed), SS6+NC9+C6 all16relativepositions. For tripleallSame base18rank16 (two ramified H9 fiber parameters); avoid making this an essential premise: tripleSSdegree18+C3 is already excluded byactualJ73[2] stabilization with21+3=24<gon26.4 andH9order9∤21. Need onlydouble10 +mixed16 profiles as newRFI. In doubleSS+C9, ifcuspC9isfullH9fiberRcusps0, zero formal family contains unique tameH3-fixed SS lifts (multiplicities1/2), soD contains h3-fixed noncuspidalpoint. Rationalh3commutesGal, henceallodddegreeconjugatesinclrealpointfixed, impossible. This closes R=0case rigorously.
+- SS127remaining: T7 source24orb9 NONPRINCIPALrank610; source23orb3stillUNRESOLVED609. **SOLVED source23 onH7quotientYg88**: quotient127_ss.m/data/log S21_QUOTIENT127_SS_RELATIVE_ALL27_RANK3_CERTIFIED. Firstglobalh7stabilizer (gon>2*(21+7)=56) forcesD=pi7^*D' degree3; reductionSS2+RC1. Source23ispointwisefixedbyD^21 H3 upstairs, soquotienth3=D^3order3tame fixesSS2. UseV=ker(D^9-I)rank88, mapsV(D^3-I)Aq withq2,3 (q2legitfullrational2primarycuspidal127andodd7cover). AtSS2normalizebyinvariantform, allentriesinF4⊂F14; nativecoefficientbasis[1,bb]provided. All3SStranslates×9RCcusps:rank3. ZeroformalL isunique h3-fixedSS2 lift +fixedRCcuspC1, soD' containscusp, contradiction. NativequotesourceZ fieldpoly/primitivecube rootprovided. NeedSageallentryrebuild+rank checks; methodsoutlinedbelow.
+- SS127+NC7 ALL48 directmixedT3obstructionsPASS610. PURE NC7multiples+RCdegree21 alreadyYSym3all18cusps all1140rank3PASS. Thus all127pureSS types resolved combinationT3(source20,21),T5(22,25),T7(24),quotientRFI(23); mixedSS+NCall48;pureNC quotientall1140;ordinaryO9NC7RFIcode5jetsstillverify.
+- Strongrelativeallprofiles PASS now: relative53 26;fullcusps53 78626;relative61 1;relative61_ss20 1;relative73 284;relative73_nc 144;relative109 162;relative113ordinary392;sharp97 c5 correctedandrerun2;full101sharp c21 1373. Allnativeexportstrongqs2,3,5,7standard exceptsharper97/101keepoddouterqs; allqtorsionhypvalid≤157. check_relative_all.py takesoptionalcase names. EarlyIndexError wasoldsharp97c4; fixedsourcec5, reexportlog/data/checksPASS. Earlierrun_relativestrong log alreadycompletebeforec5fixbutdatareexportedsharp97fresh. Sourcecheck_relative_remaining.log PASS2+1373.
+- Smallpair/triples processed53,59,61,67,71,73,...127 sofar; allnative sourcecertsPASS noexceptions forcompletedNs. Includes59triple1180,61triple~166,67~199,71triplesvarious; inspectactualcountsJSON. Currentrun_small_sieves.py session68957 processesall18pairlevels thenmixed73degrees12and15,89d10,109d12,113d14,127d14. NotinPython typo inpair_sieve fixed. Mixedfilter syntaxcompiledandincludes73{12,15}. small_jet_results.json COMPLETEPASS88chunks. Mainnewordinaryjets3workers continuing (elapsed~6000s; indices2420 etc), pipeline_sieves.py waiting completedlevels (noneprintedlastlook). Sourcecounts457xx totalfresh; allnativechunksmarkedtrue.
+- All19 source orbitmatchesPASS (matches_verified.json), models byteidenticalparent20 except61parent19. run_matches completed. Need independentlyverifyactualmatchingcounts/newsourceinventory andallproofinheritanceMFSHA.
+- **global181_verified.json PASS**, independentlyrecomputedactualHeckeoperatornorms usingSageModularSymbols, notjustexportedmatdet! 8ordersallnormsmatchMagma, correctprojectorE. **frobenius127_verified.json PASS**, all21cohomologytraces independentlyrecomputedwithSageModSym for6characterorders, agreesnative+ordinaryclassnumbers+SS+cuspcountsfull127torsioncorrection. PriorJSONSageIntegererrorwasONLYserialization; fixeddefault=intandreplayedbothmathandJSONPASS.
+
+**Character acceleration NOW ADOPTED AND RUNNING**:
+- Oldcharparent3636188 SIGSTOP, all24childrenallowedtofinish,thenkilledsafelybyhandoff_free.py. free_engine_checkpoint.json statusALL_CHILDREN_FINISHED_PARENT_TERMINATED includesactualchildcmds/binaries, partialCPUtimes. Newrun_characters_free.py launchedbyhandoff_free.py session17009. Readrun_characters_free.log; startedfreepasses p1049437 etc. Previousfirst137+ freshrawcachedcertsretainedunchanged. All newfreeCFsindependentlyFLINT-verifiedbycheck_sequences_fast.py (continuesS21all2815freshjobs). No mathematicalclaimdependsoldfailedexperiments.
+- Newengine **krylov_free.cpp/binary** computesdual statesu_i=R^i u inkerA usingonlynf=k+2freecoordinates; graphforestreconstructstheother2kcoords eachstep. Alluint64/uint128boundsproved. It is EXACTsame scalarseq e' R^i u. Windinge' remainsprimaryT2Eiskiller fromrawgraph, boundarydimension2=>actualcuspidalspacek, notnf/nsgeneration.
+- Mathematicallemmaforplan: choose nonzerorowscalarsmu andedge scaless sothatforestedgeshavecoeff+1at child,-1atparent; othercolscoeff1,rho. Freecols=nonforestnonpivot. Normalizedrelations unique reconstructallremainingcols fromfree via(1) accumulatefreecontributions,(2) solveoneunbalancedrootpivotusing1/(1+rho),(3) leafpostorderw_edge=-b_child,b_parent+=b_child. Balancedrootresidualzero;anchordummyrootignored. Freeprojectionker(A diag(1/s)) ->Fq^(k+2) isbijection byprimaryrankcert. R preservesrowrelations(ManinHecketheorem), soR preserveskerA ondual. Freeoperatorrowsareexactdiag(s)Rdiag(1/s)rows atfreeindices. Computefreefuturevalues thenuniquereconstructkerA =fullRactiononkerA. Fixedfunctionalcoeffs e'_j/s_j yieldsidenticalscalarseq. Notanunjustifiedsmallambientshortcut.
+- **optimization/prepare_free.py** primaryplanproducer; **verify_free.py** INDEPENDENTcompletecoefficientchecker. Verifierbindsgraph/prepared/rank/primarygraphVerifiedhashes; checksALLnormalizedincidencecoeffs, forestorder/rootpivotlist, ALLfreeoperatorrowentriesagainstfullrawR, ALLscaledinitialu/e', initialreconstruction, fullone-stepvector equalitywithrawR. RecordsbooleanssourceSHA/fullplanSHA. ProducerinitialO(n²)setunionbugfixedBEFOREanyproofcertificate (cacheexcludedsetoutsidecomprehension); now~5sec atp1m.
+- **optimization/free_full_replay_verified.json PASS**: realp1050013n175002 k87500 ALL175000termsbytevaluesidenticalnative-oldraw referenceSF (whichhasnative64checks+MagmaBM+indepSageEuclid). Alsocomparednewblockedv2fullSF all175000identical. FreeCPU192.923sec vsblockedv2312.82sec (ratio1.6215). ReferenceSFhashandproducer/verifier/CPPsource/binarySHA retained.
+- **optimization/free_fixtures_verified.json PASS**: threeexplicitSYNTHETIC(nonmodular, NOTproofpremises)graphfixturesbalanced/unbalanced/anchored, q101and4294967291. UsesR=I+A^tA preservingkerA; naivefullPythonsequenceequalsCPPfreeALLterms; qmaxcasesexercise128-bitrowandwindingsums. Graphprimaryprep/verifiers+planverifiersallPASS. Fullfixturesource/inputsretained.
+- Newfreejobmetadata cpp_implementation=free_dual_graph_v1, cpp_binary_name=krylov_free, source/binarySHA, free_plan_producer/verifierSHA, free_plan_verificationSHA, free_planSHA and_archiveSHA, CPPcpu_seconds. Files_free.txt.gz (lossless),_free_verified.json,_free_prep.log,_free_check.log retainedalongoriginal_graph.txt.gz,_prepared.txt.gz andrank/nativeprefix etc. OriginalplanrawdeletedONLYafteratomicMFwrite. Rawcachedunfinishedjobsaftercheckpoint taggedraw_manin_graph_v1 withactualbinarynamescapturedcheckpoint, no provenanceguessforactiveoldones; futureallfree. CPPmarkerS21_FREE_GRAPH_KRYLOV_COMPLETE p/order/q/ambient/k/free/nnz/native64/cpu. NTLfinish_fast +FLINTfullcertificatecheckerunchanged. Finalverify_large.py MUSThandlebothraw/blocked/freeengines andoldnativeBMversusnewNTLfinish. No21hybridbinary needed; earlier20parallelverifiercannotjustcopyblind(globalhybridsha check,parentonly19lookupneedrewrite).
+- ResourcewatchLATEST session70364: budget28logical total =>4logicalCPUcapacityidle(~2physicalcoresworth), ownmax24affinity0..limit-1, limit=28-ceil(otherCPU). Phi10nice0 priority. Charprocessesnice10, localproof/nativejetsnice5. Dynamiccurrently24whenexternal~3; nootherprocessesmodified. Volatileresourceallocation/logexcludeMF. Disk311GBfree, RAM352GBavail lastcheck.
+
+**Verification just started**:
+- verify_inherited.py session58643 pinsFULLparent20MF SHA f83e211...7b95ad, streaminghashall37906; writesinherited_manifest_verified.json. DO NOTmutateparent20.
+- **intrinsic_model.py** copiedS20 Model/compareutilities, c=21-sd. verify_intrinsic.py session63956 rebuildsALLnativeentrymatrices for10standardRFIcases inSage; strongqs2,3,5,7; sharperqsunchanged3,5,7; includes61SS15/SS20. p127customcasesnotyetchecked (Modelloadedbutpass). Watchlogs.
+- Needcreateverify_quotients.py forrelative127base/cusp5andquotient127cusp/SSmatrices; profile_spacesindepgeneralfrom20adaptcaseparams; fullcusp103/131relativegonalprofilesd21; SSjetandHeckecorrespondenceindepchecks; finiteimageinheritance/rankzero/torsionhypinheritance; matrixranksallfreshandcoverage/packaging.
+
+Additional math for rigorous cuspFIoperator tests (important!): NativeFI usesIntegralHeckeOperator onmodsymminuslattice, nottheHodgecotangentlattice. DoNOTassumetheselatticesequalat2. UsefullintegralHeckeorderT. qexpdualityatonegoodrationalcusp givesactualcotangentS2(Z2)=Hom(T,Z2) (primelevelweight2allnew,multiplicityone; integralityatcuspimpliesglobalintegralitybyminimal2denominatorandspecialfiberqexpinjectivity). IfHeckeoperatorsareindependentinEnd(L)/2forANYT-stableintegrallatticeL, theyareindependentinT/2T becausea2Trelationmapsinto2End(L). ThusnativeoperatorindependenceisstrongenoughtoprovecotangentFIwithoutanyequalityofBetti/Hodgelatticesoroptimalwindinglattices. Finiteimageendomorphismt onfullJacratherthanoptimalquotient. Needstateone-wayargumentinproof. ActualqformmatricesusedRFIareindependentlyrebuiltfromsaturatedcanonicalmodelandhavefullintegrallatticeproofparent. Improveddyadicwindingbound STILLonlyuses2MsubsetLsubsetM, notfullHeckeoptimalquotientequality.
+
+Ifanynewordinary21sourceisUNRESOLVED later: potentialrigorousnextmethod (notusedyet) ispushdownclosedstabilizerH3/H7. Fornonstrangepwithgon>42andordinary21closedGorbitm/h, h=3or7, specialhfixesD(C0) ->2torsionstabilizerforcesglobalhD=D; odddegreefreeRremovesCMfixedgenericpoints, D=pi_h^*D' degree7or3. CanonicalformsonthequotientareV=ker(D^(m/h)-I) (h oddaveraging2unit), qexpVQ; source/targetcanonicaljetsprojectVandnormalizebyunitVform atordinarypoints (etale), diamondDY viaDY*V=V*D. ProjectT3targetrecordsandpushweights thenDIVIDEh: weighttarget=m_orig*td_orig/(h*td_quot), aggregatecoincidentquotientpointsBEFOREintegerdivision. RationalintegralTYD' ensuresintegers. Quotientprincipalobstructioncoulddetecttorsionkilledbypullback(kernelh) evenwhenfullcurveobstructionfails; needsno freshHeckedata. For97(h3notfinitebecauseχ12positive), usealready-provedsharper(h3-1)betaAq normalRFIatordinaryH3fiber toforcepullbackbeforequotient; quotientG16excludesχ12 sofiniteordinarymapsvalid. DoNOTapplyunlessactualneeded; allcurrentcompletedlowerpair/triplesPASS.
+
+LATEST 31 Oct ~13:50-14:00 local (supersedes older pending list):
+S21 STILL NOT FINISHED; do not publish exact set. Lower Primes47 verified,
+coverage plan477supporttypes/82136primes complete. Main ordinary and character
+batches still have hours of work. All final packaging is guarded.
+
+Cusp gap RESOLVED: initial FI71 andFI127 JSONs actuallyFAIL despite exit0.
+Never infer PASS from returncode! Full canonical replacements full_cusps71
+(Aq, fullJ71rank0) andfull_cusps127((D-1)Aq) exported and PASS12360,7875
+profiles. Nativewrappers full_cusps71.m/full_cusps127.m use staticload.
+full_cusps_extra.m invalidload-insideif prototype isunused exploration.
+check_relative_all.py newcases(21,0,0,step0,cap4)71, (21,0,0,step1,cap5)127.
+Independent intrinsic_extra PASSallentries both. Excludecoarse71/127fromFI
+rank/profilepremises. Active direct61/67/73 PASS,15otherFIusedtotal.
+
+All newpair/triples COMPLETEPASS35631matrices:18levels(n107hasnone).
+Allnewmixed COMPLETEPASS:73sources61 (d12and15),89sources2(d10),109sources5(d12),
+113sources20(d14),127sources18(d14). Noexceptions inanynewpair/mixedJSON.
+Support_inputs_verified.json PASS independentlybinds all19source matches,
+allpairpositionIDs, ALL unordered7triplesBurnsidecount+distinctorbits incl
+short71orbits and repetitions, andnewmixedIDs. Sourceinventory JSON renamed
+ordinary_orbits->ordinary_closedpoints (itcountedclosedpoints, notGorbits),
+statusCENSUS_COMPLETE. Noearlierpacketschanged.
+
+ALL standard RFI intrinsic data PASS inintrinsic_relative_independent.json.
+Additionalfull71/127 PASSintrinsic_full_cusps_extra.json.
+ALL independentprofile spaces PASS152648configurations in
+profile_spaces_independent.json, includingall12standardcases,12nativeFI
+profilecases (notdirect61/67/73), and46optionalSS73multi cases. Complete
+kernels andeveryprefixcostcosetverifiedinSagebinaryorder.
+FIcompressed rows rebuiltandSagerankPASS15activecases in
+fi_matrices_independent.json (61added;53/71/101/127excludedrepairmaps).
+103/131intrinsicquotient allcuspcompositionsPASS rank20,4845and125970patterns,
+relative_cusps_intrinsic_verified.json.
+
+**All127quotientintrinsic PASS** quotients_intrinsic_verified.json:
+- Vnativebasisentire88-dimensionalker(D9-I); actualodd7invariantlattice.
+- NC Tatecurve reconstructedindependentlythrough5jets, curveeq, allunit
+relations, uniqueprojectivenormalization, allRC+NC matrixentries;1140rank3.
+- SS source23 actualpoint+F4coeffs all27rank3. NativeSSdenusesRep(nonzerolist),
+whichneednotmeanfirst; independentlyinferdenfromonerow, assertdenisoneof
+nonzeroVZcoordinates, thenrebuildALLofthem. Aharmlesscommonscaling.
+- Relative127 ordinary9+NC7base16rank14 andall63*5cuspblocksreconstructed.
+check_relative127.py PASS complete315columnkernel75, rank240, minnonzero
+Hamming7 row/col7x9code, impliesany5columnsindependent ->all9657648prefix
+cuspconfig normalrank19. No9mloopneeded; directminimumweightproof.
+**SS73multipleintrinsic PASS** intrinsic_multiple_independent.json: all4
+canonical3jettranslates recomputedfromss73source, normalizecommonunit,
+AAallavailable2,3,5,7; NCandRCblocksidenticalearlierindependentlyrebuiltdata.
+
+Inherited_hypotheses_verified.json PASS: fullparentmanifest37906PASS pinned,
+all19modelsidentical20except61parent19; active14FIpolysinclude61Tn2,3,5and
+haveexactJ0windingimagecerts alreadyINparent20finite_FI_data(61presentthough
+inactive20). Ordinaryαpositiverankcharacterconditionschecked. Rankzero59/71,
+actualJ73[2]/oddanti89, sharp97/101, global163/167factsreusedwithpinnedMF.
+New181and127FrobeniuspreviousPASSunchanged.
+
+**Native ordinary worker reallocation COMPLETE safely**:
+Oldparent3603759 SIGSTOP;allchildrenallowedtofinish/zombie;parentkilled,
+checkpointnative_worker_checkpoint.json. handoff_native.py session78529
+launched run_new_ordinary_8.py (copyunchangedotherthanmax_workers3->8),
+logrun_new_ordinary_8.log. Reusesallcompletedlogs,1280?completedof5723last
+count(earlier1123at3hrs). Sourceindicesnow~3090;N139chunksallfinishedand
+pipeline_sieves.py started139 atelapsed10017s. Parent8logelapsed~1200s.
+Pipeline1sieveworker continues, full139producttensorPASS737/2208 after181s,
+nowloadingorbits. Mainlocalbatchstillpending4600ishchunksbut8workersfaster.
+Resourcewatchsession70364 capsALLS21affinity24logical, totalcapacity28
+includingexternal~2.3, leaving4logicalCPUcapacity(~2physicalcoresworth)idle.
+Nice10chars,nice5local. ExternalPhi10nice0untouched.
+
+**Independent newmatrixranks watcher ACTIVE** verify_ranks.py session2318,
+logverify_ranks.log. Tasks19singleordinary+18pairs+5mixed+SS73/109/113/127+
+SS5/SS7andSS127NC48. ChecksEVERYretainedmatrixwithSageM4RI, exactcolumns,
+rankn anduniqueID, pinsarchiveSHA. Progressindependent_rank_progress.json.
+Latestpassedpairs53/59/61/67/71/73/79/83/89/97/101/103/109/113;noerrors.
+Waits20swhennoadditionalfinishedsieves. independent_rank_checks.jsononly
+whenalltaskscomplete. DoesnotassertSSfileglobalPASS(exceptionsexplicit);
+finalcoverageindependentlyselectsonlyneededSSsources.
+
+**Independent SSjets+Hecke ACTIVE** verify_ss_jets.py session51297,
+logverify_ss_jets.log. CurrentlySS73source1 all3records PASS, SS109source4
+all3records PASS (~597s), SS113source1 bothrecordsPASS(~822s), now127source20.
+SelectedSS127T3sources20,21;T5sources22,25;T7source24. NativeSS6source73needed
+first3jets;checkeractuallychecksALL24jets everyrecord. Generaldivision
+recurrence vsSage polynomial +derivative, curve, allunitrelations andrankg-1
+atbase, normalizedcanonicaljets+nonzero1stjet, SageN*P=0. IndependentSage
+isogenysetcomparisonsall3/5/7kernel factors: T3fieldextensionsifneeded,
+weightsfactor degreee; T5sixquad andT7eightcubicallFsource. Comparejoint
+unitpairFrobeniuskeysusingabsolutebinarycoordinatesincludingtowerfields.
+Earliercheckerimplementationissuesfixed: GFkeywordisimpl(notimplementation),
+PARIfieldM4RIautoissueavoidedbydefaultfields; SagePSNTLconstructorbugonlarge
+binaryfieldsavoided viaPowerSeriesRing(...implementation='generic'); full
+polynomialcomparisonpasses x=PX.gen() toSageDivisionPolynomialexplicitly.
+FieldtowerkeydoesnotuseSageminpoly(relative); computesprimeflatcoordinates,
+Frobeniusjointdegree,andpowersbasis. Currentcodepasses73/109/113 math.
+ss_jets_independent.jsononlywhenall8selectedsourcecasescomplete.
+
+**Large full final verifier NOWCREATED+ACTIVE** verify_large.py session14301,
+logverify_large.log. OneSageworker. Verifiesall5289families, parents19AND20
+byactualpath, reused2474 logs/Padé, fresh2815 fullCFcongruence/gcd/degrees,
+ALLraw/prepared/free archivesSHA+decompressedSHA, graphrank/prefixlogs,
+allengine/source/binaryversions, freek+2planentries/flags boundtoarchives.
+Inferinitial12oldmetadataenginebinaryuniquelyfrombinarySHA; nativeBMvsNTL
+finisherbranchesexplicit. Rawuint64boundonlyifrawsafe;blockedv1/v2sources
+preserved;freeflagsfullchecks. Latest2800of5289verified (~330fresh), nofailure.
+Freshcharacterbatchrun_characters_free.py stillactive, latestp1048681 (~700
+freshcompletedof2815?). check_sequences_fast.py independentlyverifiesall
+freshCFs1worker. Maincharacterresultslarge_native_results.json andsequence
+resultsJSONonlywhendone. Jobdescendingsort uppernewordinarybandlotsorders,
+stillhoursremaining. DoNOTclaimlargebatchPASSyet.
+
+**Coverage+proof+packaging PREPARED, NOT EXECUTED final**:
+verify_coverage.py --structural-only PASS coverage_plan.json82136primes,
+477supporttypes. Checksallprimefamilyreductions, cap1050024M229rank42,
+selected850primes5289orders. CautionSS18/19mayhaveprime>100000(525313!);
+onlySS20/21assertallfactors<100000;all18..21includedlargescreen.
+FinalmodechecksALLrequiredPASSJSONs,ordinarynewsourcecoverageandexceptions,
+chosenSSsourcecerts,allrepairs, matrixranks, sequences andlargebatch. Ifnew
+ordinaryexceptionsappearthenfinalguardwillfailandtheyMUSTberesolved.
+Noexactclaimwithoutactualfinal_coverage.json PROVED...emptyunresolved.
+Potentialfinalguardnamescheck: nativeSS indicesfieldsource=int expected;
+verify_occurrences markerS21_ALL_OCCURRENCES_COMPLETEconfirmed;
+bound_ss markerS21_BOUND_TWISTS_CERTIFIED_COMPLETEconfirmed.
+
+PROOF_DRAFT.txt ~3903words hasallargumentsbutexplicitDRAFTconditionalheading,
+notafinalproof. Reviewbeforepublication, especiallyanynewordinaryexceptions.
+REPLAY.txt hasallcommandpaths andunusedexperiments. package_result.py guards
+coverage/rank/SS/largepasses, removesdraftlanguage, createsPROOF.txt,
+outputs/S21_proof.pdf/txt,result/status/indexJSONandindexTXTusing17PDFhelper.
+NoS21outputscreatedyet. build_manifest.py extendsFULLparent20manifest,
+recursesallfreshproofsources/inputs/logs/matrices/binaries/archives, explicitly
+requiresallperjobfilesandfreearcs, includesreusednativeextrasandS21outputs.
+ExcludesvolatileSTATE/resource/progress/draft/selfmanifest/finalizerlogs.
+verify_manifest.py streamingfullclosure. Finalizer isALREADYRUNNING:
+finalize_when_ready.py session25247 waits6completionfiles, thenruns
+verify_coverage->package_result->build_manifest->verify_manifest, exitsifany
+requiredcheckfails. Watchitslog, independentlyreviewfinalPDF/result/index/
+coverage andfullmanifest beforeanswer. Finalizershouldnotbeallowedtoslide
+pastnewmathematicalexceptions(guardassertsnone).
+
+Proofmathnotesnew: dyadicglobalcap1,050,024ordinaryevenordermax2,100,048;
+SS21threeordersallsmallfactors; single-cuspX0theoremasparent appliesp>19236.
+Realdiamondlemma noCMexceptionsforodddegree. Relative73doubleSS12+C9full
+H9cusp-fiberR0caseclosedbyexistenceofh3-fixedSSlift =>Galoistransitiveodd
+Dhasrealh3fixedpointcontradiction; optionaltripleSS73notneeded. Full101
+knowncuspgroupisfullG50 (step1), notH3; since50>21 nozeroRcase. Relative53
+full13cusp fibersleavefixed8,61SS15H5fiberleft1,61SS20left1,73SS6left6,
+73NC9left3,109SS9left3,97SS16H3left2,113O8H8left5,103/131left4/8,
+127mixedC5<minfiber7;allnonzerocuspremainders except73doublehandled.
+Odd qAqkillsALLrationaltorsionbecausegoododdqreductionkernelonQqistorsionfree;
+q2needsprovedfull2primarycuspidalhypwhichalllocallevels≤139satisfy.
+
+CRITICAL LATEST cusp-lattice strengthening (31Oct ~14:20):
+Still NO finalS21. Mainnative2823/5723chunksdone. Char641/2815freshdone:
+1321jobsover1m (641done),180500k..1m,1314under500k. Thus remaininglower
+charactersmuchfaster. Newordinary139 COMPLETEPASS1420sources,noexceptions;
+pipeline now137 (tensor715/2142PASS,165sec). Native8indices~3750 currently.
+
+IdentifiedpossiblecotangentdescentconcernforevenHquotientcuspchecks61H2,
+89H4,97H6. Ratherthanassumegoodlatticeequalitiesthere, replacedALLTHREE
+byFULL-JACOBIAN canonicalchecks. Thisdoesnotassertoldproofsfalse; S21no
+longerneedsthem. Parentordinary/mixedprincipalcertsarefullcurveandunaffected.
+NativeactivecuspFIonlyoddHquotients67(H3),73(H3),103(H3),131(H5), orH1full
+59,79,83,107,109,113,137,139. Allothersfullcanonical53/61/71/89/97/101/127.
+Finalcoveragecodepurecuspclassificationupdated; old61/89/97FIstatusno
+longerrequired. Theirrow/profilechecksretainedonlyadditionalunusedlinear
+algebra. Noearlierpacketsmutated.
+
+Nativefull89((D-1)Aq,available2,3,5,7) PASS3828profiles.
+Nativefull97sharper(D-1)beta_n*Aq(oddouterqs) PASS4560profiles.
+Nativebasicfull61(D6-1)Aq FAILatprofile117483, unexpectedprefixcost20.
+It isUNUSED now. Sharperfull61 SOLVES it:
+- New strange_eigenvalues61.m/datadefineuniqueχ6strangeone-dimensional
+component, normalizeddiamond2=z, Φ6(z)=0. Eigenvaluesa2=-1-z,a3=-2,
+a5=-3+3z,a7=-2-2z. AllintegersinZ[z].
+- verify_sharp61_finite.m exactχ6modsympluswindingrankd-1, image(Tq-aq)
+insidewindingforallq2,3,5,7. Native+independentSageNFranksPASS4 in
+sharp61_finite_verified.json. Thedatafileverify_sharp61_finite.log was
+usedfornativebutoverwrittenbySage; native'soriginalstdoutlogsamefilelost,
+HOWEVER nativeexactmatricesretainedsharp61_finite_data.m andsource, and
+run_sharp61.pyassertedreturn0. IfwantnativemarkerlogreplayseparatelogbeforeMF.
+- Newhelper sharp_cotangent_full61.m, wrapperfull_cusps61_sharp.m builds
+(D-1)*(Tn-an(D))*Aq usingalln2,3,5,7 andoddq3,5,7available. Fullnative
+cuspcheckPASS8295profiles, initialuniformkernelquotientdim14mincost60>21.
+KnownrelationsonlyfullG30fibers (weight30>21), henceabsoluteFI21.
+- full_cusps61.m/data/basicFAILfileskeptunused. check_relative_all.py active
+case nowfull_cusps61_sharp (21,0,0,step1,cap4), NOTbasic61(step6cap3).
+Full89step1cap5,full97sharpstep1cap5.
+- run_sharp61.py session80618COMPLETEPASS, run_full_cusps_odd_lattice.py
+session82845COMPLETE(its61BASICFAILunused;89/97PASS).
+
+**Independent verification NEW3 nowRUNNING**:
+verify_intrinsic_full_new.py REWRITTENfor61SHARP,89,97SHARP; session75706,
+logverify_intrinsic_full_new.log. RebuildsALLoperatorsandentries, output
+intrinsic_full_new_verified.json (earlierPASStherehadBASIC61only; overwrite
+whennewfinishesandensurecasefullname61_sharp).
+verify_profile_spaces_full_new.py REWRITTENfor61SHARP,89,97SHARP; session66979,
+logverify_profile_spaces_full_new.log. PriorrunfailedbecauseBASIC61FAIL, no
+outputJSONthen. Nowawaitall3PASSandindependentlycheckfullrelationkernels/
+cosetsusingSagecheckerhelpers, outputprofile_spaces_full_new_verified.json.
+Potentialcoset14bits costlybutnativeall8295quicksoSagefewminutesexpected.
+FinalcoverageguardREQUIRESbothnewJSONsANDsharp61_finite_verified.json.
+Packagecertificateindexupdatedandprofilecountaddsnewcases; unusedexperiments
+nowevenHquotient61index15/89/97plusinitial61index5.
+
+**Geometricorbitverification NEWCOMPLETEPASS**:
+verify_stabilizer_geometry.py session35309 done, stabilizer_geometry_verified.json.
+Actualcanonicalgeometricorbitlengths andclosedFrobinvariance independently
+checked53SS13 h13free;61SS15/SS20 h5free;73SS6 h9pointorbit3⇒h3fixed;
+97SS16h3fixed;109SS9h9POINTORBIT9 (importantfreeformalpullbackassertion),
+109SS12h18pointorbit6;113O8h8freeandH2even,SS7h14closed;
+127O9h9free,SS14source23h7freeandh3fixed;137O17h17free,SS17h34closed.
+FinalcoverageguardandindexnowrequiregeometryJSON.
+
+PROOF_DRAFT/REPLAYupdatedallfullcanonicalreplacements, sharp61eigenvalues,
+finiteimageproof,newindepgeometrydimensions. Publishedproofwillnolongerneed
+anycuspquotientofevenorder. NativeSSstatusstillactivecurrently127source20
+record4 (all24jetsallrecordscostly~minutesperrecordbutnativeinputsasserted
+andSageindepcorrespondencemathpassespreviouscases73/109/113).
+NoSSjetsJSONuntilcomplete. IndependentSSrankwatcherpassedallpairs through137.
+Largefullverifierlatest3100/5289(~626fresh+2474reused); nofailures.
+Newnativefieldsforp127O9:uniqueexceptionalsource3deg9orb7;other2O9orbs63
+handleddirect.113O8:source2orb7RFI,source3orb28direct.137O17uniqueorb4
+firstsource159,othersorb68direct. EarlierfinitesourcespecificRFIcoverage
+matchesalltheexceptionalorbits.
+
+LATEST after cusp-lattice replacements:
+ALL new3intrinsicPASS(nowactual61SHARP,89,97SHARP),
+intrinsic_full_new_verified.json casesverifyfullname61_sharp. ALLnew3profile
+spacesindependentPASS8295+3828+4560=16683 inprofile_spaces_full_new_verified.
+Sharp61nativefinitecheckreplayedwithseparatelogverify_sharp61_finite_native.log
+markerS21_SHARP_FINITE_IMAGE_COMPLETE;Sageverify_sharp61_finite.log PASS4,
+sourcefixedrun_sharp61.py nowpreservesnativeloginstead ofoverwriting.
+PrimarypaperRemark4.4reviewedonlineandconfirmedstronghyp:2primarygroupfor
+p≤157generatedbyDIFFERENCES OFQ-RATIONALCUSPS, enoughA2kill(allstrongmaps).
+
+Mainnative8indices~4160,starting59and71 etc;53firstnewstart4317soon. About
+2823/5723hadcompletedatsource3750, likely3000+now.139singlesALLPASS1420,
+indepSageranksALL1420PASS.137singlesactiveindices~2630 nearend.~halfnew
+highbandcharacters641of1321done, remaining1314under500k+180500k..1m
+muchfaster. Largeverifier~3100of5289. NoongoingbatchFAIL.
+
+**SSindependentverifierACCELERATED just now** (thisisneedednewstate!):
+Oldslowverify_ss_jets.py PID3842264 safelyTERMINATED (onlyourreadonlyown
+checker), snapshotverify_ss_jets_slow_reference.py and.logretained, checkpoint
+ss_jet_acceleration_checkpoint.json pinsboth. It hadcompletedall24jets+
+Sageisogenies73/109/113and127T3source20 (5recordsPASSat2901sec), started21.
+Foundsourceofslowness:checkingunitconvolutionsrepeatedB*Z.column(j-k)
+O(n²)times. ReplacedwithONCEAZ=A*Z;BZ=B*Z, thenexactsameall24coefficient
+convolutions. Everycoefficient/isogenytargetremainschecked; no truncation.
+NEWverify_ss_jets.py session21627 juststarted,logverify_ss_jets.log fresh;
+replaysALLcasesincludingpreviouspassingonesusingcachedmatrixproducts.
+Shouldbemuchfaster(nearlyn²->nlargeproducts), nootherchanges. NoSSJSON
+beforefullycomplete. DoNOTmistakeoldslowscriptterminationforproofPASS.
+
+LATEST 14:40local:
+**ALL5723newordinarynativejetjobs COMPLETEPASS**, new_ordinary_job_results.json
+exists,run_new_ordinary_8.logendsS21_ALL_NEW_ORDINARY_JETS_COMPLETE. Noerrors.
+Native139PASS1420and137PASS1475singlepoints, independentSageallranksPASSboth.
+Pipelineactive131 currentlysource2588/last~3k. **Safe2-workerhandoffnowpending**:
+handoff_pipeline.py session18174 SIGSTOPoldpipelineparent (uniqueexactcmd),
+letsactive131childfinishthenkillsoldparent andstartsnewpipeline_sieves_2.py
+with2workers. NewcopyreusesPASScompleted139/137/131withoutrewritingmatrices,
+otherwiseidentical. Newresultsstillnew_ordinary_sieve_jobs.jsonforfinalguard.
+Watchhandoff_pipeline.logandpipeline_sieves_2.log, notonlyoldpipeline.log.
+Currentchild131continuesuninterrupted, highrank noexceptionssofar.
+
+NewSSjetextra coverage correction:SS127+NC7mixed48usesALLSIXT3sources,
+notonlydirectT3successes20,21. Thuscreatedverify_ss_jets_extra_T3.py for
+sources22,23,24,25, sameFASTall24coeffmath asmain. ACTIVE session83137,
+logverify_ss_jets_extra_T3.log; currentlysource22all5recordsPASSat435s,
+source23record4inprogress. Outputss_jets_extra_T3_verified.json whenall4done.
+Finalcoverage/index/REPLAY nowrequirethisEXTRAJSONaswellasmainSSjetsJSON.
+MainfastSSchecker21627 hascompleted73/109/113,127T3source20all5PASSat770s,
+now21record3. ThenT5sources22,25andT7source24. All24jetcoeffscheckedwith
+matrixproductsAZ,BZcachedonce, still~minutesper5recordsratherthan35min.
+
+New independent polynomial arithmetic check COMPLETEPASS:
+verify_polynomial_encoding.py testsASTidentityas_ntl/pmul acrossall7usedsieves,
+ALL3600basisvectors againstNTLcoefficientpositions, 221independentPython
+schoolbookcarrylessproducts atALL13usedprecisions. polynomial_arithmetic_verified.json.
+InitialtestassertionfailedbecauseNTL_GF2zeroobjectsaretruthy! FixedTESTby
+converting .list()coeffs toint beforeany(); actualsieveuseshex/intandhasno
+suchbooleanuse. Encoding andproductsallcorrect. Finalguard/indexrequire
+JSONandREPLAYincludescommand. Nocharengines/optimizationfilesmutated.
+
+Characterbatch~699fresh/2815done (globalfullreplay3173 then3188of5289),
+1321freshupperbandjobsarecostliest,641werecompletedatlastcount. Rest1314
+under500k+180500k..1mwillbemuchfaster. Resourcewatch24logicalcapunchanged;
+all8nativeworkersnowexited freeingcapacityforcharsand2sievessoon.
+Finalizer25247stillwaits6maincompletionfiles; finalverify_coverageexplicitly
+requiresALLnewextraJSONssoitcannotpublishbeforeSSextra/poly/sharp/fullcusp
+repairs. Package/manifestguardedstillnoS21outputsorcertainsetclaim.
+
+CRITICAL LATEST newordinary61exception FOUNDANDRESOLVED (14:50ish):
+Complete61single-sievePASS_WITH_EXPLICIT_EXCEPTIONS,5011sources5010fullrank,
+ONLYexception source2921,degree20,closedGorbit6,statusZERO_DIVISOR. It is
+ordinaryH5pullback(α=D6-1annihilatesit). Thiswasanticipatedfromsourcecensus,
+notanunresolvedprime: NEWrelative61_o20.m (cloneSS20butordinaryselectororb6)
+exported20base rank16,all6translates; C1strongAA2,3,5,7 profilesPASS6.
+**Independentverify_relative61_o20.py COMPLETEPASS** JSONrelative61_o20_independent:
+SageactualE/P nonsing61P0, sourceID2921, freeH5geoorbit5 andclosedFrobinvariance,
+allnativecotangententriesrebuiltandall6completeprofilekernelsSageranked.
+Y=X1(61)/H5g26, baseπ5pullbackdegree4formalSym4Y,normalrank16pluscusp1=17,
+zeroformalLdim4hasFIXEDcuspC1⇒noncuspD21impossible. ProofandREPLAYupdated.
+FinalcoverageguardNOWexplicitlyallowsEXACT61exception(2921,20,6,ZERO_DIVISOR)
+withnewindepJSON/profilesPASS, countsnonprincipal=expected-1; allotherordinary
+sievesstillmustPASSwithnoexception. Newguard/indexincludesrelative61_o20_independent.
+Sourcecoverageclassify61ordinary20specialcaseexplicitnewRFI. DoNOTrevertto
+blanketPASSallordinaryassumption. NativeaggregatejobcompletionPASSisjust
+computationalcompletion, finalledgerdoesactualexceptionresolution.
+
+Completeordinary67 PASS3051,noexceptions. Completeordinary71 PASS2771,
+INCLUDINGtheuniqueO21H7source(lastID5996closedGorb5)NONPRINCIPAL—noquotient
+extra isneededthere. Pipeline2now73/79 concurrently. Completed53and59PASS,
+61oneRESOLVEDexception,67/71PASS,131/137/139PASS(oldcompletionsreused).
+Sourcecensusrareorbitcountsread:61O21full3246+h3three,20full1757+h2four+h5one;
+71O21full2770+h7one;73O21full2791+h3one;97O21full2070(norare);127O21full1652+
+h3four. Thus no97H3newcase; futurequotientmethodnotnecessaryunlessactualfail.
+
+**PipelinehandoffCOMPLETED** newpipeline_sieves_2.py active2workers,log
+pipeline_sieves_2.log. ItqueuedallreadyNssorted53,59,.. afterreusing131/137/139.
+New53PASS~257s,59PASS~97s,61complete381CPU(?)wall503pipeline,67~466s,
+71~138s. Thisismuchfasterthanpriorbiglevelssoallremaininglocalssoonexpected.
+Native8launchercompletedall5723. Fieldsmergedall19.
+
+**CharacterexporthandoffCOMPLETED** handoff_character_exports.py session34887
+frozeoldrun_characters_free.py parent,drainedALLactiveMagma/CPPchildren,
+killedonlyoldlauncherandstartedrun_characters_free8.py with8exportsemaphore
+(upfrom4),same24taskthreads/CPPs,sameallsource/binaryengines. Newlog
+run_characters_free8.log, checkpointcharacter_export_worker_checkpoint.json.
+FreecachedRAWseqsfromdrainedchildrenadoptedONLYafteroldP/oldLhashesmatch
+freshplans,actualCPPlogsandmetadataunchanged. Originalfree_engine_checkpoint
+notreplaced(rawlegacyenginemappingsstillread). Oldhandoff_free.logmayhave
+intentionalparentterminationassertion;notarithmeticfailure. Resourcewatch
+STILL24logicalaffinity,totalbudget28,4logicalidle(~2physicalcoresworth),Phi10
+priority. Moreexportcapacityusesfreednative8CPUs. Allarithmeticenginesfrozen.
+
+**SSextraT3DONEPASS** ss_jets_extra_T3_verified.json coversALL127T3sources22..25,
+20recordsall24jetsandindependentSagekernelisogenies,~1536sec. MainfastSS
+verify_ss_jets.py session21627 nowT5source25record3, thenT7source24nine
+recordsremaining. HasPASSall73/109/113,127T3sources20/21,SS5source22.
+Thus allSS127T3sources20..25coveredbetweenmain+extra; SSNCmixed48hasall
+neededunderlyingjets/targetsindependent. MainJSONstillnotuntilT5/T7finish.
+
+PolynomialarithJSONPASS3600basis/221productsalreadyguarded. New61finiteβ
+nativeandSageverifiedlogsseparateandPASS4. AllnewcuspfullcanonrepairsPASS
+andindependentrebuild/profilesPASS (total152648+16683=169331,plusnew61O20six).
+NoS21exactresultyet:stillcharacterbatch&ordinarysieves/ranks/coverage/MF
+pending. Maincharlogmovedfree8, oldfreequiet. LargefullverifierprogressJSON
+moreinformativethanlog100-interval:3188/5289atlastread. Allcompleted math
+passes, nootheractiveknown gaps.
+
+LATEST LOCAL STATUS 2026-10-31 (all supersedes previous pending local notes):
+ALL local exclusions complete. local_coverage_verified.json PASS477support,
+45730newordinarysources, 81523independentlyrankedmatrices in49tasks.
+relative61_o20_independent.json resolves the unique61source2921exception.
+profile_coverage_independent.json PASS169337records and cap6complete67/73,
+including independent100triple7ranks. AllSSjets main+extraT3PASS.
+Latest geometric product-zero bounds checked on all49sieves; local-only
+coverage guard passes. No further local computation remains necessary.
+
+Only global characters and final packaging remain. Live free8 driver,
+check_sequences_fast, verify_large, finalizer and resourcewatch continue.
+Current progress via large_verification_progress.json (not this note).
+Do NOT claim exactS21 before all5289orders PASS and fullcoverage/manifest.
+Fullguard additionally checks gcd(q,6p(p-1))=1 for all2815freshcharacters
+and requires complete large_native_results.json before packaging.
+Proof draft explains good integral specialization of character homology.
+REPLAY now uses free8 driver and explicit check_fi.py67 73 arguments.
+All actual arithmetic engines remain untouched/frozen.
+
+LATEST GLOBAL STATUS 15:51 UTC Oct31: fullreplay3931/5289PASS.
+ALL million-level freshjobs completePASS. Continuinglowerbands, nofailures.
+Read livecounter large_verification_progress.json; free8 log stillactive.
+Read-only terminal monitor session56628 prints progress untilMFverified.
+All localmath DONE; no further localrechecks required.
+Final packaging now corrects checker aggregate workers4->1, preserving
+producer_reported_workers4 andnote; actual frozenchecker usesoneworker.
+No per-sequence math/provenance changes. REPLAY explains thismetadatafix.
+Draftspacing clarified and package textreplacement synchronized for
+'all degree 21 premises are listed'. No mathsource/binary changes.
+Fullguard adds coprimeq check+requiresnativeaggregate2815. Finalizer25247
+stillwaits final character JSONs; resourcewatch70364 still24logicalcap,
+externalPhi priority. Monitor read-only session56628 canbefinallypolled.
+Next: waitcharacters, finalizer, inspectfinalPDF/results/MF,stopresourcewatch.
+
+COMPLETED 2026-10-31T16:24:00.479052+00:00
+S21=Primes(47), rigorous computer-assisted determination.
+All5289characterordersPASS(2815fresh+2474inherited); all477supporttypesPASS;
+81523new obstructionmatrices independentlyranked. FinalcoveragePROVED
+with empty unresolved_primes. FinalPDF9pages, renderedandtextchecked;
+result/index/proof consistent. Full100184filemanifest streamverifiedPASS.
+Manifestsha256 1ce61f220611ed348af3b0e92554a21f46d2bedd48058d45b654ac3f26e8f1c5
+All mathworkers finished; resourcewatch stopflag created.
+Finaloutputs outputs/S21_proof.pdf/.txt, S21_result/status.json,
+S21_certificate_index.json/.txt. REPLAY and fullmanifest in work/degree21.
+No unresolved case remains. Do not edit frozen finalpackets.

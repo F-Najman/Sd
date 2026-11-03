@@ -1,0 +1,7 @@
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree16/full43/units_data.m"
+Loading "work/degree16/sources43.m"
+S16_NATIVE43_SS_RECONSTRUCTED [ 7, 14, 14 ]
+S16_NATIVE43_CASE label=SS7 principal=false elapsed=227.440
+S16_NATIVE43_CASE label=2SS7 principal=false elapsed=578.700
+S16_NATIVE43_CASE label=SS7pair principal=false elapsed=790.810
+S16_NATIVE43_CASE label=SS14 principal=true elapsed=1074.690

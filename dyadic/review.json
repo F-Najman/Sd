@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-27T10:04:56.942854+00:00",
+  "status": "PASS; THREE INDEPENDENT MATHEMATICAL REVIEWS AND FINAL TEX REVIEW",
+  "reviewers": [
+    "asymptotic_dyadic_formal",
+    "asymptotic_dyadic_route",
+    "asymptotic_final_audit"
+  ],
+  "key_inputs_verified": [
+    "General Raynaud cotangent defect killedby2 for any optimal good-reduction quotient, not only newform quotients",
+    "Integral Hecke coefficient pairing at2, noGorenstein assumption",
+    "Parent relative-to-winding independence usesno divisionby2",
+    "Doubling sends cuspidal trace frommod2 tomod4 also forramified/repeated points",
+    "Minvaluation uniqueness withlinear image containing2Z2^m",
+    "Prime-torsion local component/cusp reduction argument",
+    "Crossover d>=53"
+  ],
+  "magma_jobs_started": 0,
+  "accepted_degree_artifacts_modified": false,
+  "novelty_priority": "not established",
+  "compiled_pdf": "outputs/asymptotic_torsion/asymptotic_prime_bound.pdf",
+  "pages": 4,
+  "build_exit_code": 0,
+  "tex_diagnostics": "No overfull boxes or undefined references",
+  "arithmetic_check": "PASS",
+  "final_review": "asymptotic_final_audit checked the actual final proof text; subsequent changes are formatting and precise lattice wording only",
+  "completed_utc": "2026-10-27T10:07:25.489836+00:00",
+  "artifacts": {
+    "work/asymptotic_torsion/asymptotic_prime_bound.tex": "644cf15007ab366e92cdb1bc3c60f1c6561a5dc380776730995b264edb474019",
+    "outputs/asymptotic_torsion/asymptotic_prime_bound.pdf": "f5912270f117bd189cd77dca41b45ba8b7cc8d464c012a4b136d2eed3873ea01",
+    "work/asymptotic_torsion/arithmetic_check.py": "a7fb4ea632a4413b1ab77c61335a070924e9cbaaac2d0819bb3830c504b3a68e"
+  }
+}

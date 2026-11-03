@@ -1,0 +1,45 @@
+S(21): certificate index
+Completed computer-assisted determination: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47]
+Proof: outputs/S21_proof.pdf
+Complete replay: work/degree21/REPLAY.txt
+Manifest: work/degree21/proof_manifest.json
+
+New obstruction matrices: 81523
+5289 selected character orders,2815 fresh and2474 inherited.
+477 local support types;82136 primes through1050024.
+
+../work/degree21/sharp61_finite_verified.json
+../work/degree21/stabilizer_geometry_verified.json
+../work/degree21/intrinsic_full_new_verified.json
+../work/degree21/profile_spaces_full_new_verified.json
+../work/degree21/inherited_manifest_verified.json
+../work/degree21/inherited_hypotheses_verified.json
+../work/degree21/matches_verified.json
+../work/degree21/dyadic_independent.json
+../work/degree21/census_counts_independent.json
+../work/degree21/frobenius127_verified.json
+../work/degree21/global181_verified.json
+../work/degree21/fi_matrices_independent.json
+../work/degree21/intrinsic_relative_independent.json
+../work/degree21/intrinsic_full_cusps_extra.json
+../work/degree21/intrinsic_multiple_independent.json
+../work/degree21/quotients_intrinsic_verified.json
+../work/degree21/profile_coverage_independent.json
+../work/degree21/profile_spaces_independent.json
+../work/degree21/relative127_verified.json
+../work/degree21/relative_cusps_intrinsic_verified.json
+../work/degree21/relative61_o20_independent.json
+../work/degree21/polynomial_arithmetic_verified.json
+../work/degree21/ss_jets_independent.json
+../work/degree21/ss_jets_extra_T3_verified.json
+../work/degree21/support_inputs_verified.json
+../work/degree21/independent_rank_checks.json
+../work/degree21/large_verified.json
+../work/degree21/independent_sequence_results.json
+
+Unused experiments:
+native FI61 index15,FI89,FI97 quotient cusp checks: replaced by full-Jacobian canonical maps; initial FI61 index5 also unused
+coarse FI71 andFI127 failures; replaced by full canonical cusp maps
+SS127 source23 direct T3/T5/T7 obstructions; replaced by order7 quotient relative immersion
+optional triple SS6 cotangents at73; the H9 stabilizer already excludes this support
+superseded raw and blocked engine speed tests; actual engine per job is explicit

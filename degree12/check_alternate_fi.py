@@ -1,0 +1,42 @@
+from pathlib import Path
+import json,subprocess,concurrent.futures,time
+W=Path(__file__).resolve().parent;H=W/'FI';Ns=[41,47,53,59,61,67,71,73,79,83,89,97,101,103,107,109]
+def expected(i,d):
+ total=0
+ for first in range(1,d+1):
+  cap=min(first,d//2);a=[1]+[0]*d
+  for _ in range(i-1):a=[sum(a[t-k]for k in range(min(t,cap)+1))for t in range(d+1)]
+  total+=a[d-first]
+ return total
+def one(n,ind):
+ p=H/f'FI{n}_i{ind}.compressed.txt'
+ while not p.exists():time.sleep(2)
+ while True:
+  ls=p.read_text().splitlines();hdr=list(map(int,ls[0].split()))
+  if len(ls)==hdr[4]+1:break
+  time.sleep(1)
+ lev,i,tn,gen,nr,nc,d,rank=hdr;assert lev==n and d==12
+ rows=[sum(int(v)<<(64*j)for j,v in enumerate(l.split()))for l in ls[1:]]
+ basis={};rels=[]
+ for k,x in enumerate(rows):
+  c=1<<k
+  while x:
+   j=x.bit_length()-1
+   if j in basis:v,b=basis[j];x^=v;c^=b
+   else:basis[j]=(x,c);break
+  else:rels.append(c)
+ assert len(basis)==rank and len(rels)==nr-rank
+ if len(rels)<=16:
+  v=0;tested=0;fail=[]
+  for k in range(1,1<<len(rels)):
+   v^=rels[(k&-k).bit_length()-1];m0=(v&((1<<d)-1)).bit_length();other=[((v>>(d+6*j))&63).bit_length()for j in range(i-1)];cost=max([m0]+other)+sum(other);tested+=1
+   if cost<=d:fail.append({'relation':hex(v),'minimum_normalized_degree':cost});break
+  out={'N':n,'status':'FAIL'if fail else'PASS','method':'complete binary relation enumeration','relations':len(rels),'tested_relations':tested,'failures':fail,'covered_degree12_tuples':expected(i,d)}
+ else:
+  q=H/f'FI{n}_i{ind}_prefix.log'
+  with q.open('w')as f:r=subprocess.run([str(W/'check_prefixes'),str(p)],stdout=f,stderr=subprocess.STDOUT)
+  s=q.read_text();import re;got=int(re.search(r'checked=(\d+)',s)[1]);ok=r.returncode==0 and'status=PASS'in s and got==expected(i,d)
+  out={'N':n,'status':'PASS'if ok else'FAIL','method':'complete cusp-prefix enumeration','checked':got,'independent_expected':expected(i,d),'relations':len(rels)}
+ (H/f'FI{n}_i{ind}_verified.json').write_text(json.dumps(out,indent=2)+'\n');print(out,flush=True);return out
+
+for n,i in [(73,12),(89,11)]:one(n,i)

@@ -1,0 +1,6 @@
+
+In file "work/degree16/cusp43_probe.m", line 1, column 70:
+>> SetQuitOnError(true);SetColumns(0);J:=JOne(43);print CuspidalSubgroup(J);qu
+                                                                        ^
+Runtime error in 'CuspidalSubgroup': Argument 1 must be a quotient of J_0(N).
+

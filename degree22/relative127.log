@@ -1,0 +1,8 @@
+Loading "work/degree22/full127/units_data.m"
+Loading "work/degree22/sources127.m"
+S22_REL127_OPERATOR q=2 prefix=1344
+S22_REL127_OPERATOR q=3 prefix=962
+S22_REL127_CANONICAL_RANK field_degree=9 rank=609
+S22_REL127_CANONICAL_RANK field_degree=7 rank=609
+S22_REL127_TWO_PULLBACK_TANGENT_RANK 14
+S22_RELATIVE127_EXPORT_COMPLETE family_dimension=2

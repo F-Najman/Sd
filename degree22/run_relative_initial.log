@@ -1,0 +1,16 @@
+S22_RELATIVE_EXPORT relative61.m True
+S22_RELATIVE_EXPORT relative61_ss20.m True
+S22_RELATIVE_EXPORT relative73.m True
+S22_RELATIVE_EXPORT relative73_nc.m True
+S22_RELATIVE_EXPORT relative109.m True
+S22_RELATIVE_EXPORT relative113_ordinary.m True
+S22_RELATIVE_EXPORT sharp97.m True
+S22_RELATIVE_EXPORT sharp101.m True
+S22_RELATIVE_EXPORT relative61_o20.m True
+S22_RELATIVE_EXPORT full_cusps61_sharp.m True
+S22_RELATIVE_EXPORT full_cusps89.m False
+Traceback (most recent call last):
+  File "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree22/run_relative.py", line 7, in <module>
+    if not ok:raise RuntimeError(name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: full_cusps89.m

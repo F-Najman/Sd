@@ -1,0 +1,18 @@
+[
+  {
+    "pid": 1608368,
+    "args": [
+      "python3",
+      "work/degree19/check_fi.py"
+    ],
+    "reason": "replace unnecessary enumeration by complete relation-space check"
+  },
+  {
+    "pid": 1609027,
+    "args": [
+      "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/check_prefixes",
+      "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree19/FI/FI59_cap6.compressed.txt"
+    ],
+    "reason": "replace unnecessary enumeration by complete relation-space check"
+  }
+]

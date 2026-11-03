@@ -1,0 +1,610 @@
+S22 calculation started 2026-11-01. No exact set proved yet.
+Frozen parent21 manifest SHA1ce61f220611ed348af3b0e92554a21f46d2bedd48058d45b654ac3f26e8f1c5.
+Candidate occurrence set Primes(53) union{67}, subject to exact witness checks.
+Use dyadic m44 and prime cap2099200; SS22 factor599479 must be included.
+Leave Phi10 work priority and about2physicalcoresworth capacity idle.
+Do not mutate any earlier packet.
+
+LATEST S22 CHECKPOINT 2026-11-01 ~19:25UTC. TASK NOT COMPLETE.
+No exactS22 claim. ExpectedPrimes(53)union{67}. Allsix new22occurrences
+37,41,43,47,53,67 directMagmaPASS verify_occurrences.log. Small2/3/5/7
+nativePASS. 11..31 degree11examples beingEXPLICITLYextendedby sqrt2:
+verify_extension_occurrences.m/log LIVE session7613, assertquadIRR anddegree22.
+FailedattempttoassumeS11_proof_audited.txtpinnedin21MF wasFALSE! No math
+implication: nowfreshconcreteextensionchecks replace thatdependency. The
+attempted occurrences_verified.json/longSTATE write failedbeforecreation.
+Needwrite lowerboundPASSjson onlyafterextensionlogcomplete. 37searchnew22,
+41fixx2inFFFc41 (xdegree23,ydegree22);43/47linearvHtable22;53vHquad
+extensionof11(xpoly11,yquad), allverifiedexact22.67CM make_cm67.py:
+onE0 y²=x³+1,x9=zeta3*x2 yieldsdegree28poly in u=x³ overQzeta3,
+factor11+17; Normdegree22of11factorIRR; E:y²=x³+u²/(u+1)³,P=(t,t),
+t=u/(u+1), direct67P0. Data cm67.json/table_occurrences.json andrawlines.
+
+Parent21 full100184files rehashedPASS. SHA1ce61f220611ed348af3b0e92554a21f46d2bedd48058d45b654ac3f26e8f1c5.
+ALLparentsread-only. NoAGENTS ancestors. Resourcewatch LIVE38039, cap24
+logicaltotalbudget28, Phi10prioritynice0, ourlocal5/characters10, idle4logical.
+
+Bound: m44,M229,all228rank44F2,cutoff20152. cap2099200 (ordinarymaxeven
+4198400/2). SS22 [4190209,4192257,4194305,4196353,4198401], important
+4196353=7*599479, mustscreen599479. SS22nativebound_ss_certifiedPASS;
+indepdyadic/SS22notyetdone. Large1488primes,10065orders,5018fresh+5047reuse.
+Publishedsmallresidual21primes:standard17 [59,61,71,73,79,83,89,97,101,
+103,107,109,113,127,131,137,139], plus163,167,173,181. 53,67occursoexcluded
+fromlocallevels. local_levels.json currentlystandard17 plusadditional_global_levels4;
+163mustbeTREATEDLOCAL, remaining167/173/181GLOBAL. Keepseparate163nativepipeline.
+163oldh8globaln6*22=132 NOT<gon131.75. DoNOTreuseS21globalproof. Trial
+anti163 alloddq order3normEVEN (expectednegativeexploration, notpremise).
+173newanti173.m/data/logPASS:orders43,86 fullhom2268,A3odd; hdiamond4
+order43,n6*22=132<gon148.4. NeedsindepSageModSym.167oldh2order83n5*22=110
+<138,181oldh64order15n6*22=132<162; standardCMorbitlength83,15/5 none|22.
+
+GLOBAL LONG BATCH RUNNING: run_characters.py/log session94487;
+check_sequences.py/log 2workers session39878; verify_large.py/log39239.
+Fullverifier5047reusedPASS initially, firstlargeCPPs p2099197dim174930take
+~8-15CPUmin each. Batchmaytakeovernightorlonger. No earlyexactset!
+ActualFROZENengine krylov_packed.cpp/bin: samefreeforestplan as21, exact
+reciprocalmod reduce64 (floor2^64/q quotientestimate error<=1), uint128fallbacks,
+packedrows<=4/unroll4 paddedzero, widedatafallback. All175000reference
+terms matcholdraw/block/free; fixturesbalanced/unbalanced/anchored plus
+packed_bigq4294967291 PASS (includespackeduint128fallback).126.911CPUvs192.923.
+Proofcerts optimization/packed_full_replay_verified.json,packed_fixtures_verified.
+PerjobCPPsource/binarySHA. Metadataengine free_dual_graph_packed_v1,
+CPPmarkerS22_PACKED_GRAPH_KRYLOV_COMPLETE; finish_fast markerkeptS21_FAST;
+OPTgraph/nativeprefix markerskeptS20 (actualoldimmutableengine). No mutations
+ofactivearithmeticcode/binaries. Verifierupdated5018/5047/10065,parents19/20/21,
+valuationdegree22,bins[packed], enginepacked. Checkfirstfreshfullverification.
+
+STANDARD CENSUS COMPLETE1175.59CPU, all22new appendedexactparent21prefixes.
+setup_local.py LIVE42397 thenfinishedjoblist8910chunks; source_prefixes_verified
+writtenPASS. Newnative8workers run_new_ordinary.py82864 active, 4jets (vsold3),
+allordinarydegree22. Unitsbytecopiedparent21 for17levels. Correct sourceIDs.
+NEWFULL89torsion overF2^22 (90cycliclines), includesordinaryjfield11quadratic
+nondescenttwists andSS22. Mustindepclasscount extra89*H((t²-4q)/89²)
+andindependentFrob89traceslikeold127. Sourcecensusallproperjfields/twists.
+
+163CENSUS census163.m/log LIVE18183; allf1..22 startingempty (notoldprefix),
+reachedf21 (closed102141/orbits1261); f22left. All163sourcesordinarymin10,
+noSS<=22,NCdegree81. NewnativeALLordinary<=22 (notjust22) needed; nooldjets.
+Parent19sources163.m isPINNED butpoints maydifferentgenerators; don'tassume
+prefixequality ifreusing. No old163nativeobstructions computed, onlycensus.
+
+163MODEL full163/build.m/log LIVE60702 fresh g1027,prec4628,root2,
+poles348/364. qEigenformparts1,5,7,24,72,216,702 sum1027 done149CPU,
+nowintegral saturation/SNF/RREF maytaketime. NoFFFc163exists. Generator
+fromdegree13template manualpoles. unit_poles163.m/data/log freshlyPASS:
+all81RC Tatepointsq^k onE(q^163), NCnodalP(zeta) unitsinF2^162, sumsvalzero.
+x,y aremodularunits forp>9: xzeroPorder7(s=r),xpole/yzero order8(rs-2r+1=0),
+ypoleorder9(s²-s-r+1=0); henceallpolescusps. NeedindepSagepolecheck/model.
+Parent19UNUSEDfull163/units_data.m exists g1027prec5000samepoles, root2;
+NOTPINNEDin21MF. Oldfull163/build.m andFI163_verified.jsonNOTPINNED.
+Couldadoptoldmodelwithfreshverificationifbuildstalls, mustSTOPownedfresh
+builderbeforecopy topreventoverwrite. OlderFI163PASSdegree19(6641profiles,
+minunexpectedcost81)unused/notproofpremise. Userwasgivenearlierlargestexplicit
+737butweCORRECTEDcommentary: unusedg1027modelalsoexisted;737largestUSED
+S21localproof. Underlyingmax45bcurveunchanged. Don'trepeatoldmisstatement.
+
+IDEA163purecusps: useh=diamond8=D³(order27), map(h-1)A3 finiteQ andkills
+rationalclasses; A3odddegreeonB=im(h-1) fromparent19normcert (char9/27/81),
+soactualmod2cotimage is(h-1)Ω. Computejetsfromfullqcoeffs andD³-I directly,
+noq2torsionassumption. KnowncuspH27fiberrelationscost27>22; cap8profiles
+(onehigh or2high) shouldproveabsoluteFI22. NOTyetcomputed. Allordinary
+single/pair10+10 useprincipalobstruction alphaD-1 orh-1 withoddA3 andfreshjets.
+Do notwasteonHeckeidealq2fix: parent19two163_characters.logshowsχ3common
+Aoddqkernel4 withA2rank2, so simpleoddqidealnotcontainA2. Couldneedactual
+rationalcusps toproveq2ann, avoidbylocalmethod. GlobaloddantiH27valid.
+
+EVEN22IMPORTANT: NOodddegree-realdiamondlemma! Useorbitlengthm,m/2,m/3
+and r|22, andforcedhD impliesrationalcuspcomplementmustordh-divisible.
+127pureNC7(mult),SS14,SS14+NC7: h7free, forcedbygon max2*(22+15)=74<80,
+7notdivide22 ⇒excluded. NOquotientSym3workneeded. O9singles/doublesH9
+orbits9or3none|22. ExceptionalO9+NC7+C6: oldtwofiberrowcolumncode min7
+extends6columns; regenerate6jets/kernel (old5insufficientasdata), normalrank20,r2,
+fixedC6. 89NC11(mult) andnewSS22: h11forcedundoubledgon39>22+c(c11or0),
+ALLOWED11|22. DescendY=X1(89)/H11 genus27 Sym². RC4+NC4F2cusps,
+Frob2inH11. UsequotientdoubleEis(D-1)(Tq-Dq-q)(Tq-1-qDq),q2/3 finite
+killbothcusptypes, all36cusppairs. SS22->SS2needsnewjets+quotientFI (likely5orbits).
+113O8+SS7+C7 h2invariantallowed22butC7odd impossibleh2freecusps; doubled
+bound58<gon63. 2O8+C6 H8 c6notdiv8, alsoorbits8/4none|22. 2/3SS7 H14
+orbits14/7none|22;137SS17H34orbits34/17none|22;109H18orbits18/9/6none|22.
+73H9orbits9/3none|22; nonordtotal18+C4 undoubled22+4=26<gon26.4 passes;
+doubleSS6+C10 fullH9cusp9leavesfixedC1 ⇒nooddrealexceptionneeded.
+
+RFIstandardcuspdegree+1:61SS15C7,SS20C2,ordinary20source2921C2(all6positions);
+73SS6C16,NC9C13,doubleSS6C10,SS6+NC9C7;109SS9C13;113O8C14;97SS16C6;
+purecusps22allstandard17. Fullcanonical61sharp/89/97sharp/71/127repairs,
+101sharp,103/131quotientrelativefiberresidualC5/C9. 53/67notneeded(theyoccur).
+Newmixedtotal22:73O13+NC9,O16+SS6;89O11+NC11;109O13+SS9;
+113O15+SS7;127O15+NC7. Newordinarytriples7+7+8 at59/61/71 (73hasnoO8).
+Old7+7+7+C1inherited. Newpairtotal22/allrelativepositions andmixedtripleBurnside
+countsrequired. full_sieve.py NOTYETCOPIED; adapt4jets/generalgeoproductbound,
+loopmetadata sourceexpected all22(163all<=22), alloldsingleexceptionshandledabove.
+
+NEXT: finishlowerboundJSON afterextensionPASS; indepdyadic+SS22,173;
+indepcensusincl89fulltor/Frob89; attach163nativepipeline; setupfull/pair/triple/mixed
+sieves andindepmatrixranks; allnewRFIprofiles and89quotient; completecoverage/
+proof/manifest afterALLglobal+localPASS. NoS22exactstatusoutputs beforethen.
+
+LOWERBOUND COMPLETE: verify_extension_occurrences.log ALL7explicitK11sqrt2
+extensionsPASSexactdegree22 andorder, sooccurrences_verified.jsonNOWPASSall17
+primesPrimes53union67. NoS11proofpinassumptionneeded, actualfreshchecksdone.
+Mainlargefirst14freshPASS around19:25UTC, fullprogress5061/10065; per-CPP
+CPU~820-980seconds(big2.099m), wall1100-1600secincludingpreps/waits.
+Newperformanceprototype krylov_huge.cpp/bin compiled -O3 -march=native
+usesposix_memalign2MB+madviseTHP forflatvectors, sameintegerarithaspacked.
+OriginalproductionpackedFROZENunchanged. PrototypebenchmarkLIVE19268
+onexactcompletedp2099197_n1049598freeplan archiveuncompressedunderOPT;
+compareALL349866? termsactualdimension174933x2 toitsretainedsequence,
+notjustprefix. Ifimprovementmaterial,validatefixturesand175kbenchmark, then
+optionalSAFEdrainhandoff mayadoptnewbinary; keepoldrawcacheactualpacked
+source/binary/markersforunfinishedoldjobs. Don'toverwriteanylivebinary.
+GlobalverifiercurrentlyONLYacceptspacked, soanyhandoffneedsdualbin/engine
+supportandrestartfreshverifier (fewfreshsofar) orresumeexactcheckedcache.
+Noarithmeticfloatingpointintroduced, onlymemoryallocator/compileroptimization.
+
+IMPORTANT NEW RFI EVEN-DEGREE SIMPLIFICATION:
+97SS16+C6 canhave2fullH3cuspfibers withR0 (oldC5alwaysR>0).
+NoCMdegreeboundneeded: zerofamilyhasuniqueH3-fixedSSlifts, butanypoint
+reducingtorationalcusp cannotbeH3fixed(cuspsactionfree). PropertyfixedbyH3
+isGaloisinvariantsinceH3rational. TransitiveglobalgeosupportDcannotcontain
+bothfixedSSlifts andnonfixedcuspdiskpoints. Thismixedstabilizer lemma works
+INEVENdegrees, also73doubleSS6+C10 etcandold21fullC9H9fiberexception.
+Useitwheneverformalzerofamilycontainsnoncuspidaltamefixedpointsplusany
+cuspblock, evenifallcuspsmoveinfullfibers. Noodd-reallemmaorCMboundneeded.
+
+163censusalreadyreached21, keepit(no restartneeded). Freshcanonbuildstill
+integralsaturationafteralleigenforms149CPU, keep1corebuildfornowoldmodel
+backupavailableifslow. New173normneedsindepSage, primarynativePASS.
+Remainingtasks allaspreviouscheckpoint. Allmathworkersowned/resourcereservation.
+
+LATEST CHECKPOINT 2026-11-01 21:29 UTC. S22 IS STILL NOT DETERMINED.
+The ONLY proved lower set is Primes(53) union{67}, all17 explicit exact22
+witnesses verified in occurrences_verified.json. Do not issue exactS22 until
+ALL global/local certificates and final coverage guards pass.
+
+New math and certificates since the19:25 checkpoint:
+* ALL dyadic matrices independently PASS rank44, M229, threshold20152;
+  degree22 SS7twists independently counted, cap2099200. New norm173
+  independently Sage PASS global173_verified.json. Parent21 full100184
+  files independently rehashedPASS; inherited_hypotheses_verified.json PASS
+  binds all lattice, finite-image, odd antiH27, torsion and models. It uses
+  NO odd-degree real-diamond lemma.163 global6*22 inequality FAILS and163
+  MUST stay local.167/181 global5*22/6*22 work;173newh4order43 works.
+* Source census standard17 andfresh163 complete; independent class-number
+  count census_counts_independent.json PASS all18levels, ordinary+SS and
+  full89 torsion all90lines atdegree22. frobenius89_verified.json PASS
+  independently reconstructs all22traces including characters1,2,4 ofY89.
+* Standard17 local source/model prefixes exactparent21 PASS; standard
+  models byteidentical.163 model freshlybuilt genus1027, Qprec4628,
+  poles348/364. model163_independent.json PASS: all81RC valuations,
+  all162NCunitvalues, all680/664unit relations throughqorder4627,
+  point-diamond2 inverseaction viaTateunits, all241cusp profiles independently
+  replayed. h=D3order27, A3 odd onanti, cotimage exactly(h-1)Omega,
+  knowncuspH27fiberlength27>22. FI/cusps163_verified.json PASS.
+  Ordinary163native ALL4961sources degrees10,13..22,621chunks,2workers.
+  run_ordinary163.py/log LIVE session40108, first~80chunks done at21:29.
+  Full163 pair10+10+C2 now PASS all163relativepositions, independentrank
+  watcher willcheck. Nativefirstchunk copiedtofull163/small_hecke_jets.m,
+  pair_sieve.py filtersN163d10only andsum20. No11or12ordinarysources.
+  run_full163_sieve.py/log LIVE43255 WAITS ordinary163_job_results.json
+  thenruns full_sieve.py163 onALL merged sources; rankwatcher awaits it.
+  Pilot163 LIVE85091: first352ordinarysources(allf<=18), ownpilot163 folder
+  andpilot163_sieve.py; unneeded exploratory earlygapdetection, nofinalclaim.
+  It might consume substantial parsing/tensor time. Do NOT duplicate it.
+* ALL standardcusp/RFI profile producers PASS: all14casefamilies from
+  check_relative_all.py, all10 genericFI+direct73 cap6. NativeFIexports11PASS.
+  Independent verify_profile_spaces.py PASS all200500profiles; independent
+  Sage partition placement verify_profile_coverage.py PASS samecoverage.
+  FIcompression allrawrows independently reconstructed PASS.
+  Intrinsic_relative_independent, intrinsic_full_cusps_extra,
+  intrinsic_full_new_verified, intrinsic_multiple_independent allPASS.
+  relative73_multiple includes10SSpairs*C10 (36profiles each) and16SS+NC*C7
+  =>376profiles PASS. Optional3SS usesglobalH9instead; not exported/checkneeded.
+  relative_cusps_intrinsic_verified PASS103all20349,131all293930 configsrank21.
+  relative127.m corrected from5to6cuspjets: relative127_verified PASS full
+  378-columnkernel dimension90 row/columncode minweight7, hence any6cols
+  independent, rank20,r2,fixedC6;109453344patterns. Intrinsic127 PASS.
+* All new89disks RESOLVED: resolution89_verified.json PASS, detailed proof
+  argument89.txt. H11 oddantiA3 forces D=pi*D' onY=X1(89)/H11 genus27,
+  D'degree2. ForNC11/C11 or2NC11, all36Sym2cuspdisks FI PASS via actual
+  doubleEis(D-1)(Tq-Dq-q)(Tq-1-qDq); quotient89_intrinsic_verified PASS
+  everyentry, including5Tatejets. #Y(F2,F4,F8,F16)=[8,38,8,38], so
+  gon_QY>=ceil38/5=8. (Earlier990RRchecks giveweaker5 butunusedneededbound8.)
+  SS22sources4763..4767 closeddiamondorbit[4,4,4,2,1].4763T3NONPRINCIPAL;
+  4764/4765T5NONPRINCIPAL andT7alsopasses. Sageverify_ss_jets PASS allT3source
+  4763 andT5sources4764/65all14records+isogenies. Matrixranks287allindepPASS.
+  4766/67 descendD'2 withresidualC4involution iota fixing specialdivisor.
+  y=[iotaD'-D'] rationaltor, reduces0 =>2y0;gonY8>4 forcesiotaD'=D'.
+  All4iota-fixedpointsdegree4, provenexactAut12*H11/F89torsionmatrixFrob3
+  permutation single4-cycle; quotient89_fixed_points_verified PASS.
+  NoD'2cancontainone;freepairdescendsrationalnoncuspZmappingtoX0(89),
+  contradictMazurTheorem1. PrimaryMazur1978pdf/txt downloadedreferences,
+  hashboundresolution89. Therefore89reallyresolvedunconditionally.
+  Frob89_at3 counts[8,28] (soonly-cusps-at3ideaFAILED), anti89_h2 odd-norm
+  trialsFAILED; theseareunusedexperiments, notpremises.
+* New support inventory COMPLETE514types (make_support_inventory.py,
+  support_inventory.json), allclassifiedbyverify_support_coverage.py into
+  support_coverage_plan.json STRUCTURALONLY. New mixed61 O7+SS15C0 uses
+  olduniqueordinary7(D6-1)A3obstruction, SS15H5invariant. New127 O8+SS14
+  andO8+2NC7 useoldO8delta2obstruction(theaddedblocksfixeddelta2).
+* IMPORTANT newlyfound113cases nowRESOLVED new113_verified.json PASS:
+  - O8+SS7+SS7 total22: apply(D7-1)A3;ordinary8 isH8fixedascloseddivisor,
+    soitsentireHecketermvanishes. Three unorderedSSpairrelativeoffsets0,1,2
+    allNONPRINCIPALrank477, ss_pair113 folder. All3SagematrixranksPASS.
+  - O8+NC14 total22: newactualdoubleEis(D7-1)AqAq' map, relative113_nc.m/data.
+    NCTORζ113 needsF2^28 since2^14=-1, canonicalpoint descendsF2^14.
+    NativeEmbedsF14intoF28 retainedpoly+generatorimage. IndependentSage
+    everyentry rebuilt, baseOrd8rank7,NC14rank14,combinedrank21(total22,r1).
+    Zeroformal family isH8ordinarypullback plusFIXED14cusps; impossible
+    forglobalnoncuspidalD. Allrelativepositions coveredgcd(7,4)=1.
+    This isneeded! Oddreal/globalH2alonewouldNOTexcludeeven22C0.
+  - O8+SS7+C7 handledforcedh2C7=C7 impossibleodddegreecuspcomplement.
+    2O8+C6 forcedH8 orbit8/4none|22. PureNC14/2SS7/SS+NC/3SS usesH14
+    orbit14/7none|22 andstrictnewgonalitybounds. Mixedstabilizerlemma for
+    97SS16+C6 workswhenall6cuspsin2H3fibersR0: SSpointsH3fixed,tame;
+    cusp-diskpointsnotH3fixed, Galoistransitivitycontradiction.
+
+COMPUTATIONAL ISSUE97 FOUNDANDFIXED:
+New ordinary/pair degree22 alpha=(D-1)(D6+1) maypositive_degree352>g345,
+so oldcanonicalspace insufficient. Pair97initial FAILEDcorrectly before
+certificatecreated; run_small_sieves_initial.log preserveserror. Extended
+ONLYtheqexpcoeffs, keepingEXACToldcanonicalbasis andD/unitrelations,
+precision1768->3500 viafreshqEigenforms+saturation+mod2basiscalibration.
+extend97.m/log COMPLETE35CPU; units_data_extended.m andextended97_basis_data.
+extended97_verified.json independentSage PASS old1768prefixexact,
+allD/unitrelationsunchanged, fullnewbasisT*SatQ equality+rank345.
+full_sieve.py andpair_sieve.py NOWuse extendedfileONLYN97 andbicanonical
+space(dim1032,product2408,weight8Sturm3136<3500). OtherNunchanged;
+archive/*_before97.py andbicanonical97_patch.json retainproducerprovenance.
+DO NOT overwritefull97/units_data.m (nativepointrecords/RFIuseoldbasis).
+Pair97newrunALL601NONPRINCIPALrank1032 PASS21:28. Standardfullordinary97
+willusethisbranchwhenits8910chunkpipelinecompletes.
+Checkpolynomialencoding PASSactualall7sievefunctionsASTidentical, all4628
+basisvectors and238carrylessproducts; logJSONpolynomial_arithmetic_verified.
+
+CURRENT JOBS:
+- run_characters.py/log LIVE94487; check_sequences.py/log39878;
+  verify_large.py/log39239. Productionkrylov_packed FROZENunchanged.
+  5018fresh+5047reused=10065required; at21:28only5147fullyverified(~100fresh).
+  ALLlargegraph/native-prefix/Pade/sequencecheckssofarPASS. Largest2.099m
+  chars take~900CPUsec,20-35minwallwithlocalpriority. Likelylongovernight
+  orlonger; NOTexactS22untilALL10065pass. 1488largeprimes incl599479.
+  Hugeallocatorbenchmark had890CPU nosignificantbenefit,UNUSEDnohandoff.
+- run_new_ordinary.py/log LIVE82864,8workers8910chunks, ~1500completeat21:15.
+  pipeline_sieves.py/log LIVE98534 waitsfirstlevelcomplete (noneyet);2Sage.
+  StandardnativeONLY89/97 use4jets, otherstarget3/small8; thisisintentional
+  andcheckedatuse(maxcoeff<=jetlen). Earlieroverview's'all4'wasinaccurate.
+  Full_sieve truncatesat4butdoesnotpad.163nativeuses3(small<=12eight),
+  appropriateordinarysingle3andpairO10source8 (pair163PASS163cases).
+- run_small_sieves.py/log RESTARTEDsession27064; reusescompletedPASSfiles,
+  remainingpairs107..139,mixed73/89/109/113/127. At21:28PASSpairs59,61,71,
+  73,79,83,89,97,101,103,107,109,113. Needwaitrestandmixed.
+  Initialrunnercanceledpendingafter97assert; nowallresumednofreshduplicates.
+- verify_ranks.py/log LIVE86037 taskset44:ordinary17+163,pairs17+163,
+  mixed5,SS89/ss5_89/ss7_89. AdditionalSSpair1133ranksinnew113Verified.
+  Itwaitsneededarchives; reportkind'ordinary'->''infinalguard.
+- verify_support_inputs.py/log LIVE33209 waits small_sieves_results.json,
+  thenindepallnativeinputsets, pairrelativeoffsets, 7+7+8tripleBurnside
+  counts+distinctcanonicalorbits, mixedsourcecompletenessandnew61oldO7cert.
+- resource_watch.py/log LIVE38039,24logicalS22cap, externalPhi10priority,
+  leave~2physicalcoresworthcapacityidle; noownedjobseverstopunlessdone.
+  noAGENTS instructions, noagentsallowed/currentoldagentidle.
+- latestquickhealth: check_health.py checksproductioncharacter/nativechunks,
+  NOerrors; initial97RRsizeerrorarchivedandsafelyfixedabove.
+
+STILL REQUIRED:
+1.Finish smallpairs/mixed; inspect JSONexceptions, notjustmarkers/exit0.
+2.Pilot163mayrevealnewordinaryexceptions; resolveifneeded. Mainfull163and
+  standard8910native+alllocalobstructions mustfinish; rankwatcherall44PASS.
+3.Build INDEPENDENTGLOBALPRIMELEDGER through2099200. Reconstructtable
+  reductions, CMforr|22even (onlylarge67occurs), selectedrvaluationfamilies,
+  allHasseeven/SS/toriceligibility (f18..22ordinary; SS17allfactors<100k,
+  f<=16Hasse<100k; SS22maxfactor599479). Uppercapforp>cap: nogoodor
+  toricidentitypoints=>allX0reductionsSAMEcusp, dyadicboundexcludes.
+  Do notclaimdyadicboundforcesallgoodatseparateplaces; screenconservative.
+4. BuildfinalLOCALguard withallnewcertnames above, sourceMetadataexpected
+  degree22standard17,ALL<=22at163; all4961ordinary163sourcesrequired.
+  Sectiondegree2at61and97;97requiresprecision3500. Allnewmatrixrankmetadata
+  products/Sturm/globaldegreevalid. supportplan514mustbindPASSactualcerts.
+5.WaitALL10065large/fullsequences5018+native5018PASS; noexactresultuntilthen.
+6.Writeproof/replay/index/PDF/fullclosedmanifest(inherited100184+new), final
+  guardS22_result.json onlyafterallPASS. NoS22outputscreatedyet.
+
+CAUTION discardedoptimizationidea: A2 specialization isIDENTICALLYzeroon
+ordinaryF2closeddivisors in point-levelconvention; FrickeswapdoesNOTgive
+an extra(delta2-1)obstruction. Do NOTusethatwrongshortcutat163.
+
+ReferencesnewinW/references: DerickxStoll2505.14109v1 html/txt copiedlocal
+primary, Mazur1978pdf/txtprimaryhttps://www.math.columbia.edu/~goldfeld/Mazur-Goldfeld1978.pdf.
+Userhasbeenupdatedlowerbound, new89resolution, new113mixedcases,
+97canonicalspaceissueand601bicanonicalpairPASS. Mostrecentcomment21:29UTC.
+
+21:45ish STORAGE/CONTROLLER UPDATE (actualclockcheckneeded):
+MachineRAM376.8GiB, available331GiB, plenty. Disk210GBfree, W25GB,
+projectedRAWnativechunks+combinedduplicatecouldfilldisklater. Implemented
+LOSSLESSVERIFIEDgzipper-chunkarchives (combinedhecke_jets.m staysraw).
+SafelySIGSTOPpedONLYourstandarddriver2075069 andpipeline2143292(empty),
+letall8nativechildrenfinish, killedONLYstoppedcontrollers. PASSrecord
+ordinary_drain_complete.json anddrain_ordinary_for_archiving.log. No math
+work discarded. Patchedrun_new_ordinary.py,pipeline_sieves.py,run_ordinary163.py
+onDISKwithread_native helper totryraw.m then.m.gz onFileNotFound.
+NewstandarddriverLIVE49958 andpipelineLIVE69618; exactcachedallcompleted
+chunksreused, new8workerscontinue. Initialrunlogs preserved*_before_gzip.log,
+controlleroriginalsources archive/*_before_gzip.py. Productioncharacterengine
+FROZENunchanged/livejobsunaffected. Native163controllerstilloldcompiled2workers,
+soarchiverWAITS forS22_ALL_163_ORDINARY_JETS_COMPLETE marker(afterALLmerges),
+NOTjustordinary163_job_results.json(appearsBEFOREmerge). Criticalracemitigated.
+run_full163_sieve wait-onlycontroller restarted43159 withproperwaitforBOTH
+resultsfileANDcomplete163marker (old43255wouldracebeforemerge).
+
+archive_native_chunks.py/log LIVE2247, 9531chunks=8910std+621163. Itcompresses
+ONLYhecke_jets_<start>.m AFTERnativeCOMPLETE; gzipmtime0level3, independently
+rehashesdecompressedbytestoexactoriginalSHA, writesnative_chunk_archives.json
+ACTIVE->PASS, thenremovesrawchunk. GziparchivesremainreversiblevalidMagma
+text, combinedinputsnotcompressed. Readerfallbackhandlesunlinkrace. All
+source/input/unitMagmafilesunchanged. ReplaycontrollersnowreadrawORgz.
+Sagefull/pairverifiersusecombinedrawsounchanged. Finalmanifestmustincludegz
+andnative_chunk_archives.json; checkall9531raw+compressedhashes. No finalS22
+statusyet. Archivehistorylosslesspreservesallmathwitnesses.
+
+FURTHER UPDATE (afterstoragehandoff):
+verify_prime_coverage.py/log COMPLETE: independentledger covers155750primes
+through2099200, 1488selectedlarge,10065orders. prime_coverage_plan.json is
+EXHAUSTIVE_PRIME_PLAN_PENDING_CERTIFICATES, NOTexactS22. Lowerkeyis
+occurrences_verified['proved_lower_bound'] (not'primes'). AllCMcasesforr|22
+are5,7,67;f17SSallfactors<100k;f18..22SS/ordinary/toriceligibility complete.
+Pilot163 COMPLETE all352sources(f<=18)NONPRINCIPALrank1027, noexceptions.
+Itisexploratoryearlycheck, main163stillmustcheckall4961incl19..22.
+verify_relative61_o20.py/log LIVE59505 nowfreshdegree22 C2indepintrinsic+6
+profiles(compare()usesnew22), certificatewillberelative61_o20_independent.
+Pair97ALL601PASSrank1032 andindependentrankwatcherPASSarchiveSHA4062e7060d14c5552144c4996aea72039649a62e595f44e06168703faa66f7ef.
+Pair113ALL1152PASS,noexceptions, independentrank477PASS. Remainingpair127
+(large14GBRAM),131,137,139andallmixedcontinuingunderresumedsmallrunner.
+Nativearchiverhad1400chunksverified~633sec atlatestread, noerrors.
+CombinedMagma recordsstayraw; onlyper-chunkhecke_jets_start.m ->.m.gz.
+Originalstandarddriver2075069/pipeline2143292gone,new49958/69618sessions
+running; oldinitialwallprogressinrun_new_ordinary_before_gzip.log.
+CurrentglobalCPP/character5018freshstillFROZENkrylov_packed unchanged.
+Largeverificationlast5147/10065around21:28, needactualcurrentcheck.
+NoS22exactoutputs! Finalguards/proof/manifest stillTODOaspreviouscheckpoint.
+
+LATEST CONTINUATION 2026-11-01 23:00 UTC / Nov2 local:
+- S22 STILL NOT DETERMINED. Lower Primes(53)+67 verified; no exact output.
+- Small pair/mixed pipeline COMPLETE allPASS; support_inputs_verified PASS,
+  exact58320 source/pair/triple input checks. Independent ranks20/44 done;
+  all17pairs+SS89/SS5/SS7 nowmostlydone, mixed pendingwatcherbehind131.
+- Native standard ~3222/8910chunks,163205/621. standardfull139sieveLIVE,
+  no exceptions atsource3778. allothersfollow. verifiedlarge5218/10065.
+- NEWSIMD benchmark: newkrylov_simd.cpp/bin (plainSIMD1) integerAVX512
+  sparse8row dotproducts+exactbase2^BBarrett. Originalkrylov_packedUNTOUCHED.
+  Short4096termbenchmark12.845CPU packedvs10.057CPU simd, allequal.
+  ExtraSIMD2coupledy,3compactambient,4omitres experiments no extra gain,
+  UNUSED. FullSIMD1replayrunning70261 huge349866terms,28080 ref175000terms.
+  refhasfinished23:00CPU191.483, huge stillrunning~7mCPUat23:00.
+  New21densegraphfixtures actualnf>=8 allPASS, q101..4294967291, balanced/
+  unbalanced/anchored, exactnaiveoperatorreference. 7.2million integer
+  reduceredge/randomcasesPASS (test_simd_arithmetic.cpp/log).
+  optimization/verify_simd_replay.py REQUIRES all349866+175000terms identical
+  toretainedfullreferences, all21fixturesPASS, allsource/binSHAs bound,
+  thenwrites simd_full_replay_verified.jsonPASS. NOTWRITTENat23:00.
+- HandoffCONTROLLER LIVE session30146 (handoff_characters_simd.py/log).
+  ItAUTOMATICALLY waitsBOTHfullSIMDlogscomplete, validatesallreplays,
+  freezespacked+simd/source/newdriver/verifierSHAs, SIGSTOPsONLYoldcharacter
+  driver2065541, drainsALLownedactivechildren (could20-30min), killsONLY
+  stoppedcontroller, terminatesoldlargeverifier2065381, thenstartsDETACHED
+  run_characters_simd.py/log + verify_large_simd.py/log (nice10). Bothnew
+  PIDsrecordedincharacter_handoff_complete.jsonPASS. NewdriverusesSAMEflock,
+  adoptscompletedpackedrawonlyafteroldP+oldLhashesequalregeneratedplans,
+  preservesactualbinary/source/enginepackedvsSIMDperjob. Allcompletedmeta
+  reusedasbefore. Newverifieracceptsbothpackedandsimd, checksfullreference
+  certsource/binhashes; independentsequencewatcherUNCHANGED2workers.
+  Oldrun_characters.py/log+verify_large.py/logremainasstaticprovenance.
+  UntilhandofffinishesoldchecksremainLIVE. Neverreplaceanyactivebinary.
+- New finalizerLIVE session33931: finalize_when_ready.py/log waitsALL
+  verify_finalrequiredcerts. Onlocalready runsverify_final--local; whenALL
+  done runsfullguard, package_result, stopsONLYourresourcewatcher (afterall
+  jobsdone), builds+independentlyverifiesfullclosedmanifest. Noactionbefore
+  guards. finalizer_status.json isvolatileEXCLUDEDfrommanifest, asare
+  resource/progress/logcontrolfiles. Ifguardassertsfail itstopsinlog.
+- Written build_manifest.py/verify_manifest.py: requireparent100184closure,
+  every5018freshcharacterprovenanceincludingfreearchives,9531nativegz
+  chunks+logs/sources, everyfreshfile(exceptexplicitvolatile)andall6output
+  artifacts. Hasholdimmutability; streamindependentverification. NOTRUN.
+- REPLAY.txtwrittenwithactualoccurrencefilenames, native/relative/SSnew
+  methods. MustUPDATEcharcommands toSIMDafterhandoffPASS; currentmentions
+  oldrun_characters.py/verify_large.py. AlsoaddSIMDbuildflagsexample.
+- PROOF_TEMPLATEdraftupdatedwithexplicitTable2finiteimagejustification
+  forresidual89involution, andexactSIMDbase2^Bargument/fullreplays. This
+  isDRAFTuntilallguards; noPDF/resultcreated. Newcodepackage_resultstill
+  notRUN. MayaddSIMD2/3/4unusedexperimentsnoteindexafterhandoff.
+- FullguardpendingnowONLYrankchecks,nativearchives,large_verified,
+  independent_sequence_results,large_native_results. AllotherrequiredPASS.
+- Currentglobalbatchhas2131freshjobsabove2million(of5018fresh), likely
+  verylong(~overnight/day+), userresourcepreference24logicalmax withexternal
+  Phi10priority+2physicalworthidle remainsinforce. MustNOTclaimexactS22
+  early. CouldgivependinghoneststatusifneededbutworkstaysLIVEauthorized.
+
+CRITICALAUDITUPDATE Nov1~23:40UTC (Nov2local):
+1. Characterhandofforiginalcontroller30146 FAILEDafterALL24CPPchildren
+   finishedandoldcharacterdriver2065541killed, becauseoldSageverifierhad
+   sage-cleaner child(zombie/transient), overstrictassertnotchildren.
+   NOarithmeticlost. resume_character_handoff.py/logresolved: frozeold
+   readonlyverifier, draineditshelper, killedONLYoldverifier2065381.
+   NewDETACHEDdriverPID2433838 run_characters_simd.py/log, newauditor
+   PID2433839 verify_large_simd.py/log LIVE. character_handoff_complete.json
+   PASS withactualsource/binSHAs, allpackedrawoutputsadoptedviaregenerated
+   planSHAs. Originalpacked+SIMD1 FROZEN. FullSIMD349866+175000byteidentical
+   certPASS (simd_full_replay_verified),21fixtures+7.2millionarithPASS.
+   Newdriversofaradopted199cachedpackedjobs; freshSIMDjobsstarting. Large
+   independentreplay5200/10065, nativeordinary~4500/8910,163256/621at23:33.
+   Full139ordinaryALL2807NONPRINCIPAL +indep737rankPASS; maingroups27/44.
+2. IMPORTANTGAPFOUNDATAUDIT113: O8hasTWOordinarycloseddiamondorbits:
+   source2orbit7 (H8exception), source3orbit28 (generic). Existingnew113
+   RFI O8+NC14andSSpairH8argumentcoversONLYsource2, cannotblanketallO8!
+   Oldsingleordinarysource3has(D-1)A3 NONPRINCIPAL butaddedSS/NCblocksare
+   onlydelta2fixed, notDfixed. Freshgeneric(delta2-1)A3testFAILEDnonprincipal
+   rank476 (ordinary8_delta2_sieve.py ->full113/o8_delta2_sieve.json/log).
+   verify_o8_delta2.py/logfailedaccordingly. ThisattemptUNUSED; don'tclaim
+   o8_delta2_verifiedPASS. FinalguardcurrentlyREQUIRESmissingthatfileto
+   preventprematureproof, MUSTREPLACEwithnewgenericcombinedguardbelow.
+3. GAPRESOLUTIONALREADYPRODUCED: generic113_mixed_sieve.py takesactual
+   genericordinarysource3fromfull113/small_hecke_jets, SS7fromss_pair113,
+   andnewNC14cuspjets. Actualalpha=(D-1)A3 finitebecausepublishedstr113=1.
+   genericO8closedorbit28 fixesordinaryreference; residualH2actsTRIVIALLY
+   onSS7andNC14closedorbit4. Therefore4NCrelativepositions+10unordered
+   SS7pairs (withrepetition), total14 cases complete. NativeNCcuspT3:
+   T3C=3C+delta3C, soA3C=2(C-delta3C); nativeD=pointprimitive_root^-1,
+   delta3shift=-log3. All14cases COMPLETEPASS NONPRINCIPALrank477,
+   exceptions[], in generic113_mixed/sieve.json,matrices.json.gz,sieve.log.
+   THISRESOLVESgenericorbitIFindependentmatrix+NCjetverifierspass(nexttodo).
+4. NC14nativefreshjetproducer build_nc113_jets.m/logCOMPLETEPASS~1.76CPU.
+   UsesnodalE:y2+xy=x3 (a6=0) atPζ=(ζ/(1+ζ)^2,ζ²/(1+ζ)^3), ζ113inF28.
+   Formaldeforma6=u givesdiscriminant=u,j=1/u;Henselψ113simple root,
+   allcanonicalmodunitrelations solvepointjets through8. Allcanonical
+   jetsFrob14fixed, nonzerotangent. nc113_jets.m storesSourceMetadata
+   <1,14,4,[0,1]>, SourceRecordsONLY (noHeckedata;NCHeckecuspformulaabove).
+   Datarelative113_nc_data.m fixesfield/zetaandcanonicalpoint.
+   NewindependentSage verify_nc113_jets.py LIVE29939 firstattemptFAILED
+   metadataassertbecausecompactturns[0,1]into2(benignencoding). Patched
+   assertfirst3tupleonly, RESTARTED(lastshelltoolsessionneedinspect), source
+   CHECKSallψ/curve/unit/canonicaljetcoeffs, field14descent,NCclosedorbit4,
+   andliteralDpointorientationagainstζ^root^-1andδ3againstζ^3. AwaitPASS
+   nc113_jets_independent.json. NativeinitialcompileerrorEundeclaredin
+   nodalclonerectified; oldunusedlogarchive/build_nc113_jets_initial.log.
+5. SS113auditENHANCEDANDPASS: verify_ss113_jets.py/log COMPLETESage
+   independentallSSsource+T3targetrecords (2total),alljets+isogenieschecked,
+   ss113_jets_independent.jsonPASS. verify_new113.py/logrerunPASS; checks
+   independentquaternioncensus hasONLYoneSS7closeddiamondorbitlength4,
+   nativeDactionall4closed7points, allunorderedpairrelativeoffset0,1,2
+   exhaustiveforH8exception. New113JSONincludesfieldsSS7_closed_points
+   independently_complete=4,SS7_unordered_pair_offsets_complete[0,1,2],
+   SS113_independent_jet_certificate_sha256. ExistingH8source2RFIunchanged.
+6. TODOIMMEDIATE:
+   - Writeverify_generic113_mixed.py toindependentlyrankall14matrices,
+     bindnativeinputs+source+NCjetPASS andproveordinary8split source2orb7
+     source3orb28 (independentclosedcount35=7+28), SS7closedcount4 andNC14
+     closedorbit4, tasksNC4/SSpairs10 exact. Outputgeneric113_mixed_verified.
+   - Changeverify_finalrequired missingo8_delta2_verified to
+     generic113_mixed_verified + nc113_jets_independent. Bindmatrix/input
+     SHAs. Newindepmatrixextras=3(H8SSpair)+14(generic)=17, not3/4.
+     Countlocalranks['matrices']+17 andmetadatafieldsappropriately.
+   - UpdatePROOF_TEMPLATEsection7 andsupportcoverageplan labels tosplit
+     O8exceptionH8source2vsGENERICsource3. Generic14combinedobstructions
+     handleO8+SS7+SS7 andO8+NC14; H8exceptionoldSS3+RFIhandlesotherorbit.
+     Oldpair2O8+C6 exceptionsONLY([2,2,1],[2,2,2],[2,2,3])inS17; all
+     genericpairs alreadyinheritedNONPRINCIPAL. ThereforeglobalH8pair
+     argumentindeedonlyneedsexceptionalH8pair, qualifytext. O8+SS7+C7
+     H2invarianceworksBOTHordinaryorbits (bothclosedstabilizercontainsH2).
+   - updateresultindex/replaynewfiles,unusedfailedgenericdelta2trialnote.
+   - Currentfinalizer33931stillLIVEbutrequiredmissingo8delta2guardblocks
+     LOCAL/FULLcompletion, plusmainordinary/largepending. NEVERissueexact
+     S22early. Keep guard blockeduntilnewgenericproofcompletelycertified.
+7. Otherchanges:
+   verify_occurrences_ledger.py/logPASS bindsactual3nativewitnesssources/
+   logsSHA tooccurrences_verified. verify_finalnowchecksbindings.
+   verify_prime_coverage.pyrerun59447PASS addsinputSHA+verifiersourceSHA,
+   verify_finalchecks. All155750primeplanstillPENDINGcerts, notexact.
+   package_result.pyaddsindependentpdfinfo/pdftotextvalidation, writes
+   pdf_verified.jsonbeforemanifest. ToolsconfirmedonoldS21PDF.
+   Polynomialarithmeticverifiernowchecks9identicalASTsourcesinclfailed
+   ordinary8_delta2_sieve andnewgeneric113_mixed_sieve; rerun54781PASS.
+   REPLAYstillneednewSIMDdrivercommandsafterhandoff andnewgeneric113steps.
+8. TaskstaysACTIVEautonomous. NoexactS22outputs. ProvenlowerPrimes53+67.
+   Userupdatedthatnewgeneric113gapfoundandheldbyfinalguard; nowmustfinish
+   explicitnewcertbeforeclaimresolved. Bigcharbatchlikelyanotherday+.
+
+GAP113COMPLETELYRESOLVED Nov1~23:49UTC:
+- nc113_jets_independent.json PASS (verify_nc113_jets.py/log). All8jets,
+  canonical/unit/division/curveidentities, simpleparameter, Frob14descent,
+  all4closedNCpoints,andliteralDpoint/ζ anddelta3orientationcheckedSage.
+- generic113_mixed_verified.json PASS (verify_generic113_mixed.py/log),
+  ALL14combinedmixedmatricesindepSagerank477. ActualgenericO8pointP113
+  independentlychecked,canonicalpointcv,all28closeddiamondtranslates
+  disjointandperiod28. Independentordinary8counts35=7+28,SS7closed4,
+  NC14closed4 establishEXACT4NCrelative+10unorderedSS-paircases.
+  New14genericRRcertsplus3H8SSpaircertscompleteALLnew113mixedsupports.
+- verify_finalrequiredNOWgeneric113_mixed_verified+nc113_jets_independent,
+  removedfailedo8delta2requirement. Extraindepmatrices17=14+3 (not3/4),
+  localtotalranks['matrices']+17. Allnativeinputs/archive/sourcehashesbound.
+- PROOF_TEMPLATEsection7 +supportcoverageplanupdatedexplicitordinarysplit
+  genericorbit28andexceptionH8orbit7. Generic14RRuses(D-1)A3onWHOLEdivisor;
+  NC T3C=3C+delta3C, A3C=2(C-delta3C), integercoeff retained. H8exception
+  usesoldSS3+O8NC14RFI. 2O8+C6oldpairRRleavesONLYboth-source2H8pairs
+  ([2,2,offset1/2/3]); allgenericpairs inheritedNONPRINCIPAL. Newtextclear.
+- OtherpotentialgenericmixedissuesAUDITED: p73ordinary7delta2PASSsource2;
+  p89O9delta2PASS3sources; p109O11delta2PASS2sources; p127O8delta2PASS2,
+  O9generic2delta2PASS,onlyH9source3exception usesknownrelative127. Thus
+  noanalogousnewgenericgapinthosemixedclasses.
+- REPLAYupdatednewSIMDcommandsandbuildflags,newSS113,NC113,generic113
+  commands. Main44matrixgroups+17extra documented. Polynomialarithmetic
+  check9sourceASTsPASSincludesgeneric113producer (unchangedaftertest).
+- check_healthNOWacceptsPACKEDandSIMDcompletionmarkersandchecksactive
+  maincontrollerlogsforsyntax/runtimeerrors. Oldhealthonlycountedpacked.
+- FirstfreshSIMDcharacterp2098867_n8673PASSnative+indepFLINT+fullnewglobal
+  verifier (verifiedtotal5247=5047inherited+200fresh). Nextp2098867_n95403
+  nativePASStoo. Nativeordinary5162/8910,163277/621at23:49. Mainrank27/44.
+- Finalizer33931remainsLIVEwaitingonly5aggregatefiles (independentranks,
+  nativearchives,large_verified,independentsequences,large_nativeresults).
+  AllotherrequiredcertificatesPASS includingresolved113gap.
+- verify_final--pending nowtreatstransientpartialJSONasmissing,retries
+  safelynextsweep. Fullmodeunchangedstrict. NoexactS22outputsissued.
+- No remainingknownmathematicalgap; stillmustfinishALLcomputationand
+  allfinalguards/manifest beforeclaimingexactS22. Bigbatchone/day+left.
+
+Nov2 08:22UTC user asked running/cores:
+- Main DETACHED character driver2433838 and full verifier2433839 kept running.
+  Sample ~2400%S22CPU (24logicalCPU equivalents), totalmachine82.6%,
+  16physical/32logicalCPU. Largeverified5635/10065 atsample.
+- Auxiliary controllers from unifiedexecsessions hadstopped by~04:40UTC;
+  resource_allocationlastmtime04:39:59. Causeunknown, no claim timeout.
+  Standard8910nativeANDall17ordinarysieves COMPLETEPASS. Independent
+  rankprogress43/44PASS, only163missing. Native163completedthrough4928
+  of4961; main163merger/resultnotyetdone. Archives8910/9531ACTIVE.
+- RestoredALLneededcontrollersasDETACHED subprocesses (start_new_session),
+  checkpointrecoveryrecord background_recovery.jsonPASS:
+  resource_watch3154710, run_ordinary1633154711, full163sieve3154712,
+  archiver3154715, check_sequences3154716(newlogcheck_sequences_resumed),
+  rankresume3154758(newverify_ranks_resume.py/log), finalizer3154787.
+  Original163/archiver/resource/finalizerlogsAPPENDED so exactcomplete
+  markersstillseenbywaiters. Native163reusesallcompletedchunks, finishes
+  fivependingchunks, thenmerges; archivercontinuesonlyAFTERpostmerge marker.
+- Rankresume validates43archiveSHAs, dimensions/counts,andoldindependent
+  logbefore reusingcompletedSagechecks; logS22_INDEPENDENT_RANK_CACHE_
+  BYTE_VERIFIED43alreadyprinted. Waitsone163rankthenaggregate44PASS.
+- resource_watch.pyimprovedtoapplyaffinitytoALLthreadsaswellasmainPID,
+  so ThreadPoolchildreninherit24CPUlimit. Appliedimmediatelytoall34own
+  processes; sampledALLkrylovworker affinitysizes24. Otherjobsuntouched.
+  Lowprioritychar10/local5retained. All7restoredPIDsconfirmedalive.
+- Allmain arithmetic sources/binariesunchanged; no mathematicalcertificate
+  invalidated. Finalizerstillrequiresall5aggregatefiles; noexactS22claim.
+
+Nov2 18:29UTC statusupdate: ALLLOCALCHECKS COMPLETEPASS.
+- local_coverage_verified.jsonPASS:514supporttypes,76185freshordinary
+  sources,134762independentlyrankedmatrices (134745main44tasks+17extras).
+- All4961ordinary163casesNONPRINCIPALrank1027, exceptions[]; independent
+  final163rankPASS; independent_rank_checks.jsonPASS all44groups.
+- native_chunk_archives.jsonPASS9531/9531. All8910standard+621163native
+  chunkscomplete. LocalfinalguardranviaDETACHEDfinalizer3154787; stage
+  LOCAL_PASS_WAITING_FOR_LARGE_CHARACTERS. Noexactfinal_coverageyet.
+- Characterfresh1857/5018done, fullverified6904/10065. 3161freshremain,
+  only274atp>2million, weightedremaining464top-sizedjobs. Last1h97jobs,
+  last2h188, last4h366; smallerjobsnext. Approx7-10hmoreinclfinalaudit
+  seemsreasonableconsistentpreviousovernightETA(nofullproofclaimyet).
+- Main driver/verifier,resourcewatch,sequence2workers,finalizer allLIVE
+  detached. Localcontrollersfinishednormally. Healtherrors[].
+
+FINAL COMPLETION Nov3 2026:
+EXACT S22 PROVED WITH COMPUTER ASSISTANCE:
+[2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,67].
+All5018freshnative+independentFLINTsequencecertsPASS,10065totalcharacter
+certificatesPASS,all514localtypesPASS,134762independentmatricesPASS.
+Nativebatchfinished00:51:00Zagreb; finalcoverageguard00:54:40;
+COMPLETE210694-file inherited+freshmanifeststreamverified01:10:17Zagreb.
+finalizer_status=COMPLETE_MANIFEST_VERIFIED. final_coverage.status=
+PROVED_WITH_COMPUTER_ASSISTANCE,unresolved_primes=[]. NoS22processesremain.
+9-pageoutputs/S22_proof.pdf +txt, result/statusjson, certificateindexjson/txt
+areFINAL. Nov3morningread-onlyinspectionrecheckedall40finalevidencehashes,
+manifestSHA/report,all14keypublished/corefilesagainstthemanifest,Pdfinfo.
+AllPASS. Do not mutate frozen proof premises or outputs without rebuilding
+allaffectedcertificatesandmanifest. STATE/progress/resourcefilesareexcluded.
+No separate-agent audit ofS22claimed; extensiveindependentarithmeticalreplay
+ispartofthecompleteproof. OriginaluserS22taskcompleted.

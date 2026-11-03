@@ -1,0 +1,354 @@
+[
+  {
+    "folder": "ss89",
+    "kind": "ordinary",
+    "matrices": 1,
+    "rank": 287,
+    "status": "PASS",
+    "matrix_archive_sha256": "c8c555c4e2ea562b3e19219eca2d68ed9adbfbbc0927a53498b7433cb5243392"
+  },
+  {
+    "folder": "ss5_89",
+    "kind": "ordinary",
+    "matrices": 2,
+    "rank": 287,
+    "status": "PASS",
+    "matrix_archive_sha256": "11b0ea6afffc78c12a8661ca724cbb3a8a41b6d7540ec4e33df0e0b4a542b43f"
+  },
+  {
+    "folder": "ss7_89",
+    "kind": "ordinary",
+    "matrices": 2,
+    "rank": 287,
+    "status": "PASS",
+    "matrix_archive_sha256": "db3f6222563da935c29821e38f660a931fe0c0669c09f7b6ca3c39999a05c77c"
+  },
+  {
+    "folder": "full59",
+    "kind": "pair_",
+    "matrices": 10400,
+    "rank": 117,
+    "status": "PASS",
+    "matrix_archive_sha256": "5c28700286e9e9a4b5ecf7b4cd548e632a89cf7a1ee60ae6a12e3e86eb931043"
+  },
+  {
+    "folder": "full71",
+    "kind": "pair_",
+    "matrices": 6354,
+    "rank": 176,
+    "status": "PASS",
+    "matrix_archive_sha256": "b1500531e63d7eb4591844d44866c613c7074f24df1395e35159eab38dbb4882"
+  },
+  {
+    "folder": "full73",
+    "kind": "pair_",
+    "matrices": 2649,
+    "rank": 187,
+    "status": "PASS",
+    "matrix_archive_sha256": "0bcfec73eb83404d3feb3b5e871f29dab0fea1d03f23b022205e48fa109fc3ac"
+  },
+  {
+    "folder": "full61",
+    "kind": "pair_",
+    "matrices": 8719,
+    "rank": 375,
+    "status": "PASS",
+    "matrix_archive_sha256": "061d7283cb979835a2331b4e498ba23ffb04c3605a09883858242c0c8f06368f"
+  },
+  {
+    "folder": "full79",
+    "kind": "pair_",
+    "matrices": 1353,
+    "rank": 222,
+    "status": "PASS",
+    "matrix_archive_sha256": "6c05a5619efde0463b8ed3ce412817fc58ea560a257852c27fab0aebe8aab733"
+  },
+  {
+    "folder": "full83",
+    "kind": "pair_",
+    "matrices": 4779,
+    "rank": 247,
+    "status": "PASS",
+    "matrix_archive_sha256": "ab6cd1916820817dd38488c71befdd7cc408fb6ebd02b54e21056ba7084ce146"
+  },
+  {
+    "folder": "full89",
+    "kind": "pair_",
+    "matrices": 1674,
+    "rank": 287,
+    "status": "PASS",
+    "matrix_archive_sha256": "bd16e2e5a77569370864d12f66d6867de9fcd49890386217bfb59afe137fc225"
+  },
+  {
+    "folder": "full101",
+    "kind": "pair_",
+    "matrices": 1128,
+    "rank": 376,
+    "status": "PASS",
+    "matrix_archive_sha256": "ef62bf0ca72e3e084e2203bfadcb2248cf09e37816df17b1398310e309f08555"
+  },
+  {
+    "folder": "full103",
+    "kind": "pair_",
+    "matrices": 1737,
+    "rank": 392,
+    "status": "PASS",
+    "matrix_archive_sha256": "59682ae7cd555266f88c69208916f779541828f8ecfa6bacb6463d04f4b18bca"
+  },
+  {
+    "folder": "full163",
+    "kind": "pair_",
+    "matrices": 163,
+    "rank": 1027,
+    "status": "PASS",
+    "matrix_archive_sha256": "9b0297a1473441cb0cb12ae8f9052e2583a390114d039d44f37580ed63ba8695"
+  },
+  {
+    "folder": "full107",
+    "kind": "pair_",
+    "matrices": 636,
+    "rank": 425,
+    "status": "PASS",
+    "matrix_archive_sha256": "9220d96ea8bac65d4418014921935fcf593edd72aaf3c280829890399ecf52cc"
+  },
+  {
+    "folder": "full109",
+    "kind": "pair_",
+    "matrices": 110,
+    "rank": 442,
+    "status": "PASS",
+    "matrix_archive_sha256": "ede718b156f997ae2120e668b9111cc817a16d6d00072498d7806574c3716f33"
+  },
+  {
+    "folder": "full97",
+    "kind": "pair_",
+    "matrices": 601,
+    "rank": 1032,
+    "status": "PASS",
+    "matrix_archive_sha256": "4062e7060d14c5552144c4996aea72039649a62e595f44e06168703faa66f7ef"
+  },
+  {
+    "folder": "full113",
+    "kind": "pair_",
+    "matrices": 1152,
+    "rank": 477,
+    "status": "PASS",
+    "matrix_archive_sha256": "87e0e6c4d203a234069a7c191b7569602ce29f4c19992ca0c10fa23a47461f33"
+  },
+  {
+    "folder": "full127",
+    "kind": "pair_",
+    "matrices": 3810,
+    "rank": 610,
+    "status": "PASS",
+    "matrix_archive_sha256": "3e719d4652112735e7edac7f20d5d84db7c7912749b18197a3671b5afa5260a3"
+  },
+  {
+    "folder": "full131",
+    "kind": "pair_",
+    "matrices": 7542,
+    "rank": 651,
+    "status": "PASS",
+    "matrix_archive_sha256": "ca151e62e0549ccf962c032da2144efd10cfaeee9a0d4ab6cb5d4f9e5667a21a"
+  },
+  {
+    "folder": "full137",
+    "kind": "pair_",
+    "matrices": 3995,
+    "rank": 715,
+    "status": "PASS",
+    "matrix_archive_sha256": "b3680d257bff5808600a839fa6c00552fcf346f7f2ac463a46372a6a321eb398"
+  },
+  {
+    "folder": "full139",
+    "kind": "pair_",
+    "matrices": 1518,
+    "rank": 737,
+    "status": "PASS",
+    "matrix_archive_sha256": "2c4c6eb4f66dc2c468d703f04013d8c1f8d88ea26df6e414d6ad7ce9c8853783"
+  },
+  {
+    "folder": "full73",
+    "kind": "mixed_",
+    "matrices": 140,
+    "rank": 187,
+    "status": "PASS",
+    "matrix_archive_sha256": "cd156055e31521edd15050bd8ee39334e596a8a46f5d870af097357d92cd2b48"
+  },
+  {
+    "folder": "full89",
+    "kind": "mixed_",
+    "matrices": 2,
+    "rank": 287,
+    "status": "PASS",
+    "matrix_archive_sha256": "f1865bce909ce136999956076927fed20a380e308864017e3bd2b03d07a06dbd"
+  },
+  {
+    "folder": "full109",
+    "kind": "mixed_",
+    "matrices": 12,
+    "rank": 442,
+    "status": "PASS",
+    "matrix_archive_sha256": "6615e896f4ae88e5342f008421171cb748faf8af0876e80c0c318c271f17d40b"
+  },
+  {
+    "folder": "full113",
+    "kind": "mixed_",
+    "matrices": 44,
+    "rank": 477,
+    "status": "PASS",
+    "matrix_archive_sha256": "b417037b7131a8f82ff2a6da0d253410c4862b4c4e21fad340e4fe5928fafaef"
+  },
+  {
+    "folder": "full127",
+    "kind": "mixed_",
+    "matrices": 37,
+    "rank": 610,
+    "status": "PASS",
+    "matrix_archive_sha256": "0d0ac72aad3c3773370fd01fc66b9c8db9838ae85286676f1f2f69532cdffe38"
+  },
+  {
+    "folder": "full139",
+    "kind": "ordinary",
+    "matrices": 2807,
+    "rank": 737,
+    "status": "PASS",
+    "matrix_archive_sha256": "4794ca281dd80842a80ebd41935c32a0539b4c37ac0b40fe03d59e4a280429cc"
+  },
+  {
+    "folder": "full137",
+    "kind": "ordinary",
+    "matrices": 2820,
+    "rank": 715,
+    "status": "PASS",
+    "matrix_archive_sha256": "de8fed8a8700c9c9e1443246935e13d1d71722655badf902f8f2b873a982fd55"
+  },
+  {
+    "folder": "full131",
+    "kind": "ordinary",
+    "matrices": 2924,
+    "rank": 651,
+    "status": "PASS",
+    "matrix_archive_sha256": "29ebde8620b8e2a394b4ba1c6e754d8c2230264d6aa15a9e5f6485ae69a2f5bb"
+  },
+  {
+    "folder": "full127",
+    "kind": "ordinary",
+    "matrices": 3031,
+    "rank": 610,
+    "status": "PASS",
+    "matrix_archive_sha256": "210e1a451eea313099815baee4feb2a367070e4b3fa61d4b0b1643d46c4e8d4a"
+  },
+  {
+    "folder": "full113",
+    "kind": "ordinary",
+    "matrices": 3413,
+    "rank": 477,
+    "status": "PASS",
+    "matrix_archive_sha256": "3e89ee86376577a54407ecf6ed172654030f2aca1c8efec3b1c64298accecb83"
+  },
+  {
+    "folder": "full109",
+    "kind": "ordinary",
+    "matrices": 3551,
+    "rank": 442,
+    "status": "PASS",
+    "matrix_archive_sha256": "f9d9d51e3bbae4ef2211dd5c44dc0c9169942cfda187b5acb19a1354dfb4a15f"
+  },
+  {
+    "folder": "full107",
+    "kind": "ordinary",
+    "matrices": 3558,
+    "rank": 425,
+    "status": "PASS",
+    "matrix_archive_sha256": "7944370df045ef51b3349929ba862871362a23943c5b0eda0b53141b5e078da4"
+  },
+  {
+    "folder": "full103",
+    "kind": "ordinary",
+    "matrices": 3753,
+    "rank": 392,
+    "status": "PASS",
+    "matrix_archive_sha256": "f278e1e7afc3718d7c94ab54c0a049985b6fb52e85189794bc164e01dc4fc42a"
+  },
+  {
+    "folder": "full101",
+    "kind": "ordinary",
+    "matrices": 3834,
+    "rank": 376,
+    "status": "PASS",
+    "matrix_archive_sha256": "7a9b14b0ec9b727f4a5e40700d3f090641fe41ea43a76dfe1d62b6414d5a6460"
+  },
+  {
+    "folder": "full89",
+    "kind": "ordinary",
+    "matrices": 4354,
+    "rank": 287,
+    "status": "PASS",
+    "matrix_archive_sha256": "25ea7c82a773c7fad26d9dd47c0fecad4f2998dfb64fec75fd41465d09615718"
+  },
+  {
+    "folder": "full83",
+    "kind": "ordinary",
+    "matrices": 4686,
+    "rank": 247,
+    "status": "PASS",
+    "matrix_archive_sha256": "4eb909d31b152e63a29a00ea913ac0af5dc4fc33ca3fa07077aa4822d6daac62"
+  },
+  {
+    "folder": "full79",
+    "kind": "ordinary",
+    "matrices": 4844,
+    "rank": 222,
+    "status": "PASS",
+    "matrix_archive_sha256": "b21b0503460f630698077284e516ec18105c8f0a99a61a3c5c395ce2ab3d6025"
+  },
+  {
+    "folder": "full73",
+    "kind": "ordinary",
+    "matrices": 5268,
+    "rank": 187,
+    "status": "PASS",
+    "matrix_archive_sha256": "8690fbda2592a52b0a7a7adc6d59e67988d932cda25ba2f2fb88cfa1b662f696"
+  },
+  {
+    "folder": "full71",
+    "kind": "ordinary",
+    "matrices": 5455,
+    "rank": 176,
+    "status": "PASS",
+    "matrix_archive_sha256": "bc5f26b71e91eacfa9eb1bb9ece84524e5b9ebf17af1eb50ba67a8e82a618103"
+  },
+  {
+    "folder": "full61",
+    "kind": "ordinary",
+    "matrices": 6390,
+    "rank": 375,
+    "status": "PASS",
+    "matrix_archive_sha256": "d4ede7af923dcc59bad4011c17ff87fa0d9e399f17e005ae8ef2fdd98793b35c"
+  },
+  {
+    "folder": "full59",
+    "kind": "ordinary",
+    "matrices": 6561,
+    "rank": 117,
+    "status": "PASS",
+    "matrix_archive_sha256": "ed32f0d4885ed8f54e67e2ee3b83cbdd2479dae6e450b872e7f268b4aecd8547"
+  },
+  {
+    "folder": "full97",
+    "kind": "ordinary",
+    "matrices": 3975,
+    "rank": 1032,
+    "status": "PASS",
+    "matrix_archive_sha256": "f300ba7a90df4837a756bd4edd19d88840f4bee87d41c00ac6bec0c64ef307f6"
+  },
+  {
+    "folder": "full163",
+    "kind": "ordinary",
+    "matrices": 4961,
+    "rank": 1027,
+    "status": "PASS",
+    "matrix_archive_sha256": "189b042e69bd55e1524cdabac8b03f6d919cda6f9e217346019f58877d36018a"
+  }
+]

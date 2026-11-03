@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "independent_exact_number_field_ranks": [
+    {
+      "p": 61,
+      "character_order": 6,
+      "diamond": 2,
+      "hecke_prime": 2,
+      "dimension": 5,
+      "winding_rank": 4,
+      "status": "PASS"
+    },
+    {
+      "p": 61,
+      "character_order": 6,
+      "diamond": 2,
+      "hecke_prime": 3,
+      "dimension": 5,
+      "winding_rank": 4,
+      "status": "PASS"
+    },
+    {
+      "p": 61,
+      "character_order": 6,
+      "diamond": 2,
+      "hecke_prime": 5,
+      "dimension": 5,
+      "winding_rank": 4,
+      "status": "PASS"
+    },
+    {
+      "p": 61,
+      "character_order": 6,
+      "diamond": 2,
+      "hecke_prime": 7,
+      "dimension": 5,
+      "winding_rank": 4,
+      "status": "PASS"
+    }
+  ]
+}
