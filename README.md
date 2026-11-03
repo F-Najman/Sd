@@ -32,7 +32,7 @@ Together with Mazur, Kamienny, Parent, Derickx–Kamienny–Stein–Stoll and Kh
 | `degree12/`, …, `degree22/` | the computations for each larger degree; each one reuses the certificates of the smaller degrees after matching the closed points | Sections 4–6 |
 | `degree09/` | an independent proof of `S(9) = Primes(31)` (from the nonic classification project), used as a second check | Section 7 |
 | `proofs/` | the detailed account of the computations for each degree (`S10_proof_audited.txt`, …, `S22_proof.txt`), the result summaries, the independent audit of `d = 10, 11`, and the note on the correction at `p = 97` | |
-| `notes/` | the mathematical review of these proofs made while writing the paper, the CPU time and disk space of the computations, and the changes made after the review of 3 November 2026 | |
+| `notes/` | the mathematical review of these proofs made while writing the paper, the CPU time and disk space of the computations, the changes made after the review of 3 November 2026, and the check of all the references | |
 
 In each of `audit11/`, `degree12/`, …, `degree22/`:
 
@@ -72,7 +72,7 @@ In each of `audit11/`, `degree12/`, …, `degree22/`:
 ## Rerunning the computations
 
 The computations were run with Magma V2.30-1, SageMath 10.7 (with FLINT, NTL and M4RI), the `mdmagma` package of
-Derickx (<https://github.com/koffie/mdmagma>, revision `d1c019c`) with Sutherland's models of `X_1(N)`, and `g++`
+Derickx and Sutherland (<https://github.com/nt-lib/mdmagma>, revision `d1c019c`) with Sutherland's models of `X_1(N)`, and `g++`
 for the `C++` programs. They were run on the server Mordell from the root of the original workspace
 `/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a`, whose folder `work/` contains the folders
 `degreeNN` and `audit1x` of this repository, and the scripts refer to files as `work/degreeNN/...` (or
@@ -110,7 +110,8 @@ For `d = 22` the ledgers record the local computations at `p = 163` (`degree22/f
 and the odd-degree computation `degree22/anti173.m` at `p = 173`. The paper excludes 163 and 173 for `d = 22` directly
 with the second gonality bound of Prop. 2.6 a) (Prop. 4.15), so these computations are not needed for the proof.
 The changes made after the review of 3 November 2026 are listed in
-[`notes/review_response_2026-11-03.md`](notes/review_response_2026-11-03.md).
+[`notes/review_response_2026-11-03.md`](notes/review_response_2026-11-03.md), and the check of all the references of
+the paper against their sources in [`notes/reference_check_2026-11-03.md`](notes/reference_check_2026-11-03.md).
 
 The code is released under the MIT license (`LICENSE`), except for the files derived from the code of
 Derickx–Kamienny–Stein–Stoll, which are under the GPL (see the `DKSS_LICENSE` files).
