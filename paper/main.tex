@@ -6,15 +6,19 @@
 \usepackage{comment}
 \usepackage{float}
 \usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}
+\usepackage{aliascnt}
 \usepackage{cleveref}
 
 \newtheorem{theorem}{Theorem}[section]
-\newtheorem{lemma}[theorem]{Lemma}
-\newtheorem{proposition}[theorem]{Proposition}
-\newtheorem{corollary}[theorem]{Corollary}
+% Each environment has its own counter, an alias of the theorem counter, so that
+% cleveref names the references correctly also with recent LaTeX (TeX Live 2025).
+\newcommand{\sharedtheorem}[2]{\newaliascnt{#1}{theorem}\newtheorem{#1}[#1]{#2}\aliascntresetthe{#1}}
+\sharedtheorem{lemma}{Lemma}
+\sharedtheorem{proposition}{Proposition}
+\sharedtheorem{corollary}{Corollary}
 \theoremstyle{definition}
-\newtheorem{remark}[theorem]{Remark}
-\newtheorem{definition}[theorem]{Definition}
+\sharedtheorem{remark}{Remark}
+\sharedtheorem{definition}{Definition}
 \numberwithin{equation}{section}
 
 \newcommand{\Q}{\mathbb{Q}}
