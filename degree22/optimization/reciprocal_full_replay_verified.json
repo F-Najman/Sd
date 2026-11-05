@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "all_terms_identical": 175000,
+  "dimension": 87500,
+  "reference_sha256": "ec9d238213936baa0c0287e976791c6e1ed054c5fb08129ac784abd6318fa2b3",
+  "source_sha256": "52fe25368a449ec2ea3f22d9af621de2ab9c752a6a248f6560cb95ffd5b95078",
+  "binary_sha256": "4da3430075999f3a822e81ecd3c67f789317a239a18f9ac2fe1e56d896d9422a",
+  "new_cpu_seconds": 133.737,
+  "old_cpu_seconds": 192.923,
+  "method": "reciprocal=floor(2^64/q); quotient estimate differs from floor(z/q) by at most1 for every z<2^64; one final subtraction gives exact residue."
+}

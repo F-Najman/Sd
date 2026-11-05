@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "source_sha256": "f02c2852eef4ef7a70537e0ac3e964ed35e446b31077fb4f3387f940557799ab",
+  "binary_sha256": "cd3888d2b73f6c25095198d023d8b98aa3abc0d3c30d61fb1cfbaba7d48792b9",
+  "checks": [
+    {
+      "tag": "huge",
+      "all_terms_identical": 349866,
+      "reference": "optimization/huge_benchmark_sequence.m",
+      "reference_sha256": "83190f1eba2cedb9a4b7755ac35593d659ae4cb81a09d44811d8354548800d43",
+      "output_sha256": "83190f1eba2cedb9a4b7755ac35593d659ae4cb81a09d44811d8354548800d43",
+      "cpu_seconds": 806.942
+    },
+    {
+      "tag": "reference",
+      "all_terms_identical": 175000,
+      "reference": "optimization/packed_benchmark_sequence.m",
+      "reference_sha256": "ec9d238213936baa0c0287e976791c6e1ed054c5fb08129ac784abd6318fa2b3",
+      "output_sha256": "ec9d238213936baa0c0287e976791c6e1ed054c5fb08129ac784abd6318fa2b3",
+      "cpu_seconds": 191.483
+    }
+  ],
+  "fixture_sha256": "1fadd6f95c2379b1a3bfedcf4ea2e509787c2edd79dcde725a570b9affe8bd72",
+  "integer_arithmetic_tests": 7200000,
+  "arithmetic_test_source_sha256": "0dbf982c4675a05c51d735744e21451a2a5d7afd70d18c6294836c22fb13fa2f",
+  "arithmetic": "Exact unsigned integers only; eight-lane reciprocal reduction at base2^B, each value strictly below2^B, multiplier below2^32, one correction; exact prior128-bit fallbacks unchanged. No coordinate change."
+}

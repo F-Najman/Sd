@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "source_sha256": "edc1f8500076c45a031dd9be153e6cd2d1cc06cbdbb386fb314e01588cc3b837",
+  "binary_sha256": "8715f1db1e2ec1ec582b4ab271fa588ee3f4665bd4fc6cda537ee785ce606c47",
+  "tests": [
+    {
+      "q": 241,
+      "n": 80,
+      "terms": 156,
+      "all_terms_equal": true,
+      "original_uint64_bound_safe": true
+    },
+    {
+      "q": 4194319,
+      "n": 83,
+      "terms": 162,
+      "all_terms_equal": true,
+      "original_uint64_bound_safe": true
+    },
+    {
+      "q": 100000007,
+      "n": 137,
+      "terms": 270,
+      "all_terms_equal": true,
+      "original_uint64_bound_safe": true
+    },
+    {
+      "q": 4294967291,
+      "n": 81,
+      "terms": 158,
+      "all_terms_equal": true,
+      "original_uint64_bound_safe": false
+    }
+  ],
+  "bound": "Each partial sum contains at most floor((2^64-1)/(q-1)^2) products; reduced partial sums are added modulo q."
+}

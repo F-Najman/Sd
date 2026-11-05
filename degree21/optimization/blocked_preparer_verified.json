@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "input": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/optimization/graph101.txt",
+  "all_prepared_bytes_equal": true,
+  "source_sha256": "1cf81915b99f73f0a7b11b42d1e87ce38faafb4d6db50ba2da0c17efe054a8ea",
+  "binary_sha256": "5e839e4bd8160b6c3a338a49c32f328281f7cbbb1ea781990ed42dfb99179d0a",
+  "prepared_sha256": "3ee2f4272f8e4dd032fd9d353327461a9e54475d03b71a4ad53d75578b7c1569",
+  "note": "Only machine accumulation is blocked; graph, relation rank, kernel functional, and all winding coefficients are independently verified per instance, with native64 prefix."
+}

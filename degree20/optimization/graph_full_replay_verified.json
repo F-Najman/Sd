@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "p": 525253,
+  "order": 1014,
+  "q": 4202017,
+  "native_quotient_dimension": 43773,
+  "cuspidal_dimension": 43771,
+  "all_sequence_terms_checked": 87542,
+  "all_131314_raw_operator_rows_identical": true,
+  "all_graph_functional_relations_checked": true,
+  "native_64_terms_identical": true,
+  "graph_source_sha256": "afcc404bc8e27b59cf67263d3f8bd09e5a96296efa6d60bc5cd9566fb0bbe749",
+  "graph_preparer_source_sha256": "a2f6aae6d855fd923f7128954b4301e687078d8de53066884ea720a9bc5ee1ac",
+  "graph_preparer_binary_sha256": "937459a25cdb15a37ee33c77c9830e4641de21cc7ddf3cc482b078162ece6a42",
+  "graph_input_sha256": "32f7ece9a4c1334382130208e17a6de271a8197f2cb6364ea1844dde133ae0c2",
+  "prepared_reference_sha256": "84708419eb934cd5ea4abb15f5661d9f41617e964304c22e263d53da949e2eb0",
+  "native_sequence_sha256": "36121be3dcba072eeec21d0dbcf02ff27f4b0445af7dea98c41cfa747a030304",
+  "graph_sequence_sha256": "699dbb0da39c770b39131598e869ea776aa1f7cb60afa2d89e6526e2281ebf70"
+}

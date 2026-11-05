@@ -1,0 +1,16 @@
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/strange_primes_export.magma"
+S20_RAW_DIMENSIONS 101 5 25 9 [
+    [1 0]
+    [0 2],
+
+    [2 0]
+    [0 1],
+
+    [2 1]
+    [0 1],
+
+    [1 0]
+    [1 2]
+]
+S20_RAW_OPERATOR_PROJECTED 87 0.020
+S20_RAW_SPARSE_EXPORT_COMPLETE p=101 order=5 q=4194601 ambient=25 dimension=7 nnz=87 audited_all=true seconds=0.020

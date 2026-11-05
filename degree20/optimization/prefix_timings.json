@@ -1,0 +1,18 @@
+[
+  {
+    "threshold": 100,
+    "seconds": 14.0616
+  },
+  {
+    "threshold": 250,
+    "seconds": 11.3737
+  },
+  {
+    "threshold": 500,
+    "seconds": 10.402
+  },
+  {
+    "threshold": 750,
+    "seconds": 10.0218
+  }
+]

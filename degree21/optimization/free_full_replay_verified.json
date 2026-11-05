@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "p": 1050013,
+  "order": 175002,
+  "dimension": 87500,
+  "all_terms_identical": 175000,
+  "source_sha256": "560a64d20952d91c66bb3598d7846fd00144785791ab077f035eb9227ba2743a",
+  "binary_sha256": "8389ee6c4bd13feed01f353a81cdfa339a4c603c79134765aa7c065fe4efa541",
+  "plan_producer_sha256": "4cd9cb9dd31a340a01af1f5c8e08b37f339fc5dffc7fe7ff68262b97a7088158",
+  "plan_verifier_sha256": "a7c67be0024479468c589c9088c86421ae38aabdc306f10f56261422371ecbba",
+  "reference_sequence_sha256": "65f31bee068a7a9ef2944af237285816aa984c159e68db3ae29ce7c98e68540a",
+  "plan_independent_verification_sha256": "3a34809a7970b89ae6dd437d437497304cc9a5b1ad96ecb8cf2673021f7c5301",
+  "blocked_v2_all_terms_identical": 175000,
+  "free_cpu_seconds": 192.923,
+  "blocked_v2_cpu_seconds": 312.82,
+  "cpu_ratio": 1.6214759256283595,
+  "fixtures_sha256": "29f051f321f1a0eb189e71dd0751b3451d8303066a5a417f4f181ae74c437b45"
+}

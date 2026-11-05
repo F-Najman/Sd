@@ -33,7 +33,7 @@ Together with Mazur, Kamienny, Parent, Derickx–Kamienny–Stein–Stoll and Kh
 | `degree09/` | an independent proof of `S(9) = Primes(31)` (from the nonic classification project), used as a second check | Section 7 |
 | `stoll/` | comparison with the list of strange characters modulo all `p < 4·10^5` of M. Stoll (private communication; the list itself is not included) | Section 4.3 |
 | `proofs/` | the detailed account of the computations for each degree (`S10_proof_audited.txt`, …, `S22_proof.txt`), the result summaries, the independent audit of `d = 10, 11`, and the note on the correction at `p = 97` | |
-| `notes/` | the mathematical review of these proofs made while writing the paper, the CPU time and disk space of the computations, the changes made after the review of 3 November 2026, the check of all the references, and the comparison with Stoll's list | |
+| `notes/` | the mathematical review of these proofs made while writing the paper, the CPU time and disk space of the computations, the changes made after the review of 3 November 2026, the check of all the references, the comparison with Stoll's list, and the folders `optimization/` added on 5 November 2026 | |
 
 In each of `audit11/`, `degree12/`, …, `degree22/`:
 
@@ -47,6 +47,16 @@ In each of `audit11/`, `degree12/`, …, `degree22/`:
   (in `degree22` the final check is `verify_final.py`);
 * `proof_manifest.json(.gz)` lists the SHA256 hashes of all the proof inputs, including the large files that are not in this repository, and `REPLAY.txt` lists the commands that reproduce the computations.
 
+In `degree20/`, `degree21/` and `degree22/`, the folder `optimization/` contains the programs that the scripts
+`run_characters*.py` call for the characters of Lemma 4.12:
+* `export_graph_fast.m` exports the Manin symbol relations;
+* `prepare_graph.cpp` prepares them, and `prepare_free.py` makes the free plan (`degree21`, `degree22`);
+* `verify_graph.py`, `verify_free.py` and `check_graph_prefix.m` check these independently.
+
+It also contains the tests, the benchmarks and the records of their checks (`*_verified.json`). The compiled binaries are
+not included; the `g++` commands are in `degree21/REPLAY.txt` and `degree22/REPLAY.txt`. A few large benchmark files listed in `proof_manifest.json.gz` are
+only in the Dataverse deposit.
+
 ## Which script proves what
 
 | Statement | Files |
@@ -54,7 +64,7 @@ In each of `audit11/`, `degree12/`, …, `degree22/`:
 | Prop. 2.6 b), `gon_Q X_1(53) >= 20` | `degree16/gonality53_rat.py`, `degree16/gonality53_nonrat.py` |
 | Prop. 3.3 (examples) | see [`occurrences/README.md`](occurrences/README.md) |
 | Cor. 4.7 (intersection matrices, admissible primes) | `audit11/verify_large_odd_bound.py` (`d = 11`), `degree12/prepare_bound.py` (`d = 12`), `degreeNN/dyadic_jets.json` with `degreeNN/verify_dyadic.py` or `verify_auxiliary.py` (`d >= 13`), `degree22/verify_prime_coverage.py` |
-| Lemma 4.12, Prop. 4.13 (characters that are not strange, primes above `10^5`) | `audit11/large_order.m`, `degree12/large_order.m`, `degree12/krylov.cpp`, `degree18/large_order.m`, `degree22/verify_large_simd.py`, `degreeNN/large_selected_orders.json`, `degreeNN/independent_sequence_results.json` |
+| Lemma 4.12, Prop. 4.13 (characters that are not strange, primes above `10^5`) | `audit11/large_order.m`, `degree12/large_order.m`, `degree12/krylov.cpp`, `degree18/large_order.m`, `degree22/run_characters_simd.py` with `degree22/optimization/`, `degree22/verify_large_simd.py`, `degreeNN/large_selected_orders.json`, `degreeNN/independent_sequence_results.json` |
 | Section 4.3, comparison with Stoll's list of strange characters (`10^5 < p < 4·10^5`) | `stoll/check_stoll.py`, `stoll/check_stoll.log`, see [`notes/stoll_crosscheck_2026-11-05.md`](notes/stoll_crosscheck_2026-11-05.md) |
 | Lemma 4.14, Prop. 4.15 (primes below `10^5`) | `degreeNN/final_coverage.json(.gz)`, `degree22/verify_prime_coverage.py`; `degree19/odd_anti163_character_norms.m`, `degree20/anti167.m`, `degree21/anti181.m` (odd-degree isogenies) |
 | Lemma 4.16, Prop. 4.17 (`p = 127`, `d = 14, 16`) | `degree14/quotient127.m` |

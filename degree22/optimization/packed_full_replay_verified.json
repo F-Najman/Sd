@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "dimension": 87500,
+  "all_terms_identical": 175000,
+  "reference_sha256": "ec9d238213936baa0c0287e976791c6e1ed054c5fb08129ac784abd6318fa2b3",
+  "source_sha256": "f9bfacaab32115f59ded14e5bb10158b297a2dc462efa226c0d931e8ad8ed240",
+  "binary_sha256": "de3b9e73a46445e45c9cb40d663ebae82b0d4f42630f1c9a1805a5eb060d6e12",
+  "cpu_seconds": 126.911,
+  "old_free_cpu_seconds": 192.923,
+  "arithmetic": "Exact reciprocal reduction, same uint128 fallbacks; at most4-entry rows stored contiguously and unrolled, padded entries zero."
+}

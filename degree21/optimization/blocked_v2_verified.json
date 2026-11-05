@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "source_sha256": "70320c27acf993bc062c8478c7624577b81fafb317573e30809ff2aedec6db3d",
+  "binary_sha256": "452460e51e6b0b42f4a464008e5a96829c689e17c18911ec3c129a91c1adcf5e",
+  "all_reference_sequence_bytes_equal": [
+    "blocked_test100000007.txt",
+    "blocked_test241.txt",
+    "blocked_test4194319.txt",
+    "blocked_test4294967291.txt"
+  ],
+  "note": "Sparse action uses one uint64 sum per column only when the actual maximum column length proves it safe. Dot products retain proved bounded partial sums."
+}

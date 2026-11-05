@@ -1,0 +1,155 @@
+{
+  "status": "PASS",
+  "not_modular_symbols_proof_premises": true,
+  "tests": [
+    {
+      "kind": "balanced",
+      "q": 101,
+      "terms": 36,
+      "free_dimension": 20,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "balanced",
+      "q": 65537,
+      "terms": 36,
+      "free_dimension": 20,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "balanced",
+      "q": 6297589,
+      "terms": 36,
+      "free_dimension": 20,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "balanced",
+      "q": 16777213,
+      "terms": 36,
+      "free_dimension": 20,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "balanced",
+      "q": 536870909,
+      "terms": 36,
+      "free_dimension": 20,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "balanced",
+      "q": 1073741789,
+      "terms": 36,
+      "free_dimension": 20,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "balanced",
+      "q": 4294967291,
+      "terms": 36,
+      "free_dimension": 20,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "unbalanced",
+      "q": 101,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "unbalanced",
+      "q": 65537,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "unbalanced",
+      "q": 6297589,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "unbalanced",
+      "q": 16777213,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "unbalanced",
+      "q": 536870909,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "unbalanced",
+      "q": 1073741789,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "unbalanced",
+      "q": 4294967291,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "anchored",
+      "q": 101,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "anchored",
+      "q": 65537,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "anchored",
+      "q": 6297589,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "anchored",
+      "q": 16777213,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "anchored",
+      "q": 536870909,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "anchored",
+      "q": 1073741789,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    },
+    {
+      "kind": "anchored",
+      "q": 4294967291,
+      "terms": 16,
+      "free_dimension": 10,
+      "all_terms_equal_to_naive_full_operator": true
+    }
+  ],
+  "source_sha256": "f02c2852eef4ef7a70537e0ac3e964ed35e446b31077fb4f3387f940557799ab",
+  "binary_sha256": "cd3888d2b73f6c25095198d023d8b98aa3abc0d3c30d61fb1cfbaba7d48792b9"
+}

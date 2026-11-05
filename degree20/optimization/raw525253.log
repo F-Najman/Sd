@@ -1,0 +1,16 @@
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/strange_primes_export.magma"
+S20_RAW_DIMENSIONS 525253 1014 131314 43773 [
+    [1 0]
+    [0 2],
+
+    [2 0]
+    [0 1],
+
+    [2 1]
+    [0 1],
+
+    [1 0]
+    [1 2]
+]
+S20_RAW_OPERATOR_PROJECTED 525248 118.940
+S20_RAW_SPARSE_EXPORT_COMPLETE p=525253 order=1014 q=4202017 ambient=131314 dimension=43771 nnz=525248 audited_all=true seconds=130.400

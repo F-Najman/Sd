@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "p": 525253,
+  "order": 1014,
+  "q": 4202017,
+  "dimension": 43771,
+  "raw_ambient_dimension": 131314,
+  "raw_nnz": 525248,
+  "quotient_nnz": 14620440,
+  "all_sequence_terms_checked": 87542,
+  "raw_export_source_sha256": "d27c51dc5f8a9b09d175990e046310ff3d3167ab5270bf99db0b24e9f7a033ff",
+  "raw_input_sha256": "84708419eb934cd5ea4abb15f5661d9f41617e964304c22e263d53da949e2eb0",
+  "raw_sequence_sha256": "699dbb0da39c770b39131598e869ea776aa1f7cb60afa2d89e6526e2281ebf70",
+  "quotient_sequence_sha256": "36121be3dcba072eeec21d0dbcf02ff27f4b0445af7dea98c41cfa747a030304",
+  "every_raw_row_projection_checked": true,
+  "all_quotient_basis_section_rows_checked": true,
+  "native_prefix_checked": 128,
+  "principle": "pi R=T pi on classes: raw Heilbronn action followed only by signed two-term relations; native three-term quotient retained only for pi and its scalar functional."
+}

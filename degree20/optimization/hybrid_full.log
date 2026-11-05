@@ -1,0 +1,2 @@
+S20_HYBRID_MATRIX original_nnz=14620440 dense_rows=220 dense_words=9630060 sparse_nnz=5212742 threshold_per_mille=500
+S20_CPP_KRYLOV_COMPLETE q=4202017 ambient_dimension=43773 dimension=43771 nnz=14620440 native_prefix_checked=64 steps=87542 implementation=hybrid_dense_rows_v1 compute_seconds=498.672 total_seconds=499.916

@@ -1,0 +1,5 @@
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/strange_primes_export.magma"
+S20_GRAPH_TWO_TERM 101 5 25 0.000
+S20_GRAPH_RELATION_STRUCTURE 16 2 1 {* 0, 1^^2, 2^^22 *}
+0.000
+S20_MANIN_GRAPH_EXPORT_COMPLETE p=101 order=5 q=4194601 generators=25 relations=16 nnz=87 max_column_degree=2 seconds=0.000

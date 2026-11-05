@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "p": 53,
+  "order": 13,
+  "q": 6297589,
+  "generators": 60,
+  "relation_rank": 40,
+  "full_dimension": 20,
+  "cuspidal_dimension": 18,
+  "all_functional_relations_verified": true,
+  "rank_lower_and_upper_certificates_verified": true,
+  "winding_vector_verified": true,
+  "all_prepared_operator_rows_identical": true,
+  "graph_sha256": "878c8355449975507c4c4fec7e63ffa7f7e59f66a26bcbc90168ca0584485481",
+  "prepared_sha256": "ad0f36b302b634d839492290df187016189b49dc5a6b38d8628aecfa6ef16b71",
+  "rank_certificate_sha256": "8cf7d98e040c50b3e5f3b8be513394e738ef67875ea0daeb0c6c19ca8be91a61",
+  "verifier_sha256": "2903ffac4efebeb651c43031b6a51b98bdb881b42b69b18360b43a5f752a5025"
+}

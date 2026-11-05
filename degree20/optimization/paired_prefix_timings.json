@@ -1,0 +1,14 @@
+[
+  {
+    "name": "legacy",
+    "wall_seconds": 11.007801784202456
+  },
+  {
+    "name": "hybrid750",
+    "wall_seconds": 10.06881901808083
+  },
+  {
+    "name": "hybrid500",
+    "wall_seconds": 6.780452711042017
+  }
+]

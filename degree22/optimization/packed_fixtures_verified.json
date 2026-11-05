@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "not_modular_symbols_proof_premises": true,
+  "tests": [
+    {
+      "kind": "balanced",
+      "q": 101,
+      "terms": 4,
+      "all_terms_equal_to_naive_full_operator": true,
+      "uint128_row_fallback_exercised": false,
+      "uint128_winding_fallback_exercised": false
+    },
+    {
+      "kind": "unbalanced",
+      "q": 4294967291,
+      "terms": 2,
+      "all_terms_equal_to_naive_full_operator": true,
+      "uint128_row_fallback_exercised": true,
+      "uint128_winding_fallback_exercised": true
+    },
+    {
+      "kind": "anchored",
+      "q": 4294967291,
+      "terms": 2,
+      "all_terms_equal_to_naive_full_operator": true,
+      "uint128_row_fallback_exercised": true,
+      "uint128_winding_fallback_exercised": true
+    },
+    {
+      "kind": "packed_bigq",
+      "q": 4294967291,
+      "terms": 4,
+      "all_terms_equal_to_naive_full_operator": true,
+      "uint128_row_fallback_exercised": true,
+      "uint128_winding_fallback_exercised": true
+    }
+  ]
+}

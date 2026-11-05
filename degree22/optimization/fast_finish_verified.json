@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "source_sha256": "b5afdafbb51e84825e5e5c273358e272d09105267bec8c52ce7fff7e03110597",
+  "binary_sha256": "5dffd91817449053be22911cc2454881662581e49cd51c573db03ac7776d4f8c",
+  "reference_sequence": "p1050013_n175002_sequence.m",
+  "dimension": 87500,
+  "all_sequence_terms_and_recurrence_identical_to_native_Magma": true,
+  "numerator_and_denominator_identical_to_independent_Sage_Euclid": true
+}

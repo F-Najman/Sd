@@ -1,0 +1,5 @@
+Loading "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/strange_primes_export.magma"
+S20_GRAPH_TWO_TERM 525253 1014 131314 26.120
+S20_GRAPH_RELATION_STRUCTURE 87541 2 1 {* 0, 1^^3, 2^^131310 *}
+38.010
+S20_MANIN_GRAPH_EXPORT_COMPLETE p=525253 order=1014 q=4202017 generators=131314 relations=87541 nnz=525248 max_column_degree=2 seconds=47.850

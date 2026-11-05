@@ -1,0 +1,7 @@
+{
+  "p": 525253,
+  "order": 1014,
+  "sparse_source": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525253_n1014_sparse.txt",
+  "benchmark_input": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/optimization/benchmark_sparse.txt",
+  "reference_sequence": "/home/fnajman/Documents/Codex/2026-10-28/on-this-computer-there-are-a/work/degree20/large_orders/p525253_n1014_sequence.m"
+}
