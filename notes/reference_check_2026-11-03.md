@@ -98,16 +98,23 @@ Bibliographic:
   - Derickx-van Hoeij, Table 1 and Section 2;
   - DEHMZ, DN, N5, N69, Merel.
 
+Addendum of 5 November 2026: **Parent, Crelle 506 (1999)** (`parentformal`) was checked in the published text
+(the PDF supplied by the author). All three citations (04_global) are correct:
+- Proposition 1.9 (p. 88, proved in Section 5) is the independence of `T_i{0,oo}`, `1 <= i <= sd`, for
+  `p^n >= C_p^2 (s_p d)^6`, where `C_p^2 = 65` for `p != 2` and `C_2^2 = 129` (p. 109). This gives the
+  `65(4d)^6` of the remark after Corollary 4.7.
+- Theorem 4.18 (p. 108) is Kamienny's criterion, with Oesterlé's condition (3).
+- Section 4.12 (pp. 105-108), "Preuve de la proposition 'critère de Kamienny'", contains Lemme 4.16
+  (Kamienny): `f_d^*(omega) = a_1 dsigma_1 - a_2 dsigma_2 + ... + (-1)^{d-1} a_d dsigma_d`, and Corollaire 4.17.
+  The citation of the cotangent map was sharpened from [Section 4.12] to [Lemma 4.16].
+
+The published Lemme 4.14 is the specialization lemma (`v(l) < l - 1`), which matches the citation "lemme 4.14 de
+[22]" in Parent 2000.
+
 ## UNVERIFIED
 
 These could not be checked in the published text, because of paywalls or bot checks, which were not bypassed:
 
-- **Parent, Crelle 506 (1999)** (`parentformal`): Proposition 1.9, Section 4.12 and Theorem 4.18 (04_global).
-  - In the arXiv preprint alg-geom/9611022v1 they are Proposition 1.7, Section 4.12 and Théorème 4.17, with the
-    right content.
-  - The published numbers agree with DKSS ("[Par99, Thm. 4.18]", "[Par99, Thm. 1.8 and Prop. 1.9]") and with Parent
-    2000.
-  - Quickest check: the published Section 1 and Section 4 in HAL hal-00325661 or Crelle.
 - **Abramovich, IMRN 1996**: Theorem 0.1 and Section 0.2 are the numbers of arXiv alg-geom/9609012v1.
 - **Numbering in the published versions**: Booker-Lee-Strömbergsson Theorem 1.1, AKMNOV Tables 14 and 16, Box
   Section 4.7, and Derickx-van Hoeij Table 1 and Section 2. All arXiv versions agree, and for AKMNOV so does the

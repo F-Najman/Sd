@@ -1,0 +1,15 @@
+table: strange_characters_400000.txt
+sha256: c54e845758168e690a6e6357a40332b95d1f93ee9fa2c7ae5e33baacec06c798
+rows: 117  strange primes: 116
+below 10^5: equal to Derickx-Stoll Table 2 (74 strange primes, orders and dimensions)
+primes in (10^5, 4*10^5): 24268; min (p-1)/(2 str(p)) = 4787 (p = 114889, str(p) = 12)
+hence none of them is in S(d) for d <= 22 (Derickx-Stoll, Corollary 7.5)
+d = 11:   21 of   21 primes below 4*10^5,    73 of    73 character orders, no clash
+d = 12:   82 of   92 primes below 4*10^5,   591 of   656 character orders, no clash
+d = 18:   81 of   81 primes below 4*10^5,   615 of   615 character orders, no clash
+d = 19:  195 of  196 primes below 4*10^5,  1139 of  1147 character orders, no clash
+d = 20:  289 of  444 primes below 4*10^5,  1924 of  3020 character orders, no clash
+d = 21:  480 of  850 primes below 4*10^5,  2881 of  5289 character orders, no clash
+d = 22:  676 of 1488 primes below 4*10^5,  4261 of 10065 character orders, no clash
+distinct pairs (p, n) compared: 5450, at 762 primes; none is strange
+PASS

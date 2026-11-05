@@ -31,8 +31,9 @@ Together with Mazur, Kamienny, Parent, Derickx–Kamienny–Stein–Stoll and Kh
 | `audit10/`, `audit11/` | all computations for `d <= 11` (census through degree 11, formal immersion, Hecke obstructions, gonality of `X_1(43)` over `F_2`, the `p = 37` exceptions, large primes for `d = 11`); `audit10` checks the transfer to `d = 10` | Sections 4–6 |
 | `degree12/`, …, `degree22/` | the computations for each larger degree; each one reuses the certificates of the smaller degrees after matching the closed points | Sections 4–6 |
 | `degree09/` | an independent proof of `S(9) = Primes(31)` (from the nonic classification project), used as a second check | Section 7 |
+| `stoll/` | comparison with the list of strange characters modulo all `p < 4·10^5` of M. Stoll (private communication; the list itself is not included) | Section 4.3 |
 | `proofs/` | the detailed account of the computations for each degree (`S10_proof_audited.txt`, …, `S22_proof.txt`), the result summaries, the independent audit of `d = 10, 11`, and the note on the correction at `p = 97` | |
-| `notes/` | the mathematical review of these proofs made while writing the paper, the CPU time and disk space of the computations, the changes made after the review of 3 November 2026, and the check of all the references | |
+| `notes/` | the mathematical review of these proofs made while writing the paper, the CPU time and disk space of the computations, the changes made after the review of 3 November 2026, the check of all the references, and the comparison with Stoll's list | |
 
 In each of `audit11/`, `degree12/`, …, `degree22/`:
 
@@ -54,6 +55,7 @@ In each of `audit11/`, `degree12/`, …, `degree22/`:
 | Prop. 3.3 (examples) | see [`occurrences/README.md`](occurrences/README.md) |
 | Cor. 4.7 (intersection matrices, admissible primes) | `audit11/verify_large_odd_bound.py` (`d = 11`), `degree12/prepare_bound.py` (`d = 12`), `degreeNN/dyadic_jets.json` with `degreeNN/verify_dyadic.py` or `verify_auxiliary.py` (`d >= 13`), `degree22/verify_prime_coverage.py` |
 | Lemma 4.12, Prop. 4.13 (characters that are not strange, primes above `10^5`) | `audit11/large_order.m`, `degree12/large_order.m`, `degree12/krylov.cpp`, `degree18/large_order.m`, `degree22/verify_large_simd.py`, `degreeNN/large_selected_orders.json`, `degreeNN/independent_sequence_results.json` |
+| Section 4.3, comparison with Stoll's list of strange characters (`10^5 < p < 4·10^5`) | `stoll/check_stoll.py`, `stoll/check_stoll.log`, see [`notes/stoll_crosscheck_2026-11-05.md`](notes/stoll_crosscheck_2026-11-05.md) |
 | Lemma 4.14, Prop. 4.15 (primes below `10^5`) | `degreeNN/final_coverage.json(.gz)`, `degree22/verify_prime_coverage.py`; `degree19/odd_anti163_character_norms.m`, `degree20/anti167.m`, `degree21/anti181.m` (odd-degree isogenies) |
 | Lemma 4.16, Prop. 4.17 (`p = 127`, `d = 14, 16`) | `degree14/quotient127.m` |
 | Prop. 4.18 (`p = 193`, `d = 16`) | `degree16/census193.m`, `degree16/quotient193.m` |
