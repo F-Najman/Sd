@@ -26,7 +26,7 @@ Together with Mazur, Kamienny, Parent, Derickx–Kamienny–Stein–Stoll and Kh
 |---|---|---|
 | `paper/` | LaTeX source (`main.tex`, `sections/`, `refs.bib`) and the compiled `main.pdf` | |
 | `occurrences/` | index of the explicit points of order `p` over fields of degree `d` | Prop. 3.3, Table 1 |
-| `dyadic/` | the general version of the mod-2 Oesterlé bound (note, not used in the paper) | Remark 4.6 |
+| `dyadic/` | an earlier write-up of the general mod-2 version of Oesterlé's bound, now proved in the paper | Cor. 4.6 |
 | `large_primes.md` | the admissible primes above `10^5` for each `d` | Cor. 4.7, Prop. 4.13 |
 | `audit10/`, `audit11/` | all computations for `d <= 11` (census through degree 11, formal immersion, Hecke obstructions, gonality of `X_1(43)` over `F_2`, the `p = 37` exceptions, large primes for `d = 11`); `audit10` checks the transfer to `d = 10` | Sections 4–6 |
 | `degree12/`, …, `degree22/` | the computations for each larger degree; each one reuses the certificates of the smaller degrees after matching the closed points | Sections 4–6 |

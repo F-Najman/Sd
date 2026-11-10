@@ -60,9 +60,25 @@ Suppose first that $\ell$ is odd. Then $f_d(D_0)=0$ by \Cref{lem:torsion} a), an
 Suppose now that $\ell=2$, so $m=2d$. Then $2f_d(D_0)=f_m(2D_0)=0$ by \Cref{lem:torsion} a). As $\overline{D_0}=d\infty$, the polynomial $E_{D_0}(t)=\prod_j(1-q_jt)$, where the $q_j$ are the values of $q$ at the points of $D_0$, has coefficients in $\Z_2$ and is congruent to $1$ modulo $2$. Hence $E_{2D_0}(t)=E_{D_0}(t)^2\equiv1\pmod 4$, i.e.\ all the coordinates $s_i(2D_0)$ are in $4\Z_2$, and as $D_0\neq d\infty$, not all of them are $0$. Let $k\geq2$ be the minimum of their valuations, attained at $s_i$, and let $g_i$ be as in \Cref{lem:dyadic}. Then $2s_i(2D_0)$ has valuation $k+1$, while $Q_i(s(2D_0))$ has valuation at least $2k>k+1$. Hence $g_i(f_m(2D_0))\neq0$, which contradicts $f_m(2D_0)=0$.
 \end{proof}
 
-\begin{remark}
-In particular, if $p>(2^{d/2}+1)^2$ and $T_1e,\dots,T_{2d}e$ are linearly independent in $\T e/2\T e$, then $p\notin S(d)$, which is the analogue of Oesterl\'e's bound with $3$ replaced by $2$. Using Parent's estimate \cite[Proposition 1.9]{parentformal} instead of \Cref{lem:intersection}, the same argument should give $p\leq\max\{(2^{d/2}+1)^2,65(4d)^6\}$ for all $p\in S(d)$ (see the note \githubbare{dyadic/asymptotic_prime_bound.pdf}), but we do not need this.
-\end{remark}
+Together with an estimate of Parent, \Cref{prop:dyadic} for $\ell=2$ gives the analogue of Oesterl\'e's bound with $3$ replaced by $2$ for all $d$. The same estimate is used for $\ell=3$ in \cite[Proposition 6.2]{DKSS}.
+
+\begin{corollary}\label{cor:asymptotic}
+Let $d\geq2$ and $p\in S(d)$. Then $p\leq\max\{(2^{d/2}+1)^2,65(4d)^6\}$. In particular, if $d\geq53$, then $p\leq(2^{d/2}+1)^2$.
+\end{corollary}
+
+\begin{proof}
+Suppose the opposite, that $p>(2^{d/2}+1)^2$ and $p\geq65(4d)^6$. Put $\gamma=\{0,\infty\}\in H_1(X_0(p),\mathrm{cusps},\Z)$. As $2d>2$, by \cite[Proposition 1.9]{parentformal} (with $2d$ in place of $d$, $C_p^2=65$ and $s_p=2$) the elements $T_1\gamma,\dots,T_{4d}\gamma$ are linearly independent in $H_1(X_0(p),\mathrm{cusps},\Z)\otimes\F_2$.
+
+We now show that $T_1e,\dots,T_{2d}e$ are linearly independent in $\T e/2\T e$. The Hecke operator $T_2$ multiplies the cusps $0$ and $\infty$ by $3$, so $(T_2-3)\gamma\in H_1(X_0(p),\Z)$. As $e$ is the image of $\pm\gamma$ under the Hecke equivariant projection $H_1(X_0(p),\mathrm{cusps},\Q)\to H_1(X_0(p),\Q)$ of Manin and Drinfeld, which is the identity on $H_1(X_0(p),\Q)$, it follows that $(T_2-3)e=\pm(T_2-3)\gamma$ (see \cite[Definition 2.1]{DKSS} and the paragraph before \cite[Corollary 6.4]{DKSS}). Suppose that $\sum_{n=1}^k\lambda_nT_ne\in2\T e$ with $\lambda_n\in\{0,1\}$, $k\leq2d$ and $\lambda_k=1$. Multiplying by $T_2-3$ gives $\sum_{n=1}^k\lambda_n(T_2-3)T_ne\in2(T_2-3)\T e\subseteq2H_1(X_0(p),\Z)$. Since $(T_2-3)T_n=T_{2n}+2T_{n/2}-3T_n$, where $T_{n/2}=0$ for odd $n$, we have $(T_2-3)T_ne=\pm(T_{2n}+2T_{n/2}-3T_n)\gamma$, so
+$$\sum_{n=1}^k\lambda_n\bigl(T_{2n}+2T_{n/2}-3T_n\bigr)\gamma\in2H_1(X_0(p),\mathrm{cusps},\Z).$$
+Reducing modulo $2$, we obtain a linear relation between $T_1\gamma,\dots,T_{2k}\gamma$ in $H_1(X_0(p),\mathrm{cusps},\Z)\otimes\F_2$ in which the coefficient of $T_{2k}\gamma$ is $\lambda_k=1$. As $2k\leq4d$, this contradicts the first paragraph.
+
+Hence, by \Cref{prop:dyadic} with $\ell=2$, the prime $p$ is $2$-admissible for $d$. If $p$ divides $\#E(\F_{2^f})$ for an elliptic curve $E$ over $\F_{2^f}$ with $f\leq d$, then $p\leq(2^{f/2}+1)^2\leq(2^{d/2}+1)^2$ by the Hasse bound, and if $p$ divides $2^f-1$ or $2^f+1$ with $f<d$, then $p\leq2^f+1<(2^{d/2}+1)^2$. In both cases we obtain a contradiction.
+
+Finally, $65\cdot212^6<2^{53}$, and $(4d)^6/2^d$ is decreasing for $d\geq9$, as $(1+1/d)^6<2$. Hence $65(4d)^6<2^d<(2^{d/2}+1)^2$ for $d\geq53$.
+\end{proof}
+
+As $65\cdot120^6<3^{30}$, and $(4d)^6/3^d$ is decreasing for $d\geq 6$, the bound of \Cref{cor:asymptotic} is smaller than Oesterl\'e's bound $(3^{d/2}+1)^2$ for all $d\geq30$. For $d\leq22$, however, $65(4d)^6$ is much larger than both, so for these $d$ we use \Cref{lem:intersection} instead of Parent's estimate.
 
 For $d\in\{9,10\}$ Oesterl\'e's bound $p\leq(3^{d/2}+1)^2$ \cite[Theorem 6.1]{DKSS} is smaller than $10^5$, and for the larger $d$ we use \Cref{prop:dyadic}.
 
