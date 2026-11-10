@@ -2,7 +2,7 @@
 
 Code, ledgers and certificates for the paper
 
-> F. Najman, *Points of prime order on elliptic curves over number fields of degree 9 to 22* (2026),
+> M. Derickx, F. Najman and M. Stoll, *Points of prime order on elliptic curves over number fields of degree 9 to 22* (2026),
 
 whose LaTeX source is in [`paper/`](paper/). Let `S(d)` be the set of primes `p` such that some elliptic
 curve over some number field of degree `d` has a point of order `p`, and `Primes(x)` the set of primes `p <= x`.
